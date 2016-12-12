@@ -6,5 +6,9 @@
   "nyaa": {
     "title": "nyaa",
     "urlTemplate": "https://www.nyaa.se/?page=search&term={{keyword}}"
+  },
+  "mikan": {
+    "title": "蜜柑计划",
+    "urlTemplate": "http://mikanani.me/Home/Bangumi/{{id}}"
   }
 }
