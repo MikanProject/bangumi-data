@@ -17,16 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bangumi-data/bangumi-data.git"
+    "url": "https://github.com/MikanProject/bangumi-data.git"
   },
   "bugs": {
-    "url": "https://github.com/bangumi-data/bangumi-data/issues"
+    "url": "https://github.com/MikanProject/bangumi-data/issues"
   },
   "keywords": [
     "bangumi",
     "anime"
   ],
-  "author": "Botao <wxt2005@gmail.com>",
+  "author": "Botao <wxt2005@gmail.com>, MikanProject <admin@mikanani.me>",
   "license": "CC-BY-4.0",
   "devDependencies": {
     "eslint": "3.4.0",
