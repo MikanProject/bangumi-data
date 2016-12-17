@@ -14,6 +14,8 @@ module.exports = Joi.object().keys({
     officialSite: Joi.string().uri().required().allow(''),
     begin: Joi.string().isoDate().required().allow(''),
     end: Joi.string().isoDate().required().allow(''),
+    releaseDate: Joi.string().isoDate().allow(''),
+    bdReleaseDate: Joi.string().isoDate().allow(''),
     comment: Joi.string().required().trim().allow(''),
     sites: Joi.array().items(Joi.object().keys({
         site: Joi.string().trim().required(),
