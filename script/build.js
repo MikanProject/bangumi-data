@@ -19,9 +19,11 @@ readJsonPaths(ITEMS_DIRECTORY)
     .then((itemPaths) => {
         // 根据年份和月份排序json文件
         itemPaths.sort((prev, next) => {
-            const REGEXP = /(\d{4})(?:\/|\\)(\d{2})/;
-            const [prevYear, prevMonth] = prev.match(REGEXP).slice(1);
-            const [nextYear, nextMonth] = next.match(REGEXP).slice(1);
+            const REGEXP = /(\d{4})(?:\/|\\)(\d{2}|movie|ova)/;
+            const prevMatch = prev.match(REGEXP);
+            const nextMatch = next.match(REGEXP);
+            const [prevYear, prevMonth] = prevMatch.slice(1);
+            const [nextYear, nextMonth] = nextMatch.slice(1);
 
             if (+prevYear === +nextYear) {
                 return +prevMonth - +nextMonth;
@@ -32,7 +34,9 @@ readJsonPaths(ITEMS_DIRECTORY)
 
         // 同步读取所有json文件
         itemPaths.forEach((itemPath) => {
-            const idPrefix = itemPath.match(/\d{4}(?:\/|\\)\d{2}/)[0].replace(/\/|\\/g, '_');
+            let animeType = itemPath.match(/\d{4}(?:\/|\\)(\d{2}|movie|ova)/)[1];
+            const idPrefix = itemPath.match(/\d{4}(?:\/|\\)(\d{2}|movie|ova)/)[0]
+                .replace(/\/|\\/g, '_');
             let dataArray = fs.readJsonSync(itemPath);
 
             dataArray = dataArray.map((itemData, index) => {
@@ -44,7 +48,19 @@ readJsonPaths(ITEMS_DIRECTORY)
                     throw result.error;
                 }
 
-                return Object.assign({ id }, itemData);
+                switch (animeType) {
+                    case 'movie':
+                        animeType = '剧场版';
+                        break;
+                    case 'ova':
+                        animeType = 'OVA';
+                        break;
+                    default:
+                        animeType = 'TV';
+                        break;
+                }
+
+                return Object.assign({ id, animeType }, itemData);
             });
 
             itemsData = itemsData.concat(dataArray);
