@@ -8,7 +8,7 @@
 
 增加了releaseDate/bdReleaseDate，代表剧场版和OVA的上映时间/BD发售时间
 
-为保持向后兼容性，剧场版和OVA仍然有begin和end，默认begin等于bdReleaseDate，end等于bdReleaseDate加三个月
+为保持向后兼容性，剧场版和OVA仍然有begin和end，默认begin等于bdReleaseDate，end等于bdReleaseDate加一个月
 
 在生成时会自动生成animeType，标识这个番组是TV、OVA或剧场版
 
