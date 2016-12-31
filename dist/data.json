@@ -44679,6 +44679,29 @@
     {
       "id": "2017_movie_7",
       "animeType": "TV",
+      "title": "きんいろモザイク Pretty Days",
+      "titleTranslate": {
+        "zh-Hans": [
+          "黄金拼图 Pretty Days"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.kinmosa.com/",
+      "begin": "2017-03-03T00:00:00",
+      "end": "2017-06-01T00:00:00",
+      "releaseDate": "2016-11-12T00:00:00",
+      "bdReleaseDate": "2017-03-03T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "175532"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_8",
+      "animeType": "TV",
       "title": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
       "titleTranslate": {
         "zh-Hans": [
@@ -44696,6 +44719,29 @@
         {
           "site": "bangumi",
           "id": "106329"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_9",
+      "animeType": "TV",
+      "title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+      "titleTranslate": {
+        "zh-Hans": [
+          "鲁邦三世 血烟的石川五右卫门"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://goemon-ishikawa.com/",
+      "begin": "2017-05-26T00:00:00",
+      "end": "2017-08-24T00:00:00",
+      "releaseDate": "2017-02-04T00:00:00",
+      "bdReleaseDate": "2017-05-26T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "192442"
         }
       ]
     },
