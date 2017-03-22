@@ -59,7 +59,9 @@
     "title": "GANGSTA.",
     "titleTranslate": {
       "zh-Hans": [
-        "GANGSTA"
+        "GANGSTA",
+        "GANGSTA 匪徒",
+        "黑街GANGSTA"
       ],
       "en": [
         "GANGSTA"
@@ -71,6 +73,26 @@
     "end": "2015-09-23T18:15:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhas5xl",
+        "begin": "2016-07-14T10:16:33.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10010424",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "2601",
@@ -127,6 +149,16 @@
     "end": "2015-09-17T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "mgtv",
+        "id": "157292",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tudou",
         "id": "bONAn7JK874",
@@ -211,7 +243,8 @@
     "title": "ケイオスドラゴン 赤竜戦役",
     "titleTranslate": {
       "zh-Hans": [
-        "混沌之龙 赤龙战役"
+        "混沌之龙 赤龙战役",
+        "Chaos Dragon 赤龙战役"
       ],
       "en": [
         "Chaos Dragon: Sekiryuu Seneki"
@@ -327,7 +360,7 @@
     "title": "アクエリオンロゴス",
     "titleTranslate": {
       "zh-Hans": [
-        "创圣的大天使 LOGOS"
+        "创圣的大天使LOGOS"
       ],
       "en": [
         "Aquarion Logos",
@@ -544,7 +577,8 @@
     "title": "GATE 自衛隊 彼の地にて、斯く戦えり",
     "titleTranslate": {
       "zh-Hans": [
-        "GATE 奇幻自卫队"
+        "GATE 奇幻自卫队",
+        "GATE奇幻异世界"
       ],
       "en": [
         "GATE"
@@ -556,6 +590,16 @@
     "end": "2015-09-18T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10010438",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "youku",
         "id": "20ee3d961af811e5b5ce",
@@ -835,7 +879,8 @@
     "title": "わかば＊ガール",
     "titleTranslate": {
       "zh-Hans": [
-        "若叶少女"
+        "若叶少女",
+        "若叶女孩"
       ],
       "en": [
         "Wakaba Girl",
@@ -902,7 +947,7 @@
     "title": "ミス・モノクローム -The Animation- 2",
     "titleTranslate": {
       "zh-Hans": [
-        "黑白小姐 第2期"
+        "黑白小姐 第二季"
       ],
       "en": [
         "Miss Monochrome -The Animation- 2"
@@ -964,7 +1009,7 @@
     "title": "戦姫絶唱シンフォギアGX",
     "titleTranslate": {
       "zh-Hans": [
-        "战姬绝唱 SYMPHOGEAR GX"
+        "战姬绝唱SYMPHOGEAR GX"
       ],
       "en": [
         "Senki Zesshou Symphogear GX",
@@ -1051,7 +1096,7 @@
     "title": "WORKING!!!",
     "titleTranslate": {
       "zh-Hans": [
-        "迷糊餐厅 第3期"
+        "迷糊餐厅 第三季"
       ],
       "en": [
         "Working!!!"
@@ -1213,7 +1258,8 @@
     "title": "下ネタという概念が存在しない退屈な世界",
     "titleTranslate": {
       "zh-Hans": [
-        "下流梗不存在的灰暗世界"
+        "下流梗不存在的灰暗世界",
+        "没有黄段子存在的无聊世界"
       ],
       "en": [
         "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai"
@@ -1259,6 +1305,7 @@
     "title": "Charlotte",
     "titleTranslate": {
       "zh-Hans": [
+        "夏洛特",
         "Charlotte"
       ],
       "en": [
@@ -1271,6 +1318,16 @@
     "end": "2015-09-26T15:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "mgtv",
+        "id": "166311",
+        "begin": "2015-07-04",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tudou",
         "id": "tO8jG72LwdY",
@@ -1441,7 +1498,7 @@
     "title": "ガッチャマン クラウズ インサイト",
     "titleTranslate": {
       "zh-Hans": [
-        "科学小飞侠 Crowds insight"
+        "科学小飞侠Crowds insight"
       ],
       "en": [
         "Gatchaman Crowds insight"
@@ -1625,6 +1682,16 @@
     "end": "2015-09-19T18:28:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "qq",
+        "id": "e/ekcyxmd6r13mh6o",
+        "begin": "2015-07-04T19:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tudou",
         "id": "8nSAQ0J0quI",
@@ -1857,10 +1924,10 @@
     "title": "ドラゴンボール超",
     "titleTranslate": {
       "zh-Hans": [
-        "龙珠超"
+        "龙珠 超"
       ],
       "en": [
-        "DragonBall Super"
+        "DRAGON BALL SUPER"
       ]
     },
     "lang": "ja",
@@ -1955,7 +2022,7 @@
     "title": "To LOVEる -とらぶる- ダークネス 2nd",
     "titleTranslate": {
       "zh-Hans": [
-        "出包王女 Darkness 2nd"
+        "出包王女Darkness 2nd"
       ],
       "en": [
         "To Love-ru Darkness 2nd"
@@ -2098,7 +2165,7 @@
     "title": "キュートランスフォーマー さらなる人気者への道",
     "titleTranslate": {
       "zh-Hans": [
-        "Q版变形金刚 归来的擎天柱之谜 第2期"
+        "Q版变形金刚 更高人气者之路"
       ],
       "en": [
         "Q Transformers: Kaette Kita Convoy no Nazo transformer"
@@ -2262,7 +2329,7 @@
     "title": "それが声優！",
     "titleTranslate": {
       "zh-Hans": [
-        "那就是声优"
+        "那就是声优！"
       ],
       "en": [
         "Sore ga Seiyuu"
@@ -2458,7 +2525,8 @@
     "title": "モンスター娘のいる日常",
     "titleTranslate": {
       "zh-Hans": [
-        "魔物娘相伴的日常"
+        "魔物娘相伴的日常",
+        "魔物娘的同居日常"
       ],
       "en": [
         "Monster Musume no Iru Nichijou",
@@ -2571,7 +2639,7 @@
     "title": "怪獣酒場 カンパーイ！",
     "titleTranslate": {
       "zh-Hans": [
-        "怪兽酒场"
+        "怪兽酒场 干杯！"
       ],
       "en": [
         "Kaijuu Sakaba Cheers"
@@ -2796,7 +2864,8 @@
     "title": "洲崎西 THE ANIMATION",
     "titleTranslate": {
       "zh-Hans": [
-        "洲崎西"
+        "洲崎西",
+        "洲崎西 THE ANIMATION"
       ],
       "en": [
         "Suzakinishi The Animation"
@@ -2874,6 +2943,16 @@
     "end": "2015-09-24T13:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9o7qd",
+        "begin": "2016-08-17T06:57:17.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "2592",
@@ -2970,7 +3049,8 @@
     "title": "干物妹！うまるちゃん",
     "titleTranslate": {
       "zh-Hans": [
-        "干物妹小埋"
+        "干物妹小埋",
+        "干物妹！小埋"
       ],
       "en": [
         "Himouto! Umaru-chan",
@@ -2983,6 +3063,16 @@
     "end": "2015-09-23T17:45:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "mgtv",
+        "id": "291320",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tudou",
         "id": "4IsZAYXiK2M",
@@ -3377,7 +3467,7 @@
     "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法少女☆伊莉雅 第二季续篇"
+        "魔法少女☆伊莉雅 2wei Herz!"
       ],
       "en": [
         "Fate/kaleid liner PRISMA ILLYA 2wei Herz!"
@@ -3389,6 +3479,16 @@
     "end": "2015-09-25T17:10:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10029260",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "2575",
@@ -3444,6 +3544,9 @@
     "titleTranslate": {
       "en": [
         "Nar Doma"
+      ],
+      "zh-Hans": [
+        "闪开，让最帅的来"
       ]
     },
     "lang": "ja",
@@ -3451,6 +3554,117 @@
     "begin": "2015-07-02T12:55:00.000Z",
     "end": "2015-09-24T13:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "123133"
+      }
+    ]
+  },
+  {
+    "title": "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔女学园 魔法游行"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://littlewitchacademia.jp/",
+    "begin": "2015-07-03T16:00:00.000Z",
+    "end": "2015-07-03T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010553",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "124646"
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 亡国のアキト 第4章「憎しみの記憶から」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 亡国的阿基德 第四章「憎恨记忆」"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/akito/",
+    "begin": "2015-07-04T16:00:00.000Z",
+    "end": "2015-07-04T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9mhz9",
+        "begin": "2016-08-31T16:02:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "82177",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "113887"
+      }
+    ]
+  },
+  {
+    "title": "ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦XY 光轮的超魔神 胡巴"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2015-07-18T16:00:00.000Z",
+    "end": "2015-07-18T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108820"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウとポケモンおんがくたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘与宝可梦音乐队"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/short/",
+    "begin": "2015-07-18T17:10:00.000Z",
+    "end": "2015-07-18T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120177"
+      }
+    ]
   }
 ]

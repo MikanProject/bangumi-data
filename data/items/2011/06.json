@@ -1,0 +1,34 @@
+[
+  {
+    "title": "アップルシード XIII",
+    "titleTranslate": {
+      "en": [
+        "APPLESEED XIII"
+      ],
+      "zh-Hans": [
+        "苹果核战记XIII"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://appleseed13.jp/",
+    "begin": "2011-06-03T14:00:00.000Z",
+    "end": "2012-02-03T14:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "44683",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10383"
+      }
+    ]
+  }
+]

@@ -17,7 +17,7 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      }, 
+      },
       {
         "site": "bilibili",
         "id": "3217",
@@ -51,7 +51,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbfrox",
-        "begin": "",
+        "begin": "2015-12-15T01:53:23.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -70,7 +70,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2015/dhpsggyu/",
+        "id": "s2015/dhpsggyu",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -136,7 +136,7 @@
       {
         "site": "qq",
         "id": "m/mw04ctse4gj4syj",
-        "begin": "",
+        "begin": "2015-12-02T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -146,7 +146,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbh6vt",
-        "begin": "",
+        "begin": "2015-12-02T01:48:52.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -165,8 +165,8 @@
       },
       {
         "site": "sohu",
-        "id": "s2015/dhpaqqkl/",
-        "begin": "",
+        "id": "s2015/dhpaqqkl",
+        "begin": "2015-12-02T06:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -241,7 +241,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbfwo5",
-        "begin": "",
+        "begin": "2015-12-31T02:05:29.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -260,8 +260,8 @@
       },
       {
         "site": "sohu",
-        "id": "s2015/dhptzz/",
-        "begin": "",
+        "id": "s2015/dhptzz",
+        "begin": "2015-12-31T06:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -281,6 +281,83 @@
       {
         "site": "bangumi",
         "id": "162747"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム サンダーボルト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 雷霆宙域"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://gundam-tb.net/",
+    "begin": "2015-12-25T16:00:00.000Z",
+    "end": "2016-04-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "151345"
+      }
+    ]
+  },
+  {
+    "title": "ワンピース～アドベンチャー オブ ネブランディア～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 特别篇 雾之岛的冒险"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "https://one-piece.com/news/detail/20151109_2963",
+    "begin": "2015-12-19T16:00:00.000Z",
+    "end": "2015-12-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbguo1",
+        "begin": "2016-04-27T15:14:50.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "154112"
+      }
+    ]
+  },
+  {
+    "title": "ちびまる子ちゃん イタリアから来た少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱桃小丸子 来自意大利的少年"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://chibimaru-movie.com/",
+    "begin": "2015-12-23T16:00:00.000Z",
+    "end": "2015-12-23T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr96zhhk",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "139663"
       }
     ]
   }

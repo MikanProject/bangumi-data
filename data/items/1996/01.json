@@ -16,6 +16,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "kankan",
+        "id": "85224",
+        "begin": "1996-01-13T11:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrhc0gyd",
         "begin": "1996-01-13T11:30:00.000Z",
@@ -27,7 +37,7 @@
       },
       {
         "site": "qq",
-        "id": "h/hzgtnf6tbvfekfv",
+        "id": "5/53q0eh78q97e4d1",
         "begin": "1996-01-13T11:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -88,6 +98,185 @@
       {
         "site": "bangumi",
         "id": "899"
+      }
+    ]
+  },
+  {
+    "title": "爆走兄弟レッツ&ゴー!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "四驱兄弟"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://cgi.shopro.co.jp/tv/let_go/",
+    "begin": "1996-01-08T09:00:00.000Z",
+    "end": "1997-12-22T09:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rriftxv1",
+        "begin": "2013-08-07T10:21:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "y/yfn3bjrmshbtski",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "48285",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9567"
+      }
+    ]
+  },
+  {
+    "title": "るろうに剣心 -明治剣客浪漫譚-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浪客剑心"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.sonymusic.co.jp/Movie/TV/Kenshin/",
+    "begin": "1996-01-10T16:00:00.000Z",
+    "end": "1998-09-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "k/k6d2ovf4jl79n58",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2712"
+      }
+    ]
+  },
+  {
+    "title": "シティーハンタースペシャル ザ・シークレット・サービス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人 秘密任务",
+        "城市猎人 保镖密令"
+      ],
+      "en": [
+        "City Hunter: Secret Service"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-05T16:00:00.000Z",
+    "end": "1996-01-05T16:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgza8kw",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "w/w44r23kw9ljdyyp",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "53940"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 第08MS小隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 第08MS小队"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-25T16:00:00.000Z",
+    "end": "1999-07-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "8/87lrosxr1yta375",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2664"
+      }
+    ]
+  },
+  {
+    "title": "ゲゲゲの鬼太郎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-07T16:00:00.000Z",
+    "end": "1998-03-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb12ad",
+        "begin": "2015-10-29T09:09:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "53741"
       }
     ]
   }

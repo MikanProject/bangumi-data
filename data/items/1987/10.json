@@ -1,0 +1,112 @@
+[
+  {
+    "title": "グリム名作劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "格林童话剧场"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-21T16:00:00.000Z",
+    "end": "1988-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk35gjh",
+        "begin": "2015-01-09T07:11:23.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "78829",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "56113",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "68738"
+      }
+    ]
+  },
+  {
+    "title": "レディレディ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新小甜甜"
+      ],
+      "en": [
+        "Lady Lady!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/lineup/tv/ladylady/",
+    "begin": "1987-10-21T16:00:00.000Z",
+    "end": "1988-03-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb14dl",
+        "begin": "2015-11-05T09:28:20.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "77901"
+      }
+    ]
+  },
+  {
+    "title": "アニメ三銃士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "三个火枪手"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-09T16:00:00.000Z",
+    "end": "1989-02-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk36i75",
+        "begin": "2015-09-29T05:45:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9572"
+      }
+    ]
+  }
+]

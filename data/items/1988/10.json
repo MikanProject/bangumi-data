@@ -1,0 +1,80 @@
+[
+  {
+    "title": "新きまぐれオレンジ☆ロード ～ そして、あの夏のはじまり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "橙路 再回到往日"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.dvd-orangeroad.com/",
+    "begin": "1988-10-08T16:00:00.000Z",
+    "end": "1988-10-08T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "y/yndxod8yrn2yp4m",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13677"
+      }
+    ]
+  },
+  {
+    "title": "新グリム名作劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新格林名作剧场"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-10-02T16:00:00.000Z",
+    "end": "1989-03-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk35gjh",
+        "begin": "2015-01-09T07:11:23.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "78829",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "56113",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "81531"
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "title": "島耕作のアジア立志伝",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/asianleaders/",
+    "begin": "2013-05-09T15:00:00.000Z",
+    "end": "2013-10-03T15:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209663"
+      }
+    ]
+  },
+  {
+    "title": "イナズマイレブンGO ギャラクシー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电十一人GO 银河"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/inazumago/",
+    "begin": "2013-05-08T10:00:00.000Z",
+    "end": "2014-03-19T10:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72651"
+      }
+    ]
+  },
+  {
+    "title": "天使のどろっぷ",
+    "titleTranslate": {
+      "en": [
+        "Angel's Drop"
+      ],
+      "zh-Hans": [
+        "天使的水果糖"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://comic-meteor.jp/sp/tendoro/",
+    "begin": "2013-05-12T16:00:00.000Z",
+    "end": "2013-05-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56118"
+      }
+    ]
+  },
+  {
+    "title": "言の葉の庭",
+    "titleTranslate": {
+      "zh-Hans": [
+        "言叶之庭"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kotonohanoniwa.jp",
+    "begin": "2013-05-31T16:00:00.000Z",
+    "end": "2013-05-31T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "87682",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "58949"
+      }
+    ]
+  }
+]

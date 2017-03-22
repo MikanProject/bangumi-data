@@ -30,21 +30,12 @@
     "begin": "2015-03-31T09:45:00.000Z",
     "end": "2016-02-23T09:55:00.000Z",
     "comment": "",
-    "sites": []
-  },
-  {
-    "title": "トランスフォーマーアドベンチャー",
-    "titleTranslate": {
-      "en": [
-        "TRANSFORMERS ADVENTURE"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2015-03-15T00:00:00.000Z",
-    "end": "2015-06-14T00:30:00.000Z",
-    "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207695"
+      }
+    ]
   },
   {
     "title": "ツムツム",
@@ -54,25 +45,16 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.dlife.jp/lineup/disney/tsumtsum/",
     "begin": "2015-03-22T09:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
-  },
-  {
-    "title": "ゴー！ゴー！キッチン戦隊クックルン",
-    "titleTranslate": {
-      "en": [
-        "Go!Go!CookR'n"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.nhk.or.jp/kids/program/cooklun.html",
-    "begin": "2015-03-30T08:45:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208344"
+      }
+    ]
   },
   {
     "title": "わしも-wasimo-(第3シリーズ)",
@@ -82,7 +64,12 @@
     "begin": "2015-03-30T09:00:00.000Z",
     "end": "2015-08-25T09:10:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "183497"
+      }
+    ]
   },
   {
     "title": "勇者大冒险",
@@ -136,7 +123,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhayff9",
-        "begin": "",
+        "begin": "2015-03-31T04:21:33.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -155,7 +142,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2015/yzdmx/",
+        "id": "s2015/yzdmx",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -176,6 +163,64 @@
       {
         "site": "bangumi",
         "id": "130364"
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアオールスターズ 春のカーニバル♪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女全明星 春之嘉年华♪"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.precure-allstars.com/",
+    "begin": "2015-03-14T16:00:00.000Z",
+    "end": "2015-03-14T17:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrkvlews",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "118336"
+      }
+    ]
+  },
+  {
+    "title": "ドラえもん のび太の宇宙英雄記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄的宇宙英雄记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://doraeiga.com/2015/",
+    "begin": "2015-03-07T16:00:00.000Z",
+    "end": "2015-03-07T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10011871",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108093"
       }
     ]
   }

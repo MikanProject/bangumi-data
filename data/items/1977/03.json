@@ -1,0 +1,41 @@
+[
+  {
+    "title": "惑星ロボ ダンガードA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "惑星机器人 丹加德A"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-03-06T16:00:00.000Z",
+    "end": "1978-03-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1enp",
+        "begin": "2015-11-09T09:22:58.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1464504",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37228"
+      }
+    ]
+  }
+]

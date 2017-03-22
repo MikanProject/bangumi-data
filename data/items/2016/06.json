@@ -16,6 +16,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10024292",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "174147"
       }
@@ -55,20 +65,6 @@
     ]
   },
   {
-    "title": "レゴ ネックスナイツ",
-    "titleTranslate": {
-      "en": [
-        "LEGO NEXO KNIGHTS"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_nexoknights/",
-    "begin": "2016-06-11T00:30:00.000Z",
-    "end": "2016-10-22T01:00:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "ほのぼのログ",
     "titleTranslate": {
       "en": [
@@ -95,7 +91,7 @@
     "titleTranslate": {},
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/95e64748a08b6c2c0c56f15fbbb4f91b.html",
-    "begin": "2016-06-21T12:00:00.000Z",
+    "begin": "2016-06-21T04:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -112,7 +108,7 @@
       {
         "site": "qq",
         "id": "v/v18x0bara3c1msb",
-        "begin": "",
+        "begin": "2016-06-21T04:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -122,7 +118,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgj8yuh",
-        "begin": "",
+        "begin": "2014-04-09T22:50:16.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -140,14 +136,14 @@
     "titleTranslate": {},
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/mashen/",
-    "begin": "2016-06-29T12:00:00.000Z",
+    "begin": "2016-06-29T02:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "g/g1l5z0cndggpfja",
-        "begin": "",
+        "begin": "2016-06-29T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,

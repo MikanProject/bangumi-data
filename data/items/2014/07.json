@@ -3,7 +3,7 @@
     "title": "あいまいみー ～妄想カタストロフ～",
     "titleTranslate": {
       "zh-Hans": [
-        "漫研部 ~妄想Catastrophe~"
+        "漫研部~妄想突变~"
       ]
     },
     "lang": "ja",
@@ -50,8 +50,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2687"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -104,13 +103,13 @@
       },
       {
         "site": "tudou",
+        "id": "m91s0qR6DIo",
         "begin": "2014-07-02T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.tudou.com/albumplay/m91s0qR6DIo/WLJl3ZiazII.html"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -122,7 +121,8 @@
     "title": "幕末Rock",
     "titleTranslate": {
       "zh-Hans": [
-        "幕末Rock"
+        "幕末Rock",
+        "幕末摇滚"
       ]
     },
     "lang": "ja",
@@ -159,8 +159,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2647"
+        "comment": ""
       },
       {
         "site": "letv",
@@ -226,7 +225,8 @@
     "title": "東京喰種トーキョーグール",
     "titleTranslate": {
       "zh-Hans": [
-        "东京喰种"
+        "东京喰种",
+        "东京食尸鬼"
       ],
       "en": [
         "Tokyo Ghoul"
@@ -256,22 +256,11 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2651"
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-03T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/东京食尸鬼"
+        "comment": ""
       },
       {
         "site": "sohu",
-        "id": "s2014/djsz/",
+        "id": "s2014/djsz",
         "begin": "2014-07-03T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -303,7 +292,8 @@
     "title": "グラスリップ",
     "titleTranslate": {
       "zh-Hans": [
-        "GLASSLIP"
+        "GLASSLIP",
+        "玻璃之唇"
       ],
       "en": [
         "Glasslip"
@@ -324,16 +314,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-03T14:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/GLASSLIP"
       },
       {
         "site": "acfun",
@@ -359,7 +339,8 @@
     "title": "白銀の意思 アルジェヴォルン",
     "titleTranslate": {
       "zh-Hans": [
-        "白银的意志 安格弗伦"
+        "白银的意志 安格弗伦",
+        "白银的意志 ARGEVOLLEN"
       ],
       "en": [
         "ARGEVOLLEN"
@@ -405,7 +386,7 @@
     "title": "RAIL WARS!",
     "titleTranslate": {
       "zh-Hans": [
-        "RAILWARS!"
+        "日本国有铁道公安队"
       ]
     },
     "lang": "ja",
@@ -416,7 +397,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/railwars/",
+        "id": "s2014/railwars",
         "begin": "2014-07-04T17:15:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -443,16 +424,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-04T17:15:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/RAIL%20WARS%21%20-日本国有铁道公安队-"
       },
       {
         "site": "acfun",
@@ -534,7 +505,7 @@
     "title": "美少女戦士セーラームーンCrystal",
     "titleTranslate": {
       "zh-Hans": [
-        "美少女战士 Crystal"
+        "美少女战士Crystal"
       ],
       "en": [
         "Pretty Guardian Sailor Moon Crystal"
@@ -547,8 +518,18 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb12nd",
+        "begin": "2015-08-17T03:04:36.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
-        "id": "s2014/msnzsc/",
+        "id": "s2014/msnzsc",
         "begin": "2014-07-05T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -602,7 +583,7 @@
     "title": "アルドノア・ゼロ",
     "titleTranslate": {
       "zh-Hans": [
-        "ALDNOAH·ZERO"
+        "ALDNOAH.ZERO"
       ],
       "en": [
         "ALDNOAH.ZERO"
@@ -615,6 +596,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "2661",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrgif6w9",
         "begin": "2014-07-10T16:00:00.000Z",
@@ -623,16 +614,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-10T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/ALDNOAH.ZERO"
       },
       {
         "site": "bangumi",
@@ -648,6 +629,7 @@
     "title": "プリパラ",
     "titleTranslate": {
       "zh-Hans": [
+        "美妙天堂",
         "PriPara 美妙旋律"
       ],
       "en": [
@@ -660,6 +642,26 @@
     "end": "2015-03-28T01:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhaj3bp",
+        "begin": "2016-04-05T09:50:12.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "1/1c649pqidecllze",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "10003003",
@@ -727,26 +729,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-07-10T17:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/少年好莱坞"
-      },
-      {
-        "site": "acfun",
-        "begin": "2014-07-10T17:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa3374#group=4"
-      },
-      {
         "site": "tudou",
         "id": "DTTu59W1Lyc",
         "begin": "2014-07-10T17:30:00.000Z",
@@ -779,6 +761,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "sohu",
+        "id": "s2014/scyxs",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "4074",
         "begin": "2014-07-06T17:00:00.000Z",
@@ -796,12 +788,11 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2665"
+        "comment": ""
       },
       {
         "site": "sohu",
-        "id": "s2014/scyxs/",
+        "id": "s2014/scyxs",
         "begin": "2014-07-06T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -843,16 +834,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-07-05T20:50:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/元气囝仔"
-      },
-      {
         "site": "acfun",
         "id": "2664",
         "begin": "2014-07-05T20:50:00.000Z",
@@ -885,6 +866,16 @@
     "end": "2014-09-28T13:27:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "2675",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "pptv",
         "id": "y1M9uyOJibTeaGIA",
@@ -919,7 +910,7 @@
     "title": "アカメが斬る！",
     "titleTranslate": {
       "zh-Hans": [
-        "斩·赤红之瞳"
+        "斩·赤红之瞳！"
       ],
       "en": [
         "AKAME GA KILL!"
@@ -943,7 +934,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/zchzt/",
+        "id": "s2014/zchzt",
         "begin": "2014-07-06T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -985,7 +976,7 @@
     "title": "毎度！浦安鉄筋家族",
     "titleTranslate": {
       "zh-Hans": [
-        "抓狂一族 2期"
+        "每度！浦安铁筋家族"
       ]
     },
     "lang": "ja",
@@ -1095,7 +1086,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/basara3/",
+        "id": "s2014/basara3",
         "begin": "2014-07-05T19:50:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1127,7 +1118,8 @@
     "title": "スペース☆ダンディ シーズン2",
     "titleTranslate": {
       "zh-Hans": [
-        "Space☆Dandy 2期"
+        "太空丹迪 第二季",
+        "Space☆Dandy 第二季"
       ],
       "en": [
         "SPACE DANDY SEASON 2"
@@ -1148,16 +1140,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-06T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/SPACE☆DANDY"
       },
       {
         "site": "acfun",
@@ -1193,6 +1175,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "t/tk1y1g67qs2zafs",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "youku",
         "id": "4635d25401bc11e4b2ad",
         "begin": "",
@@ -1220,8 +1212,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2669"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1296,6 +1287,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "108969",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10002705",
         "begin": "2014-07-07T19:05:00.000Z",
@@ -1326,28 +1327,18 @@
     ]
   },
   {
-    "title": "闇芝居 第2期",
+    "title": "闇芝居(2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "暗芝居 2期"
+        "暗芝居 第二季"
       ]
     },
     "lang": "ja",
     "officialSite": "http://ani.tv/yamishibai/",
-    "begin": "2014-07-06T17:35:00.000Z",
-    "end": "2014-09-28T17:40:00.000Z",
+    "begin": "2014-07-06T17:40:00.000Z",
+    "end": "2014-09-28T17:45:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "bilibili",
-        "begin": "2014-07-06T18:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/暗芝居"
-      },
       {
         "site": "youku",
         "id": "367017a6f68d11e3b8b7",
@@ -1484,8 +1475,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2670"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -1509,7 +1499,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/yksnyqtx/",
+        "id": "s2014/yksnyqtx",
         "begin": "2014-07-06T17:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1541,6 +1531,7 @@
     "title": "DRAMAtical Murder",
     "titleTranslate": {
       "zh-Hans": [
+        "戏剧性谋杀",
         "DRAMAtical Murder"
       ]
     },
@@ -1602,7 +1593,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/dramaticalmurder/",
+        "id": "s2014/dramaticalmurder",
         "begin": "2014-07-06T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1643,16 +1634,6 @@
     "end": "2014-09-22T17:05:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "bilibili",
-        "begin": "2014-07-07T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/花舞少女"
-      },
       {
         "site": "acfun",
         "id": "2676",
@@ -1707,16 +1688,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "bilibili",
-        "begin": "2014-07-08T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/桃剑"
-      },
-      {
         "site": "acfun",
         "id": "2678",
         "begin": "2014-07-08T19:00:00.000Z",
@@ -1760,7 +1731,8 @@
     "title": "Re：␣ハマトラ",
     "titleTranslate": {
       "zh-Hans": [
-        "Re: 滨虎"
+        "Re: 滨虎",
+        "REPLY 滨虎"
       ]
     },
     "lang": "ja",
@@ -1778,26 +1750,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-07T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/Re：␣浜虎（第二季）"
-      },
-      {
-        "site": "acfun",
-        "begin": "2014-07-07T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa3374#group=2"
       },
       {
         "site": "tudou",
@@ -1823,7 +1775,8 @@
     "title": "ヤマノススメ セカンドシーズン",
     "titleTranslate": {
       "zh-Hans": [
-        "前进吧！登山少女 2期"
+        "向山进发 第二季",
+        "前进吧！登山少女 第二季"
       ],
       "en": [
         "Encouragement of Climb Second Season"
@@ -1837,7 +1790,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/qjbdssn2/",
+        "id": "s2014/qjbdssn2",
         "begin": "2014-07-09T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1877,16 +1830,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-09T18:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/修业魔女璐璐萌"
       },
       {
         "site": "acfun",
@@ -1965,7 +1908,7 @@
     "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法少女☆伊莉雅 Zwei!"
+        "魔法少女☆伊莉雅 2wei!"
       ],
       "en": [
         "Fate/kaleid liner PRISMA ILLYA 2wei!"
@@ -1989,7 +1932,7 @@
       },
       {
         "site": "acfun",
-        "id": "2480",
+        "id": "2683",
         "begin": "2014-07-09T18:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2021,7 +1964,8 @@
     "title": "残響のテロル",
     "titleTranslate": {
       "zh-Hans": [
-        "恐怖残响"
+        "恐怖残响",
+        "东京残响"
       ]
     },
     "lang": "ja",
@@ -2041,16 +1985,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-07-10T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/恐怖残响"
-      },
-      {
         "site": "bangumi",
         "id": "100443"
       },
@@ -2064,7 +1998,7 @@
     "title": "黒執事 Book of Circus",
     "titleTranslate": {
       "zh-Hans": [
-        "黑执事 Book of Circus"
+        "黑执事 马戏团篇"
       ]
     },
     "lang": "ja",
@@ -2074,6 +2008,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "2688",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrgif36t",
         "begin": "2014-07-10T18:19:00.000Z",
@@ -2082,16 +2026,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-10T18:19:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/黑执事"
       },
       {
         "site": "bangumi",
@@ -2157,8 +2091,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2654"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -2180,7 +2113,7 @@
     "title": "ペルソナ4 ザ・ゴールデン",
     "titleTranslate": {
       "zh-Hans": [
-        "女神异闻录4 the Golden"
+        "女神异闻录4 黄金版"
       ],
       "en": [
         "Persona4 the Golden ANIMATION"
@@ -2203,16 +2136,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-07-10T17:49:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/女神异闻录4"
-      },
-      {
         "site": "acfun",
         "id": "2686",
         "begin": "2014-07-10T17:49:00.000Z",
@@ -2220,8 +2143,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2686"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2234,16 +2156,17 @@
     ]
   },
   {
-    "title": "PSYCHO-PASS 新編集版",
+    "title": "PSYCHO-PASS サイコパス 新編集版",
     "titleTranslate": {
       "zh-Hans": [
+        "心理测量者 新编集版",
         "PSYCHO-PASS 新编集版"
       ]
     },
     "lang": "ja",
     "officialSite": "http://psycho-pass.com/",
-    "begin": "2014-07-10T16:20:00.000Z",
-    "end": "2014-09-18T17:00:00.000Z",
+    "begin": "2014-07-10T16:40:00.000Z",
+    "end": "2014-09-18T17:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2255,16 +2178,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-10T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/PSYCHO-PASS#S-1150"
       },
       {
         "site": "bangumi",
@@ -2307,18 +2220,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2689"
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-11T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/东京ESP"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2334,7 +2236,7 @@
     "title": "六畳間の侵略者!?",
     "titleTranslate": {
       "zh-Hans": [
-        "三坪房间的侵略者"
+        "三坪房间的侵略者！"
       ]
     },
     "lang": "ja",
@@ -2345,7 +2247,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/spfjdqlz/",
+        "id": "s2014/spfjdqlz",
         "begin": "2014-07-11T19:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2361,18 +2263,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2692"
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-07-11T19:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/三坪房间的侵略者"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2393,6 +2284,16 @@
     "end": "2014-09-19T17:20:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "sohu",
+        "id": "s2014/xcxzq",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "youku",
         "id": "add9096ed8ed11e38b3f",
@@ -2415,23 +2316,13 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/xcxzq/",
+        "id": "s2014/xcxzq",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/信长协奏曲"
       },
       {
         "site": "bangumi",
@@ -2460,8 +2351,28 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh923sd",
+        "begin": "2016-12-31T16:02:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10027926",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
-        "id": "s2014/jlsdjw/",
+        "id": "s2014/jlsdjw",
         "begin": "2014-07-14T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2471,13 +2382,13 @@
       },
       {
         "site": "bilibili",
+        "id": "4137",
         "begin": "2014-07-14T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/精灵使的剑舞"
+        "comment": ""
       },
       {
         "site": "acfun",
@@ -2487,8 +2398,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa2694"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2504,7 +2414,8 @@
     "title": "みならいディーバ",
     "titleTranslate": {
       "zh-Hans": [
-        "见习歌姬"
+        "见习歌姬",
+        "半熟偶像"
       ]
     },
     "lang": "ja",
@@ -2516,6 +2427,123 @@
       {
         "site": "bangumi",
         "id": "101107"
+      }
+    ]
+  },
+  {
+    "title": "スシニンジャ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寿司忍者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.sushininja.jp/",
+    "begin": "2014-07-03T16:00:00.000Z",
+    "end": "2014-11-28T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1i2p",
+        "begin": "2015-06-01T09:18:35.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "t/t2ba472ebgp8ikk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2015/ssrz",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "134334"
+      }
+    ]
+  },
+  {
+    "title": "ポケモン・ザ・ムービーXY 破壊の繭とディアンシー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦XY-破坏之茧与蒂安希"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2014-07-19T16:00:00.000Z",
+    "end": "2014-07-19T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "z/z57iqzs8ttl7b1k",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10017222",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "90368"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウ、これなんのカギ?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘，这是什么的钥匙？"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/short/",
+    "begin": "2014-07-19T17:10:00.000Z",
+    "end": "2014-07-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99951"
       }
     ]
   }

@@ -280,9 +280,29 @@
     "comment": "",
     "sites": [
       {
+        "site": "sohu",
+        "id": "s2016/dhpnzcp",
+        "begin": "2016-04-02T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "292379",
+        "begin": "2016-04-02T11:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "tudou",
         "id": "rEbbsqzQVVU",
-        "begin": "2016-04-02T10:58:21.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -292,7 +312,7 @@
       {
         "site": "youku",
         "id": "c306dcc2e59711e5a080",
-        "begin": "2016-04-02T10:58:21.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -312,7 +332,7 @@
       {
         "site": "bilibili",
         "id": "3527",
-        "begin": "2016-04-02T11:00:01.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -332,7 +352,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaix5t",
-        "begin": "2016-04-02T10:55:05.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -531,7 +551,7 @@
     "title": "パンでPeace!",
     "titleTranslate": {
       "zh-Hans": [
-        "面包带来和平"
+        "面包带来和平！"
       ],
       "en": [
         "Pan de Peace!"
@@ -704,7 +724,7 @@
       },
       {
         "site": "acfun",
-        "id": "1470373",
+        "id": "1470463",
         "begin": "2016-04-10T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -828,7 +848,7 @@
     "title": "ばくおん!!",
     "titleTranslate": {
       "zh-Hans": [
-        "爆音少女"
+        "爆音少女!!"
       ]
     },
     "lang": "ja",
@@ -944,7 +964,7 @@
     "title": "Re:ゼロから始める異世界生活",
     "titleTranslate": {
       "zh-Hans": [
-        "Re:从零开始的异世界生活"
+        "Re：从零开始的异世界生活"
       ],
       "en": [
         "Re: Life in a different world from zero"
@@ -1071,7 +1091,7 @@
       },
       {
         "site": "letv",
-        "id": "10018937",
+        "id": "10021113",
         "begin": "2016-04-04T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1179,23 +1199,6 @@
     ]
   },
   {
-    "title": "ぼくらベアベアーズ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "我们裸熊 日版"
-      ],
-      "en": [
-        "We Bare Bears"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=webarebears",
-    "begin": "2016-04-05T09:30:00.000Z",
-    "end": "2016-10-04T09:42:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "ハンドレッド",
     "titleTranslate": {
       "zh-Hans": [
@@ -1287,7 +1290,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "JOKER GAME",
-        "鬼牌游戏"
+        "鬼牌游戏",
+        "代号D机关"
       ],
       "en": [
         "JOKER GAME"
@@ -1299,6 +1303,16 @@
     "end": "2016-06-21T14:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1470454",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "3537",
@@ -1475,9 +1489,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470441",
+        "begin": "2016-04-04T16:35:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrhaffbt",
-        "begin": "2016-04-04T16:35:08.000Z",
+        "begin": "2016-04-04T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1498,7 +1522,8 @@
     "title": "少年アシベ GO!GO!ゴマちゃん",
     "titleTranslate": {
       "zh-Hans": [
-        "少年阿瑞GO!GO!小海豹"
+        "少年阿瑞 GO!GO!小海豹",
+        "少年阿贝 GO!GO!小芝麻"
       ]
     },
     "lang": "ja",
@@ -1508,9 +1533,29 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhajtmx",
+        "begin": "2016-04-12T10:15:51.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1470455",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "tudou",
         "id": "qiBO_bk7hZY",
-        "begin": "2016-04-05T10:58:29.000Z",
+        "begin": "2016-04-05T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1520,7 +1565,7 @@
       {
         "site": "youku",
         "id": "410affe6e5d311e5b32f",
-        "begin": "2016-04-05T10:58:29.000Z",
+        "begin": "2016-04-05T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1548,9 +1593,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470458",
+        "begin": "2016-04-06T18:05:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "tudou",
         "id": "0At_ddWfzlY",
-        "begin": "2016-04-06T18:04:11.000Z",
+        "begin": "2016-04-06T18:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1570,7 +1625,7 @@
       {
         "site": "youku",
         "id": "037cd3e6e66611e5b2ad",
-        "begin": "2016-04-06T18:04:11.000Z",
+        "begin": "2016-04-06T18:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1769,7 +1824,12 @@
     "begin": "2016-04-07T12:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "181834"
+      }
+    ]
   },
   {
     "title": "甲鉄城のカバネリ",
@@ -1898,9 +1958,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470460",
+        "begin": "2016-04-07T17:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "3495",
-        "begin": "2016-04-07T17:00:02.000Z",
+        "begin": "2016-04-07T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1910,7 +1980,7 @@
       {
         "site": "tudou",
         "id": "eJcUnm1hNF8",
-        "begin": "2016-04-07T16:57:44.000Z",
+        "begin": "2016-04-07T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1930,7 +2000,7 @@
       {
         "site": "youku",
         "id": "450caa42e66711e5b432",
-        "begin": "2016-04-07T16:57:44.000Z",
+        "begin": "2016-04-07T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1940,7 +2010,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhajw3h",
-        "begin": "2016-04-07T17:14:04.000Z",
+        "begin": "2016-04-07T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2020,9 +2090,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470464",
+        "begin": "2016-04-08T10:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "3551",
-        "begin": "2016-04-08T10:17:01.000Z",
+        "begin": "2016-04-08T10:30:00.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": false,
@@ -2532,6 +2612,7 @@
     "title": "なめこ～せかいのともだち～",
     "titleTranslate": {
       "zh-Hans": [
+        "滑子菇～世界的朋友～",
         "滑子菇一家"
       ]
     },
@@ -2541,6 +2622,16 @@
     "end": "",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480016",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "171297"
@@ -2615,7 +2706,8 @@
     "title": "マギ シンドバッドの冒険",
     "titleTranslate": {
       "zh-Hans": [
-        "魔笛MAGI 辛巴达的冒险"
+        "魔笛MAGI 辛巴达的冒险",
+        "魔笛MAGI 辛巴德的冒险"
       ]
     },
     "lang": "ja",
@@ -2624,6 +2716,26 @@
     "end": "2016-09-26T13:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhahwrh",
+        "begin": "2016-04-15T18:55:04.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10021111",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "3466",
@@ -2798,30 +2910,6 @@
     ]
   },
   {
-    "title": "アルティメット・スパイダーマン VS シニスター・シックス",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/spiderman/",
-    "begin": "2016-04-05T09:25:00.000Z",
-    "end": "2016-09-27T09:55:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
-    "title": "レゴ ニンジャゴー(天空の海賊編)",
-    "titleTranslate": {
-      "en": [
-        "Lego Ninjago"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_ninjago/",
-    "begin": "2016-04-02T00:30:00.000Z",
-    "end": "2016-06-04T01:00:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "ラグナストライクエンジェルズ",
     "titleTranslate": {
       "en": [
@@ -2869,6 +2957,16 @@
     "end": "",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9d749",
+        "begin": "2017-03-03T02:00:21.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5615",
@@ -2965,7 +3063,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2016/dhpmojier/",
+        "id": "s2016/dhpmojier",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -2986,6 +3084,65 @@
       {
         "site": "bangumi",
         "id": "175451"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 純黒の悪夢",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 纯黑的恶梦"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2016-04-16T16:00:00.000Z",
+    "end": "2016-04-16T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr9s27c0",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "131427"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 爆睡！ユメミーワールド大突撃",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 爆睡！梦世界大作战",
+        "蜡笔小新 梦境世界大突击"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://shinchan-movie.com/",
+    "begin": "2016-04-16T16:00:00.000Z",
+    "end": "2016-04-16T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rra274mg",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "159335"
       }
     ]
   }

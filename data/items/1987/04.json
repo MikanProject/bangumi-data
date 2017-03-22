@@ -1,0 +1,80 @@
+[
+  {
+    "title": "シティーハンター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-04-06T16:00:00.000Z",
+    "end": "1988-03-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk7f6i9",
+        "begin": "2012-08-24T05:26:39.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "kankan",
+        "id": "49601",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2012/cslr",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10391"
+      }
+    ]
+  },
+  {
+    "title": "きまぐれオレンジ☆ロード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "橙路"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.dvd-orangeroad.com/",
+    "begin": "1987-04-06T16:00:00.000Z",
+    "end": "1988-03-07T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "r/rr57uvmizpiqd67",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2042"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ポケットモンスター　アドバンスジェネレーション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦 超世代"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_ag/",
+    "begin": "2002-11-21T10:00:00.000Z",
+    "end": "2006-09-14T10:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb7bx9",
+        "begin": "2015-09-17T05:39:26.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "9/9yfjl0rjm0l5tys",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10006375",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/dhpjlbkm2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3020"
+      }
+    ]
+  },
+  {
+    "title": "PIANO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢琴恋曲"
+      ],
+      "en": [
+        "PIANO"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.marine-e.co.jp/sakuhin/piano/p_index.htm",
+    "begin": "2002-11-11T07:00:00.000Z",
+    "end": "2003-01-13T08:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1950"
+      }
+    ]
+  },
+  {
+    "title": "釣りバカ日誌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钓鱼迷日记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/tsuribaka/",
+    "begin": "2002-11-02T16:00:00.000Z",
+    "end": "2003-09-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102315"
+      }
+    ]
+  }
+]

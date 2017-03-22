@@ -117,36 +117,130 @@
   },
   {
     "title": "たまごっち！～みらくるフレンズ～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "拓麻歌子！ Miracle Friends"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/tamagotchi2013/index2.html",
     "begin": "2013-09-05T09:30:00.000Z",
     "end": "2014-03-27T10:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84056"
+      }
+    ]
   },
   {
     "title": "最強銀河 究極ゼロ ～バトルスピリッツ～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "最强银河究极ZERO 战斗之魂"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.sunrise-inc.co.jp/battlespirits6/",
     "begin": "2013-09-21T22:00:00.000Z",
     "end": "2014-09-20T22:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79659"
+      }
+    ]
   },
   {
     "title": "おしりかじり虫(第2シリーズ)",
     "titleTranslate": {
       "en": [
         "bottom biting bug"
+      ],
+      "zh-Hans": [
+        "咬屁屁虫 第二季"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www3.nhk.or.jp/anime/oshiri/",
     "begin": "2013-09-30T09:25:00.000Z",
     "end": "2014-03-27T10:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84627"
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 亡国のアキト 第2章「引き裂かれし翼竜」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 亡国的阿基德 第二章「翼龙折翅」"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/akito/",
+    "begin": "2013-09-14T16:00:00.000Z",
+    "end": "2013-09-14T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9mhz9",
+        "begin": "2016-08-31T16:02:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "82177",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "63130"
+      }
+    ]
+  },
+  {
+    "title": "キャプテンハーロック -SPACE PIRATE CAPTAIN HARLOCK-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙海盗船长哈洛克"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://harlock-movie.com/",
+    "begin": "2013-09-07T16:00:00.000Z",
+    "end": "2013-09-07T17:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro3wd2c",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "89594"
+      }
+    ]
   }
 ]

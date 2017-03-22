@@ -3,7 +3,7 @@
     "title": "探偵歌劇 ミルキィホームズ TD",
     "titleTranslate": {
       "zh-Hans": [
-        "侦探歌剧 TD"
+        "侦探歌剧 少女福尔摩斯 TD"
       ]
     },
     "lang": "ja",
@@ -142,7 +142,7 @@
     "title": "みんな集まれ！ファルコム学園SC",
     "titleTranslate": {
       "zh-Hans": [
-        "FALCOM学园 2期"
+        "大家集合！Falcom学园 2期"
       ]
     },
     "lang": "ja",
@@ -153,7 +153,7 @@
     "sites": [
       {
         "site": "qq",
-        "id": "d/do9n7u9ssryk2t4",
+        "id": "9/9tg48xlvp2rjssv",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -233,7 +233,12 @@
     "begin": "2015-01-05T09:00:00.000Z",
     "end": "2015-03-24T09:10:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "183496"
+      }
+    ]
   },
   {
     "title": "ユリ熊嵐",
@@ -253,23 +258,13 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2015/bhxfb/",
+        "id": "s2015/bhxfb",
         "begin": "2015-01-05T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2015-01-05T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/百合熊风暴"
       },
       {
         "site": "acfun",
@@ -338,7 +333,7 @@
     "title": "神様はじめました◎",
     "titleTranslate": {
       "zh-Hans": [
-        "元气少女缘结神 2期"
+        "元气少女缘结神◎"
       ]
     },
     "lang": "ja",
@@ -347,6 +342,16 @@
     "end": "2015-03-30T18:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "mgtv",
+        "id": "105499",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tudou",
         "id": "s3GSriQOpPw",
@@ -483,6 +488,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "w/w8yxncfnqnljt6b",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10007860",
         "begin": "",
@@ -618,16 +633,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/舰队COLLECTION"
-      },
-      {
         "site": "acfun",
         "id": "1470133",
         "begin": "",
@@ -692,16 +697,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2015-01-07T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/新妹魔王的契约者"
       },
       {
         "site": "acfun",
@@ -803,7 +798,7 @@
     "title": "東京喰種トーキョーグール√A",
     "titleTranslate": {
       "zh-Hans": [
-        "东京食尸鬼 2期"
+        "东京食尸鬼√A"
       ],
       "en": [
         "Tokyo Ghoul Root A"
@@ -840,7 +835,7 @@
     "sites": [
       {
         "site": "qq",
-        "id": "x/xccr2dywql8z3oz",
+        "id": "9/9wq4zk57yyxkf5l",
         "begin": "2015-01-09T03:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -920,7 +915,8 @@
     "title": "蒼穹のファフナー EXODUS",
     "titleTranslate": {
       "zh-Hans": [
-        "苍穹的法芙娜 EXODUS"
+        "苍穹的法芙娜 EXODUS",
+        "苍穹之法芙娜 EXODUS"
       ]
     },
     "lang": "ja",
@@ -975,6 +971,26 @@
     "end": "2015-04-10T15:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "kankan",
+        "id": "87458",
+        "begin": "2015-01-09T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "291091",
+        "begin": "2015-01-09T16:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "iqiyi",
         "id": "a_19rrhay5rp",
@@ -1188,7 +1204,7 @@
     "title": "ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編",
     "titleTranslate": {
       "zh-Hans": [
-        "JOJO的奇妙冒险 第三部 星尘斗士 埃及篇"
+        "JOJO的奇妙冒险 星尘斗士 埃及篇"
       ],
       "en": [
         "JOJO'S BIZARRE ADVENTURE STARDUST CRUSADERS"
@@ -1203,7 +1219,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb0qs9",
-        "begin": "",
+        "begin": "2015-03-11T14:30:16.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1217,10 +1233,10 @@
     ]
   },
   {
-    "title": "DOG DAYS",
+    "title": "DOG DAYS″",
     "titleTranslate": {
       "zh-Hans": [
-        "DOG DAYS 3期"
+        "DOG DAYS 第三季"
       ]
     },
     "lang": "ja",
@@ -1303,7 +1319,7 @@
     "title": "デュラララ!!×2 承",
     "titleTranslate": {
       "zh-Hans": [
-        "无头骑士异闻录 2期"
+        "无头骑士异闻录×2 承"
       ]
     },
     "lang": "ja",
@@ -1422,7 +1438,10 @@
     "title": "アルドノア・ゼロ(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "ALDNOAH ZERO 2期"
+        "ALDNOAH.ZERO 第二季"
+      ],
+      "en": [
+        "ALDNOAH.ZERO"
       ]
     },
     "lang": "ja",
@@ -1461,7 +1480,7 @@
     "title": "少年ハリウッド -HOLLY STAGE FOR 50-",
     "titleTranslate": {
       "zh-Hans": [
-        "少年好莱坞 2期"
+        "少年好莱坞 第二季"
       ],
       "en": [
         "SHONEN HOLLYWOOD -HOLLY STAGE FOR 50-"
@@ -1492,16 +1511,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2015-01-10T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/少年好莱坞#S-1618"
       },
       {
         "site": "acfun",
@@ -1539,16 +1548,6 @@
     "end": "2015-03-27T17:43:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "bilibili",
-        "begin": "2015-01-09T20:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/死亡游行"
-      },
       {
         "site": "acfun",
         "id": "1470162",
@@ -1669,7 +1668,7 @@
     "title": "黒子のバスケ(第3期)",
     "titleTranslate": {
       "zh-Hans": [
-        "黑子的篮球 3期"
+        "黑子的篮球 第三季"
       ]
     },
     "lang": "ja",
@@ -1678,6 +1677,16 @@
     "end": "2015-06-30T14:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "mgtv",
+        "id": "109729",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tudou",
         "id": "otzt4Efipjo",
@@ -1720,7 +1729,7 @@
       },
       {
         "site": "qq",
-        "id": "x/x9oa8s8k3v6g8xm",
+        "id": "3/3th0scjmjz8bz8i",
         "begin": "2015-01-10T21:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1778,7 +1787,9 @@
     "title": "ローリング☆ガールズ",
     "titleTranslate": {
       "zh-Hans": [
-        "旋转☆少女"
+        "旋转☆少女",
+        "旋转少女",
+        "翻转少女"
       ],
       "en": [
         "THE ROLLING GIRLS"
@@ -1821,16 +1832,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2015-01-10T17:58:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/THE%20ROLLING%20GIRLS"
-      },
-      {
         "site": "acfun",
         "id": "1470126",
         "begin": "2015-01-10T17:58:00.000Z",
@@ -1863,6 +1864,16 @@
     "end": "2015-03-29T13:27:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "mgtv",
+        "id": "292440",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tudou",
         "id": "uaWpGglH27U",
@@ -2167,7 +2178,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/msnzsc/",
+        "id": "s2014/msnzsc",
         "begin": "2015-01-17T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2196,24 +2207,10 @@
     ]
   },
   {
-    "title": "スター・ウォーズ 反乱者たち",
-    "titleTranslate": {
-      "zh-Hans": [
-        "星球大战 叛乱者们"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.disney.co.jp/tv/xd/program/sp/rebels.html",
-    "begin": "2015-01-24T10:00:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "ISUCA",
     "titleTranslate": {
       "zh-Hans": [
-        "ISUCA"
+        "伊斯卡"
       ]
     },
     "lang": "ja",
@@ -2277,13 +2274,45 @@
     "titleTranslate": {
       "en": [
         "Go! PRINCESS PRECURE"
+      ],
+      "zh-Hans": [
+        "Go! Princess 光之美少女"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.toei-anim.co.jp/tv/princess_precure",
     "begin": "2015-01-31T23:30:00.000Z",
     "end": "2016-01-31T00:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhawapx",
+        "begin": "2015-02-14T16:11:15.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "tucao",
+        "id": "Go!%20Princess%20光之美少女",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "119279"
+      },
+      {
+        "site": "saraba1st",
+        "id": "1069504"
+      }
+    ]
   }
 ]

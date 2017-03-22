@@ -1,0 +1,80 @@
+[
+  {
+    "title": "私のあしながおじさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "长腿叔叔"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-01-04T16:00:00.000Z",
+    "end": "1991-12-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk0gz0d",
+        "begin": "2012-03-21T06:49:26.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "g/gu60xakyjp8dtgk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "28111"
+      }
+    ]
+  },
+  {
+    "title": "ちびまる子ちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱桃小丸子"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-01-07T16:00:00.000Z",
+    "end": "1992-09-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk1980p",
+        "begin": "2014-04-09T23:53:55.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "81066",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "28165"
+      }
+    ]
+  }
+]

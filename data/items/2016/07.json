@@ -73,7 +73,7 @@
     "lang": "ja",
     "officialSite": "http://www.grap-rodeo.net/",
     "begin": "2016-07-01T12:55:00.000Z",
-    "end": "",
+    "end": "2016-12-30T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -95,6 +95,16 @@
     "end": "2016-09-23T14:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480010",
+        "begin": "2016-07-01T15:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5016",
@@ -159,6 +169,16 @@
     "end": "2016-09-17T14:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480012",
+        "begin": "2016-07-02T15:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5018",
@@ -374,7 +394,7 @@
     "title": "B-PROJECT～鼓動＊アンビシャス～",
     "titleTranslate": {
       "zh-Hans": [
-        "B-PROJECT"
+        "B-PROJECT～鼓动＊Ambitious～"
       ]
     },
     "lang": "ja",
@@ -443,7 +463,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "情热传说X",
-        "情热传说 the X"
+        "情热传说 the X",
+        "热诚传说X"
       ],
       "en": [
         "Tales of Zestiria the X",
@@ -456,6 +477,26 @@
     "end": "2016-09-25T14:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "sohu",
+        "id": "s2016/dhprccshx",
+        "begin": "2016-07-03T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1480003",
+        "begin": "2016-07-03T14:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5022",
@@ -550,6 +591,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1480005",
+        "begin": "2016-07-03T14:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "5021",
         "begin": "2016-07-03T14:00:00.000Z",
@@ -642,6 +693,16 @@
     "end": "2016-12-17T18:28:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480006",
+        "begin": "2016-07-02T18:58:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5063",
@@ -743,6 +804,16 @@
     "end": "2016-09-19T14:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480004",
+        "begin": "2016-07-05T17:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5027",
@@ -964,6 +1035,16 @@
     "end": "2016-12-25T17:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10024422",
+        "begin": "2016-07-04T00:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5070",
@@ -1230,7 +1311,7 @@
     "title": "SHOW BY ROCK!! しょ～と!!",
     "titleTranslate": {
       "zh-Hans": [
-        "SHOW BY ROCK!! SHOR～T!!"
+        "SHOW BY ROCK!! SHORT!!"
       ]
     },
     "lang": "ja",
@@ -1331,7 +1412,7 @@
     "title": "チア男子!!",
     "titleTranslate": {
       "zh-Hans": [
-        "男子拉拉队!!"
+        "男子啦啦队!!"
       ],
       "en": [
         "Cheer Boys"
@@ -1418,6 +1499,16 @@
     "end": "2016-09-28T14:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480007",
+        "begin": "2016-07-06T14:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5038",
@@ -1732,39 +1823,10 @@
     ]
   },
   {
-    "title": "銀河機攻隊 マジェスティックプリンス",
-    "titleTranslate": {
-      "zh-Hans": [
-        "银河机攻队 Majestic Prince"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://mjp-anime.jp/",
-    "begin": "2016-07-07T17:00:00.000Z",
-    "end": "2016-09-29T17:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bilibili",
-        "id": "2700",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "50535"
-      }
-    ]
-  },
-  {
     "title": "美男高校地球防衛部LOVE! LOVE!",
     "titleTranslate": {
       "zh-Hans": [
-        "美男高校地球防卫部LOVE!LOVE!"
+        "美男高校地球防卫部LOVE！LOVE！"
       ]
     },
     "lang": "ja",
@@ -1773,6 +1835,16 @@
     "end": "2016-09-22T18:41:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480014",
+        "begin": "2016-07-07T18:35:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5044",
@@ -1882,6 +1954,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1480011",
+        "begin": "2016-07-07T19:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "5043",
         "begin": "2016-07-07T19:00:00.000Z",
@@ -1965,13 +2047,13 @@
       },
       {
         "site": "youku",
+        "id": "7c5cb5243e7211e69b6d",
         "begin": "2016-07-08T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://v.youku.com/v_show/id_XMTYzNjE1NDY4NA==.html?from=s1.8-3-1.1"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2024,6 +2106,16 @@
     "end": "2016-09-30T16:35:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480009",
+        "begin": "2016-07-08T17:35:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5047",
@@ -2224,7 +2316,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhal2yd",
-        "begin": "",
+        "begin": "2016-07-08T02:33:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2317,7 +2409,7 @@
     "title": "アクティヴレイド -機動強襲室第八係- 2nd",
     "titleTranslate": {
       "zh-Hans": [
-        "Active Raid -机动强袭室第八课 2期"
+        "Active Raid -机动强袭室第八课- 2nd"
       ],
       "en": [
         "ACTIVERAID Special Public Security Fifth Division Third Mobile Assault Eighth Unit Second"
@@ -2368,6 +2460,16 @@
     "end": "2016-09-26T15:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480002",
+        "begin": "2016-07-11T16:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5058",
@@ -2441,6 +2543,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1480001",
+        "begin": "2016-07-11T15:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "5056",
         "begin": "2016-07-11T15:30:00.000Z",
@@ -2503,6 +2615,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10025131",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "174141"
       }
@@ -2524,6 +2646,16 @@
     "end": "2016-09-22T15:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1480013",
+        "begin": "2016-07-14T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5057",
@@ -2584,23 +2716,48 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhaqhpp",
+        "begin": "2016-07-17T11:15:57.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "183591"
       }
     ]
   },
   {
-    "title": "トランスフォーマーアドベンチャー -マイクロンの章-",
+    "title": "ONE PIECE FILM GOLD",
     "titleTranslate": {
-      "en": [
-        "TRANSFORMERS ADVENTURE"
+      "zh-Hans": [
+        "海贼王 黄金城"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://tf.takaratomy.co.jp/toy/search/adventure/anim.html",
-    "begin": "2016-07-03T00:00:00.000Z",
-    "end": "2016-10-02T00:30:00.000Z",
+    "officialSite": "http://www.onepiece-film2016.com/",
+    "begin": "2016-07-23T16:00:00.000Z",
+    "end": "2016-07-23T17:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr9tounc",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "144846"
+      }
+    ]
   }
 ]

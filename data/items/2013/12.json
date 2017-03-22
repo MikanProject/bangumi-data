@@ -3,7 +3,7 @@
     "title": "プピポー！",
     "titleTranslate": {
       "zh-Hans": [
-        "噗哔啵～来自未来～"
+        "噗哔啵 来自未来"
       ]
     },
     "lang": "ja",
@@ -55,6 +55,129 @@
       {
         "site": "bangumi",
         "id": "88441"
+      }
+    ]
+  },
+  {
+    "title": "ダブルサークル",
+    "titleTranslate": {
+      "en": [
+        "Double Circle"
+      ],
+      "zh-Hans": [
+        "Double Circle"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://doublecircle.toshiba-smartcommunity.com/",
+    "begin": "2013-12-19T16:00:00.000Z",
+    "end": "2014-09-25T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "9/98o6m42is63etn3",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "88540"
+      }
+    ]
+  },
+  {
+    "title": "熱風海陸ブシロード",
+    "titleTranslate": {
+      "en": [
+        "BUSHI ROAD"
+      ],
+      "zh-Hans": [
+        "热风海陆bushiroad"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://bushiroad-anime.com/",
+    "begin": "2013-12-31T16:00:00.000Z",
+    "end": "2013-12-31T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "6/6xn8j1a5ee9j0ev",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "78919"
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世VS名探偵コナン THE MOVIE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世VS名侦探柯南 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://lupicona-movie.com/",
+    "begin": "2013-12-07T16:00:00.000Z",
+    "end": "2013-12-07T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rri0uklo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "kankan",
+        "id": "75035",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10016100",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2014/lbss",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "71259"
       }
     ]
   }

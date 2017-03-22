@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ハートキャッチプリキュア！",
+    "titleTranslate": {
+      "en": [
+        "HEARTCATCH PRECURE!"
+      ],
+      "zh-Hans": [
+        "Heart Catch 光之美少女!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://asahi.co.jp/heartcatch_precure/",
+    "begin": "2010-02-06T23:30:00.000Z",
+    "end": "2011-01-30T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb14tx",
+        "begin": "2015-08-14T17:08:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4124"
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 the Last Job",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世：the Last Job"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "2010-02-12T16:00:00.000Z",
+    "end": "2010-02-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49313"
+      }
+    ]
+  },
+  {
+    "title": "ちーすい丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血丸"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "2010-02-06T16:00:00.000Z",
+    "end": "2010-11-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjtkzih",
+        "begin": "2012-12-14T06:06:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "7/7p6lgztb38ciaam",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1463012",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "46076"
+      }
+    ]
+  }
+]

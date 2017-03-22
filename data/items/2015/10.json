@@ -95,10 +95,11 @@
     "title": "ランス・アンド・マスクス",
     "titleTranslate": {
       "zh-Hans": [
-        "枪与假面舞会"
+        "枪与假面舞会",
+        "枪的假面舞会"
       ],
       "en": [
-        "Lance N'Masques"
+        "Lance N' Masques"
       ]
     },
     "lang": "ja",
@@ -500,7 +501,7 @@
     "title": "ミス・モノクローム -The Animation- 3",
     "titleTranslate": {
       "zh-Hans": [
-        "黑白小姐 第3期"
+        "黑白小姐 第三季"
       ],
       "en": [
         "Miss Monochrome -The Animation- 3"
@@ -542,10 +543,10 @@
     "title": "K RETURN OF KINGS",
     "titleTranslate": {
       "zh-Hans": [
-        "Ｋ RETURN OF KINGS"
+        "K 诸王归来"
       ],
       "en": [
-        "Ｋ RETURN OF KINGS"
+        "K RETURN OF KINGS"
       ]
     },
     "lang": "ja",
@@ -678,7 +679,7 @@
         "野良神 ARAGOTO"
       ],
       "en": [
-        "Noragami Aragoto"
+        "NORAGAMI ARAGOTO"
       ]
     },
     "lang": "ja",
@@ -721,7 +722,7 @@
     "title": "蒼穹のファフナー EXODUS(第2クール)",
     "titleTranslate": {
       "zh-Hans": [
-        "苍穹之法芙娜 EXODUS 后半"
+        "苍穹之法芙娜 EXODUS 第2期"
       ],
       "en": [
         "Soukyuu no Fafner Dead Aggressor - Exodus S2"
@@ -757,7 +758,8 @@
     "title": "学戦都市アスタリスク",
     "titleTranslate": {
       "zh-Hans": [
-        "学战都市 阿斯塔利斯克"
+        "学战都市 阿斯塔利斯克",
+        "学战都市Asterisk"
       ],
       "en": [
         "Gakusen Toshi Asterisk",
@@ -1028,10 +1030,6 @@
         "comment": ""
       },
       {
-        "site": "bangumi",
-        "id": "105075"
-      },
-      {
         "site": "saraba1st",
         "id": "1069689"
       }
@@ -1041,7 +1039,7 @@
     "title": "ハイキュー!! セカンドシーズン",
     "titleTranslate": {
       "zh-Hans": [
-        "排球少年 第二期"
+        "排球少年 第二季"
       ],
       "en": [
         "Haikyuu S2"
@@ -1186,7 +1184,7 @@
     "title": "小森さんは断れない！",
     "titleTranslate": {
       "zh-Hans": [
-        "小森同学拒绝不了"
+        "小森同学拒绝不了！"
       ],
       "en": [
         "Komori-san wa Kotowarenai"
@@ -1228,7 +1226,7 @@
     "title": "雨色ココア Rainy colorへようこそ！",
     "titleTranslate": {
       "zh-Hans": [
-        "雨色可可 欢迎来到Rainy color"
+        "雨色可可 欢迎来到Rainy color！"
       ],
       "en": [
         "Rainy cocoa Rainy color",
@@ -1271,7 +1269,8 @@
     "title": "温泉幼精ハコネちゃん",
     "titleTranslate": {
       "zh-Hans": [
-        "温泉幼精小箱根"
+        "温泉幼精小箱根",
+        "温泉幼精箱根酱"
       ],
       "en": [
         "Onsen Yousei Hakone-chan"
@@ -1423,7 +1422,8 @@
     "title": "機動戦士ガンダム 鉄血のオルフェンズ",
     "titleTranslate": {
       "zh-Hans": [
-        "机动战士高达 铁血的奥尔芬斯"
+        "机动战士高达 铁血的奥尔芬斯",
+        "机动战士高达 铁血的孤儿"
       ],
       "en": [
         "Mobile Suit Gundam Tekketsu no Orphans"
@@ -1575,7 +1575,8 @@
     "title": "進撃！巨人中学校",
     "titleTranslate": {
       "zh-Hans": [
-        "进击！巨人中学"
+        "进击！巨人中学",
+        "进击！巨人中学校"
       ],
       "en": [
         "Shingeki! Kyojin Chuugakkou"
@@ -1669,7 +1670,7 @@
     },
     "lang": "ja",
     "officialSite": "http://www.ntv.co.jp/pltv/",
-    "begin": "2015-10-03T16:55:00.000Z",
+    "begin": "2015-10-03T18:05:00.000Z",
     "end": "2015-12-19T18:55:00.000Z",
     "comment": "",
     "sites": [
@@ -1879,7 +1880,8 @@
     "title": "ゆるゆり さん☆ハイ！",
     "titleTranslate": {
       "zh-Hans": [
-        "搖曳百合 3☆High!"
+        "摇曳百合 3☆High!",
+        "摇曳百合 第三季"
       ],
       "en": [
         "YRYR TV ANIMATION SERIES SEASON THREE"
@@ -1945,7 +1947,8 @@
     "title": "新あたしンち",
     "titleTranslate": {
       "zh-Hans": [
-        "我们这一家 新篇"
+        "我们这一家 新篇",
+        "新我们这一家"
       ],
       "en": [
         "Shin Atashinchi"
@@ -1957,6 +1960,16 @@
     "end": "2016-04-05T10:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhary39",
+        "begin": "2016-07-13T08:52:11.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "2771",
@@ -2139,7 +2152,8 @@
     "title": "JKめし！",
     "titleTranslate": {
       "zh-Hans": [
-        "女高给你做饭"
+        "女高给你做饭",
+        "女高中生给你做饭了！"
       ],
       "en": [
         "JK-Meshi",
@@ -2182,7 +2196,8 @@
     "title": "俺がお嬢様学校に「庶民サンプル」としてゲッツ♥された件",
     "titleTranslate": {
       "zh-Hans": [
-        "关于我被绑架到贵族女校当“庶民样本”的事"
+        "关于我被绑架到贵族女校当“庶民样本”的事",
+        "我被绑架到贵族女校当“庶民样本”"
       ],
       "en": [
         "Ore ga Ojousama Gakkou ni 'Shomin Sample' Toshite Gets Sareta Ken"
@@ -2278,7 +2293,7 @@
     "title": "Dance with Devils",
     "titleTranslate": {
       "zh-Hans": [
-        "Dance with Devils"
+        "与魔共舞"
       ],
       "en": [
         "Dance with Devils"
@@ -2290,6 +2305,16 @@
     "end": "2015-12-23T15:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhatfop",
+        "begin": "2016-08-12T09:21:17.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "2746",
@@ -2652,7 +2677,8 @@
     "title": "すべてがFになる THE PERFECT INSIDER",
     "titleTranslate": {
       "zh-Hans": [
-        "全部成为F"
+        "全部成为F",
+        "全部成为F THE PERFECT INSIDER"
       ],
       "en": [
         "Subete ga F ni Naru: The Perfect Insider"
@@ -2784,6 +2810,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "158845",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "2760",
         "begin": "2015-10-15T18:00:00.000Z",
@@ -2805,13 +2841,13 @@
       },
       {
         "site": "pptv",
+        "id": "u5F7ibWHHN3XYVr4",
         "begin": "2015-10-15T18:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://v.pptv.com/show/u5F7ibWHHN3XYVr4.html?rcc_src=S1"
+        "comment": ""
       },
       {
         "site": "letv",
@@ -2867,7 +2903,8 @@
     "title": "ご注文はうさぎですか??",
     "titleTranslate": {
       "zh-Hans": [
-        "请问您今天要来点兔子吗 第2期"
+        "请问您今天要来点兔子吗？？",
+        "请问您今天要来点兔子吗 第二季"
       ],
       "en": [
         "Gochuumon wa Usagi Desuka 2",
@@ -2951,7 +2988,8 @@
     "title": "ヴァルキリードライヴ マーメイド",
     "titleTranslate": {
       "zh-Hans": [
-        "女武神驱动"
+        "女武神驱动",
+        "女武神驱动 MERMAID"
       ],
       "en": [
         "Valkyrie Drive Mermaid",
@@ -3001,6 +3039,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "166526",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "tudou",
         "id": "_YQwYxIgG6k",
         "begin": "2015-10-14T12:00:00.000Z",
@@ -3032,7 +3080,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2015/dhpgwdz/",
+        "id": "s2015/dhpgwdz",
         "begin": "2015-10-14T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -3225,7 +3273,7 @@
         "卡片战斗先导者G 齿轮危机篇"
       ],
       "en": [
-        "Cardfight Vanguard G: Gears Crisis-hen"
+        "CARDFIGHT!! Vanguard G GEARS CRISIS"
       ]
     },
     "lang": "ja",
@@ -3244,7 +3292,7 @@
     "title": "あにトレ！EX",
     "titleTranslate": {
       "zh-Hans": [
-        "动画锻炼 EX"
+        "动画锻炼！EX"
       ],
       "en": [
         "Anitore EX",
@@ -3257,6 +3305,16 @@
     "end": "2015-12-28T16:16:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "mgtv",
+        "id": "292433",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "2765",
@@ -3321,7 +3379,8 @@
     "title": "血液型くん！3",
     "titleTranslate": {
       "zh-Hans": [
-        "血型君 第3期"
+        "血型君3",
+        "血型君 第三季"
       ],
       "en": [
         "Ketsuekigata-kun 3"
@@ -3360,32 +3419,6 @@
     ]
   },
   {
-    "title": "To LOVEる-とらぶる-ダークネス 2nd 13話＆14話",
-    "titleTranslate": {
-      "zh-Hans": [
-        "出包王女 Darkness 2nd"
-      ],
-      "en": [
-        "To Love-ru Darkness 2nd"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.j-toloveru.com/",
-    "begin": "2015-10-28T18:40:00.000Z",
-    "end": "2015-10-28T18:40:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "120763"
-      },
-      {
-        "site": "saraba1st",
-        "id": "1133092"
-      }
-    ]
-  },
-  {
     "title": "ポケットモンスター XY＆Z",
     "titleTranslate": {
       "zh-Hans": [
@@ -3401,6 +3434,16 @@
     "end": "2016-11-10T10:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10024046",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "tucao",
         "id": "宠物小精灵XY",
@@ -3422,16 +3465,6 @@
     ]
   },
   {
-    "title": "PEANUTS スヌーピー-ショートアニメ-",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/peanuts/index2.html",
-    "begin": "2015-10-03T22:24:00.000Z",
-    "end": "2015-12-26T22:30:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "どちゃもん じゅにあ",
     "titleTranslate": {},
     "lang": "ja",
@@ -3439,13 +3472,21 @@
     "begin": "2015-10-05T09:45:00.000Z",
     "end": "2016-02-22T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209643"
+      }
+    ]
   },
   {
     "title": "おしりかじり虫(第4シリーズ)",
     "titleTranslate": {
       "en": [
         "bottom biting bug"
+      ],
+      "zh-Hans": [
+        "咬屁屁虫 第四季"
       ]
     },
     "lang": "ja",
@@ -3453,26 +3494,88 @@
     "begin": "2015-10-05T09:25:00.000Z",
     "end": "2015-12-07T09:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209653"
+      }
+    ]
   },
   {
     "title": "猫なんかよんでもこない。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "为什么猫都叫不来"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-osaka.co.jp/nekoyon/",
     "begin": "2015-10-02T15:54:00.000Z",
     "end": "2015-12-18T16:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148072"
+      }
+    ]
   },
   {
-    "title": "カード・バトルZERO",
-    "titleTranslate": {},
+    "title": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍蓝钢铁的琶音 Cadenza"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
-    "begin": "2015-10-25T10:30:00.000Z",
-    "end": "2016-01-17T11:00:00.000Z",
+    "officialSite": "http://www.aokihagane.com/",
+    "begin": "2015-10-03T16:00:00.000Z",
+    "end": "2015-10-03T17:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010542",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "107100"
+      }
+    ]
+  },
+  {
+    "title": "映画 Go! プリンセスプリキュア GO!GO!!豪華3本立て!!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Go! Princess 光之美少女：Go!Go!!豪华三合一!!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2015-10-31T16:00:00.000Z",
+    "end": "2015-10-31T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrkvw6mo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "138844"
+      }
+    ]
   }
 ]

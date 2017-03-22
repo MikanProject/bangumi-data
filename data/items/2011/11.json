@@ -1,0 +1,69 @@
+[
+  {
+    "title": "HIGH SCORE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HIGH SCORE"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ribon-highscore.com/",
+    "begin": "2011-11-28T11:56:00.000Z",
+    "end": "2012-01-30T12:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20113"
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 血の刻印 ～永遠のmermaid～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世：血之刻印 永远的Mermaid"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/",
+    "begin": "2011-12-02T16:00:00.000Z",
+    "end": "2011-12-02T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "24543"
+      }
+    ]
+  },
+  {
+    "title": "スクライド オルタレイション TAO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "分身战士 ALTERATION TAO"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.s-cry-ed.net/",
+    "begin": "2011-11-19T16:00:00.000Z",
+    "end": "2011-11-19T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk4e195",
+        "begin": "2012-11-30T16:00:37.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "24592"
+      }
+    ]
+  }
+]

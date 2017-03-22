@@ -3,7 +3,8 @@
     "title": "フューチャーカード バディファイト",
     "titleTranslate": {
       "zh-Hans": [
-        "未来卡 搭档对战"
+        "未来卡 搭档对战",
+        "未来之卡 同伴之战"
       ],
       "en": [
         "FUTURE CARD BUDDYFIGHT"
@@ -15,6 +16,16 @@
     "end": "2015-04-03T23:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "95313",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "222",
@@ -63,8 +74,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa219"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -76,7 +86,8 @@
     "title": "最近、妹のようすがちょっとおかしいんだが。",
     "titleTranslate": {
       "zh-Hans": [
-        "最近妹妹的样子有点怪"
+        "最近妹妹的样子有点怪",
+        "最近我的妹妹有点怪"
       ],
       "en": [
         "Recently, my sister is unusual."
@@ -99,16 +110,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-04T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/最近，妹妹的样子有点怪？"
-      },
-      {
         "site": "acfun",
         "id": "183",
         "begin": "2014-01-04T19:00:00.000Z",
@@ -116,8 +117,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa183"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -173,8 +173,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa188"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -190,6 +189,7 @@
     "title": "スペース☆ダンディ",
     "titleTranslate": {
       "zh-Hans": [
+        "太空丹迪",
         "Space☆Dandy"
       ],
       "en": [
@@ -211,16 +211,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-01-05T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/SPACE☆DANDY"
       },
       {
         "site": "acfun",
@@ -286,8 +276,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa186"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -370,8 +359,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa187"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -417,8 +405,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa182"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -493,16 +480,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/魔女的使命"
-      },
-      {
         "site": "acfun",
         "id": "176",
         "begin": "",
@@ -510,8 +487,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa176"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -559,7 +535,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgje7o1",
-        "begin": "",
+        "begin": "2014-04-09T22:48:52.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -578,7 +554,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/buddycomplex/",
+        "id": "s2014/buddycomplex",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -646,16 +622,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-05T17:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/天才麻将少女"
-      },
-      {
         "site": "acfun",
         "id": "190",
         "begin": "2014-01-05T17:05:00.000Z",
@@ -675,6 +641,7 @@
     "title": "となりの関くん",
     "titleTranslate": {
       "zh-Hans": [
+        "上课小动作",
         "邻座同学是怪咖"
       ]
     },
@@ -705,16 +672,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-05T21:15:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/上课小动作"
-      },
-      {
         "site": "acfun",
         "id": "189",
         "begin": "2014-01-05T21:15:00.000Z",
@@ -722,8 +679,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa189"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -752,8 +708,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/liange/index.shtml"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -829,8 +784,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa193"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -925,16 +879,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-06T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/属性同好会D-FRAGMENTS"
-      },
-      {
         "site": "acfun",
         "id": "198",
         "begin": "2014-01-06T17:35:00.000Z",
@@ -942,8 +886,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa198"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -992,7 +935,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2013/zeb2/",
+        "id": "s2013/zeb2",
         "begin": "2014-01-08T18:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1038,8 +981,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa202"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1088,6 +1030,7 @@
     "title": "ハマトラ THE ANIMATION",
     "titleTranslate": {
       "zh-Hans": [
+        "滨虎",
         "浜虎"
       ],
       "en": [
@@ -1121,16 +1064,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-07T17:10:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/浜虎"
-      },
-      {
         "site": "acfun",
         "id": "203",
         "begin": "2014-01-07T17:10:00.000Z",
@@ -1138,8 +1071,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa203"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1155,7 +1087,7 @@
     "title": "銀の匙 Silver Spoon(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "银之匙 2期"
+        "银之匙 Silver Spoon 第二季"
       ]
     },
     "lang": "ja",
@@ -1172,8 +1104,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/ginsaji/index.shtml"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -1193,8 +1124,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa207"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1260,8 +1190,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa206"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1307,16 +1236,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-09T17:20:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/Z%2FX%20IGNITION"
-      },
-      {
         "site": "acfun",
         "id": "218",
         "begin": "2014-01-09T17:20:00.000Z",
@@ -1324,8 +1243,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa218"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1398,8 +1316,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa211"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1421,8 +1338,18 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhbdhzd",
+        "begin": "2016-08-03T02:39:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
-        "id": "s2013/gddlc/",
+        "id": "s2013/gddlc",
         "begin": "2014-01-09T19:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1468,8 +1395,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa208"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1498,8 +1424,18 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhbd2bd",
+        "begin": "2016-08-05T07:17:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
-        "id": "s2013/mfzz/",
+        "id": "s2013/mfzz",
         "begin": "2014-01-09T20:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1525,8 +1461,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa209"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1553,7 +1488,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2013/trick/",
+        "id": "s2013/trick",
         "begin": "2014-01-09T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1599,8 +1534,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa214"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1666,8 +1600,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa212"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -1693,6 +1626,9 @@
     "title": "Wake Up, Girls!",
     "titleTranslate": {
       "zh-Hans": [
+        "Wake Up, Girls!"
+      ],
+      "en": [
         "Wake Up, Girls!"
       ]
     },
@@ -1723,16 +1659,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-10T16:53:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/WAKE%20UP%2CGIRLS%21"
-      },
-      {
         "site": "acfun",
         "id": "215",
         "begin": "2014-01-10T16:53:00.000Z",
@@ -1740,8 +1666,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa215"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1813,8 +1738,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa217"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1847,8 +1771,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/weilian/index.shtml"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -1868,8 +1791,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa221"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1902,12 +1824,11 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/sjzf/index.shtml"
+        "comment": ""
       },
       {
         "site": "sohu",
-        "id": "s2013/sjzf/",
+        "id": "s2013/sjzf",
         "begin": "2014-01-16T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1949,7 +1870,8 @@
     "title": "ウィザード・バリスターズ～弁魔士セシル",
     "titleTranslate": {
       "zh-Hans": [
-        "弁魔士塞西尔"
+        "弁魔士塞西尔",
+        "弁魔士圣知"
       ],
       "en": [
         "WIZARD BARRISTERS"
@@ -1963,23 +1885,13 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2013/wizardbarristers/",
+        "id": "s2013/wizardbarristers",
         "begin": "2014-01-12T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-01-12T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/WIZARD%20BARRISTERS弁魔士塞西尔"
       },
       {
         "site": "acfun",
@@ -1989,8 +1901,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa224"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2003,28 +1914,10 @@
     ]
   },
   {
-    "title": "犬猫アワー「47都道府犬R＆にゃ～めん」",
-    "titleTranslate": {
-      "zh-Hans": [
-        "猫时间47都道府犬R & 喵面"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.ntv.co.jp/inuneko/",
-    "begin": "2014-01-11T18:00:00.000Z",
-    "end": "2014-03-29T18:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "90899"
-      }
-    ]
-  },
-  {
     "title": "てさぐれ！部活もの あんこーる",
     "titleTranslate": {
       "zh-Hans": [
+        "摸索吧！部活剧 再来一个",
         "摸索吧！部活剧 Encore"
       ]
     },
@@ -2034,6 +1927,16 @@
     "end": "2014-03-29T19:50:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "qq",
+        "id": "a/ah9btl2q75qm71m",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "youku",
         "id": "d8ac33ca711211e3b8b7",
@@ -2072,8 +1975,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa223"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2085,6 +1987,7 @@
     "title": "いなり、こんこん、恋いろは。",
     "titleTranslate": {
       "zh-Hans": [
+        "稻荷恋之歌",
         "狐仙的恋爱入门"
       ]
     },
@@ -2102,8 +2005,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/huxian/index.shtml"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -2123,8 +2025,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa226"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2140,6 +2041,7 @@
     "title": "マケン姫っ！通",
     "titleTranslate": {
       "zh-Hans": [
+        "魔具少女！通",
         "魔剑姬! 通"
       ],
       "en": [
@@ -2164,16 +2066,6 @@
         "url": "http://comic.le.com/zt/mjj2/index.shtml"
       },
       {
-        "site": "bilibili",
-        "begin": "2014-01-15T18:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/魔具少女%20%21"
-      },
-      {
         "site": "acfun",
         "id": "227",
         "begin": "2014-01-15T18:00:00.000Z",
@@ -2181,8 +2073,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa227"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2192,19 +2083,81 @@
   },
   {
     "title": "GO!GO!575",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "GO!GO!575"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://gogo575.sega.jp/",
     "begin": "2014-01-09T16:25:00.000Z",
     "end": "2014-01-30T16:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "tudou",
+        "id": "7gCdfLVzEac",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "4d14916662e111e3b8b7",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "l/lek65108jsrrl4p",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "241",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "210",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "88039"
+      }
+    ]
   },
   {
     "title": "うーさーのその日暮らし 覚醒編",
     "titleTranslate": {
       "en": [
         "wooser's hand-to-mouth life"
+      ],
+      "zh-Hans": [
+        "兔宝的悲惨日常 觉醒篇"
       ]
     },
     "lang": "ja",
@@ -2212,36 +2165,164 @@
     "begin": "2014-01-07T16:35:00.000Z",
     "end": "2014-03-25T16:40:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "qq",
+        "id": "v/v78mvhukcdb4m6d",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "81847"
+      }
+    ]
   },
   {
     "title": "お姉ちゃんが来た",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "姐姐来了"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.takeshobo.co.jp/sp/tv_oneechan/",
     "begin": "2014-01-08T18:00:00.000Z",
     "end": "2014-03-26T18:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "qq",
+        "id": "9/9d2wr6l2d1o7d5z",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "85557"
+      }
+    ]
   },
   {
     "title": "めいたんていラスカル",
     "titleTranslate": {},
     "lang": "ja",
-    "officialSite": "http://www9.nhk.or.jp/anime/meitantei/",
+    "officialSite": "http://www.araiguma-rascal.com/meitantei/",
     "begin": "2014-01-08T23:55:00.000Z",
     "end": "2014-03-27T00:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "92424"
+      }
+    ]
   },
   {
     "title": "地下すぎアイドルあかえちゃん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "超地下偶像"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://web.music-ru.com/akaechan/",
     "begin": "2014-01-06T16:21:00.000Z",
     "end": "2014-03-31T16:51:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90840"
+      }
+    ]
+  },
+  {
+    "title": "47都道府犬R",
+    "titleTranslate": {
+      "zh-Hans": [
+        "47都道府犬R"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/inuneko/dog/",
+    "begin": "2014-01-11T18:45:00.000Z",
+    "end": "2014-03-29T18:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90899"
+      }
+    ]
+  },
+  {
+    "title": "にゃ～めん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫拉面"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/inuneko/cat/",
+    "begin": "2014-01-11T18:45:00.000Z",
+    "end": "2014-03-29T18:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93345"
+      }
+    ]
+  },
+  {
+    "title": "ロボットガールズZ",
+    "titleTranslate": {
+      "en": [
+        "ROBOT GIRLS Z"
+      ],
+      "zh-Hans": [
+        "机器人少女Z"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.robot-girlsz.com/",
+    "begin": "2014-01-04T15:50:00.000Z",
+    "end": "2015-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "92150",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "200",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "79350"
+      }
+    ]
   }
 ]

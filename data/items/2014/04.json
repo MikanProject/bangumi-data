@@ -16,6 +16,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb26ut",
+        "begin": "2015-09-02T05:50:24.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "91135"
       },
@@ -79,8 +89,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1241"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -143,8 +152,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/恶魔之谜"
+        "comment": ""
       },
       {
         "site": "acfun",
@@ -154,8 +162,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1132"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -167,7 +174,7 @@
     "title": "ジョジョの奇妙な冒険 スターダストクルセイダース",
     "titleTranslate": {
       "zh-Hans": [
-        "JOJO的奇妙冒险 第三部 Stardust Crusaders"
+        "JOJO的奇妙冒险 星尘斗士"
       ],
       "en": [
         "JOJO'S BIZARRE ADVENTURE STARDUST CRUSADERS"
@@ -180,19 +187,9 @@
     "comment": "",
     "sites": [
       {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/JOJO的奇妙冒险"
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb4yxl",
-        "begin": "",
+        "begin": "2015-08-05T06:49:50.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -207,8 +204,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa954"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -287,8 +283,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1110"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -315,7 +310,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/csxz/",
+        "id": "s2014/csxz",
         "begin": "2014-04-04T20:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -351,8 +346,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa184"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -368,7 +362,7 @@
     "title": "selector infected WIXOSS",
     "titleTranslate": {
       "zh-Hans": [
-        "选择感染者 WIXOSS"
+        "选择感染者WIXOSS"
       ]
     },
     "lang": "ja",
@@ -386,16 +380,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-04-03T18:49:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/选择感染者WIXOSS"
       },
       {
         "site": "acfun",
@@ -421,6 +405,7 @@
     "title": "ブレイドアンドソウル",
     "titleTranslate": {
       "zh-Hans": [
+        "剑灵",
         "洪门剑灵传说"
       ],
       "en": [
@@ -530,16 +515,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/监督不行届"
-      },
-      {
         "site": "acfun",
         "id": "1200",
         "begin": "",
@@ -547,8 +522,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1200"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -564,7 +538,7 @@
     "title": "星刻の竜騎士",
     "titleTranslate": {
       "zh-Hans": [
-        "星刻龙骑士"
+        "星刻的龙骑士"
       ]
     },
     "lang": "ja",
@@ -594,16 +568,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-04-05T14:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/星刻的龙骑士"
-      },
-      {
         "site": "acfun",
         "id": "1112",
         "begin": "2014-04-05T14:30:00.000Z",
@@ -611,8 +575,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1112"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -641,9 +604,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470050",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrhbz3g5",
-        "begin": "",
+        "begin": "2014-12-16T09:51:43.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -665,6 +638,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "迷你偶像 2期"
+      ],
+      "en": [
+        "PUCHIMAS!!-PETIT PETIT IDOLM@STER-"
       ]
     },
     "lang": "ja",
@@ -711,8 +687,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1106"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -758,8 +733,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1058"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -785,23 +759,13 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/jqjds/",
+        "id": "s2014/jqjds",
         "begin": "2014-04-05T10:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-04-05T10:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/健全机斗士"
       },
       {
         "site": "acfun",
@@ -811,8 +775,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1139"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -828,7 +791,7 @@
     "title": "FAIRY TAIL(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "妖精的尾巴 2期"
+        "妖精的尾巴 第二季"
       ],
       "en": [
         "FAIRY TAIL"
@@ -842,7 +805,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2011/yjdwb/",
+        "id": "s2011/yjdwb",
         "begin": "2014-04-05T06:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -864,7 +827,7 @@
     "title": "プリティーリズム・オールスターセレクション",
     "titleTranslate": {
       "zh-Hans": [
-        "美妙旋律All Star"
+        "美妙旋律 All Star Selection"
       ],
       "en": [
         "Pretty Rhythm All Star Selection"
@@ -897,16 +860,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/美妙旋律%20彩虹之梦"
-      },
-      {
         "site": "acfun",
         "id": "1262",
         "begin": "",
@@ -914,8 +867,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1262"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -987,8 +939,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1263"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1014,9 +965,9 @@
     "comment": "",
     "sites": [
       {
-        "site": "sohu",
-        "id": "s2014/jtysnr/",
-        "begin": "",
+        "site": "iqiyi",
+        "id": "a_19rrhb2729",
+        "begin": "2015-08-14T17:08:57.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1024,14 +975,14 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
+        "site": "sohu",
+        "id": "s2014/jtysnr",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/金田一少年之事件簿"
+        "comment": ""
       },
       {
         "site": "acfun",
@@ -1041,8 +992,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1140"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1064,16 +1014,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/吃豆人世界"
-      },
-      {
         "site": "bangumi",
         "id": "99145"
       }
@@ -1083,6 +1023,7 @@
     "title": "彼女がフラグをおられたら",
     "titleTranslate": {
       "zh-Hans": [
+        "如果她的旗帜被折断了",
         "如果折断她的旗"
       ]
     },
@@ -1101,16 +1042,6 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-04-06T22:45:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/如果她的旗帜被折断了"
       },
       {
         "site": "acfun",
@@ -1215,16 +1146,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-04-05T18:28:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/地球队长"
-      },
-      {
         "site": "acfun",
         "id": "1131",
         "begin": "2014-04-05T18:28:00.000Z",
@@ -1288,18 +1209,17 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1249"
+        "comment": ""
       },
       {
         "site": "tudou",
+        "id": "pCqPwSDgy7o",
         "begin": "2014-04-06T09:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.tudou.com/albumplay/pCqPwSDgy7o/seKx9H_UFBA.html"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1404,6 +1324,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "50943",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrgi8tcp",
         "begin": "2014-04-06T19:00:00.000Z",
@@ -1431,8 +1361,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1235"
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1488,7 +1417,7 @@
     "title": "一週間フレンズ。",
     "titleTranslate": {
       "zh-Hans": [
-        "一周的朋友"
+        "一周的朋友。"
       ],
       "en": [
         "ONE WEEK FRIENDS"
@@ -1528,8 +1457,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1118"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1559,7 +1487,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/jhdblxet/",
+        "id": "s2014/jhdblxet",
         "begin": "2014-04-06T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1569,13 +1497,13 @@
       },
       {
         "site": "bilibili",
+        "id": "4218",
         "begin": "2014-04-06T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/极黑的布伦希尔特"
+        "comment": ""
       },
       {
         "site": "acfun",
@@ -1585,8 +1513,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1136"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1672,8 +1599,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1124"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1788,16 +1714,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-04-05T20:50:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/尽管如此世界依然美丽"
-      },
-      {
         "site": "acfun",
         "id": "1141",
         "begin": "2014-04-05T20:50:00.000Z",
@@ -1841,13 +1757,13 @@
       },
       {
         "site": "bilibili",
+        "id": "3807",
         "begin": "2014-04-06T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/破刃之剑"
+        "comment": ""
       },
       {
         "site": "acfun",
@@ -1898,7 +1814,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb1cr1",
-        "begin": "",
+        "begin": "2015-08-14T17:02:30.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1913,8 +1829,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1243"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1942,22 +1857,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb274p",
-        "begin": "",
+        "begin": "2015-08-14T17:07:17.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/相扑力士松太郎"
       },
       {
         "site": "acfun",
@@ -1967,12 +1872,11 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1254"
+        "comment": ""
       },
       {
         "site": "sohu",
-        "id": "s2014/xplsstl/",
+        "id": "s2014/xplsstl",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -2042,16 +1946,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "bilibili",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/英雄银行"
-      },
-      {
         "site": "bangumi",
         "id": "92936"
       },
@@ -2062,7 +1956,7 @@
     ]
   },
   {
-    "title": "オレカバトル＆ドラゴンコレクション",
+    "title": "オレカバトル",
     "titleTranslate": {
       "zh-Hans": [
         "激战奥雷卡"
@@ -2078,9 +1972,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "2302",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrgi8f8t",
-        "begin": "",
+        "begin": "2014-04-10T01:47:42.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2117,7 +2021,8 @@
     "title": "ブラック・ブレット",
     "titleTranslate": {
       "zh-Hans": [
-        "漆黑的子弹"
+        "漆黑的子弹",
+        "黑色子弹"
       ],
       "en": [
         "BLACK BULLET"
@@ -2130,6 +2035,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10027930",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2014/hszd",
         "begin": "2014-04-08T19:00:00.000Z",
@@ -2140,16 +2055,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-04-08T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/漆黑的子弹"
-      },
-      {
         "site": "acfun",
         "id": "1105",
         "begin": "2014-04-08T19:00:00.000Z",
@@ -2157,8 +2062,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1105"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2214,8 +2118,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1282"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2231,6 +2134,7 @@
     "title": "マンガ家さんとアシスタントさんと",
     "titleTranslate": {
       "zh-Hans": [
+        "漫画家和助手",
         "漫画家与助手"
       ],
       "en": [
@@ -2254,16 +2158,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-04-07T19:18:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/漫画家与助手"
-      },
-      {
         "site": "acfun",
         "id": "1257",
         "begin": "2014-04-07T19:18:00.000Z",
@@ -2271,8 +2165,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1257"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2288,7 +2181,8 @@
     "title": "ノーゲーム・ノーライフ",
     "titleTranslate": {
       "zh-Hans": [
-        "游戏人生"
+        "游戏人生",
+        "NO GAME NO LIFE 游戏人生"
       ],
       "en": [
         "NO GAME NO LIFE"
@@ -2328,8 +2222,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1121"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2368,16 +2261,6 @@
         "comment": ""
       },
       {
-        "site": "bilibili",
-        "begin": "2014-04-08T17:10:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/噬魂师NOT！"
-      },
-      {
         "site": "acfun",
         "id": "1271",
         "begin": "2014-04-08T17:10:00.000Z",
@@ -2412,7 +2295,7 @@
     "sites": [
       {
         "site": "qq",
-        "id": "s/sdi5wn3om79wo2m",
+        "id": "f/f840je4tjtjnwio",
         "begin": "2014-04-09T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2438,8 +2321,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1134"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2455,7 +2337,7 @@
     "title": "エスカ＆ロジーのアトリエ ～黄昏の空の錬金術士～",
     "titleTranslate": {
       "zh-Hans": [
-        "艾斯卡与罗吉的工作室 黄昏之空的炼金术士"
+        "艾斯卡与罗吉的工作室～黄昏之空的炼金术士～"
       ],
       "en": [
         "Atelier Escha & Logy : Alchemists of the Dusk Sky"
@@ -2505,8 +2387,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1135"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2562,8 +2443,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1107"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2596,8 +2476,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/fengyun/index.shtml"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -2617,8 +2496,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1133"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2701,8 +2579,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1108"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2731,6 +2608,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1103",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "96105",
         "begin": "2014-04-10T16:30:00.000Z",
@@ -2738,8 +2625,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/pingpong/index.shtml"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -2831,8 +2717,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/777/index.shtml"
+        "comment": ""
       },
       {
         "site": "bilibili",
@@ -2868,7 +2753,7 @@
     "title": "デート・ア・ライブII",
     "titleTranslate": {
       "zh-Hans": [
-        "约会大作战Ⅱ"
+        "约会大作战 第二季"
       ],
       "en": [
         "DATE A LIVE"
@@ -2882,23 +2767,13 @@
     "sites": [
       {
         "site": "letv",
+        "id": "96100",
         "begin": "2014-04-11T18:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/datealive/index.shtml"
-      },
-      {
-        "site": "bilibili",
-        "begin": "2014-04-11T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/sp/约会大作战"
+        "comment": ""
       },
       {
         "site": "acfun",
@@ -2908,8 +2783,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.acfun.tv/a/aa1122"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2945,8 +2819,7 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/yangyan/index.shtml"
+        "comment": ""
       },
       {
         "site": "youku",
@@ -3002,7 +2875,8 @@
     "title": "M3-ソノ黒キ鋼-",
     "titleTranslate": {
       "zh-Hans": [
-        "M3 ~黑钢~"
+        "M3 ~黑钢~",
+        "M3～黑色之钢～"
       ]
     },
     "lang": "ja",
@@ -3011,6 +2885,16 @@
     "end": "2014-09-29T17:05:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10003394",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "iqiyi",
         "id": "a_19rrgi95ql",
@@ -3023,7 +2907,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/m3hg/",
+        "id": "s2014/m3hg",
         "begin": "2014-04-21T17:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -3065,7 +2949,7 @@
     "title": "GO‐GO たまごっち！",
     "titleTranslate": {
       "zh-Hans": [
-        " GOGO拓麻歌子 2期"
+        "GO-GO 拓麻歌子！"
       ],
       "en": [
         "GO‐GO Tamagotchi !"
@@ -3124,121 +3008,6 @@
     ]
   },
   {
-    "title": "聖闘士星矢 -黄金魂 soul of gold-",
-    "titleTranslate": {
-      "zh-Hans": [
-        "圣斗士星矢 黄金魂"
-      ],
-      "en": [
-        "Saint Seiya Soul of Gold"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://saintseiya-gold.com/",
-    "begin": "2014-04-10T15:00:00.000Z",
-    "end": "2014-09-10T15:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "acfun",
-        "id": "1470265",
-        "begin": "2014-04-11T01:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhaz605",
-        "begin": "2014-04-11T01:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "tucao",
-        "id": "圣斗士星矢+黄金魂",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "116716"
-      },
-      {
-        "site": "saraba1st",
-        "id": "1094185"
-      }
-    ]
-  },
-  {
-    "title": "フューチャーカード バディファイト100",
-    "titleTranslate": {
-      "zh-Hans": [
-        "未来卡搭档对战100"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.tv-aichi.co.jp/fc-buddyfight100/",
-    "begin": "2014-04-10T23:00:00.000Z",
-    "end": "2016-03-26T23:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "youku",
-        "id": "0a14b8a862d411e3a705",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "qq",
-        "id": "g/gkvdkxuaepreo2m",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "0yYeCeFSZDo",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "2642",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "127138"
-      }
-    ]
-  },
-  {
     "title": "超爆裂異次元メンコバトル ギガントシューター つかさ",
     "titleTranslate": {},
     "lang": "ja",
@@ -3246,23 +3015,40 @@
     "begin": "2014-04-01T09:45:00.000Z",
     "end": "2015-02-10T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101265"
+      }
+    ]
   },
   {
     "title": "くつだる。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京妖怪图鉴"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.nhk.or.jp/anime/kutsudaru/",
     "begin": "2014-04-02T09:45:00.000Z",
     "end": "2015-09-16T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "97122"
+      }
+    ]
   },
   {
     "title": "デュエル・マスターズ VS",
     "titleTranslate": {
       "en": [
         "DUEL MASTERS VERSUS"
+      ],
+      "zh-Hans": [
+        "决斗大师VS"
       ]
     },
     "lang": "ja",
@@ -3270,7 +3056,12 @@
     "begin": "2014-04-04T23:30:00.000Z",
     "end": "2015-03-28T00:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175430"
+      }
+    ]
   },
   {
     "title": "カリーノ・コニ",
@@ -3284,36 +3075,258 @@
     "begin": "2014-04-01T16:55:00.000Z",
     "end": "2014-09-30T16:40:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101287"
+      }
+    ]
   },
   {
     "title": "秘密結社 鷹の爪 エクストリーム",
     "titleTranslate": {},
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://xn--u9j429qiq1a.jp/",
     "begin": "2014-04-11T09:20:00.000Z",
     "end": "2015-03-06T09:55:00.000Z",
     "comment": "",
     "sites": []
   },
   {
-    "title": "ロボカーポリー(第2期)",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2014-04-01T22:30:00.000Z",
-    "end": "2014-09-23T23:00:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "猫のダヤン",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫咪达洋"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://anime-dayan.com/",
     "begin": "2014-04-25T22:00:00.000Z",
     "end": "2015-04-24T22:05:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101269"
+      }
+    ]
+  },
+  {
+    "title": "Go!Go!家電男子 シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GO！GO！家电男子2"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://kadendanshi.com/",
+    "begin": "2014-04-29T08:59:00.000Z",
+    "end": "2014-04-29T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102554"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスター XY特別編 最強メガシンカ～ActIII～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦XY特别篇 最强Mega进化"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy_me/",
+    "begin": "2014-04-03T16:00:00.000Z",
+    "end": "2015-10-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99889"
+      }
+    ]
+  },
+  {
+    "title": "ワールドフールニュース",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://www.gtv.co.jp/program/animation/wfn/",
+    "begin": "2014-04-24T16:00:00.000Z",
+    "end": "2014-07-03T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121818"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンコレクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙收藏"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/oreca_dracolle/dracolle/",
+    "begin": "2014-04-07T16:00:00.000Z",
+    "end": "2015-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgi8fd5",
+        "begin": "2014-04-10T01:47:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10002886",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1464596",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "94896"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 决一胜负！逆袭的机器人爸爸"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2014-04-19T16:00:00.000Z",
+    "end": "2014-04-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "p/plnzrinrw3t18n0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "92412"
+      }
+    ]
+  },
+  {
+    "title": "そらのおとしものFinal 永遠の私の鳥籠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天降之物Final 永远的我的鸟笼"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://kadokawa-anime.jp/soraoto/",
+    "begin": "2014-04-26T16:00:00.000Z",
+    "end": "2014-04-26T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "f/f6i0p8c0vb9qohn",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "86445"
+      }
+    ]
+  },
+  {
+    "title": "史上最強の弟子ケンイチ ～闇の襲撃～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "史上最强弟子兼一 暗之袭击"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kenichianime.com/",
+    "begin": "2014-04-08T16:00:00.000Z",
+    "end": "2014-06-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbysup",
+        "begin": "2014-11-17T09:24:57.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "99906"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 異次元の狙撃手",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 异次元的狙击手"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2014-04-19T16:00:00.000Z",
+    "end": "2014-04-19T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "89279"
+      }
+    ]
   }
 ]
