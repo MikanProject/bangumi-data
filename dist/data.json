@@ -21510,29 +21510,6 @@
     {
       "id": "2015_movie_3",
       "animeType": "TV",
-      "title": "ガールズ&amp;パンツァー 劇場版",
-      "titleTranslate": {
-        "zh-Hans": [
-          "少女与战车 剧场版"
-        ]
-      },
-      "lang": "ja",
-      "officialSite": "http://girls-und-panzer.jp/",
-      "begin": "2015-05-27T00:00:00",
-      "end": "2015-06-26T00:00:00",
-      "releaseDate": "2015-11-21T00:00:00",
-      "bdReleaseDate": "2015-05-27T00:00:00",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "72266"
-        }
-      ]
-    },
-    {
-      "id": "2015_movie_4",
-      "animeType": "TV",
       "title": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」",
       "titleTranslate": {
         "zh-Hans": [
@@ -21554,7 +21531,7 @@
       ]
     },
     {
-      "id": "2015_movie_5",
+      "id": "2015_movie_4",
       "animeType": "TV",
       "title": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- DC",
       "titleTranslate": {
@@ -21577,12 +21554,12 @@
       ]
     },
     {
-      "id": "2015_movie_6",
+      "id": "2015_movie_5",
       "animeType": "TV",
       "title": "劇場版 PSYCHO-PASS サイコパス",
       "titleTranslate": {
         "zh-Hans": [
-          "心理测量者 剧场版 世界篇"
+          "剧场版 PSYCHO-PASS 心理测量者"
         ]
       },
       "lang": "ja",
@@ -21600,7 +21577,7 @@
       ]
     },
     {
-      "id": "2015_movie_7",
+      "id": "2015_movie_6",
       "animeType": "TV",
       "title": "映画 プリキュアオールスターズ 春のカーニバル♪",
       "titleTranslate": {
@@ -21623,12 +21600,12 @@
       ]
     },
     {
-      "id": "2015_movie_8",
+      "id": "2015_movie_7",
       "animeType": "TV",
-      "title": "映画ドラえもん のび太の宇宙英雄記",
+      "title": "ドラえもん のび太の宇宙英雄記",
       "titleTranslate": {
         "zh-Hans": [
-          "哆啦A梦剧场版 大雄的宇宙英雄记"
+          "哆啦A梦 大雄的宇宙英雄记"
         ]
       },
       "lang": "ja",
@@ -21646,7 +21623,7 @@
       ]
     },
     {
-      "id": "2015_movie_9",
+      "id": "2015_movie_8",
       "animeType": "TV",
       "title": "花とアリス 殺人事件",
       "titleTranslate": {
@@ -21669,7 +21646,7 @@
       ]
     },
     {
-      "id": "2015_movie_10",
+      "id": "2015_movie_9",
       "animeType": "TV",
       "title": "劇場版プリパラ み～んなあつまれ！プリズム☆ツアーズ",
       "titleTranslate": {
@@ -21692,7 +21669,7 @@
       ]
     },
     {
-      "id": "2015_movie_11",
+      "id": "2015_movie_10",
       "animeType": "TV",
       "title": "劇場版 ハイキュー!! 終わりと始まり",
       "titleTranslate": {
@@ -21715,30 +21692,7 @@
       ]
     },
     {
-      "id": "2015_movie_12",
-      "animeType": "TV",
-      "title": "境界の彼方 -I'LL BE HERE- 未来篇",
-      "titleTranslate": {
-        "zh-Hans": [
-          "境界的彼方 -I'LL BE HERE- 未来篇"
-        ]
-      },
-      "lang": "ja",
-      "officialSite": "http://anime-kyokai.com/",
-      "begin": "2015-10-07T00:00:00",
-      "end": "2015-11-06T00:00:00",
-      "releaseDate": "2015-04-25T00:00:00",
-      "bdReleaseDate": "2015-10-07T00:00:00",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "118908"
-        }
-      ]
-    },
-    {
-      "id": "2015_movie_13",
+      "id": "2015_movie_11",
       "animeType": "TV",
       "title": "攻殻機動隊 新劇場版",
       "titleTranslate": {
@@ -21761,7 +21715,7 @@
       ]
     },
     {
-      "id": "2015_movie_14",
+      "id": "2015_movie_12",
       "animeType": "TV",
       "title": "コードギアス 亡国のアキト 第4章「憎しみの記憶から」",
       "titleTranslate": {
@@ -21784,7 +21738,7 @@
       ]
     },
     {
-      "id": "2015_movie_15",
+      "id": "2015_movie_13",
       "animeType": "TV",
       "title": "Wake Up, Girls! 青春の影",
       "titleTranslate": {
@@ -21807,7 +21761,7 @@
       ]
     },
     {
-      "id": "2015_movie_16",
+      "id": "2015_movie_14",
       "animeType": "TV",
       "title": "新劇場版 頭文字D Legend2 -闘走-",
       "titleTranslate": {
@@ -21830,7 +21784,7 @@
       ]
     },
     {
-      "id": "2015_movie_17",
+      "id": "2015_movie_15",
       "animeType": "TV",
       "title": "クレヨンしんちゃん オラの引越し物語 サボテン大襲撃",
       "titleTranslate": {
@@ -21853,7 +21807,30 @@
       ]
     },
     {
-      "id": "2015_movie_18",
+      "id": "2015_movie_16",
+      "animeType": "TV",
+      "title": "境界の彼方 -I'LL BE HERE- 未来篇",
+      "titleTranslate": {
+        "zh-Hans": [
+          "境界的彼方 -I'LL BE HERE- 未来篇"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://anime-kyokai.com/",
+      "begin": "2015-11-06T00:00:00",
+      "end": "2015-12-06T00:00:00",
+      "releaseDate": "2015-04-25T00:00:00",
+      "bdReleaseDate": "2015-11-06T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "118908"
+        }
+      ]
+    },
+    {
+      "id": "2015_movie_17",
       "animeType": "TV",
       "title": "名探偵コナン 業火の向日葵",
       "titleTranslate": {
@@ -21876,7 +21853,7 @@
       ]
     },
     {
-      "id": "2015_movie_19",
+      "id": "2015_movie_18",
       "animeType": "TV",
       "title": "それいけ！アンパンマン ミージャと魔法のランプ",
       "titleTranslate": {
@@ -21899,7 +21876,7 @@
       ]
     },
     {
-      "id": "2015_movie_20",
+      "id": "2015_movie_19",
       "animeType": "TV",
       "title": "百日紅 ～Miss HOKUSAI～",
       "titleTranslate": {
@@ -21918,6 +21895,29 @@
         {
           "site": "bangumi",
           "id": "102774"
+        }
+      ]
+    },
+    {
+      "id": "2015_movie_20",
+      "animeType": "TV",
+      "title": "ラブライブ! The School Idol Movie",
+      "titleTranslate": {
+        "zh-Hans": [
+          "Love Live! 剧场版"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.lovelive-anime.jp",
+      "begin": "2015-12-15T00:00:00",
+      "end": "2016-01-14T00:00:00",
+      "releaseDate": "2015-06-13T00:00:00",
+      "bdReleaseDate": "2015-12-15T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "107199"
         }
       ]
     },
@@ -35853,7 +35853,7 @@
       "title": "Wake Up, Girls! Beyond the Bottom",
       "titleTranslate": {
         "zh-Hans": [
-          "Wake Up, Girls! Beyond the Bottom"
+          "Wake Up, Girls! 超越深限"
         ]
       },
       "lang": "ja",
@@ -35903,7 +35903,7 @@
         ]
       },
       "lang": "ja",
-      "officialSite": "",
+      "officialSite": "http://yowapeda-movie.com/",
       "begin": "2016-02-17T00:00:00",
       "end": "2016-03-18T00:00:00",
       "releaseDate": "2015-08-28T00:00:00",
@@ -36195,6 +36195,29 @@
     {
       "id": "2016_movie_18",
       "animeType": "TV",
+      "title": "ガールズ&amp;パンツァー 劇場版",
+      "titleTranslate": {
+        "zh-Hans": [
+          "少女与战车 剧场版"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://girls-und-panzer.jp/",
+      "begin": "2016-05-27T00:00:00",
+      "end": "2016-06-26T00:00:00",
+      "releaseDate": "2015-11-21T00:00:00",
+      "bdReleaseDate": "2016-05-27T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "72266"
+        }
+      ]
+    },
+    {
+      "id": "2016_movie_19",
+      "animeType": "TV",
       "title": "KING OF PRISM by PrettyRhythm",
       "titleTranslate": {
         "zh-Hans": [
@@ -36216,7 +36239,7 @@
       ]
     },
     {
-      "id": "2016_movie_19",
+      "id": "2016_movie_20",
       "animeType": "TV",
       "title": "新劇場版 頭文字D Legend3 -夢現-",
       "titleTranslate": {
@@ -36239,7 +36262,7 @@
       ]
     },
     {
-      "id": "2016_movie_20",
+      "id": "2016_movie_21",
       "animeType": "TV",
       "title": "機動戦士ガンダム サンダーボルト DECEMBER SKY",
       "titleTranslate": {
@@ -36262,7 +36285,7 @@
       ]
     },
     {
-      "id": "2016_movie_21",
+      "id": "2016_movie_22",
       "animeType": "TV",
       "title": "BORUTO -NARUTO THE MOVIE-",
       "titleTranslate": {
@@ -36285,7 +36308,7 @@
       ]
     },
     {
-      "id": "2016_movie_22",
+      "id": "2016_movie_23",
       "animeType": "TV",
       "title": "映画 妖怪ウォッチ エンマ大王と5つの物語だニャン！",
       "titleTranslate": {
@@ -36308,7 +36331,7 @@
       ]
     },
     {
-      "id": "2016_movie_23",
+      "id": "2016_movie_24",
       "animeType": "TV",
       "title": "映画 ハイ☆スピード！－Free! Starting Days－",
       "titleTranslate": {
@@ -36331,7 +36354,7 @@
       ]
     },
     {
-      "id": "2016_movie_24",
+      "id": "2016_movie_25",
       "animeType": "TV",
       "title": "映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法!",
       "titleTranslate": {
@@ -36354,7 +36377,7 @@
       ]
     },
     {
-      "id": "2016_movie_25",
+      "id": "2016_movie_26",
       "animeType": "TV",
       "title": "アクセル・ワールド INFINITE∞BURST",
       "titleTranslate": {
@@ -36377,7 +36400,7 @@
       ]
     },
     {
-      "id": "2016_movie_26",
+      "id": "2016_movie_27",
       "animeType": "TV",
       "title": "傷物語I 鉄血篇",
       "titleTranslate": {
@@ -36400,7 +36423,7 @@
       ]
     },
     {
-      "id": "2016_movie_27",
+      "id": "2016_movie_28",
       "animeType": "TV",
       "title": "PERSONA3 THE MOVIE #4 Winter of Rebirth",
       "titleTranslate": {
@@ -36423,7 +36446,7 @@
       ]
     },
     {
-      "id": "2016_movie_28",
+      "id": "2016_movie_29",
       "animeType": "TV",
       "title": "ドラえもん 新・のび太の日本誕生",
       "titleTranslate": {
@@ -36446,7 +36469,7 @@
       ]
     },
     {
-      "id": "2016_movie_29",
+      "id": "2016_movie_30",
       "animeType": "TV",
       "title": "ちびまる子ちゃん イタリアから来た少年",
       "titleTranslate": {
@@ -36469,7 +36492,7 @@
       ]
     },
     {
-      "id": "2016_movie_30",
+      "id": "2016_movie_31",
       "animeType": "TV",
       "title": "劇場版 selector destructed WIXOSS",
       "titleTranslate": {
@@ -36492,7 +36515,7 @@
       ]
     },
     {
-      "id": "2016_movie_31",
+      "id": "2016_movie_32",
       "animeType": "TV",
       "title": "劇場版 響け！ユーフォニアム〜北宇治高校吹奏楽部へようこそ〜",
       "titleTranslate": {
@@ -36515,7 +36538,7 @@
       ]
     },
     {
-      "id": "2016_movie_32",
+      "id": "2016_movie_33",
       "animeType": "TV",
       "title": "デジモンアドベンチャー tri. 第3章「告白」",
       "titleTranslate": {
@@ -36538,7 +36561,7 @@
       ]
     },
     {
-      "id": "2016_movie_33",
+      "id": "2016_movie_34",
       "animeType": "TV",
       "title": "黒子のバスケ ウインターカップ総集編 ～影と光～",
       "titleTranslate": {
@@ -36561,9 +36584,9 @@
       ]
     },
     {
-      "id": "2016_movie_34",
+      "id": "2016_movie_35",
       "animeType": "TV",
-      "title": "劇場版 プリパラ み～んなのあこがれ♪レッツゴー☆プリパリ",
+      "title": "映画プリパラ み～んなのあこがれ♪レッツゴー☆プリパリ",
       "titleTranslate": {
         "zh-Hans": [
           "美妙天堂剧场版 大～家的憧憬♪出发吧☆美妙巴黎"
@@ -36584,7 +36607,7 @@
       ]
     },
     {
-      "id": "2016_movie_35",
+      "id": "2016_movie_36",
       "animeType": "TV",
       "title": "名探偵コナン 純黒の悪夢",
       "titleTranslate": {
@@ -36607,7 +36630,7 @@
       ]
     },
     {
-      "id": "2016_movie_36",
+      "id": "2016_movie_37",
       "animeType": "TV",
       "title": "ずっと前から好きでした。～告白実行委員会～",
       "titleTranslate": {
@@ -36630,7 +36653,7 @@
       ]
     },
     {
-      "id": "2016_movie_37",
+      "id": "2016_movie_38",
       "animeType": "TV",
       "title": "黒子のバスケ ウインターカップ総集編 ～淚の先へ～",
       "titleTranslate": {
@@ -36653,7 +36676,7 @@
       ]
     },
     {
-      "id": "2016_movie_38",
+      "id": "2016_movie_39",
       "animeType": "TV",
       "title": "クレヨンしんちゃん 爆睡！ユメミーワールド大突撃",
       "titleTranslate": {
@@ -36676,7 +36699,7 @@
       ]
     },
     {
-      "id": "2016_movie_39",
+      "id": "2016_movie_40",
       "animeType": "TV",
       "title": "カラフル忍者いろまき",
       "titleTranslate": {
@@ -36699,7 +36722,7 @@
       ]
     },
     {
-      "id": "2016_movie_40",
+      "id": "2016_movie_41",
       "animeType": "TV",
       "title": "弱虫ペダル SPARE BIKE",
       "titleTranslate": {
@@ -36722,7 +36745,7 @@
       ]
     },
     {
-      "id": "2016_movie_41",
+      "id": "2016_movie_42",
       "animeType": "TV",
       "title": "ゼーガペイン ADP",
       "titleTranslate": {
@@ -36745,7 +36768,7 @@
       ]
     },
     {
-      "id": "2016_movie_42",
+      "id": "2016_movie_43",
       "animeType": "TV",
       "title": "探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
       "titleTranslate": {
@@ -36768,7 +36791,7 @@
       ]
     },
     {
-      "id": "2016_movie_43",
+      "id": "2016_movie_44",
       "animeType": "TV",
       "title": "牙狼〈GARO〉-DIVINE FLAME-",
       "titleTranslate": {
@@ -36791,7 +36814,7 @@
       ]
     },
     {
-      "id": "2016_movie_44",
+      "id": "2016_movie_45",
       "animeType": "TV",
       "title": "ポケモン・ザ・ムービーXY＆Z ボルケニオンと機巧のマギアナ",
       "titleTranslate": {
@@ -36814,7 +36837,7 @@
       ]
     },
     {
-      "id": "2016_movie_45",
+      "id": "2016_movie_46",
       "animeType": "TV",
       "title": "シンドバッド",
       "titleTranslate": {
@@ -36837,7 +36860,7 @@
       ]
     },
     {
-      "id": "2016_movie_46",
+      "id": "2016_movie_47",
       "animeType": "TV",
       "title": "風のように",
       "titleTranslate": {
@@ -36860,7 +36883,7 @@
       ]
     },
     {
-      "id": "2016_movie_47",
+      "id": "2016_movie_48",
       "animeType": "TV",
       "title": "傷物語II 熱血篇",
       "titleTranslate": {
@@ -36883,7 +36906,7 @@
       ]
     },
     {
-      "id": "2016_movie_48",
+      "id": "2016_movie_49",
       "animeType": "TV",
       "title": "黒子のバスケ ウインターカップ総集編 ～扉の向こう～",
       "titleTranslate": {
@@ -36906,53 +36929,7 @@
       ]
     },
     {
-      "id": "2016_movie_49",
-      "animeType": "TV",
-      "title": "傷物語III 冷血篇",
-      "titleTranslate": {
-        "zh-Hans": [
-          "伤物语III 冷血篇"
-        ]
-      },
-      "lang": "ja",
-      "officialSite": "http://www.kizumonogatari-movie.com/",
-      "begin": "2016-12-23T00:00:00",
-      "end": "2017-01-22T00:00:00",
-      "releaseDate": "2017-01-06T00:00:00",
-      "bdReleaseDate": "2016-12-23T00:00:00",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "148037"
-        }
-      ]
-    },
-    {
       "id": "2016_movie_50",
-      "animeType": "TV",
-      "title": "亜人 -衝突-",
-      "titleTranslate": {
-        "zh-Hans": [
-          "亚人 -冲突-"
-        ]
-      },
-      "lang": "ja",
-      "officialSite": "http://www.ajin.net/",
-      "begin": "2016-12-28T00:00:00",
-      "end": "2017-01-27T00:00:00",
-      "releaseDate": "2016-05-06T00:00:00",
-      "bdReleaseDate": "2016-12-28T00:00:00",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "136225"
-        }
-      ]
-    },
-    {
-      "id": "2016_movie_51",
       "animeType": "TV",
       "title": "ONE PIECE FILM GOLD",
       "titleTranslate": {
@@ -45607,7 +45584,7 @@
     {
       "id": "2017_movie_1",
       "animeType": "TV",
-      "title": "劇場版 アイカツスターズ！",
+      "title": "劇場版アイカツスターズ!",
       "titleTranslate": {
         "zh-Hans": [
           "剧场版 偶像活动Stars"
@@ -45630,6 +45607,29 @@
     {
       "id": "2017_movie_2",
       "animeType": "TV",
+      "title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+      "titleTranslate": {
+        "zh-Hans": [
+          "鲁邦三世 血烟的石川五右卫门"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://goemon-ishikawa.com/",
+      "begin": "2017-02-04T00:00:00",
+      "end": "2017-03-06T00:00:00",
+      "releaseDate": "2017-02-04T00:00:00",
+      "bdReleaseDate": "2017-02-04T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "192442"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_3",
+      "animeType": "TV",
       "title": "GANTZ:O",
       "titleTranslate": {
         "zh-Hans": [
@@ -45651,7 +45651,7 @@
       ]
     },
     {
-      "id": "2017_movie_3",
+      "id": "2017_movie_4",
       "animeType": "TV",
       "title": "orange -未来-",
       "titleTranslate": {
@@ -45674,7 +45674,7 @@
       ]
     },
     {
-      "id": "2017_movie_4",
+      "id": "2017_movie_5",
       "animeType": "TV",
       "title": "planetarian～星の人～",
       "titleTranslate": {
@@ -45697,7 +45697,7 @@
       ]
     },
     {
-      "id": "2017_movie_5",
+      "id": "2017_movie_6",
       "animeType": "TV",
       "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第一章",
       "titleTranslate": {
@@ -45720,7 +45720,7 @@
       ]
     },
     {
-      "id": "2017_movie_6",
+      "id": "2017_movie_7",
       "animeType": "TV",
       "title": "デジモンアドベンチャー tri. 第4章「喪失」",
       "titleTranslate": {
@@ -45743,7 +45743,30 @@
       ]
     },
     {
-      "id": "2017_movie_7",
+      "id": "2017_movie_8",
+      "animeType": "TV",
+      "title": "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
+      "titleTranslate": {
+        "zh-Hans": [
+          "剧场版 七人魔法使 -悠久图书馆与炼金术少女-"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://movie.trinity-7.com/",
+      "begin": "2017-02-25T00:00:00",
+      "end": "2017-03-27T00:00:00",
+      "releaseDate": "2017-02-25T00:00:00",
+      "bdReleaseDate": "2017-02-25T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "186570"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_9",
       "animeType": "TV",
       "title": "きんいろモザイク Pretty Days",
       "titleTranslate": {
@@ -45766,7 +45789,7 @@
       ]
     },
     {
-      "id": "2017_movie_8",
+      "id": "2017_movie_10",
       "animeType": "TV",
       "title": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
       "titleTranslate": {
@@ -45789,7 +45812,7 @@
       ]
     },
     {
-      "id": "2017_movie_9",
+      "id": "2017_movie_11",
       "animeType": "TV",
       "title": "暗殺教室 365日の時間",
       "titleTranslate": {
@@ -45812,25 +45835,117 @@
       ]
     },
     {
-      "id": "2017_movie_10",
+      "id": "2017_movie_12",
       "animeType": "TV",
-      "title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+      "title": "亜人 -衝突-",
       "titleTranslate": {
         "zh-Hans": [
-          "鲁邦三世 血烟的石川五右卫门"
+          "亚人 -冲突-"
         ]
       },
       "lang": "ja",
-      "officialSite": "http://goemon-ishikawa.com/",
-      "begin": "2017-05-26T00:00:00",
-      "end": "2017-06-25T00:00:00",
-      "releaseDate": "2017-02-04T00:00:00",
-      "bdReleaseDate": "2017-05-26T00:00:00",
+      "officialSite": "http://www.ajin.net/",
+      "begin": "2017-03-22T00:00:00",
+      "end": "2017-04-21T00:00:00",
+      "releaseDate": "2016-05-06T00:00:00",
+      "bdReleaseDate": "2017-03-22T00:00:00",
       "comment": "",
       "sites": [
         {
           "site": "bangumi",
-          "id": "192442"
+          "id": "136225"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_13",
+      "animeType": "TV",
+      "title": "聲の形",
+      "titleTranslate": {
+        "zh-Hans": [
+          "声之形"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://koenokatachi-movie.com/",
+      "begin": "2017-05-17T00:00:00",
+      "end": "2017-06-16T00:00:00",
+      "releaseDate": "2016-09-17T00:00:00",
+      "bdReleaseDate": "2017-05-17T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "117777"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_14",
+      "animeType": "TV",
+      "title": "ポッピンQ",
+      "titleTranslate": {
+        "zh-Hans": [
+          "POP IN Q"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.popin-q.com",
+      "begin": "2017-06-02T00:00:00",
+      "end": "2017-07-02T00:00:00",
+      "releaseDate": "2016-12-23T00:00:00",
+      "bdReleaseDate": "2017-06-02T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "126185"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_15",
+      "animeType": "TV",
+      "title": "好きになるその瞬間を。～告白実行委員会～",
+      "titleTranslate": {
+        "zh-Hans": [
+          "喜欢上你的那个瞬间。～告白实行委员会～"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.honeyworks-movie.jp/",
+      "begin": "2017-06-21T00:00:00",
+      "end": "2017-07-21T00:00:00",
+      "releaseDate": "2016-12-17T00:00:00",
+      "bdReleaseDate": "2017-06-21T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "175543"
+        }
+      ]
+    },
+    {
+      "id": "2017_movie_16",
+      "animeType": "TV",
+      "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第二章",
+      "titleTranslate": {
+        "zh-Hans": [
+          "宇宙战舰大和号2202 爱的战士们 第二章"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://yamato2202.net/",
+      "begin": "2017-06-24T00:00:00",
+      "end": "2017-07-24T00:00:00",
+      "releaseDate": "2017-06-24T00:00:00",
+      "bdReleaseDate": "2017-06-24T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "192151"
         }
       ]
     },
@@ -45849,6 +45964,29 @@
       "end": "2017-04-09T00:00:00",
       "releaseDate": "2017-02-04T00:00:00",
       "bdReleaseDate": "2017-03-10T00:00:00",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "172518"
+        }
+      ]
+    },
+    {
+      "id": "2017_ova_1",
+      "animeType": "TV",
+      "title": "魔法使いの嫁 星待つひと",
+      "titleTranslate": {
+        "zh-Hans": [
+          "魔法使的新娘 OAD"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://magus-bride.jp/",
+      "begin": "2017-09-09T00:00:00",
+      "end": "2017-10-09T00:00:00",
+      "releaseDate": "2017-08-19T00:00:00",
+      "bdReleaseDate": "2017-09-09T00:00:00",
       "comment": "",
       "sites": [
         {

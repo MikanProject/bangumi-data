@@ -21,7 +21,7 @@
     ]
   },
   {
-    "title": "劇場版 アイカツスターズ！",
+    "title": "劇場版アイカツスターズ!",
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 偶像活动Stars"
@@ -38,6 +38,27 @@
       {
         "site": "bangumi",
         "id": "170120"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 血烟的石川五右卫门"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://goemon-ishikawa.com/",
+    "begin": "2017-02-04T00:00:00",
+    "end": "2017-03-06T00:00:00",
+    "releaseDate": "2017-02-04T00:00:00",
+    "bdReleaseDate": "2017-02-04T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192442"
       }
     ]
   },
@@ -147,6 +168,27 @@
     ]
   },
   {
+    "title": "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 七人魔法使 -悠久图书馆与炼金术少女-"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://movie.trinity-7.com/",
+    "begin": "2017-02-25T00:00:00",
+    "end": "2017-03-27T00:00:00",
+    "releaseDate": "2017-02-25T00:00:00",
+    "bdReleaseDate": "2017-02-25T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186570"
+      }
+    ]
+  },
+  {
     "title": "きんいろモザイク Pretty Days",
     "titleTranslate": {
       "zh-Hans": [
@@ -210,23 +252,107 @@
     ]
   },
   {
-    "title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+    "title": "亜人 -衝突-",
     "titleTranslate": {
       "zh-Hans": [
-        "鲁邦三世 血烟的石川五右卫门"
+        "亚人 -冲突-"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://goemon-ishikawa.com/",
-    "begin": "2017-05-26T00:00:00",
-    "end": "2017-06-25T00:00:00",
-    "releaseDate": "2017-02-04T00:00:00",
-    "bdReleaseDate": "2017-05-26T00:00:00",
+    "officialSite": "http://www.ajin.net/",
+    "begin": "2017-03-22T00:00:00",
+    "end": "2017-04-21T00:00:00",
+    "releaseDate": "2016-05-06T00:00:00",
+    "bdReleaseDate": "2017-03-22T00:00:00",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "192442"
+        "id": "136225"
+      }
+    ]
+  },
+  {
+    "title": "聲の形",
+    "titleTranslate": {
+      "zh-Hans": [
+        "声之形"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://koenokatachi-movie.com/",
+    "begin": "2017-05-17T00:00:00",
+    "end": "2017-06-16T00:00:00",
+    "releaseDate": "2016-09-17T00:00:00",
+    "bdReleaseDate": "2017-05-17T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "117777"
+      }
+    ]
+  },
+  {
+    "title": "ポッピンQ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "POP IN Q"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.popin-q.com",
+    "begin": "2017-06-02T00:00:00",
+    "end": "2017-07-02T00:00:00",
+    "releaseDate": "2016-12-23T00:00:00",
+    "bdReleaseDate": "2017-06-02T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "126185"
+      }
+    ]
+  },
+  {
+    "title": "好きになるその瞬間を。～告白実行委員会～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "喜欢上你的那个瞬间。～告白实行委员会～"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.honeyworks-movie.jp/",
+    "begin": "2017-06-21T00:00:00",
+    "end": "2017-07-21T00:00:00",
+    "releaseDate": "2016-12-17T00:00:00",
+    "bdReleaseDate": "2017-06-21T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175543"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第二章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2202 爱的战士们 第二章"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://yamato2202.net/",
+    "begin": "2017-06-24T00:00:00",
+    "end": "2017-07-24T00:00:00",
+    "releaseDate": "2017-06-24T00:00:00",
+    "bdReleaseDate": "2017-06-24T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192151"
       }
     ]
   }

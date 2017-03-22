@@ -63,27 +63,6 @@
     ]
   },
   {
-    "title": "ガールズ&amp;パンツァー 劇場版",
-    "titleTranslate": {
-      "zh-Hans": [
-        "少女与战车 剧场版"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://girls-und-panzer.jp/",
-    "begin": "2015-05-27T00:00:00",
-    "end": "2015-06-26T00:00:00",
-    "releaseDate": "2015-11-21T00:00:00",
-    "bdReleaseDate": "2015-05-27T00:00:00",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "72266"
-      }
-    ]
-  },
-  {
     "title": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」",
     "titleTranslate": {
       "zh-Hans": [
@@ -129,7 +108,7 @@
     "title": "劇場版 PSYCHO-PASS サイコパス",
     "titleTranslate": {
       "zh-Hans": [
-        "心理测量者 剧场版 世界篇"
+        "剧场版 PSYCHO-PASS 心理测量者"
       ]
     },
     "lang": "ja",
@@ -168,10 +147,10 @@
     ]
   },
   {
-    "title": "映画ドラえもん のび太の宇宙英雄記",
+    "title": "ドラえもん のび太の宇宙英雄記",
     "titleTranslate": {
       "zh-Hans": [
-        "哆啦A梦剧场版 大雄的宇宙英雄记"
+        "哆啦A梦 大雄的宇宙英雄记"
       ]
     },
     "lang": "ja",
@@ -248,27 +227,6 @@
       {
         "site": "bangumi",
         "id": "123136"
-      }
-    ]
-  },
-  {
-    "title": "境界の彼方 -I'LL BE HERE- 未来篇",
-    "titleTranslate": {
-      "zh-Hans": [
-        "境界的彼方 -I'LL BE HERE- 未来篇"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://anime-kyokai.com/",
-    "begin": "2015-10-07T00:00:00",
-    "end": "2015-11-06T00:00:00",
-    "releaseDate": "2015-04-25T00:00:00",
-    "bdReleaseDate": "2015-10-07T00:00:00",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "118908"
       }
     ]
   },
@@ -378,6 +336,27 @@
     ]
   },
   {
+    "title": "境界の彼方 -I'LL BE HERE- 未来篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "境界的彼方 -I'LL BE HERE- 未来篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://anime-kyokai.com/",
+    "begin": "2015-11-06T00:00:00",
+    "end": "2015-12-06T00:00:00",
+    "releaseDate": "2015-04-25T00:00:00",
+    "bdReleaseDate": "2015-11-06T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118908"
+      }
+    ]
+  },
+  {
     "title": "名探偵コナン 業火の向日葵",
     "titleTranslate": {
       "zh-Hans": [
@@ -437,6 +416,27 @@
       {
         "site": "bangumi",
         "id": "102774"
+      }
+    ]
+  },
+  {
+    "title": "ラブライブ! The School Idol Movie",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Love Live! 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.lovelive-anime.jp",
+    "begin": "2015-12-15T00:00:00",
+    "end": "2016-01-14T00:00:00",
+    "releaseDate": "2015-06-13T00:00:00",
+    "bdReleaseDate": "2015-12-15T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "107199"
       }
     ]
   },

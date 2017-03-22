@@ -66,7 +66,7 @@
     "title": "Wake Up, Girls! Beyond the Bottom",
     "titleTranslate": {
       "zh-Hans": [
-        "Wake Up, Girls! Beyond the Bottom"
+        "Wake Up, Girls! 超越深限"
       ]
     },
     "lang": "ja",
@@ -112,7 +112,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://yowapeda-movie.com/",
     "begin": "2016-02-17T00:00:00",
     "end": "2016-03-18T00:00:00",
     "releaseDate": "2015-08-28T00:00:00",
@@ -374,6 +374,27 @@
       {
         "site": "bangumi",
         "id": "128239"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&amp;パンツァー 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer.jp/",
+    "begin": "2016-05-27T00:00:00",
+    "end": "2016-06-26T00:00:00",
+    "releaseDate": "2015-11-21T00:00:00",
+    "bdReleaseDate": "2016-05-27T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72266"
       }
     ]
   },
@@ -714,7 +735,7 @@
     ]
   },
   {
-    "title": "劇場版 プリパラ み～んなのあこがれ♪レッツゴー☆プリパリ",
+    "title": "映画プリパラ み～んなのあこがれ♪レッツゴー☆プリパリ",
     "titleTranslate": {
       "zh-Hans": [
         "美妙天堂剧场版 大～家的憧憬♪出发吧☆美妙巴黎"
@@ -1025,48 +1046,6 @@
       {
         "site": "bangumi",
         "id": "171122"
-      }
-    ]
-  },
-  {
-    "title": "傷物語III 冷血篇",
-    "titleTranslate": {
-      "zh-Hans": [
-        "伤物语III 冷血篇"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.kizumonogatari-movie.com/",
-    "begin": "2016-12-23T00:00:00",
-    "end": "2017-01-22T00:00:00",
-    "releaseDate": "2017-01-06T00:00:00",
-    "bdReleaseDate": "2016-12-23T00:00:00",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "148037"
-      }
-    ]
-  },
-  {
-    "title": "亜人 -衝突-",
-    "titleTranslate": {
-      "zh-Hans": [
-        "亚人 -冲突-"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.ajin.net/",
-    "begin": "2016-12-28T00:00:00",
-    "end": "2017-01-27T00:00:00",
-    "releaseDate": "2016-05-06T00:00:00",
-    "bdReleaseDate": "2016-12-28T00:00:00",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "136225"
       }
     ]
   },
