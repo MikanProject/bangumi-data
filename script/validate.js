@@ -12,6 +12,10 @@ const validateItems = readJsonPaths(ITEMS_DIRECTORY)
     .then((itemPaths) => {
         // 同步读取所有json文件
         itemPaths.forEach((itemPath) => {
+            if (!(/0[1-9]|1[0-2]\.json$/.test(itemPath))) {
+                throw new Error(`Invalid file name: ${itemPath}`);
+            }
+
             const dataArray = fs.readJsonSync(itemPath);
 
             dataArray.forEach((itemData) => {
@@ -65,7 +69,22 @@ const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY)
         });
     });
 
-Promise.all([validateItems, validateSites, validateUniqueBangumiId])
+const validateDate = readJsonPaths(ITEMS_DIRECTORY)
+    .then((itemPaths) => {
+        itemPaths.forEach((itemPath) => {
+            const { dir, name } = path.parse(path.relative(ITEMS_DIRECTORY, itemPath));
+            const date = `${dir}-${name}`;
+
+            const dataArray = fs.readJsonSync(itemPath);
+            dataArray.forEach((itemData) => {
+                if (date !== itemData.begin.slice(0, 7)) {
+                    throw new Error(`${itemData.title} (${itemData.begin}) should not be in ${dir}/${name}.json`);
+                }
+            });
+        });
+    });
+
+Promise.all([validateItems, validateSites, validateUniqueBangumiId, validateDate])
     .catch((error) => {
         console.error(error);
         process.exit(1);

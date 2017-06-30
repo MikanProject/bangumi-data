@@ -1,0 +1,34 @@
+[
+  {
+    "title": "名探偵ホームズ",
+    "titleTranslate": {
+      "en": [
+        "Sherlock Hound"
+      ],
+      "zh-Hans": [
+        "名侦探福尔摩斯"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-11-06T07:00:00.000Z",
+    "end": "1985-05-20T07:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "OnVPzTWbC0msKpI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9874"
+      }
+    ]
+  }
+]

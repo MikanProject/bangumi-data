@@ -153,7 +153,8 @@
     "title": "半分の月がのぼる空",
     "titleTranslate": {
       "zh-Hans": [
-        "仰望半月的夜空"
+        "仰望半月的夜空",
+        "上弦月的天空"
       ]
     },
     "lang": "ja",
@@ -162,6 +163,16 @@
     "end": "2006-02-23T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "VibvWVLwiaktAzsRk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "s/s1rh268oro7uo8c",
@@ -357,6 +368,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "ZsbBP6cNfbsenAQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "22406"
       }
@@ -445,6 +466,35 @@
       {
         "site": "bangumi",
         "id": "147199"
+      }
+    ]
+  },
+  {
+    "title": "ペイル・コクーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍之茧"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://studio-rikka.com/pale/",
+    "begin": "2006-01-18T16:00:00.000Z",
+    "end": "2006-01-18T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "k49p50ib1JWPGRKw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1898"
       }
     ]
   }

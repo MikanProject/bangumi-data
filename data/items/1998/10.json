@@ -239,7 +239,9 @@
     "title": "彼氏彼女の事情",
     "titleTranslate": {
       "zh-Hans": [
-        "他和她的故事"
+        "他和她的故事",
+        "心动季节",
+        "爱情跷跷板"
       ]
     },
     "lang": "ja",
@@ -248,6 +250,16 @@
     "end": "1999-03-26T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "t5pl40uxIVicCQKg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "2049"
@@ -338,6 +350,35 @@
       {
         "site": "bangumi",
         "id": "1933"
+      }
+    ]
+  },
+  {
+    "title": "セイバーマリオネットJ to X",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机械女神JtoX"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-10-06T16:00:00.000Z",
+    "end": "1999-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ibzUPjfVbywls6lI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6298"
       }
     ]
   }

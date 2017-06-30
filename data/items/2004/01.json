@@ -32,7 +32,8 @@
     "title": "ゆめりあ",
     "titleTranslate": {
       "zh-Hans": [
-        "梦物语"
+        "梦物语",
+        "真实梦境"
       ]
     },
     "lang": "ja",
@@ -41,6 +42,16 @@
     "end": "2004-03-25T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "aqSgHobsXJr9eibM",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "3328"
@@ -51,7 +62,8 @@
     "title": "北へ。～Diamond Dust Drops～",
     "titleTranslate": {
       "zh-Hans": [
-        "向北"
+        "向北",
+        "北国恋曲"
       ]
     },
     "lang": "ja",
@@ -109,6 +121,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "FlkjoQlv3x2AicmY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "42690"
       }
@@ -127,6 +149,16 @@
     "end": "2004-03-29T16:55:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "NQH8euJIuPZZ1z8",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "29278"
@@ -271,6 +303,16 @@
     "end": "2004-03-31T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "HC0Ylv5k1BJ181s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "3294"

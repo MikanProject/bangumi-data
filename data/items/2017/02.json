@@ -38,13 +38,14 @@
         "THE DRAGON DENTIST"
       ],
       "zh-Hans": [
-        "龙之牙医"
+        "龙之牙医",
+        "龙的牙医"
       ]
     },
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/ryu/",
     "begin": "2017-02-18T11:00:00.000Z",
-    "end": "",
+    "end": "2017-02-25T11:46:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -161,13 +162,73 @@
     ]
   },
   {
-    "title": "闇芝居(第4期)",
-    "titleTranslate": {},
+    "title": "虐殺器官",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虐杀器官"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/yamishibai/",
-    "begin": "2017-02-07T12:25:00.000Z",
-    "end": "2017-03-26T19:10:00.000Z",
+    "officialSite": "http://project-itoh.com/",
+    "begin": "2017-02-03T16:00:00.000Z",
+    "end": "2017-02-03T17:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100447"
+      }
+    ]
+  },
+  {
+    "title": "ピカイア!!",
+    "titleTranslate": {
+      "en": [
+        "PIKAIA"
+      ],
+      "zh-Hans": [
+        "皮卡虫!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/seimei/pikaia2.html",
+    "begin": "2017-02-26T07:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "210806"
+      }
+    ]
+  },
+  {
+    "title": "鬼平～その男、長谷川平蔵～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼平～那个男人、长谷川平藏～"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-02-22T16:00:00.000Z",
+    "end": "2017-02-22T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "m6CMCnLYSIbpZ88",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "203325"
+      }
+    ]
   }
 ]

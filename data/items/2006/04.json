@@ -714,7 +714,8 @@
     "title": "スクールランブル二学期",
     "titleTranslate": {
       "zh-Hans": [
-        "校园迷糊大王 二学期"
+        "校园迷糊大王 二学期",
+        "喧嚣学院 二学期"
       ]
     },
     "lang": "ja",
@@ -723,6 +724,16 @@
     "end": "2006-09-24T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "1HZRzzedDUuuLJQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "l/l6sbyahngnqf03u",
@@ -771,6 +782,16 @@
     "end": "2006-07-19T15:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "uoF8ibmLIOHbZV78",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "3496"
@@ -1366,6 +1387,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "JQH8euJIuPZZ1z8",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "k/k19h3z1ofm7wijx",
         "begin": "",
@@ -1652,6 +1683,54 @@
       {
         "site": "bangumi",
         "id": "2976"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 14期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 14期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2006-04-03T08:35:00.000Z",
+    "end": "2006-06-09T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161692"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム MS IGLOO 黙示録0079",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 MS IGLOO 默示录0079"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-04-26T16:00:00.000Z",
+    "end": "2006-08-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "iasWicPaULe7kcmgI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2691"
       }
     ]
   }

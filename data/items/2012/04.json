@@ -52,6 +52,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "ibyAcmgJo2BZ5918",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "74846",
         "begin": "",
@@ -872,7 +882,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/",
     "begin": "2012-04-01T00:00:00.000Z",
-    "end": "",
+    "end": "2017-03-26T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1197,7 +1207,8 @@
     "title": "銀河へキックオフ!!",
     "titleTranslate": {
       "zh-Hans": [
-        "银河KICK OFF！！"
+        "银河KICK OFF！！",
+        "向银河开球"
       ]
     },
     "lang": "ja",
@@ -1206,6 +1217,16 @@
     "end": "2013-02-26T09:55:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "9CsVkicth0Q9y8Fg",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "31374"
@@ -1473,6 +1494,73 @@
       {
         "site": "bangumi",
         "id": "46940"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 20期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 20期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2012-04-02T08:35:00.000Z",
+    "end": "2012-11-14T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161698"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2199 第一章「遥かなる旅立ち」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2199 第一章「踏上遥远的征途」"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.yamato2199.net/",
+    "begin": "2012-04-07T16:00:00.000Z",
+    "end": "2012-04-07T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37745"
+      }
+    ]
+  },
+  {
+    "title": "男子高校生の日常 特典映像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "男子高中生的日常 特典"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.square-enix.com/jp/magazine/ganganonline/special/danshinichijyo/",
+    "begin": "2012-04-03T16:00:00.000Z",
+    "end": "2012-09-04T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "HhXicfeVLuiclc2kI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "72767"
       }
     ]
   }

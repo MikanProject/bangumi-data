@@ -74,7 +74,8 @@
     "title": "スクールランブル",
     "titleTranslate": {
       "zh-Hans": [
-        "校园迷糊大王"
+        "校园迷糊大王",
+        "喧嚣学院"
       ]
     },
     "lang": "ja",
@@ -83,6 +84,16 @@
     "end": "2005-03-29T09:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "031Ixia6UBEKlI4s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "440"
@@ -592,7 +603,8 @@
         "Fantastic Children"
       ],
       "zh-Hans": [
-        "奇幻旅程"
+        "奇幻旅程",
+        "奇幻儿童"
       ]
     },
     "lang": "ja",
@@ -601,6 +613,16 @@
     "end": "2005-03-28T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "zQQAfuZMvPpd20M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "3188"
@@ -932,6 +954,93 @@
       {
         "site": "bangumi",
         "id": "7991"
+      }
+    ]
+  },
+  {
+    "title": "W〜ウィッシュ〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "公主时间"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-10-07T16:00:00.000Z",
+    "end": "2004-12-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "PG9Z1ziblFVO2NJw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "31034"
+      }
+    ]
+  },
+  {
+    "title": "Legend of DUO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迪奥传说"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-10-27T16:00:00.000Z",
+    "end": "2005-06-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Upxo5k60JGLFQ6s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "43929"
+      }
+    ]
+  },
+  {
+    "title": "ななみちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法娜娜咪"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-10-02T16:00:00.000Z",
+    "end": "2005-01-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "zAXicfeVLuiclc2kI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "216376"
       }
     ]
   }

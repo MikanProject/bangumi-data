@@ -61,6 +61,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "icjAMiavJYyAZp508",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "3639"
       }
@@ -217,6 +227,83 @@
       {
         "site": "bangumi",
         "id": "1870"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 17期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 17期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2009-03-30T08:35:00.000Z",
+    "end": "2009-07-31T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161695"
+      }
+    ]
+  },
+  {
+    "title": "ツバサ 春雷記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "翼·年代记 春雷记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shonenmagazine.com/tsubasa_tokyo/",
+    "begin": "2009-03-17T16:00:00.000Z",
+    "end": "2009-05-15T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "R5Vv7VW7K2nMSrI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2895"
+      }
+    ]
+  },
+  {
+    "title": "レジェンド・オブ・レギオス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雷吉欧斯传奇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-03-27T16:00:00.000Z",
+    "end": "2009-05-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "t5dy8FiaibLmzPTbU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "104950"
       }
     ]
   }

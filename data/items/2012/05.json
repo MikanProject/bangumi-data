@@ -27,5 +27,63 @@
         "id": "39496"
       }
     ]
+  },
+  {
+    "title": "虹色ほたる ～永遠の夏休み～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虹色萤火虫～永远的暑假～"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nijiirohotaru.com/",
+    "begin": "2012-05-19T16:00:00.000Z",
+    "end": "2012-05-19T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "UDchnwdt3RtibicGQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "33068"
+      }
+    ]
+  },
+  {
+    "title": "萌えCanちぇんじ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "萌幻变身"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://ai-mi.jp",
+    "begin": "2012-05-25T16:00:00.000Z",
+    "end": "2012-05-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "T5Bs6lK4KGbJR68",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "43139"
+      }
+    ]
   }
 ]

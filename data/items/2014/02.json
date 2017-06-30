@@ -159,5 +159,95 @@
         "id": "98367"
       }
     ]
+  },
+  {
+    "title": "BUDDHA2 手塚治虫のブッダ -終わりなき旅-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "手冢治虫的佛陀～永无止境之旅～"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.buddha-anime.com/",
+    "begin": "2014-02-08T16:00:00.000Z",
+    "end": "2014-02-08T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vpt181vBMWicSULg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "63078"
+      }
+    ]
+  },
+  {
+    "title": "よく わかる魔法科!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "简单易懂的魔法科！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://mahouka.jp/",
+    "begin": "2014-02-22T16:00:00.000Z",
+    "end": "2015-02-25T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "HAPta9M5qedKyDA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "97825"
+      }
+    ]
+  },
+  {
+    "title": "ワンダーモモ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神奇桃子"
+      ],
+      "en": [
+        "Wonder Momo"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://wondermomo.jp/",
+    "begin": "2014-02-06T16:00:00.000Z",
+    "end": "2014-03-06T16:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Vs2nJY3zY6EEguo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "95300"
+      }
+    ]
   }
 ]

@@ -104,5 +104,63 @@
         "id": "14643"
       }
     ]
+  },
+  {
+    "title": "一撃殺虫!!ホイホイさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一击杀虫!! 小惠惠"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/20080207035147/http://www.mediaworks.co.jp/d_original/hoihoisan/",
+    "begin": "2004-09-30T16:00:00.000Z",
+    "end": "2004-09-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "CPXfXcUrm9k8uiaI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6007"
+      }
+    ]
+  },
+  {
+    "title": "メモリーズオフ3.5 祈りの届く刻…",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秋之回忆3.5 传达祈愿的时刻…"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-09-23T16:00:00.000Z",
+    "end": "2004-10-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "soJ9ib2PJOXfaWMA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "55680"
+      }
+    ]
   }
 ]

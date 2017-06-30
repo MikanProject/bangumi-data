@@ -35,6 +35,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "3nBLyTGXB0WoJo4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "46857",
         "begin": "",
@@ -83,7 +93,8 @@
     "title": "ゲートキーパーズ",
     "titleTranslate": {
       "zh-Hans": [
-        "地球守护者"
+        "地球守护者",
+        "捍卫者"
       ]
     },
     "lang": "ja",
@@ -92,6 +103,16 @@
     "end": "2000-09-18T15:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "l9mjIYnvX50AfuY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "19039"
@@ -377,6 +398,84 @@
       {
         "site": "bangumi",
         "id": "823"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 8期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 8期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2000-04-03T08:35:00.000Z",
+    "end": "2000-07-24T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161686"
+      }
+    ]
+  },
+  {
+    "title": "フリクリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FLCL",
+        "特别的她"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.gainax.co.jp/anime/flcl",
+    "begin": "2000-04-26T16:00:00.000Z",
+    "end": "2001-03-16T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TicPOTLQaiasgrqRE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "822"
+      }
+    ]
+  },
+  {
+    "title": "幻想魔伝 最遊記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-04-04T16:00:00.000Z",
+    "end": "2001-03-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "mbSPDXXbS4nsatI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5977"
       }
     ]
   }

@@ -3,7 +3,8 @@
     "title": "今日のあすかショー",
     "titleTranslate": {
       "zh-Hans": [
-        "天然萌少女明日香"
+        "天然萌少女明日香",
+        "今天的明日香"
       ]
     },
     "lang": "ja",
@@ -12,6 +13,16 @@
     "end": "2013-01-04T14:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "vd6qKJD2ZqQHhe0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "46079"
@@ -33,13 +44,13 @@
     "sites": [
       {
         "site": "iqiyi",
-        "id": "a_19rro4guhk",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": ""
+        "comment": "",
+        "url": "http://www.iqiyi.com/v_19rro4guhk.html"
       },
       {
         "site": "bangumi",
@@ -60,6 +71,16 @@
     "end": "2012-08-25T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "tOTgXsYsnNo9uyM",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "47464"
@@ -141,6 +162,64 @@
       {
         "site": "bangumi",
         "id": "24593"
+      }
+    ]
+  },
+  {
+    "title": "京騒戯画",
+    "titleTranslate": {
+      "zh-Hans": [
+        "京骚戏画"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kyousogiga.com/",
+    "begin": "2012-08-31T16:00:00.000Z",
+    "end": "2012-12-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "WISAicmbMPHrdW8M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "42342"
+      }
+    ]
+  },
+  {
+    "title": "ダンタリアンの書架 荊姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "丹特丽安的书架 荆姬"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-08-11T16:00:00.000Z",
+    "end": "2012-08-11T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "G0M9uyOJibTeaGIA",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "46234"
       }
     ]
   }

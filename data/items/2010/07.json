@@ -591,6 +591,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "s0slowtx4RibCAGg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "begin": "",
         "official": true,
@@ -613,6 +623,94 @@
       {
         "site": "bangumi",
         "id": "39542"
+      }
+    ]
+  },
+  {
+    "title": "Cat Shit One -THE ANIMATED SERIES-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫屎一号",
+        "越战狂想曲"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://catshitone.jp/",
+    "begin": "2010-07-17T16:00:00.000Z",
+    "end": "2010-07-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "qK2HBW3TQ4HkYso",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7312"
+      }
+    ]
+  },
+  {
+    "title": "BLACK LAGOON Roberta’s Blood Trail",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑礁 Roberta’s Blood Trail"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.blacklagoon.jp/index.html",
+    "begin": "2010-07-17T16:00:00.000Z",
+    "end": "2011-06-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "a9mkIorwYJ4Bfibc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6985"
+      }
+    ]
+  },
+  {
+    "title": "うらおん!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "K-On!!:Ura-On!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/k-on/",
+    "begin": "2010-07-30T16:00:00.000Z",
+    "end": "2011-03-16T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "hsfBP6cNfbsenAQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "31531"
       }
     ]
   }

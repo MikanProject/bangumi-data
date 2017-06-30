@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "9k04th6E9DKVE3s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrk6f6c9",
         "begin": "2012-10-15T01:29:39.000Z",
@@ -52,6 +62,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "wwYCgOhOvvxf3UU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "14759"
       }
@@ -70,6 +90,16 @@
     "end": "2011-03-19T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "wwYCgOhOvvxf3UU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "49020"
@@ -90,6 +120,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "wwYCgOhOvvxf3UU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "49018"
       }
@@ -108,6 +148,16 @@
     "end": "2011-03-19T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "wwYCgOhOvvxf3UU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "49019"
@@ -276,6 +326,54 @@
       {
         "site": "bangumi",
         "id": "10553"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 19期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 19期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2011-03-28T08:35:00.000Z",
+    "end": "2011-09-12T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161697"
+      }
+    ]
+  },
+  {
+    "title": "最遊記外伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记外传"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://saiyuki-gaiden.com/",
+    "begin": "2011-03-25T16:00:00.000Z",
+    "end": "2011-11-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "sPvFQ6sRgb8iaoAg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6998"
       }
     ]
   }

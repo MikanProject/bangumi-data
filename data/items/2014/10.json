@@ -81,7 +81,7 @@
     },
     "lang": "ja",
     "officialSite": "http://www.g-reco.net/",
-    "begin": "2015-01-04T10:30:00.000Z",
+    "begin": "2014-10-02T10:30:00.000Z",
     "end": "2015-03-26T17:55:00.000Z",
     "comment": "",
     "sites": [
@@ -2488,7 +2488,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/calimero/",
     "begin": "2014-10-06T22:30:00.000Z",
-    "end": "",
+    "end": "2016-09-24T22:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2599,6 +2599,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "SOTQTrYcjMotqxM",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrhb5m1p",
         "begin": "2015-07-03T05:41:18.000Z",
@@ -2670,6 +2680,141 @@
       {
         "site": "bangumi",
         "id": "106239"
+      }
+    ]
+  },
+  {
+    "title": "Hybrid Child",
+    "titleTranslate": {
+      "zh-Hans": [
+        "眷恋你的温柔"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.hybridchild.jp/",
+    "begin": "2014-10-29T16:00:00.000Z",
+    "end": "2015-01-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "praiaIIjuXpzicfeU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "20815"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2199 追憶の航海",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2199 追忆的航海"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-10-11T16:00:00.000Z",
+    "end": "2014-10-11T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102551"
+      }
+    ]
+  },
+  {
+    "title": "ニセコイ OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伪恋 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-10-03T16:00:00.000Z",
+    "end": "2016-01-04T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "u5JibicGTKOnjbWcE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "104196"
+      }
+    ]
+  },
+  {
+    "title": "今際の国のアリス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "弥留之国的爱丽丝"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-10-17T16:00:00.000Z",
+    "end": "2015-02-16T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "x2BMyjKYCEapJ48",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "103831"
+      }
+    ]
+  },
+  {
+    "title": "生徒会役員共* OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妄想学生会＊ OVA"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-10-22T16:00:00.000Z",
+    "end": "2014-10-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "mbqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "116225"
       }
     ]
   }

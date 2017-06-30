@@ -12,7 +12,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/naruto/index2.html",
     "begin": "2007-02-15T10:30:00.000Z",
-    "end": "",
+    "end": "2017-03-23T10:53:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -103,6 +103,16 @@
     "end": "2007-05-10T14:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "camTEXnfT43wbtY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "10306"

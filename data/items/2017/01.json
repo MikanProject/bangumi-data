@@ -300,7 +300,7 @@
     "lang": "ja",
     "officialSite": "http://onihei-anime.com/",
     "begin": "2017-01-09T17:05:00.000Z",
-    "end": "",
+    "end": "2017-04-03T17:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -469,7 +469,7 @@
     "lang": "ja",
     "officialSite": "http://maidragon.jp/",
     "begin": "2017-01-11T15:00:00.000Z",
-    "end": "",
+    "end": "2017-04-05T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -877,7 +877,7 @@
     "lang": "ja",
     "officialSite": "http://rakugo-shinju-anime.jp/",
     "begin": "2017-01-06T17:40:00.000Z",
-    "end": "",
+    "end": "2017-03-24T18:12:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1173,7 +1173,7 @@
     "lang": "ja",
     "officialSite": "http://toz-thex-anime.tales-ch.jp/",
     "begin": "2017-01-08T14:00:00.000Z",
-    "end": "",
+    "end": "2017-04-29T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1478,7 +1478,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "兽娘动物园",
-        "萌兽之友"
+        "萌兽之友",
+        "动物朋友"
       ],
       "en": [
         "KEMONO FRIENDS"
@@ -1850,7 +1851,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/yamishibai/",
     "begin": "2017-01-14T17:05:00.000Z",
-    "end": "",
+    "end": "2017-03-26T19:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1919,7 +1920,7 @@
     "lang": "ja",
     "officialSite": "http://www.kbc.co.jp/scg/",
     "begin": "2017-01-14T16:32:00.000Z",
-    "end": "",
+    "end": "2017-04-08T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2073,6 +2074,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "fsexL5f9basOjPQ",
+        "begin": "2017-01-12T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2017/dhpcysj1",
         "begin": "2017-01-12T02:00:00.000Z",
@@ -2138,27 +2149,148 @@
     ]
   },
   {
-    "title": "レゴ ネックスナイツ(ロックモンスター編)",
+    "title": "たまぽんず",
     "titleTranslate": {
-      "en": [
-        "LEGO NEXO KNIGHTS"
+      "zh-Hans": [
+        "玉家典当铺"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_nexoknights/",
-    "begin": "2017-01-07T00:30:00.000Z",
-    "end": "2017-03-11T01:00:00.000Z",
+    "officialSite": "http://www.tamasichi.net/tama-pawns/",
+    "begin": "2017-01-27T16:00:00.000Z",
+    "end": "2017-02-01T16:05:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "0GZS0DiaeDkyvLZU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "205331"
+      }
+    ]
   },
   {
-    "title": "戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン-",
-    "titleTranslate": {},
+    "title": "スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级弹丸论破2.5 狛枝凪斗与世界的破坏者"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "http://www.gtv.co.jp/program/animation/sukiyaki_f/",
-    "begin": "2017-01-09T09:35:00.000Z",
-    "end": "",
+    "officialSite": "",
+    "begin": "2017-01-12T16:00:00.000Z",
+    "end": "2017-01-12T16:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "w3lT0TmfD02wLpY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "193911"
+      }
+    ]
+  },
+  {
+    "title": "ようじょしぇんき",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷你幼女战记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-01-06T16:00:00.000Z",
+    "end": "2017-04-03T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ebibZF3iclVZP2dNw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "205115"
+      }
+    ]
+  },
+  {
+    "title": "ちぇいん黒にくる!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "锁链之黑王来啦！！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://chronicle-anime.com/",
+    "begin": "2017-01-08T16:00:00.000Z",
+    "end": "2017-03-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "eL6aGIDmVpT3dd0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "206370"
+      }
+    ]
+  },
+  {
+    "title": "SUPER LOVERS OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级恋人 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://superlovers-anime.com/",
+    "begin": "2017-01-01T16:00:00.000Z",
+    "end": "2017-09-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "32VPzTWbC0msKpI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "174318"
+      }
+    ]
   }
 ]

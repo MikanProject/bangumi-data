@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "l9iakIorwYJ4Bfibc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "18082"
       }
@@ -411,6 +421,35 @@
       {
         "site": "bangumi",
         "id": "67734"
+      }
+    ]
+  },
+  {
+    "title": "GetBackers -奪還屋-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪灵二人组"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/getbackers/",
+    "begin": "2002-10-05T16:00:00.000Z",
+    "end": "2003-09-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "a8SicPaULe7kcmgI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7217"
       }
     ]
   }

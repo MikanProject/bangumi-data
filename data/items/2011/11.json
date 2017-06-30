@@ -29,25 +29,6 @@
     ]
   },
   {
-    "title": "ルパン三世 血の刻印 ～永遠のmermaid～",
-    "titleTranslate": {
-      "zh-Hans": [
-        "鲁邦三世：血之刻印 永远的Mermaid"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://lupin-3rd.net/",
-    "begin": "2011-12-02T16:00:00.000Z",
-    "end": "2011-12-02T16:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "24543"
-      }
-    ]
-  },
-  {
     "title": "スクライド オルタレイション TAO",
     "titleTranslate": {
       "zh-Hans": [
@@ -73,6 +54,64 @@
       {
         "site": "bangumi",
         "id": "24592"
+      }
+    ]
+  },
+  {
+    "title": "テイルズ オブ シンフォニア THE ANIMATION 世界統合編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙乐传说 世界统合篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://ova-tos.com/",
+    "begin": "2011-11-23T16:00:00.000Z",
+    "end": "2012-10-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pe7aWMAmltQ3tR0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "12697"
+      }
+    ]
+  },
+  {
+    "title": "英雄伝説 空の軌跡 THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄传说 空之轨迹"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.sora-anime.com/",
+    "begin": "2011-11-25T16:00:00.000Z",
+    "end": "2012-02-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QJNt61O5KWfKSLA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14952"
       }
     ]
   }

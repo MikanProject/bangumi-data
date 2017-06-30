@@ -168,6 +168,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "uuicZV78lldM2tBw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1779"
       }
@@ -357,7 +367,9 @@
     "title": "青い花",
     "titleTranslate": {
       "zh-Hans": [
-        "青之花"
+        "青之花",
+        "蓝花",
+        "青花"
       ]
     },
     "lang": "ja",
@@ -366,6 +378,16 @@
     "end": "2009-09-09T17:38:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "WPzHRa0Tg8Ekogo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "1758"
@@ -437,6 +459,16 @@
     "end": "2011-06-29T16:18:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "X5Fr6VG3J2XIRq4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "1752"
@@ -547,6 +579,25 @@
       {
         "site": "bangumi",
         "id": "3033"
+      }
+    ]
+  },
+  {
+    "title": "うらおん!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "K-On!:Ura-On!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/k-on/",
+    "begin": "2009-07-29T16:00:00.000Z",
+    "end": "2010-01-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "31525"
       }
     ]
   }

@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "tuLeXMQqmtg7uSE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "965"
       }
@@ -295,7 +305,8 @@
     "title": "CODE-E",
     "titleTranslate": {
       "zh-Hans": [
-        "电波少女"
+        "电波少女",
+        "代号E"
       ]
     },
     "lang": "ja",
@@ -304,6 +315,16 @@
     "end": "2007-09-18T18:13:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "b8K9O6MJebcamAA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "41705"
@@ -674,6 +695,35 @@
       {
         "site": "bangumi",
         "id": "755"
+      }
+    ]
+  },
+  {
+    "title": "Genius Party",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才嘉年华"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.genius-party.jp/",
+    "begin": "2007-07-07T16:00:00.000Z",
+    "end": "2007-07-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TPTPTbUbia8ksqhI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8181"
       }
     ]
   }

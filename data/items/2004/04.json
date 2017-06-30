@@ -252,6 +252,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "pibnTUbkfj80wrhY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1959"
       }
@@ -270,6 +280,16 @@
     "end": "2004-06-26T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "qoJ9ib2PJOXfaWMA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "13932",
@@ -769,7 +789,9 @@
     "title": "MADLAX",
     "titleTranslate": {
       "zh-Hans": [
-        "MADLAX"
+        "MADLAX",
+        "玛德拉克斯",
+        "异域天使"
       ]
     },
     "lang": "ja",
@@ -778,6 +800,16 @@
     "end": "2004-09-27T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "KBfycNgibruxPzTU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "1418"
@@ -816,6 +848,16 @@
     "end": "2004-09-23T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "mLWQDnbcTIrta9M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "6997"
@@ -987,6 +1029,83 @@
       {
         "site": "bangumi",
         "id": "2974"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 12期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 12期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2004-04-05T08:35:00.000Z",
+    "end": "2004-07-23T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161690"
+      }
+    ]
+  },
+  {
+    "title": "新ゲッターロボ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新盖塔"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-04-09T16:00:00.000Z",
+    "end": "2004-09-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "YaqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "25920"
+      }
+    ]
+  },
+  {
+    "title": "夏色の砂時計",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏色的砂时计"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.oaks-soft.co.jp/princess-soft/natsuiro/",
+    "begin": "2004-04-23T16:00:00.000Z",
+    "end": "2004-07-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "lreSEHjeTozvbdU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14153"
       }
     ]
   }

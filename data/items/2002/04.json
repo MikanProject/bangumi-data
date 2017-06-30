@@ -254,6 +254,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "hsmzMZnicb60QjvY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1997"
       }
@@ -310,7 +320,7 @@
     },
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/chobits/",
-    "begin": "2002-02-02T18:00:00.000Z",
+    "begin": "2002-04-02T18:00:00.000Z",
     "end": "2002-09-24T19:00:00.000Z",
     "comment": "",
     "sites": [
@@ -463,6 +473,112 @@
       {
         "site": "bangumi",
         "id": "2972"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 10期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 10期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2002-04-01T08:35:00.000Z",
+    "end": "2002-07-19T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161688"
+      }
+    ]
+  },
+  {
+    "title": "HAPPY★LESSON THE TV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢乐课程"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-01T16:00:00.000Z",
+    "end": "2002-05-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "jb6KCHDWRoTnZc0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14653"
+      }
+    ]
+  },
+  {
+    "title": "天地無用! GXP",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用! GXP"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-02T16:00:00.000Z",
+    "end": "2002-09-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "qibXfXcUrm9k8uiaI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "56626"
+      }
+    ]
+  },
+  {
+    "title": "アベノ橋魔法☆商店街",
+    "titleTranslate": {
+      "zh-Hans": [
+        "安倍桥魔法☆商店街"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.gainax.co.jp/anime/abesho/",
+    "begin": "2002-04-04T16:00:00.000Z",
+    "end": "2002-06-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "8VsmpAxy4iaCDAWk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6937"
       }
     ]
   }

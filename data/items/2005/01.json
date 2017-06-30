@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "vPXPTbUbia8ksqhI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "17119"
       }
@@ -161,7 +171,8 @@
     "title": "まほらば ～Heartful days～",
     "titleTranslate": {
       "zh-Hans": [
-        "我们的仙境～Heartful days"
+        "我们的仙境～Heartful days",
+        "心动的日子"
       ]
     },
     "lang": "ja",
@@ -170,6 +181,16 @@
     "end": "2005-06-26T17:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "GCciaoAhu3hxicicWU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "7806"

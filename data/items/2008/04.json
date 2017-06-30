@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "YMOibPKQKergbmQE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "2/2lfth6vssx46n3s",
         "begin": "",
@@ -245,6 +255,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "iaq2YFn7kVJL1c9s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrh9mhxp",
         "begin": "2016-08-31T16:03:06.000Z",
@@ -346,7 +366,7 @@
     "sites": [
       {
         "site": "pptv",
-        "id": "7F0opg505CKFA2s",
+        "id": "gMu1M5sBca8SkPg",
         "begin": "",
         "official": false,
         "premuiumOnly": false,
@@ -1191,6 +1211,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "HyMenARq2hh7ibWE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "192008"
       }
@@ -1377,6 +1407,35 @@
       {
         "site": "bangumi",
         "id": "2978"
+      }
+    ]
+  },
+  {
+    "title": "はっけん たいけん だいすき! しまじろう",
+    "titleTranslate": {
+      "zh-Hans": [
+        "可爱巧虎岛"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-04-07T16:00:00.000Z",
+    "end": "2010-03-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "lrqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "212150"
       }
     ]
   }
