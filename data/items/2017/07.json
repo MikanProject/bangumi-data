@@ -41,7 +41,7 @@
     "title": "ナイツ＆マジック",
     "titleTranslate": {
       "zh-Hans": [
-        "骑士&amp;魔法"
+        "骑士&魔法"
       ]
     },
     "lang": "ja",
@@ -140,7 +140,12 @@
     "begin": "2017-07-07T16:05:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212008"
+      }
+    ]
   },
   {
     "title": "異世界食堂",
@@ -182,23 +187,41 @@
   },
   {
     "title": "ようこそ実力至上主義の教室へ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢迎来到实力至上主义教室"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://you-zitsu.com/",
     "begin": "2017-07-01T13:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "214272"
+      }
+    ]
   },
   {
     "title": "ゲーマーズ！",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "GAMERS电玩咖"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.gamers-anime.com/",
     "begin": "2017-07-13T12:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195816"
+      }
+    ]
   },
   {
     "title": "Fate/Apocrypha",
@@ -274,13 +297,22 @@
   },
   {
     "title": "最遊記RELOAD BLAST",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记 RELOAD BLAST"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://saiyuki-rb.jp/",
     "begin": "2017-07-06T15:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187976"
+      }
+    ]
   },
   {
     "title": "戦姫絶唱シンフォギアAXZ",
@@ -360,13 +392,22 @@
   },
   {
     "title": "無責任ギャラクシー☆タイラー",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "无责任银河☆泰勒"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.dreamcreation.co.jp/musekinin/",
     "begin": "2017-07-13T16:30:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "216995"
+      }
+    ]
   },
   {
     "title": "妖怪アパートの幽雅な日常",
@@ -446,23 +487,41 @@
   },
   {
     "title": "バチカン奇跡調査官",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "梵蒂冈奇迹调查官"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://kisekichosakan.jp/",
     "begin": "2017-07-14T15:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "197722"
+      }
+    ]
   },
   {
     "title": "イケメン戦国◆時をかけるが恋は始まらない",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "美男战国 穿越时空的爱恋"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://anime-ikemen-sengoku.jp/",
     "begin": "2017-07-12T13:10:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "197200"
+      }
+    ]
   },
   {
     "title": "時間の支配者",
@@ -678,23 +737,41 @@
   },
   {
     "title": "異世界はスマートフォンとともに。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "带着智能手机闯荡异世界。"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://isesuma-anime.jp/",
     "begin": "2017-07-12T16:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211723"
+      }
+    ]
   },
   {
     "title": "カイトアンサ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "KAITO×ANSA"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://kaitoansa.com/",
     "begin": "2017-07-16T15:40:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212021"
+      }
+    ]
   },
   {
     "title": "縁結びの妖狐ちゃん",
