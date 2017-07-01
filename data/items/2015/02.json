@@ -63,35 +63,6 @@
     ]
   },
   {
-    "title": "機動戦士ガンダム THE ORIGIN",
-    "titleTranslate": {
-      "zh-Hans": [
-        "机动战士高达 THE ORIGIN"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.gundam-the-origin.net/",
-    "begin": "2015-02-28T16:00:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "samDAWnPP33gXsY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "62680"
-      }
-    ]
-  },
-  {
     "title": "花とアリス 殺人事件",
     "titleTranslate": {
       "zh-Hans": [
@@ -146,35 +117,6 @@
       {
         "site": "bangumi",
         "id": "99796"
-      }
-    ]
-  },
-  {
-    "title": "えくそだすっ!",
-    "titleTranslate": {
-      "zh-Hans": [
-        "Exodus!"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://musani.jp/works/index.html",
-    "begin": "2015-02-25T16:00:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "PRP9eibNJufda2EA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "120205"
       }
     ]
   }

@@ -208,5 +208,140 @@
         "id": "124341"
       }
     ]
+  },
+  {
+    "title": "えくそだすっ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Exodus!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://musani.jp/works/index.html",
+    "begin": "2015-02-25T16:00:00.000Z",
+    "end": "2015-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "PRP9eibNJufda2EA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "120205"
+      }
+    ]
+  },
+  {
+    "title": "ツムツム",
+    "titleTranslate": {
+      "en": [
+        "TSUM TSUM"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.dlife.jp/lineup/disney/tsumtsum/",
+    "begin": "2015-03-22T09:00:00.000Z",
+    "end": "2015-04-22T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208344"
+      }
+    ]
+  },
+  {
+    "title": "咲日和 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咲日和 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.saki-anime.com",
+    "begin": "2015-07-25T16:00:00.000Z",
+    "end": "2015-07-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "2HJe3ESqGlia7OaE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "114197"
+      }
+    ]
+  },
+  {
+    "title": "第三飛行少女隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "第三飞行少女队"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://musani.jp/works/index-2.html",
+    "begin": "2015-07-29T16:00:00.000Z",
+    "end": "2015-08-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "5Ucxrxd97SuODHQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "126606"
+      }
+    ]
+  },
+  {
+    "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法少女☆伊莉雅 第二季 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-07-25T16:00:00.000Z",
+    "end": "2015-07-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "2XNd20OpGVe6OKA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "107974"
+      }
+    ]
   }
 ]

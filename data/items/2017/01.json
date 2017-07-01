@@ -188,7 +188,7 @@
     "lang": "ja",
     "officialSite": "http://yowapeda.com/",
     "begin": "2017-01-09T16:35:00.000Z",
-    "end": "",
+    "end": "2017-06-26T17:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -599,7 +599,7 @@
     "lang": "ja",
     "officialSite": "http://tv.littlewitchacademia.jp/",
     "begin": "2017-01-08T15:00:00.000Z",
-    "end": "",
+    "end": "2017-06-25T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2178,35 +2178,6 @@
     ]
   },
   {
-    "title": "スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者",
-    "titleTranslate": {
-      "zh-Hans": [
-        "超级弹丸论破2.5 狛枝凪斗与世界的破坏者"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2017-01-12T16:00:00.000Z",
-    "end": "2017-01-12T16:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "w3lT0TmfD02wLpY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "193911"
-      }
-    ]
-  },
-  {
     "title": "ようじょしぇんき",
     "titleTranslate": {
       "zh-Hans": [
@@ -2261,35 +2232,6 @@
       {
         "site": "bangumi",
         "id": "206370"
-      }
-    ]
-  },
-  {
-    "title": "SUPER LOVERS OAD",
-    "titleTranslate": {
-      "zh-Hans": [
-        "超级恋人 OAD"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://superlovers-anime.com/",
-    "begin": "2017-01-01T16:00:00.000Z",
-    "end": "2017-09-01T16:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "32VPzTWbC0msKpI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "174318"
       }
     ]
   }

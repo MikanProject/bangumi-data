@@ -523,5 +523,34 @@
         "id": "109739"
       }
     ]
+  },
+  {
+    "title": "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔女学园 魔法游行"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://littlewitchacademia.jp/",
+    "begin": "2015-07-03T16:00:00.000Z",
+    "end": "2015-07-03T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010553",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "124646"
+      }
+    ]
   }
 ]
