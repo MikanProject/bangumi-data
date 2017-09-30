@@ -1,6 +1,6 @@
 [
   {
-    "title": "バトルガールハイスクール",
+    "title": "バトルガール ハイスクール",
     "titleTranslate": {
       "zh-Hans": [
         "战斗女子高校"
@@ -15,6 +15,16 @@
       {
         "site": "bangumi",
         "id": "178624"
+      },
+      {
+        "site": "bilibili",
+        "id": "6306",
+        "begin": "2017-07-02T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -34,6 +44,46 @@
       {
         "site": "bangumi",
         "id": "202261"
+      },
+      {
+        "site": "bilibili",
+        "id": "6320",
+        "begin": "2017-07-07T19:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "74efbfbd24784fefbfbd",
+        "begin": "2017-07-07T19:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1480118",
+        "begin": "2017-07-07T19:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh86w2l",
+        "begin": "2017-07-07T19:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -53,6 +103,16 @@
       {
         "site": "bangumi",
         "id": "193445"
+      },
+      {
+        "site": "bilibili",
+        "id": "6304",
+        "begin": "2017-07-02T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -72,6 +132,16 @@
       {
         "site": "bangumi",
         "id": "204317"
+      },
+      {
+        "site": "bilibili",
+        "id": "6325",
+        "begin": "2017-07-08T18:08:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -91,6 +161,16 @@
       {
         "site": "bangumi",
         "id": "207593"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh830zx",
+        "begin": "2017-07-02T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -110,6 +190,16 @@
       {
         "site": "bangumi",
         "id": "208450"
+      },
+      {
+        "site": "bilibili",
+        "id": "6311",
+        "begin": "2017-07-04T14:15:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -129,6 +219,16 @@
       {
         "site": "bangumi",
         "id": "208754"
+      },
+      {
+        "site": "bilibili",
+        "id": "6312",
+        "begin": "2017-07-04T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -152,6 +252,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "异世界食堂"
+      ],
+      "en": [
+        "Restaurant to Another World"
       ]
     },
     "lang": "ja",
@@ -163,6 +266,16 @@
       {
         "site": "bangumi",
         "id": "192252"
+      },
+      {
+        "site": "bilibili",
+        "id": "6310",
+        "begin": "2017-07-03T17:35:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -170,6 +283,7 @@
     "title": "はじめてのギャル",
     "titleTranslate": {
       "zh-Hans": [
+        "第一次的辣妹",
         "第一次的Gal"
       ]
     },
@@ -182,6 +296,26 @@
       {
         "site": "bangumi",
         "id": "198675"
+      },
+      {
+        "site": "bilibili",
+        "id": "6338",
+        "begin": "2017-07-12T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": true,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh86wrx",
+        "begin": "2017-07-12T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -194,13 +328,23 @@
     },
     "lang": "ja",
     "officialSite": "http://you-zitsu.com/",
-    "begin": "2017-07-01T13:00:00.000Z",
+    "begin": "2017-07-12T14:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "214272"
+      },
+      {
+        "site": "bilibili",
+        "id": "6339",
+        "begin": "2017-07-12T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -220,12 +364,46 @@
       {
         "site": "bangumi",
         "id": "195816"
+      },
+      {
+        "site": "bilibili",
+        "id": "6340",
+        "begin": "2017-07-14T07:36:24.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10037717",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "VObSULgejswvrRU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
   {
     "title": "Fate/Apocrypha",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/Apocrypha"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://fate-apocrypha.com/",
     "begin": "2017-07-01T15:00:00.000Z",
@@ -235,6 +413,16 @@
       {
         "site": "bangumi",
         "id": "204855"
+      },
+      {
+        "site": "bilibili",
+        "id": "6301",
+        "begin": "2017-07-01T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -254,6 +442,16 @@
       {
         "site": "bangumi",
         "id": "211936"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8319h",
+        "begin": "2017-07-09T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -266,13 +464,23 @@
     },
     "lang": "ja",
     "officialSite": "http://miabyss.com/",
-    "begin": "2017-07-07T16:40:00.000Z",
+    "begin": "2017-07-07T12:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "203526"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83bd1",
+        "begin": "2017-07-07T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -281,6 +489,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "活击 刀剑乱舞"
+      ],
+      "en": [
+        "KATSUGEKI / TOUKEN RANBU"
       ]
     },
     "lang": "ja",
@@ -292,6 +503,26 @@
       {
         "site": "bangumi",
         "id": "175424"
+      },
+      {
+        "site": "bilibili",
+        "id": "6302",
+        "begin": "2017-07-01T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83a4d",
+        "begin": "2017-07-01T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -304,13 +535,23 @@
     },
     "lang": "ja",
     "officialSite": "http://saiyuki-rb.jp/",
-    "begin": "2017-07-06T15:00:00.000Z",
+    "begin": "2017-07-05T13:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "187976"
+      },
+      {
+        "site": "youku",
+        "id": "1b36efbfbdefbfbd2a45",
+        "begin": "2017-07-05T15:00:00.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -319,6 +560,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "战姬绝唱SYMPHOGEAR AXZ"
+      ],
+      "en": [
+        "SYMPHOGEAR AXZ"
       ]
     },
     "lang": "ja",
@@ -330,6 +574,16 @@
       {
         "site": "bangumi",
         "id": "163711"
+      },
+      {
+        "site": "acfun",
+        "id": "1480116",
+        "begin": "2017-07-01T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -349,6 +603,26 @@
       {
         "site": "bangumi",
         "id": "210231"
+      },
+      {
+        "site": "bilibili",
+        "id": "6341",
+        "begin": "2017-07-14T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh86w5p",
+        "begin": "2017-07-14T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -361,13 +635,23 @@
     },
     "lang": "ja",
     "officialSite": "http://www.tenshi-no-3p.com/",
-    "begin": "2017-07-10T15:30:00.000Z",
+    "begin": "2017-07-10T11:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "194261"
+      },
+      {
+        "site": "bilibili",
+        "id": "6328",
+        "begin": "2017-07-10T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -387,6 +671,16 @@
       {
         "site": "bangumi",
         "id": "209408"
+      },
+      {
+        "site": "youku",
+        "id": "5f6aefbfbd7a54efbfbd",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -399,13 +693,33 @@
     },
     "lang": "ja",
     "officialSite": "http://www.dreamcreation.co.jp/musekinin/",
-    "begin": "2017-07-13T16:30:00.000Z",
+    "begin": "2017-07-11T12:55:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "216995"
+      },
+      {
+        "site": "bilibili",
+        "id": "6331",
+        "begin": "2017-07-13T11:46:38.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "UOrGRKwSgsAjoQk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -425,6 +739,26 @@
       {
         "site": "bangumi",
         "id": "211802"
+      },
+      {
+        "site": "bilibili",
+        "id": "6308",
+        "begin": "2017-07-03T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "316347",
+        "begin": "2017-07-03T14:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -444,6 +778,16 @@
       {
         "site": "bangumi",
         "id": "209412"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83c1p",
+        "begin": "2017-07-03T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -463,6 +807,36 @@
       {
         "site": "bangumi",
         "id": "211276"
+      },
+      {
+        "site": "bilibili",
+        "id": "6335",
+        "begin": "2017-07-13T07:14:16.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10037718",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "SicXfXcUrm9k8uiaI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -482,6 +856,36 @@
       {
         "site": "bangumi",
         "id": "205485"
+      },
+      {
+        "site": "bilibili",
+        "id": "6332",
+        "begin": "2017-07-11T17:35:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbdefbfbdefbfbd2a",
+        "begin": "2017-07-11T17:35:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh86xb9",
+        "begin": "2017-07-11T17:35:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -494,13 +898,23 @@
     },
     "lang": "ja",
     "officialSite": "http://kisekichosakan.jp/",
-    "begin": "2017-07-14T15:00:00.000Z",
+    "begin": "2017-07-07T13:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "197722"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh830il",
+        "begin": "2017-07-07T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -520,6 +934,16 @@
       {
         "site": "bangumi",
         "id": "197200"
+      },
+      {
+        "site": "acfun",
+        "id": "1480115",
+        "begin": "2017-07-12T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -542,6 +966,16 @@
       {
         "site": "bangumi",
         "id": "165805"
+      },
+      {
+        "site": "youku",
+        "id": "dbbd5607c5ca11e68ce4",
+        "begin": "2017-07-07T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -561,6 +995,16 @@
       {
         "site": "bangumi",
         "id": "215726"
+      },
+      {
+        "site": "pptv",
+        "id": "Az0Xlf1j0xF08lo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -580,6 +1024,36 @@
       {
         "site": "bangumi",
         "id": "216767"
+      },
+      {
+        "site": "bilibili",
+        "id": "6346",
+        "begin": "2017-07-02T19:05:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83cnx",
+        "begin": "2017-07-02T19:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbdefbfbd285c5b08",
+        "begin": "2017-07-02T19:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -599,6 +1073,16 @@
       {
         "site": "bangumi",
         "id": "203010"
+      },
+      {
+        "site": "acfun",
+        "id": "1480113",
+        "begin": "2017-07-04T18:11:26.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -618,6 +1102,26 @@
       {
         "site": "bangumi",
         "id": "198099"
+      },
+      {
+        "site": "bilibili",
+        "id": "6314",
+        "begin": "2017-07-05T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": true,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "3cefbfbd37efbfbd5bef",
+        "begin": "2017-07-05T12:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -637,6 +1141,16 @@
       {
         "site": "bangumi",
         "id": "202267"
+      },
+      {
+        "site": "youku",
+        "id": "0befbfbd27efbfbd4fef",
+        "begin": "2017-07-06T18:55:00.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -656,6 +1170,36 @@
       {
         "site": "bangumi",
         "id": "213509"
+      },
+      {
+        "site": "letv",
+        "id": "10037659",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "LQicpZ881peNGxCw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6317",
+        "begin": "2017-07-09T03:18:21.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -675,6 +1219,16 @@
       {
         "site": "bangumi",
         "id": "204483"
+      },
+      {
+        "site": "acfun",
+        "id": "1480114",
+        "begin": "2017-07-06T18:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -694,6 +1248,16 @@
       {
         "site": "bangumi",
         "id": "200084"
+      },
+      {
+        "site": "bilibili",
+        "id": "6319",
+        "begin": "2017-07-07T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -713,6 +1277,36 @@
       {
         "site": "bangumi",
         "id": "186908"
+      },
+      {
+        "site": "bilibili",
+        "id": "6324",
+        "begin": "2017-07-08T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbdefbfbd293d4fef",
+        "begin": "2017-07-08T15:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh86wot",
+        "begin": "2017-07-08T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -720,6 +1314,7 @@
     "title": "セントールの悩み",
     "titleTranslate": {
       "zh-Hans": [
+        "人马小姐的烦恼",
         "人马小姐不迷茫"
       ]
     },
@@ -732,6 +1327,16 @@
       {
         "site": "bangumi",
         "id": "201754"
+      },
+      {
+        "site": "bilibili",
+        "id": "6326",
+        "begin": "2017-07-09T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -740,17 +1345,30 @@
     "titleTranslate": {
       "zh-Hans": [
         "带着智能手机闯荡异世界。"
+      ],
+      "en": [
+        "In Another World With My Smartphone"
       ]
     },
     "lang": "ja",
     "officialSite": "http://isesuma-anime.jp/",
-    "begin": "2017-07-12T16:00:00.000Z",
+    "begin": "2017-07-11T11:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "211723"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh832wl",
+        "begin": "2017-07-11T12:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -758,18 +1376,38 @@
     "title": "カイトアンサ",
     "titleTranslate": {
       "zh-Hans": [
-        "KAITO×ANSA"
+        "解谜之音"
       ]
     },
     "lang": "ja",
     "officialSite": "http://kaitoansa.com/",
-    "begin": "2017-07-16T15:40:00.000Z",
+    "begin": "2017-07-12T11:10:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "212021"
+      },
+      {
+        "site": "bilibili",
+        "id": "6376",
+        "begin": "2017-07-14T10:33:12.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "UevFQ6sRgb8iaoAg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -781,7 +1419,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://enmusuyouko.com/",
     "begin": "2017-07-01T12:00:00.000Z",
     "end": "",
     "comment": "",
@@ -789,6 +1427,76 @@
       {
         "site": "bangumi",
         "id": "215920"
+      },
+      {
+        "site": "bilibili",
+        "id": "6353",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83gpp",
+        "begin": "2017-07-01T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10037541",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "316372",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibEErqRF35yWIBm4",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "q/qzmn289abuigokp",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/dhphyxhnryb",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -808,6 +1516,276 @@
       {
         "site": "bangumi",
         "id": "163114"
+      },
+      {
+        "site": "bilibili",
+        "id": "6349",
+        "begin": "2017-07-13T07:10:44.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "RffhX8ctndsibvCQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "NEW GAME!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NEW GAME!!"
+      ],
+      "en": [
+        "NEW GAME!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://newgame-anime.com/",
+    "begin": "2017-07-11T12:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208908"
+      },
+      {
+        "site": "bilibili",
+        "id": "6330",
+        "begin": "2017-07-11T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh876x1",
+        "begin": "2017-07-11T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "THE REFLECTION -ザ・リフレクション-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "反照者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://thereflection-anime.net/",
+    "begin": "2017-07-22T14:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "151974"
+      },
+      {
+        "site": "bilibili",
+        "id": "6343",
+        "begin": "2017-07-25T13:19:31.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "SHADOW OF LAFFANDOR ラファンドール国物語",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://shadowoflaffandor.com/",
+    "begin": "2017-07-12T13:50:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218851"
+      },
+      {
+        "site": "pptv",
+        "id": "UuzIRq4UhMIlows",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "てーきゅう(第9期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "网球少女 9期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://te-kyu.com/",
+    "begin": "2017-07-12T13:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212675"
+      },
+      {
+        "site": "bilibili",
+        "id": "6337",
+        "begin": "2017-07-12T13:40:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "武蔵くんと村山さんは付き合ってみた。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "武藏君和村山同学开始交往了。"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "https://ganma.jp/musamura",
+    "begin": "2017-07-10T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219834"
+      },
+      {
+        "site": "pptv",
+        "id": "Qic3XVb0jk9E0sho",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ピコ太郎のララバイラーラバイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "PIKO太郎的摇篮曲"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://avex.jp/piko-lullaby/",
+    "begin": "2017-07-17T01:48:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217066"
+      },
+      {
+        "site": "bilibili",
+        "id": "6378",
+        "begin": "2017-07-19T02:38:52.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "WibXPTbUbia8ksqhI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "マーベル フューチャー・アベンジャーズ",
+    "titleTranslate": {
+      "en": [
+        "MARVEL FUTURE AVENGERS"
+      ],
+      "zh-Hans": [
+        "漫威未来复仇者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://dlife.disney.co.jp/program/marvel_starwars/future_avengers.html",
+    "begin": "2017-07-21T23:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "210324"
+      },
+      {
+        "site": "bilibili",
+        "id": "6342",
+        "begin": "2017-07-27T08:17:45.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "sIpm5EyyImDDQak",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ユラユラすいぞくかん",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://www.ktv.jp/yurayura/",
+    "begin": "2017-07-23T20:04:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221061"
       }
     ]
   }

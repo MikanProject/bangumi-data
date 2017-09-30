@@ -1,24 +1,12 @@
 [
   {
-    "title": "NEW GAME!!",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://newgame-anime.com/",
-    "begin": "2017-06-29T12:00:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "208908"
-      }
-    ]
-  },
-  {
     "title": "ひなろじ～from Luck & Logic～",
     "titleTranslate": {
       "zh-Hans": [
-        "雏逻辑～from Luck ＆ Logic～"
+        "雏逻辑 from Luck ＆ Logic"
+      ],
+      "en": [
+        "Hina Logic - From Luck & Logic"
       ]
     },
     "lang": "ja",
@@ -30,6 +18,16 @@
       {
         "site": "bangumi",
         "id": "175362"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd5379efbfbd57ef",
+        "begin": "2017-06-24T04:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   }

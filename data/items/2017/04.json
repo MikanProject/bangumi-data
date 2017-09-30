@@ -287,7 +287,7 @@
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/drivehead/",
     "begin": "2017-04-14T22:00:00.000Z",
-    "end": "2017-07-01T22:00:00.000Z",
+    "end": "2017-06-30T22:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1221,7 +1221,8 @@
     "title": "ID-0",
     "titleTranslate": {
       "zh-Hans": [
-        "ID-0"
+        "ID-0",
+        "迷你动画剧场ID-0问答"
       ],
       "en": [
         "ID-0 ALL MEMORIES EXIST WITH \"I-Machines\""
@@ -1348,69 +1349,6 @@
     ]
   },
   {
-    "title": "ベイブレードバースト ゴッド",
-    "titleTranslate": {
-      "en": [
-        "BEYBLADE BURST GOD"
-      ],
-      "zh-Hans": [
-        "霸旋陀螺 爆刃战神",
-        "战斗陀螺 爆烈 神"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.beyblade.tv/",
-    "begin": "2017-04-03T08:55:00.000Z",
-    "end": "2017-06-19T08:55:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "youku",
-        "id": "4fefbfbdefbfbd7816ef",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "Wylt_kdgbVU",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "pptv",
-        "id": "LxP9eibNJufda2EA",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480097",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "208756"
-      }
-    ]
-  },
-  {
     "title": "アイドルタイムプリパラ",
     "titleTranslate": {
       "en": [
@@ -1504,7 +1442,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/yamizukan/",
     "begin": "2017-04-02T18:35:00.000Z",
-    "end": "2017-07-05T11:15:00.000Z",
+    "end": "2017-06-25T18:40:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1950,7 +1888,8 @@
     "title": "喧嘩番長 乙女 -Girl Beats Boys-",
     "titleTranslate": {
       "zh-Hans": [
-        "喧哗番长 乙女-Girl Beats Boys-"
+        "喧哗番长 乙女-Girl Beats Boys-",
+        "喧哗番长 乙女 Girl Beats Boys"
       ]
     },
     "lang": "ja",
@@ -2015,12 +1954,44 @@
     "lang": "ja",
     "officialSite": "http://www.7-sins.tv/",
     "begin": "2017-04-14T15:00:00.000Z",
-    "end": "",
+    "end": "2017-07-29T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "189784"
+      }
+    ]
+  },
+  {
+    "title": "アトム ザ・ビギニング",
+    "titleTranslate": {
+      "en": [
+        "ATOM THE BEGINNING"
+      ],
+      "zh-Hans": [
+        "阿童木起源"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://atom-tb.com/",
+    "begin": "2017-04-15T14:00:00.000Z",
+    "end": "2017-07-08T14:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5979",
+        "begin": "2017-04-15T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "184059"
       }
     ]
   },
@@ -2034,7 +2005,7 @@
     "lang": "ja",
     "officialSite": "http://neco-neco.jp/",
     "begin": "2017-04-05T09:45:00.000Z",
-    "end": "2017-07-05T09:55:00.000Z",
+    "end": "",
     "comment": "",
     "sites": [
       {
@@ -2248,6 +2219,55 @@
       {
         "site": "bangumi",
         "id": "210811"
+      }
+    ]
+  },
+  {
+    "title": "拡張少女系トライナリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扩张少女系Trinary"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://anime.kakutora.com/",
+    "begin": "2017-04-12T07:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "6069",
+        "begin": "2017-04-14T03:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10036060",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "hrqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "192637"
       }
     ]
   }
