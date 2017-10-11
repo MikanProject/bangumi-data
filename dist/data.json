@@ -60218,6 +60218,37 @@
       ]
     },
     {
+      "id": "2010_01_20",
+      "animeType": "TV",
+      "title": "好きです鈴木くん!!",
+      "titleTranslate": {
+        "zh-Hans": [
+          "铃木同学，我爱你！"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "",
+      "begin": "2010-01-10T16:00:00.000Z",
+      "end": "2010-02-01T16:30:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "pptv",
+          "id": "D0E7uSGH9zWYFn4",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "bangumi",
+          "id": "92388"
+        }
+      ]
+    },
+    {
       "id": "2010_02_0",
       "animeType": "TV",
       "title": "ハートキャッチプリキュア！",
@@ -127403,7 +127434,7 @@
       "lang": "ja",
       "officialSite": "http://www.heybot.net/",
       "begin": "2016-09-17T22:00:00.000Z",
-      "end": "2017-03-09T22:30:00.000Z",
+      "end": "2017-09-24T22:30:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -127512,7 +127543,7 @@
       "lang": "ja",
       "officialSite": "http://www.toei-anim.co.jp/tv/appmon/",
       "begin": "2016-09-30T22:00:00.000Z",
-      "end": "",
+      "end": "2017-09-30T22:30:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -129948,7 +129979,7 @@
       "lang": "ja",
       "officialSite": "http://chissweethome.com/",
       "begin": "2016-10-01T22:00:00.000Z",
-      "end": "",
+      "end": "2017-09-24T22:30:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -130919,6 +130950,30 @@
     {
       "id": "2016_10_57",
       "animeType": "TV",
+      "title": "カードファイト!!ヴァンガードG NEXT",
+      "titleTranslate": {
+        "en": [
+          "CARDFIGHT!! Vanguard G NEXT"
+        ],
+        "zh-Hans": [
+          "卡片战斗先导者G NEXT"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-g2/",
+      "begin": "2016-10-02T01:00:00.000Z",
+      "end": "2016-10-01T01:30:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "191766"
+        }
+      ]
+    },
+    {
+      "id": "2016_10_58",
+      "animeType": "TV",
       "title": "文豪ストレイドッグス(第2クール)",
       "titleTranslate": {
         "en": [
@@ -130951,7 +131006,7 @@
       ]
     },
     {
-      "id": "2016_10_58",
+      "id": "2016_10_59",
       "animeType": "TV",
       "title": "はがねオーケストラ",
       "titleTranslate": {
@@ -131005,7 +131060,7 @@
       ]
     },
     {
-      "id": "2016_10_59",
+      "id": "2016_10_60",
       "animeType": "TV",
       "title": "猫のダヤン ふしぎ劇場",
       "titleTranslate": {},
@@ -131022,7 +131077,7 @@
       ]
     },
     {
-      "id": "2016_10_60",
+      "id": "2016_10_61",
       "animeType": "TV",
       "title": "CHEATING CRAFT",
       "titleTranslate": {
@@ -131076,7 +131131,7 @@
       ]
     },
     {
-      "id": "2016_10_61",
+      "id": "2016_10_62",
       "animeType": "TV",
       "title": "TO BE HERO",
       "titleTranslate": {
@@ -131150,7 +131205,7 @@
       ]
     },
     {
-      "id": "2016_10_62",
+      "id": "2016_10_63",
       "animeType": "TV",
       "title": "月曜日のたわわ",
       "titleTranslate": {
@@ -131216,7 +131271,7 @@
       ]
     },
     {
-      "id": "2016_10_63",
+      "id": "2016_10_64",
       "animeType": "TV",
       "title": "ガールフレンド(♪)",
       "titleTranslate": {
@@ -131250,7 +131305,7 @@
       ]
     },
     {
-      "id": "2016_10_64",
+      "id": "2016_10_65",
       "animeType": "TV",
       "title": "信長の忍び",
       "titleTranslate": {
@@ -131332,7 +131387,7 @@
       ]
     },
     {
-      "id": "2016_10_65",
+      "id": "2016_10_66",
       "animeType": "TV",
       "title": "Bloodivores",
       "titleTranslate": {
@@ -131414,7 +131469,7 @@
       ]
     },
     {
-      "id": "2016_10_66",
+      "id": "2016_10_67",
       "animeType": "TV",
       "title": "生死回放",
       "titleTranslate": {},
@@ -131491,7 +131546,7 @@
       ]
     },
     {
-      "id": "2016_10_67",
+      "id": "2016_10_68",
       "animeType": "TV",
       "title": "君临臣下",
       "titleTranslate": {},
@@ -131518,7 +131573,7 @@
       ]
     },
     {
-      "id": "2016_10_68",
+      "id": "2016_10_69",
       "animeType": "TV",
       "title": "黒子のバスケ ウインターカップ総集編 ～淚の先へ～",
       "titleTranslate": {
@@ -131569,7 +131624,7 @@
       ]
     },
     {
-      "id": "2016_10_69",
+      "id": "2016_10_70",
       "animeType": "TV",
       "title": "映画 魔法つかいプリキュア! 奇跡の変身！キュアモフルン！",
       "titleTranslate": {
@@ -131600,7 +131655,7 @@
       ]
     },
     {
-      "id": "2016_10_70",
+      "id": "2016_10_71",
       "animeType": "TV",
       "title": "彼岸島X",
       "titleTranslate": {
@@ -131631,7 +131686,7 @@
       ]
     },
     {
-      "id": "2016_10_71",
+      "id": "2016_10_72",
       "animeType": "TV",
       "title": "クビキリサイクル 青色サヴァンと戯言遣い",
       "titleTranslate": {
@@ -131662,7 +131717,7 @@
       ]
     },
     {
-      "id": "2016_10_72",
+      "id": "2016_10_73",
       "animeType": "TV",
       "title": "機動警察パトレイバーREBOOT",
       "titleTranslate": {
@@ -134744,7 +134799,7 @@
       "lang": "ja",
       "officialSite": "http://short.yume-100.com/",
       "begin": "2017-03-25T02:00:00.000Z",
-      "end": "",
+      "end": "2017-12-25T02:10:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -134775,7 +134830,7 @@
       "lang": "ja",
       "officialSite": "http://gundam-tb.net/",
       "begin": "2017-03-24T03:00:00.000Z",
-      "end": "",
+      "end": "2017-07-14T03:30:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -134814,6 +134869,16 @@
           "id": "EycRjicddzQtu7FQ",
           "begin": "",
           "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "sohu",
+          "id": "s2017/dhpbxsn",
+          "begin": "",
+          "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
@@ -136408,7 +136473,7 @@
     {
       "id": "2017_04_34",
       "animeType": "TV",
-      "title": "僧侶と交わる色欲の夜に･･･",
+      "title": "僧侶と交わる色欲の夜に…",
       "titleTranslate": {
         "zh-Hans": [
           "与僧侣交合的色欲之夜"
@@ -137029,7 +137094,7 @@
     {
       "id": "2017_04_47",
       "animeType": "TV",
-      "title": "アキンド星の リトル・ペソ",
+      "title": "アキンド星のリトル・ペソ",
       "titleTranslate": {
         "zh-Hans": [
           "商人之星的小比索"
@@ -138374,7 +138439,7 @@
     {
       "id": "2017_07_27",
       "animeType": "TV",
-      "title": "イケメン戦国◆時をかけるが恋は始まらない",
+      "title": "イケメン戦国◆時をかけるが恋ははじまらない",
       "titleTranslate": {
         "zh-Hans": [
           "美男战国 穿越时空的爱恋"
@@ -138383,7 +138448,7 @@
       "lang": "ja",
       "officialSite": "http://anime-ikemen-sengoku.jp/",
       "begin": "2017-07-12T13:10:00.000Z",
-      "end": "",
+      "end": "2017-09-27T13:15:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -139096,6 +139161,26 @@
           "censored": false,
           "lang": "zh-Hans",
           "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhdttcl",
+          "begin": "2017-08-07T12:00:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "mgtv",
+          "id": "317263",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139142,7 +139227,7 @@
       "lang": "ja",
       "officialSite": "http://www.monogatari-series.com/owarimonogatari/",
       "begin": "2017-08-12T11:00:00.000Z",
-      "end": "",
+      "end": "2017-08-13T12:30:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -139167,7 +139252,7 @@
       "title": "アイドルマスター SideM",
       "titleTranslate": {
         "zh-Hans": [
-          "偶像大师SideM"
+          "偶像大师 SideM"
         ]
       },
       "lang": "ja",
@@ -139179,6 +139264,26 @@
         {
           "site": "bangumi",
           "id": "208930"
+        },
+        {
+          "site": "bilibili",
+          "id": "6431",
+          "begin": "2017-10-07T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "mgtv",
+          "id": "318665",
+          "begin": "2017-10-07T15:30:00.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139200,6 +139305,16 @@
         {
           "site": "bangumi",
           "id": "213076"
+        },
+        {
+          "site": "bilibili",
+          "id": "6440",
+          "begin": "2017-10-08T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139217,6 +139332,16 @@
         {
           "site": "bangumi",
           "id": "212278"
+        },
+        {
+          "site": "bilibili",
+          "id": "6427",
+          "begin": "2017-10-05T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139226,7 +139351,8 @@
       "title": "このはな綺譚",
       "titleTranslate": {
         "zh-Hans": [
-          "此花绮谭"
+          "此花绮谭",
+          "此花亭奇谭"
         ]
       },
       "lang": "ja",
@@ -139238,6 +139364,36 @@
         {
           "site": "bangumi",
           "id": "211934"
+        },
+        {
+          "site": "bilibili",
+          "id": "6425",
+          "begin": "2017-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcafct",
+          "begin": "2017-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "ibEIurBR66iaiaLCXE",
+          "begin": "2017-10-04T16:00:00.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139259,6 +139415,16 @@
         {
           "site": "bangumi",
           "id": "221293"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcb5fp",
+          "begin": "2017-10-06T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139280,6 +139446,16 @@
         {
           "site": "bangumi",
           "id": "216570"
+        },
+        {
+          "site": "bilibili",
+          "id": "6465",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139289,7 +139465,7 @@
       "title": "UQ HOLDER!～魔法先生ネギま！2～",
       "titleTranslate": {
         "zh-Hans": [
-          "悠久持有者！"
+          "悠久持有者！～魔法老师! 2～"
         ]
       },
       "lang": "ja",
@@ -139301,6 +139477,16 @@
         {
           "site": "bangumi",
           "id": "185442"
+        },
+        {
+          "site": "bilibili",
+          "id": "6418",
+          "begin": "2017-10-02T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139322,6 +139508,36 @@
         {
           "site": "bangumi",
           "id": "211994"
+        },
+        {
+          "site": "bilibili",
+          "id": "6449",
+          "begin": "2017-10-03T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "383fefbfbd14efbfbd17",
+          "begin": "2017-10-03T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh85bp9",
+          "begin": "2017-10-03T14:55:07.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139343,6 +139559,16 @@
         {
           "site": "bangumi",
           "id": "214167"
+        },
+        {
+          "site": "bilibili",
+          "id": "6423",
+          "begin": "2017-10-03T16:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139364,6 +139590,16 @@
         {
           "site": "bangumi",
           "id": "219483"
+        },
+        {
+          "site": "bilibili",
+          "id": "6424",
+          "begin": "2017-10-03T12:54:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139385,6 +139621,16 @@
         {
           "site": "bangumi",
           "id": "211059"
+        },
+        {
+          "site": "bilibili",
+          "id": "6420",
+          "begin": "2017-10-03T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139402,6 +139648,16 @@
         {
           "site": "bangumi",
           "id": "200355"
+        },
+        {
+          "site": "bilibili",
+          "id": "6453",
+          "begin": "2017-10-04T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139423,6 +139679,16 @@
         {
           "site": "bangumi",
           "id": "218707"
+        },
+        {
+          "site": "bilibili",
+          "id": "6463",
+          "begin": "2017-10-06T14:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139453,7 +139719,8 @@
       "title": "あめこん!!",
       "titleTranslate": {
         "zh-Hans": [
-          "雨色可可 ame-con!!"
+          "雨色可可 ame-con!!",
+          "雨色Convention"
         ]
       },
       "lang": "ja",
@@ -139465,6 +139732,16 @@
         {
           "site": "bangumi",
           "id": "219759"
+        },
+        {
+          "site": "bilibili",
+          "id": "6476",
+          "begin": "2017-10-04T15:25:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139489,6 +139766,16 @@
         {
           "site": "bangumi",
           "id": "210272"
+        },
+        {
+          "site": "bilibili",
+          "id": "6433",
+          "begin": "2017-10-07T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139510,6 +139797,16 @@
         {
           "site": "bangumi",
           "id": "211068"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhca411",
+          "begin": "2017-10-06T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139552,6 +139849,16 @@
         {
           "site": "bangumi",
           "id": "214799"
+        },
+        {
+          "site": "bilibili",
+          "id": "6434",
+          "begin": "2017-10-07T14:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139573,6 +139880,36 @@
         {
           "site": "bangumi",
           "id": "210864"
+        },
+        {
+          "site": "bilibili",
+          "id": "6438",
+          "begin": "2017-10-07T17:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "efbfbdd6a653efbfbd19",
+          "begin": "2017-10-07T17:30:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcbanh",
+          "begin": "2017-10-07T17:30:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139594,6 +139931,16 @@
         {
           "site": "bangumi",
           "id": "211035"
+        },
+        {
+          "site": "bilibili",
+          "id": "6447",
+          "begin": "2017-10-07T17:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139603,7 +139950,11 @@
       "title": "クジラの子らは砂上に歌う",
       "titleTranslate": {
         "zh-Hans": [
+          "泥鲸之子们在沙地上歌唱",
           "鲸鱼之子们在沙丘上歌唱"
+        ],
+        "en": [
+          "Children of the Whales"
         ]
       },
       "lang": "ja",
@@ -139615,6 +139966,16 @@
         {
           "site": "bangumi",
           "id": "205113"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcbehh",
+          "begin": "2017-10-08T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139636,6 +139997,26 @@
         {
           "site": "bangumi",
           "id": "204145"
+        },
+        {
+          "site": "bilibili",
+          "id": "6432",
+          "begin": "2017-10-07T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcb365",
+          "begin": "2017-10-07T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139643,25 +140024,63 @@
       "id": "2017_10_23",
       "animeType": "TV",
       "title": "つうかあ",
-      "titleTranslate": {},
+      "titleTranslate": {
+        "zh-Hans": [
+          "侧车搭档"
+        ]
+      },
       "lang": "ja",
       "officialSite": "http://twocartv.jp/",
       "begin": "2017-10-09T15:30:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "220848"
+        },
+        {
+          "site": "acfun",
+          "id": "1480151",
+          "begin": "2017-10-09T16:00:00.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "2017_10_24",
       "animeType": "TV",
       "title": "Code:Realize ～創世の姫君～",
-      "titleTranslate": {},
+      "titleTranslate": {
+        "zh-Hans": [
+          "Code:Realize ～创世的姬君～"
+        ]
+      },
       "lang": "ja",
       "officialSite": "http://coderealize-anime.com/",
       "begin": "2017-10-08T16:35:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "144043"
+        },
+        {
+          "site": "bilibili",
+          "id": "6435",
+          "begin": "2017-10-07T12:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "2017_10_25",
@@ -139681,6 +140100,16 @@
         {
           "site": "bangumi",
           "id": "212775"
+        },
+        {
+          "site": "bilibili",
+          "id": "6446",
+          "begin": "2017-10-08T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139698,6 +140127,26 @@
         {
           "site": "bangumi",
           "id": "175530"
+        },
+        {
+          "site": "bilibili",
+          "id": "6452",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "KBP9eibNJufda2EA",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139705,13 +140154,52 @@
       "id": "2017_10_27",
       "animeType": "TV",
       "title": "aiseki MOGOL GIRL",
-      "titleTranslate": {},
+      "titleTranslate": {
+        "zh-Hans": [
+          "丝缎女孩对谈"
+        ]
+      },
       "lang": "ja",
       "officialSite": "http://mogol-girl.com/",
       "begin": "2017-10-02T16:05:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "226816"
+        },
+        {
+          "site": "bilibili",
+          "id": "6479",
+          "begin": "2017-10-02T17:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "efbfbd594c76efbfbdef",
+          "begin": "2017-10-02T17:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcbbj9",
+          "begin": "2017-10-02T17:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "2017_10_28",
@@ -139722,7 +140210,8 @@
           "Blood Blockade Battlefront & BEYOND"
         ],
         "zh-Hans": [
-          "血界战线 &amp; BEYOND"
+          "血界战线 & BEYOND",
+          "幻界战线 & BEYOND"
         ]
       },
       "lang": "ja",
@@ -139734,6 +140223,26 @@
         {
           "site": "bangumi",
           "id": "199392"
+        },
+        {
+          "site": "bilibili",
+          "id": "6439",
+          "begin": "2017-10-07T19:08:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcbd71",
+          "begin": "2017-10-07T19:08:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139741,13 +140250,33 @@
       "id": "2017_10_29",
       "animeType": "TV",
       "title": "結城友奈は勇者である -鷲尾須美の章-/-勇者の章-",
-      "titleTranslate": {},
+      "titleTranslate": {
+        "zh-Hans": [
+          "结城友奈是勇者 鹫尾须美之章&勇者之章",
+          "结城友奈是勇者 第二季"
+        ]
+      },
       "lang": "ja",
       "officialSite": "http://yuyuyu.tv/",
       "begin": "2017-10-06T16:55:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "195937"
+        },
+        {
+          "site": "bilibili",
+          "id": "6448",
+          "begin": "2017-10-06T19:25:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "2017_10_30",
@@ -139770,6 +140299,26 @@
         {
           "site": "bangumi",
           "id": "211567"
+        },
+        {
+          "site": "bilibili",
+          "id": "6445",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcbdg5",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139794,6 +140343,46 @@
         {
           "site": "bangumi",
           "id": "213329"
+        },
+        {
+          "site": "bilibili",
+          "id": "6441",
+          "begin": "2017-10-08T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "efbfbd08efbfbd5e4611",
+          "begin": "2017-10-08T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcbck5",
+          "begin": "2017-10-08T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "qq",
+          "id": "x/xva6h38vn2qiy2w.html",
+          "begin": "2017-10-08T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139815,6 +140404,36 @@
         {
           "site": "bangumi",
           "id": "212609"
+        },
+        {
+          "site": "bilibili",
+          "id": "6421",
+          "begin": "2017-10-02T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "e49c9defbfbd5911efbf",
+          "begin": "2017-10-02T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcangd",
+          "begin": "2017-10-02T17:30:07.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -139839,23 +140458,21 @@
         {
           "site": "bangumi",
           "id": "212315"
+        },
+        {
+          "site": "bilibili",
+          "id": "6454",
+          "begin": "2017-10-07T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
     {
       "id": "2017_10_34",
-      "animeType": "TV",
-      "title": "うっかりペネロペ(第4シリーズ)",
-      "titleTranslate": {},
-      "lang": "ja",
-      "officialSite": "http://penelope.tv/",
-      "begin": "2017-10-04T08:20:00.000Z",
-      "end": "",
-      "comment": "",
-      "sites": []
-    },
-    {
-      "id": "2017_10_35",
       "animeType": "TV",
       "title": "ブラッククローバー",
       "titleTranslate": {
@@ -139863,6 +140480,7 @@
           "BLACK CLOVER"
         ],
         "zh-Hans": [
+          "黑色四叶草",
           "黑色五叶草"
         ]
       },
@@ -139875,11 +140493,41 @@
         {
           "site": "bangumi",
           "id": "202880"
+        },
+        {
+          "site": "bilibili",
+          "id": "6422",
+          "begin": "2017-10-03T10:25:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "cf863914efbfbdefbfbd",
+          "begin": "2017-10-03T10:25:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhek9x9",
+          "begin": "2017-10-03T10:25:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
     {
-      "id": "2017_10_36",
+      "id": "2017_10_35",
       "animeType": "TV",
       "title": "食戟のソーマ 餐ノ皿",
       "titleTranslate": {
@@ -139896,11 +140544,31 @@
         {
           "site": "bangumi",
           "id": "217632"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhcadk5",
+          "begin": "2017-10-03T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "mqWPDXXbS4nsatI",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
     {
-      "id": "2017_10_37",
+      "id": "2017_10_36",
       "animeType": "TV",
       "title": "URAHARA",
       "titleTranslate": {},
@@ -139909,10 +140577,25 @@
       "begin": "2017-10-05T13:00:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "212004"
+        },
+        {
+          "site": "bilibili",
+          "id": "6474",
+          "begin": "2017-10-04T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
-      "id": "2017_10_38",
+      "id": "2017_10_37",
       "animeType": "TV",
       "title": "ピングー in ザ・シティ",
       "titleTranslate": {
@@ -139933,31 +140616,48 @@
       ]
     },
     {
-      "id": "2017_10_39",
+      "id": "2017_10_38",
       "animeType": "TV",
       "title": "銀魂. ポロリ編",
-      "titleTranslate": {},
+      "titleTranslate": {
+        "zh-Hans": [
+          "银魂. 走光篇"
+        ]
+      },
       "lang": "ja",
       "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
       "begin": "2017-10-01T17:05:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "218740"
+        },
+        {
+          "site": "youku",
+          "id": "cc0026e0962411de83b1",
+          "begin": "2017-10-01T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "6FM9uyOJibTeaGIA",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
-      "id": "2017_10_40",
-      "animeType": "TV",
-      "title": "ファイアボール ユーモラス",
-      "titleTranslate": {},
-      "lang": "ja",
-      "officialSite": "http://dlife.disney.co.jp/program/disney/fireball_humorous.html",
-      "begin": "2017-10-06T12:55:00.000Z",
-      "end": "",
-      "comment": "",
-      "sites": []
-    },
-    {
-      "id": "2017_10_41",
+      "id": "2017_10_39",
       "animeType": "TV",
       "title": "王様ゲーム The Animation",
       "titleTranslate": {
@@ -139974,11 +140674,21 @@
         {
           "site": "bangumi",
           "id": "221119"
+        },
+        {
+          "site": "bilibili",
+          "id": "6426",
+          "begin": "2017-10-05T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
     {
-      "id": "2017_10_42",
+      "id": "2017_10_40",
       "animeType": "TV",
       "title": "DYNAMIC CHORD",
       "titleTranslate": {
@@ -139995,11 +140705,31 @@
         {
           "site": "bangumi",
           "id": "206273"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhca1a5",
+          "begin": "2017-10-05T23:58:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "JRYCgOhOvvxf3UU",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
     {
-      "id": "2017_10_43",
+      "id": "2017_10_41",
       "animeType": "TV",
       "title": "ドリフェス！R",
       "titleTranslate": {
@@ -140012,7 +140742,421 @@
       "begin": "2017-10-06T13:00:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "202597"
+        }
+      ]
+    },
+    {
+      "id": "2017_10_42",
+      "animeType": "TV",
+      "title": "Wake Up, Girls! 新章",
+      "titleTranslate": {},
+      "lang": "ja",
+      "officialSite": "http://wakeupgirls3.jp/",
+      "begin": "2017-10-09T17:05:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "201212"
+        },
+        {
+          "site": "bilibili",
+          "id": "6442",
+          "begin": "2017-10-09T18:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhca8w5",
+          "begin": "2017-10-09T18:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "efbfbd03efbfbd2b2a4a",
+          "begin": "2017-10-09T18:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "rI9p50ib1JWPGRKw",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_43",
+      "animeType": "TV",
+      "title": "ラブ米-WE LOVE RICE- 第2期",
+      "titleTranslate": {},
+      "lang": "ja",
+      "officialSite": "http://love-kome.com/",
+      "begin": "2017-10-07T14:30:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "218383"
+        },
+        {
+          "site": "bilibili",
+          "id": "6478",
+          "begin": "2017-10-08T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "efbfbd75efbfbd47efbf",
+          "begin": "2017-10-08T17:00:00.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "mgtv",
+          "id": "318660",
+          "begin": "2017-10-08T17:00:00.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_44",
+      "animeType": "TV",
+      "title": "Dies irae",
+      "titleTranslate": {
+        "zh-Hans": [
+          "神怒之日"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://diesirae-anime.com/",
+      "begin": "2017-10-06T16:05:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "131901"
+        },
+        {
+          "site": "bilibili",
+          "id": "6430",
+          "begin": "2017-10-06T17:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "qq",
+          "id": "q/qh4142yzut75cd0",
+          "begin": "2017-10-06T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_45",
+      "animeType": "TV",
+      "title": "大正ちっちゃいさん",
+      "titleTranslate": {
+        "zh-Hans": [
+          "大正小小先生"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://mebius-anime.com/",
+      "begin": "2017-10-06T12:54:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "198707"
+        },
+        {
+          "site": "pptv",
+          "id": "qZJibicGTKOnjbWcE",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_46",
+      "animeType": "TV",
+      "title": "GLAMOROUS HEROES",
+      "titleTranslate": {
+        "zh-Hans": [
+          "魅力英雄"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://s.mxtv.jp/anime/glamorous_heroes/",
+      "begin": "2017-10-06T17:10:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "227462"
+        },
+        {
+          "site": "youku",
+          "id": "efbfbd44efbfbd00efbf",
+          "begin": "2017-10-07T01:00:00.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_47",
+      "animeType": "TV",
+      "title": "タイムボカン 逆襲の三悪人",
+      "titleTranslate": {
+        "zh-Hans": [
+          "时间飞船 逆袭的三恶人"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.ytv.co.jp/timebokan/",
+      "begin": "2017-10-07T08:30:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "212009"
+        },
+        {
+          "site": "bilibili",
+          "id": "6477",
+          "begin": "2017-10-07T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_48",
+      "animeType": "TV",
+      "title": "いぬやしき",
+      "titleTranslate": {
+        "zh-Hans": [
+          "犬屋敷",
+          "犬舍"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.inuyashiki-project.com/",
+      "begin": "2017-10-12T15:55:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "202268"
+        },
+        {
+          "site": "youku",
+          "id": "efbfbd3652c6984b11ef",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_49",
+      "animeType": "TV",
+      "title": "ファイアボール ユーモラス",
+      "titleTranslate": {
+        "zh-Hans": [
+          "火球 幽默之章"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://dlife.disney.co.jp/program/disney/fireball_humorous.html",
+      "begin": "2017-10-06T12:55:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "223134"
+        }
+      ]
+    },
+    {
+      "id": "2017_10_50",
+      "animeType": "TV",
+      "title": "ディアホライゾン(被)",
+      "titleTranslate": {
+        "zh-Hans": [
+          "Dia Horizon"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://s.mxtv.jp/anime/dia_horizon/",
+      "begin": "2017-10-02T16:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "220667"
+        }
+      ]
+    },
+    {
+      "id": "2017_10_51",
+      "animeType": "TV",
+      "title": "EVIL OR LIVE",
+      "titleTranslate": {
+        "zh-Hans": [
+          "理想禁区"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://evilorlive.jp/",
+      "begin": "2017-10-10T16:41:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "195713"
+        }
+      ]
+    },
+    {
+      "id": "2017_10_52",
+      "animeType": "TV",
+      "title": "カードファイト!! ヴァンガードG Z",
+      "titleTranslate": {
+        "en": [
+          "CARDFIGHT!! Vanguard G Z"
+        ],
+        "zh-Hans": [
+          "卡片战斗先导者 GZ"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-gz/",
+      "begin": "2017-10-08T01:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "221018"
+        },
+        {
+          "site": "pptv",
+          "id": "Bzchnwdt3RtibicGQ",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_10_53",
+      "animeType": "TV",
+      "title": "ROBO MASTERS THE ANIMATED SERIES",
+      "titleTranslate": {
+        "zh-Hans": [
+          "机甲大师"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://anime.robomasters.com/",
+      "begin": "2017-10-13T13:30:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "208773"
+        }
+      ]
+    },
+    {
+      "id": "2017_10_54",
+      "animeType": "TV",
+      "title": "おにゃんこポン",
+      "titleTranslate": {
+        "en": [
+          "ONYANKOPON"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.onyankopon.jp/",
+      "begin": "2017-10-09T16:35:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "220883"
+        }
+      ]
     },
     {
       "id": "2017_movie_0",

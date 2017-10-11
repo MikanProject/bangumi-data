@@ -920,7 +920,7 @@
     ]
   },
   {
-    "title": "イケメン戦国◆時をかけるが恋は始まらない",
+    "title": "イケメン戦国◆時をかけるが恋ははじまらない",
     "titleTranslate": {
       "zh-Hans": [
         "美男战国 穿越时空的爱恋"
@@ -929,7 +929,7 @@
     "lang": "ja",
     "officialSite": "http://anime-ikemen-sengoku.jp/",
     "begin": "2017-07-12T13:10:00.000Z",
-    "end": "",
+    "end": "2017-09-27T13:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1605,6 +1605,26 @@
         "begin": "2017-07-25T13:19:31.000Z",
         "official": false,
         "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhdttcl",
+        "begin": "2017-08-07T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "317263",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
