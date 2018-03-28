@@ -105,6 +105,27 @@
     ]
   },
   {
+    "title": "アイカツ！ミュージックアワード みんなで賞をもらっちゃいまSHOW！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 MUSIC AWARD 让我们一起领奖吧！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu.com/event/ma2015/",
+    "begin": "2015-08-22T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2016-02-02T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120188"
+      }
+    ]
+  },
+  {
     "title": "屍者の帝国",
     "titleTranslate": {
       "zh-Hans": [
@@ -689,6 +710,27 @@
       {
         "site": "bangumi",
         "id": "131540"
+      }
+    ]
+  },
+  {
+    "title": "KINGSGLAIVE FINAL FANTASY XV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终幻想15 王者之剑"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kingsglaive-jp.com/",
+    "begin": "2016-07-09T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2016-08-31T16:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "176296"
       }
     ]
   },

@@ -348,36 +348,6 @@
     ]
   },
   {
-    "title": "ちびまる子ちゃん イタリアから来た少年",
-    "titleTranslate": {
-      "zh-Hans": [
-        "樱桃小丸子 来自意大利的少年"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://chibimaru-movie.com/",
-    "begin": "2015-12-23T16:00:00.000Z",
-    "end": "2015-12-23T17:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rr96zhhk",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "139663"
-      }
-    ]
-  },
-  {
     "title": "ARIA The AVVENIRE",
     "titleTranslate": {
       "zh-Hans": [
@@ -434,76 +404,6 @@
       {
         "site": "bangumi",
         "id": "147359"
-      }
-    ]
-  },
-  {
-    "title": "映画 ハイ☆スピード！－Free! Starting Days－",
-    "titleTranslate": {
-      "zh-Hans": [
-        "High☆Speed! -Free! Starting Days-"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://movie-highspeed.com/",
-    "begin": "2015-12-05T16:00:00.000Z",
-    "end": "2015-12-05T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "129246"
-      },
-      {
-        "site": "nicovideo",
-        "id": "movie-highspeed",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      },
-      {
-        "site": "pptv",
-        "id": "speBic2fNPXveXMQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "Wake Up, Girls! Beyond the Bottom",
-    "titleTranslate": {
-      "zh-Hans": [
-        "Wake Up, Girls! 超越深限"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://wakeupgirls2.jp/",
-    "begin": "2015-12-11T16:00:00.000Z",
-    "end": "2015-12-11T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "128801"
-      },
-      {
-        "site": "pptv",
-        "id": "Vib7KSLAWhsQnpQ0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   }

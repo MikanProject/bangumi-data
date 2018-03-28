@@ -1,5 +1,89 @@
 [
   {
+    "title": "音楽少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "音乐少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/ongakushoujo.html",
+    "begin": "2015-03-22T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-03-22T16:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108010"
+      }
+    ]
+  },
+  {
+    "title": "アキの奏で",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秋之鼓点"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-03-22T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-03-22T16:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108012"
+      }
+    ]
+  },
+  {
+    "title": "ハッピーカムカム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机器人妈妈"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/happy.html",
+    "begin": "2015-03-22T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-03-22T16:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108011"
+      }
+    ]
+  },
+  {
+    "title": "クミとチューリップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红美与郁金香"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-03-22T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-03-22T16:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108009"
+      }
+    ]
+  },
+  {
     "title": "劇場版 シドニアの騎士",
     "titleTranslate": {
       "zh-Hans": [
@@ -210,6 +294,27 @@
     ]
   },
   {
+    "title": "台風のノルダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "台风的诺尔达"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://typhoon-noruda.com/",
+    "begin": "2015-06-05T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-09-11T16:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "130609"
+      }
+    ]
+  },
+  {
     "title": "劇場版 ハイキュー!! 終わりと始まり",
     "titleTranslate": {
       "zh-Hans": [
@@ -227,6 +332,48 @@
       {
         "site": "bangumi",
         "id": "123136"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボールZ 復活のF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 复活的F"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.d2015gw.com/",
+    "begin": "2015-04-18T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-10-09T16:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108438"
+      }
+    ]
+  },
+  {
+    "title": "天才バカヴォン 蘇るフランダースの犬",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才傻瓜 复活的弗兰德之犬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://bakavon.com/",
+    "begin": "2015-05-23T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-10-23T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120240"
       }
     ]
   },
@@ -437,6 +584,27 @@
       {
         "site": "bangumi",
         "id": "107199"
+      }
+    ]
+  },
+  {
+    "title": "弱虫ペダル Re:ROAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飙速宅男 Re:ROAD"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yowapeda.com/reroad/",
+    "begin": "2015-06-05T16:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-12-16T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134232"
       }
     ]
   },

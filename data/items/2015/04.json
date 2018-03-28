@@ -4253,87 +4253,6 @@
     ]
   },
   {
-    "title": "ドラゴンボールZ 復活のF",
-    "titleTranslate": {
-      "zh-Hans": [
-        "龙珠Z 复活的F",
-        "龙珠Z 复活的弗利萨"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.d2015gw.com/",
-    "begin": "2015-04-18T16:00:00.000Z",
-    "end": "2015-04-18T17:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rr95thbo",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "108438"
-      },
-      {
-        "site": "nicovideo",
-        "id": "dbz-Revival-of-F",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "名探偵コナン 業火の向日葵",
-    "titleTranslate": {
-      "zh-Hans": [
-        "名侦探柯南 业火的向日葵"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.conan-movie.jp/",
-    "begin": "2015-04-18T16:00:00.000Z",
-    "end": "2015-04-18T17:45:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrh9zual",
-        "begin": "2016-11-11T08:33:52.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "119187"
-      },
-      {
-        "site": "pptv",
-        "id": "NQHradE3pibVIxia4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      }
-    ]
-  },
-  {
     "title": "Usavich ZERO",
     "titleTranslate": {
       "zh-Hans": [
@@ -4386,36 +4305,6 @@
       {
         "site": "bangumi",
         "id": "208318"
-      }
-    ]
-  },
-  {
-    "title": "PERSONA3 THE MOVIE #3 Falling Down",
-    "titleTranslate": {
-      "zh-Hans": [
-        "女神异闻录3 剧场版 第三章 秋降"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.p3m.jp/",
-    "begin": "2015-04-04T16:00:00.000Z",
-    "end": "2015-04-04T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "117151"
-      },
-      {
-        "site": "nicovideo",
-        "id": "p3m",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
       }
     ]
   },
