@@ -6,6 +6,7 @@
         "魔力充电娘"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://mv.avex.jp/juden-chan/",
     "begin": "2009-06-24T23:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "海物语～有你陪伴～"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sea-story.tv/",
     "begin": "2009-06-24T16:29:00.000Z",
@@ -47,18 +49,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "y/y8qu9f8n19viijw",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -74,6 +76,7 @@
         "川之光"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/kawanohikari/",
     "begin": "2009-06-20T16:00:00.000Z",
@@ -93,6 +96,7 @@
         "圣斗士星矢 THE LOST CANVAS 冥王神话"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2009-06-24T16:00:00.000Z",
@@ -105,8 +109,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -115,28 +119,28 @@
         "begin": "2016-01-06T16:00:27.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "5/58x2m31mujwn2ds",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "37223",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -152,6 +156,7 @@
         "向星星许愿 COLD BODY + WARM HEART"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.barnumlaboratory.com/",
     "begin": "2009-06-01T16:00:00.000Z",
@@ -164,8 +169,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -181,6 +186,7 @@
         "魔法娜娜咪 第六季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2009-06-14T16:00:00.000Z",
@@ -190,6 +196,92 @@
       {
         "site": "bangumi",
         "id": "216385"
+      }
+    ]
+  },
+  {
+    "title": "Peeping Life -The Perfect Edition-",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-06-18T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "70886"
+      },
+      {
+        "site": "nicovideo",
+        "id": "peeping",
+        "begin": "2011-12-26T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "うたわれるもの OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "传颂之物 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/ova_uta/",
+    "begin": "2009-06-24T16:00:00.000Z",
+    "end": "2010-06-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1737"
+      },
+      {
+        "site": "pptv",
+        "id": "231Ixia6UBEKlI4s",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "みなみけ べつばら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "南家三姐妹 饭后甜点"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-06-23T16:00:00.000Z",
+    "end": "2009-06-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3016"
+      },
+      {
+        "site": "pptv",
+        "id": "F2tV0zuhEUibyMJg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

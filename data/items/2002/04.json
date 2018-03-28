@@ -6,6 +6,7 @@
         "天使的小生意气"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.tv-tokyo.co.jp/anime/tenshi/main_index.html",
     "begin": "2002-04-06T15:45:00.000Z",
@@ -18,18 +19,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "b/bkwnwgi75yqk7zs",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -45,6 +46,7 @@
         "魔法咪路咪路"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/mirumo/story/story_mirumo.htm",
     "begin": "2002-04-05T23:30:00.000Z",
@@ -64,6 +66,7 @@
         "东京猫猫"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-aichi.co.jp/mewmew/",
     "begin": "2002-04-05T23:00:00.000Z",
@@ -76,8 +79,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -93,6 +96,7 @@
         "铁胆火车侠2"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toho-a-park.com/character/hikari/index.html",
     "begin": "2002-04-06T23:30:00.000Z",
@@ -112,6 +116,7 @@
         "阿滋漫画大王"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/azuma/index.html",
     "begin": "2002-04-08T16:25:00.000Z",
@@ -131,6 +136,7 @@
         "我们这一家"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.atashinchi.net/",
     "begin": "2002-04-19T10:30:00.000Z",
@@ -150,6 +156,7 @@
         "数码暴龙04无限地带"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.fujitv.co.jp/jp/b_hp/digimonf/",
     "begin": "2002-04-07T00:00:00.000Z",
@@ -162,8 +169,8 @@
         "begin": "2015-09-17T05:39:18.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -179,6 +186,7 @@
         "寻找满月"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.tv-tokyo.co.jp/anime/fullmoon/main_index.html",
     "begin": "2002-04-05T22:30:00.000Z",
@@ -191,8 +199,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -208,6 +216,7 @@
         "青出于蓝"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.aiyoriaoshi.com/aiao_index.html",
     "begin": "2002-04-10T00:00:00.000Z",
@@ -220,23 +229,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "u/us1x4gwz0ud1ih0",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "836"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aiyoriaoshi_",
+        "begin": "2012-08-29T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -247,6 +266,7 @@
         ".hack//时空"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://dothack.com/",
     "begin": "2002-04-03T13:00:00.000Z",
@@ -259,8 +279,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -276,6 +296,7 @@
         "爆弹小新娘"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ponycanyon.co.jp/pc-moe/rizeru/",
     "begin": "2002-04-02T04:00:00.000Z",
@@ -295,6 +316,7 @@
         "迷糊天使"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.madhouse.co.jp/works/2002-2001/works_tv_pitaten.html",
     "begin": "2002-04-07T02:00:00.000Z",
@@ -318,6 +340,7 @@
         "人型电脑天使心"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/chobits/",
     "begin": "2002-04-02T18:00:00.000Z",
@@ -330,28 +353,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "g/go0ywjh393l0jm5",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "38691",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -367,6 +390,7 @@
         "十二国记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=12kokuki",
     "begin": "2002-04-09T10:00:00.000Z",
@@ -379,8 +403,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -389,8 +413,8 @@
         "begin": "2014-11-03T10:06:18.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -406,6 +430,7 @@
         "东京地下城"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://pierrot.jp/archives/tv_list_2000/tv_057.html",
     "begin": "2002-04-02T16:00:00.000Z",
@@ -425,6 +450,7 @@
         "蜡笔小新 呼风唤雨！战国大合战"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "2002-04-20T16:00:00.000Z",
@@ -435,11 +461,11 @@
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20130715/48ffcf0034a37957.html"
+        "url": "http://www.iqiyi.com/dongman/20130715/48ffcf0034a37957.html",
+        "exist": null
       },
       {
         "site": "bangumi",
@@ -454,6 +480,7 @@
         "名侦探柯南 贝克街的亡灵"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.conan-movie.jp/",
     "begin": "2002-04-20T16:00:00.000Z",
@@ -466,13 +493,23 @@
         "begin": "2016-11-11T08:33:52.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2972"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -483,6 +520,7 @@
         "忍者乱太郎 10期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "2002-04-01T08:35:00.000Z",
@@ -502,6 +540,7 @@
         "欢乐课程"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-04-01T16:00:00.000Z",
@@ -514,8 +553,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -531,6 +570,7 @@
         "天地无用! GXP"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-04-02T16:00:00.000Z",
@@ -543,8 +583,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -560,6 +600,7 @@
         "安倍桥魔法☆商店街"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gainax.co.jp/anime/abesho/",
     "begin": "2002-04-04T16:00:00.000Z",
@@ -572,13 +613,73 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "6937"
+      }
+    ]
+  },
+  {
+    "title": "ゲートキーパーズ21",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球守护者21"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gonzo.co.jp/works/0002.html",
+    "begin": "2002-04-24T16:00:00.000Z",
+    "end": "2003-01-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19040"
+      },
+      {
+        "site": "pptv",
+        "id": "mNKuLJT6aqgLiafE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 生きていた魔術師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 活下来的魔术师"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-03T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84990"
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

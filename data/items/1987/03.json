@@ -6,6 +6,7 @@
         "哆啦A梦：大雄与龙之骑士"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1987-03-14T16:00:00.000Z",
@@ -13,28 +14,28 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh60cs0",
-        "begin": "2014-03-03T02:29:15.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "80864",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "444"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -45,6 +46,7 @@
         "阳光普照！"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1987-03-29T16:00:00.000Z",
@@ -57,8 +59,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

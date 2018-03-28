@@ -2,6 +2,7 @@
   {
     "title": "王牌御史",
     "titleTranslate": {},
+    "type": "web",
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/sxdh/index.shtml",
     "begin": "2014-06-27T12:00:00.000Z",
@@ -12,60 +13,60 @@
         "site": "acfun",
         "id": "1470010",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1700",
-        "begin": "",
+        "begin": "2014-07-24T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "pptv",
         "id": "tQfQT7cdjcsurDA",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "b/bo64ctd5rtyc2fi",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhlwfaw",
         "begin": "2014-09-12T06:20:12.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10002875",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -74,18 +75,18 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "100147",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -101,6 +102,7 @@
         "圣斗士星矢 圣域传说"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/movie/seiya_cg/",
     "begin": "2014-06-21T16:00:00.000Z",
@@ -111,10 +113,10 @@
         "site": "iqiyi",
         "id": "a_19rro3wbto",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -130,6 +132,7 @@
         "大怪兽RUSH第2季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.daikaijyu.com/rush/",
     "begin": "2014-06-24T16:00:00.000Z",
@@ -149,6 +152,7 @@
         "闪电十一人 超次元梦幻比赛"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/inazumago/best_eleven/",
     "begin": "2014-06-13T16:00:00.000Z",
@@ -161,8 +165,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -178,6 +182,7 @@
         "黑白小姐 OVA 足球篇"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-06-17T16:00:00.000Z",
@@ -190,13 +195,69 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "104879"
+      }
+    ]
+  },
+  {
+    "title": "あぐかる PLAY WITH IBARAKI編",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://puyukai.com/agukaru/",
+    "begin": "2014-06-06T16:00:00.000Z",
+    "end": "2015-03-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238437"
+      },
+      {
+        "site": "nicovideo",
+        "id": "agukaru",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "PERSONA3 THE MOVIE #2 Midsummer Knight's Dream",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女神异闻录3 剧场版 第二章 仲夏骑士之梦"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.p3m.jp/",
+    "begin": "2014-06-07T16:00:00.000Z",
+    "end": "2014-06-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "88731"
+      },
+      {
+        "site": "nicovideo",
+        "id": "p3m",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

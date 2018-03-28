@@ -6,6 +6,7 @@
         "热血最强哥修罗"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sunrise-inc.co.jp/works/list/detail.php?cid=122",
     "begin": "1993-03-03T16:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -38,6 +39,7 @@
         "美少女战士R"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://sailormoon.channel.or.jp/",
     "begin": "1993-03-06T16:00:00.000Z",
@@ -50,13 +52,23 @@
         "begin": "2015-08-14T17:08:28.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "5428"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sailor_moon_r",
+        "begin": "2015-07-18T10:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -67,22 +79,13 @@
         "阿拉蕾 企鹅村是大晴天"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-03-06T16:00:00.000Z",
     "end": "1993-03-06T16:40:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro0n5a4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "82723"
@@ -96,6 +99,7 @@
         "龙珠Z 传说中的超级赛亚人"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-03-06T16:00:00.000Z",
@@ -103,18 +107,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3ot0s",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "45393"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_moetsukiro",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -125,6 +129,7 @@
         "哆啦A梦：大雄与白金迷宫"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-03-06T16:00:00.000Z",
@@ -132,28 +137,28 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh60d50",
-        "begin": "2014-03-03T02:29:46.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "80947",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "452"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

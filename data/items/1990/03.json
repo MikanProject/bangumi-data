@@ -6,6 +6,7 @@
         "魔神英雄传2"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mashin-eiyuuden-wataru.net/wataru2/",
     "begin": "1990-03-09T16:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "龙珠Z 世上最强之人"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1990-03-10T16:00:00.000Z",
@@ -42,18 +44,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro4shr0",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "44940"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_konoyodeitiban",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -64,6 +66,7 @@
         "哆啦A梦：大雄与动物行星"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1990-03-10T16:00:00.000Z",
@@ -71,23 +74,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh60clk",
-        "begin": "2014-03-03T02:29:45.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "80869",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

@@ -6,6 +6,7 @@
         "嘻皮拉君"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hipira.net/",
     "begin": "2009-12-21T07:30:00.000Z",
@@ -25,6 +26,7 @@
         "快要坏掉的八音盒"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.ne.jp/asahi/magneticwave/popcan/kowa/",
     "begin": "2009-12-29T16:00:00.000Z",
@@ -35,10 +37,10 @@
         "site": "letv",
         "id": "6307",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -54,22 +56,13 @@
         "海贼王 强者世界"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.onepiece-movie.com/",
     "begin": "2009-12-12T16:00:00.000Z",
     "end": "2009-12-12T18:00:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro4ghbc",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "2462"
@@ -83,6 +76,7 @@
         "午夜企鹅"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2009-12-23T16:00:00.000Z",
@@ -95,13 +89,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "72669"
+      }
+    ]
+  },
+  {
+    "title": "やんやんマチコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "波波咩"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://yanyan-machiko.com/",
+    "begin": "2009-12-25T16:00:00.000Z",
+    "end": "2015-08-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9616"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch313",
+        "begin": "2010-01-26T07:32:57.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

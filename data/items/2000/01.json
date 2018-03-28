@@ -6,6 +6,7 @@
         "哦! 超级小奶糖"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.supermilk-chan.com/",
     "begin": "2000-01-27T16:00:00.000Z",
@@ -15,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "85771"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oh-supermilk-chan",
+        "begin": "2011-06-17T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +36,7 @@
         "随风舞月影兰"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=416",
     "begin": "2000-01-26T16:00:00.000Z",
@@ -44,6 +56,7 @@
         "女神候补生"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2000-01-10T16:00:00.000Z",
@@ -54,10 +67,10 @@
         "site": "qq",
         "id": "m/m0gjz15r0yh4530",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -73,6 +86,7 @@
         "幻影死神"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2000-01-05T16:00:00.000Z",
@@ -85,8 +99,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

@@ -6,6 +6,7 @@
         "机动警察 和平保卫战"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-08-07T16:00:00.000Z",
@@ -16,15 +17,25 @@
         "site": "qq",
         "id": "m/mmgowdl01xcnz23",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "321"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PATLABOR_02",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

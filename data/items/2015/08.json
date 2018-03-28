@@ -6,6 +6,7 @@
         "摇曳百合 夏日时光！+"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://yuruyuri.com/nachup/",
     "begin": "2015-08-20T18:05:00.000Z",
@@ -18,13 +19,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "136311"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nachup",
+        "begin": "2015-08-28T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -35,6 +46,7 @@
         "海贼王 萨波特别篇 三兄弟的羁绊 奇迹的再会和被继承的意志"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2015-08-22T16:00:00.000Z",
@@ -47,8 +59,8 @@
         "begin": "2016-04-27T15:15:23.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,6 +76,7 @@
         "元气少女缘结神 过去篇"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2015-08-20T16:00:00.000Z",
@@ -76,18 +89,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10033636",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -103,6 +116,7 @@
         "欧西里斯的天秤"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.fujitv.co.jp/b_hp/150922osiris/index.html",
     "begin": "2015-08-01T16:00:00.000Z",
@@ -115,8 +129,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -132,6 +146,7 @@
         "学园帅哥"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.liverp.co.jp/ani_pu/gakuen-handsome/",
     "begin": "2015-08-28T16:00:00.000Z",
@@ -144,13 +159,83 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "131090"
+      }
+    ]
+  },
+  {
+    "title": "BORUTO -NARUTO THE MOVIE-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者 剧场版 博人传"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://boruto-movie.com/",
+    "begin": "2015-08-07T16:00:00.000Z",
+    "end": "2015-08-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120191"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boruto-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "1X1X1T2jE1G0Mpo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "アイカツ！ミュージックアワード みんなで賞をもらっちゃいまSHOW！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 MUSIC AWARD 让我们一起领奖吧！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu.com/event/ma2015/",
+    "begin": "2015-08-22T16:00:00.000Z",
+    "end": "2015-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120188"
+      },
+      {
+        "site": "pptv",
+        "id": "HQXvbdU7qiblMyjI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

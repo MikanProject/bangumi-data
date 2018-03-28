@@ -6,6 +6,7 @@
         "棒球英豪"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.kbs-kyoto.co.jp/tv/anime/touch/",
     "begin": "1985-03-24T22:30:00.000Z",
@@ -16,10 +17,10 @@
         "site": "qq",
         "id": "m/m2oobmidz797a2w",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "机动战士Z高达"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.z-gundam.net/",
     "begin": "1985-03-02T15:30:00.000Z",
@@ -47,18 +49,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "7/7z6r2ttxucgry3j",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -74,6 +76,7 @@
         "哆啦A梦：大雄的宇宙小战争"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1985-03-16T16:00:00.000Z",
@@ -81,28 +84,28 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh604ws",
-        "begin": "2014-03-03T02:28:35.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "80862",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "441"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -113,6 +116,7 @@
         "无限地带23"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1985-03-09T16:00:00.000Z",
@@ -125,8 +129,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

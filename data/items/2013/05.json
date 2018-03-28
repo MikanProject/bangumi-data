@@ -2,6 +2,7 @@
   {
     "title": "島耕作のアジア立志伝",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/asianleaders/",
     "begin": "2013-05-09T15:00:00.000Z",
@@ -21,6 +22,7 @@
         "闪电十一人GO 银河"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/inazumago/",
     "begin": "2013-05-08T10:00:00.000Z",
@@ -33,8 +35,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -53,6 +55,7 @@
         "天使的水果糖"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://comic-meteor.jp/sp/tendoro/",
     "begin": "2013-05-12T16:00:00.000Z",
@@ -72,6 +75,7 @@
         "言叶之庭"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.kotonohanoniwa.jp",
     "begin": "2013-05-31T16:00:00.000Z",
@@ -82,15 +86,25 @@
         "site": "letv",
         "id": "87682",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "58949"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kotonohanoniwa",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -101,6 +115,7 @@
         "圣哥传"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.saint023.com/",
     "begin": "2013-05-10T16:00:00.000Z",
@@ -110,6 +125,26 @@
       {
         "site": "bangumi",
         "id": "54338"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saint023",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "W9fBP6cNfbsenAQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -120,6 +155,7 @@
         "笨蛋的悲剧人生"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-05-21T16:00:00.000Z",
@@ -132,8 +168,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

@@ -3,9 +3,12 @@
     "title": "ふたつのスピカ",
     "titleTranslate": {
       "zh-Hans": [
-        "我要上太空"
+        "我要上太空",
+        "麦穗星之梦",
+        "两颗Spica"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/spica/",
     "begin": "2003-11-01T00:00:00.000Z",
@@ -15,6 +18,16 @@
       {
         "site": "bangumi",
         "id": "4686"
+      },
+      {
+        "site": "pptv",
+        "id": "Sic3IRq4UhMIlows",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +38,7 @@
         "爆裂鼻毛真拳"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.bo-bobo.com/",
     "begin": "2003-11-08T10:28:00.000Z",
@@ -37,8 +51,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -57,6 +71,7 @@
         "圣枪修女"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.fujitv.co.jp/b_hp/chrono/",
     "begin": "2003-11-24T18:08:00.000Z",
@@ -69,8 +84,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -89,6 +104,7 @@
         "东京教父"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.sonypictures.jp/archive/movie/worldcinema/tgf/",
     "begin": "2003-11-08T16:00:00.000Z",
@@ -99,25 +115,55 @@
         "site": "qq",
         "id": "c/cna8dlk8kzztn41",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "157295",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "842"
+      }
+    ]
+  },
+  {
+    "title": "ふたりエッチ 2nd SEASON",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夫妻成长日记 第二期"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-11-27T16:00:00.000Z",
+    "end": "2004-01-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "50599"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch61035",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

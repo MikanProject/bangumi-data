@@ -6,6 +6,7 @@
         "天元突破 红莲螺岩"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gurren-lagann.net/",
     "begin": "2007-03-31T23:30:00.000Z",
@@ -18,23 +19,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "37026",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "770"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gurren-lagann",
+        "begin": "2015-12-28T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -45,6 +56,7 @@
         "新勇者莱丁"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.reideen.jp/",
     "begin": "2007-03-03T10:00:00.000Z",
@@ -57,8 +69,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -74,6 +86,7 @@
         "初瓣"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hitohira.tv/",
     "begin": "2007-03-28T02:00:00.000Z",
@@ -86,8 +99,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -103,6 +116,7 @@
         "月光旅程 -Lift off-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.moonlightmile.jp/",
     "begin": "2007-03-03T16:00:00.000Z",
@@ -115,8 +129,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -132,6 +146,7 @@
         "手机少女"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.ktai-s.net/",
     "begin": "2007-03-20T03:00:00.000Z",
@@ -144,8 +159,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -161,6 +176,7 @@
         "秒速5厘米"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://5cm.yahoo.co.jp/",
     "begin": "2007-03-03T16:00:00.000Z",
@@ -173,23 +189,33 @@
         "begin": "2014-04-09T23:31:04.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "7264",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "927"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5cm",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -200,6 +226,7 @@
         "哆啦A梦 大雄的新魔界大冒险之7个魔法师"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://doraeiga.com/2007/",
     "begin": "2007-03-10T16:00:00.000Z",
@@ -210,15 +237,25 @@
         "site": "letv",
         "id": "81024",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "475"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -229,22 +266,13 @@
         "阿拉蕾 马西利特博士"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2007-03-03T16:00:00.000Z",
     "end": "2007-03-03T16:05:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro078h4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "82729"
@@ -258,6 +286,7 @@
         "海贼王 沙漠的王女与海贼们"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.onepiece-movie.com/",
     "begin": "2007-03-03T16:00:00.000Z",
@@ -265,18 +294,94 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro4gf6k",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "1999"
+      }
+    ]
+  },
+  {
+    "title": "甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-21T16:00:00.000Z",
+    "end": "2007-03-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238455"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mushiking-movie02",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "MURDER PRINCESS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀戮公主"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-28T16:00:00.000Z",
+    "end": "2007-08-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1265"
+      },
+      {
+        "site": "pptv",
+        "id": "Z9umJIzyYqADgek",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "超劇場版ケロロ軍曹2 深海のプリンセスであります!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超剧场版 Keroro军曹2 深海的公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.keroro-movie.net/",
+    "begin": "2007-03-17T16:00:00.000Z",
+    "end": "2007-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3762"
+      },
+      {
+        "site": "pptv",
+        "id": "9LQdmwNp2Rd6ibGA",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "精灵宝可梦 太阳&月亮"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_sunmoon/",
     "begin": "2016-11-17T10:55:00.000Z",
@@ -16,10 +17,10 @@
         "site": "letv",
         "id": "10032274",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -36,6 +37,7 @@
         "众神记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://kamigaminoki.com/",
     "begin": "2016-11-24T16:25:00.000Z",
@@ -48,13 +50,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "196075"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kamigaminoki",
+        "begin": "2017-01-13T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -65,6 +77,7 @@
         "阿卡君的ACCA讲座"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2016-11-11T16:00:00.000Z",
@@ -77,8 +90,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -94,6 +107,7 @@
         "暗杀教室 第二季 课外授课篇"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2016-11-25T16:00:00.000Z",
@@ -106,13 +120,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "170762"
+      }
+    ]
+  },
+  {
+    "title": "きんいろモザイク Pretty Days",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黄金拼图 Pretty Days"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kinmosa.com/",
+    "begin": "2016-11-12T16:00:00.000Z",
+    "end": "2016-11-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175532"
+      },
+      {
+        "site": "pptv",
+        "id": "t4Fr6VG3J2XIRq4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

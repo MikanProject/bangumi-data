@@ -6,6 +6,7 @@
         "女皇之刃 王座的继承者"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://queensblade.tv/",
     "begin": "2009-09-23T23:00:00.000Z",
@@ -15,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "2605"
+      },
+      {
+        "site": "nicovideo",
+        "id": "queensblade02",
+        "begin": "2012-04-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +36,7 @@
         "战斗之魂 少年激霸"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sunrise-inc.co.jp/battlespirits2/",
     "begin": "2009-09-12T22:00:00.000Z",
@@ -37,8 +49,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -47,8 +59,8 @@
         "begin": "2012-12-11T11:56:51.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,6 +76,7 @@
         "森林大帝 -勇气改变未来-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://wwwz.fujitv.co.jp/leo/index.html",
     "begin": "2009-09-05T16:00:00.000Z",
@@ -83,6 +96,7 @@
         "亲吻那片花瓣 玲绪麻衣日记"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.a1c.jp/~chuchu/top.html",
     "begin": "2009-09-26T16:00:00.000Z",
@@ -90,23 +104,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "lZlz8VmicL23QTrY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "30210",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -122,6 +126,7 @@
         "魔法老师！～另一个世界～"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://negima.kc.kodansha.co.jp",
     "begin": "2009-09-17T16:00:00.000Z",
@@ -134,13 +139,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "3341"
+      },
+      {
+        "site": "nicovideo",
+        "id": "negima-oad02",
+        "begin": "2017-09-07T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

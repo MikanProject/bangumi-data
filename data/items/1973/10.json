@@ -6,6 +6,7 @@
         "甜心战士"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1973-10-13T10:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "2015-11-04T03:13:43.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "魔投手"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mxtv.co.jp/samurai_g/",
     "begin": "1973-10-07T22:30:00.000Z",
@@ -54,6 +56,7 @@
         "熊熊燃烧的炎魔君"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1973-10-04T10:00:00.000Z",
@@ -73,6 +76,7 @@
         "再造人卡辛"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tatsunoko.co.jp/works/archive/cassyan.html",
     "begin": "1973-10-02T18:08:00.000Z",
@@ -82,6 +86,36 @@
       {
         "site": "bangumi",
         "id": "10944"
+      }
+    ]
+  },
+  {
+    "title": "空手バカ一代",
+    "titleTranslate": {
+      "zh-Hans": [
+        "空手傻瓜一代"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1973-10-03T16:00:00.000Z",
+    "end": "1974-09-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89330"
+      },
+      {
+        "site": "nicovideo",
+        "id": "karate",
+        "begin": "2012-02-21T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

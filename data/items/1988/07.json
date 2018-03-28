@@ -6,6 +6,7 @@
         "龙珠 摩诃不可思议的冒险"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1988-07-09T16:00:00.000Z",
@@ -13,18 +14,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro4sekg",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "44938"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DB_makafusigi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -35,6 +36,7 @@
         "圣斗士星矢 真红少年传说"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1988-07-23T16:00:00.000Z",
@@ -42,18 +44,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3pmy4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "27478"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saint_seiya",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -64,6 +66,7 @@
         "功夫小子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.pro-reed.com/works/tv_series/w016.html",
     "begin": "1988-07-02T10:00:00.000Z",
@@ -76,13 +79,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "72815"
+      }
+    ]
+  },
+  {
+    "title": "吸血姫美夕 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血姬美夕 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-21T16:00:00.000Z",
+    "end": "1989-04-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7345"
+      },
+      {
+        "site": "pptv",
+        "id": "4086uCCG9jSXFX0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

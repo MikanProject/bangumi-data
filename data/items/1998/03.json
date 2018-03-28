@@ -6,6 +6,7 @@
         "银河漂流华尔分13"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.vifam.net/",
     "begin": "1998-03-21T16:00:00.000Z",
@@ -25,6 +26,7 @@
         "新世纪福音战士剧场版 DEATH(TRUE)2/Air/真心为你"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-03-07T16:00:00.000Z",
@@ -37,8 +39,8 @@
         "begin": "2016-10-31T16:00:43.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -54,22 +56,13 @@
         "银河铁道999 永恒幻想"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-03-07T16:00:00.000Z",
     "end": "1998-03-07T16:55:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3rxb8",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "33930"
@@ -83,6 +76,7 @@
         "哆啦A梦：大雄的南海大冒险"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-03-07T16:00:00.000Z",
@@ -90,28 +84,28 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh602r8",
-        "begin": "2014-03-03T02:29:25.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "80953",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "460"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

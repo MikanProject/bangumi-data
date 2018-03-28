@@ -6,6 +6,7 @@
         "东方梦想夏乡"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://maikaze.com/",
     "begin": "2008-12-30T16:00:00.000Z",
@@ -18,18 +19,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "23613",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -45,22 +46,13 @@
         "剧场版 鬼太郎 日本爆裂!!"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2008-12-20T16:00:00.000Z",
     "end": "2008-12-20T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3w7zc",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "18179"

@@ -6,6 +6,7 @@
         "徽章战士"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1999-07-02T09:00:00.000Z",
@@ -25,6 +26,7 @@
         "课长王子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/kacho-ohji/home.html",
     "begin": "1999-07-08T23:00:00.000Z",
@@ -37,8 +39,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -54,6 +56,7 @@
         "魔法使tai"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://animejapan.cplaza.ne.jp/b-ch/mahotai/index.html",
     "begin": "1999-07-07T00:30:00.000Z",
@@ -73,6 +76,7 @@
         "鲁邦三世 爱的记号~ 不二子不幸的一天"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "1999-07-30T16:30:00.000Z",
@@ -82,6 +86,26 @@
       {
         "site": "bangumi",
         "id": "84987"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -92,6 +116,7 @@
         "剧场版 精灵宝可梦：梦幻的精灵宝可梦 洛奇亚爆诞"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "1999-07-17T16:00:00.000Z",
@@ -104,8 +129,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -114,18 +139,18 @@
         "begin": "2015-09-17T05:39:45.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "71806",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -141,6 +166,7 @@
         "仙界传 封神演义"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1999-07-03T16:00:00.000Z",
@@ -151,10 +177,10 @@
         "site": "qq",
         "id": "o/opv3q70xfz08gnd",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -172,22 +198,13 @@
         "生之喜悦"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1999-07-27T16:00:00.000Z",
     "end": "1999-07-27T17:20:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrn277lk",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "49483"
@@ -201,6 +218,7 @@
         "精灵宝可梦：皮卡丘探险队"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "1999-07-17T17:10:00.000Z",
@@ -213,8 +231,8 @@
         "begin": "2015-09-17T05:39:45.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -231,6 +249,7 @@
         "解剖菜菜子"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.geneonuniversal.jp/rondorobe/anime/nanako/",
     "begin": "1999-07-05T16:00:00.000Z",
@@ -243,8 +262,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

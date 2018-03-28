@@ -9,6 +9,7 @@
         "DIABOLIK LOVERS MORE,BLOOD"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://anime-dialover.com/dlmb/",
     "begin": "2015-09-23T15:30:00.000Z",
@@ -19,10 +20,10 @@
         "site": "qq",
         "id": "n/ndd165x9imhawbd",
         "begin": "2015-09-24T16:30:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -30,9 +31,9 @@
         "id": "DIABOLIK%20LOVERS%20MORE,BLOOD",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -42,6 +43,16 @@
       {
         "site": "saraba1st",
         "id": "1157747"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dlmb",
+        "begin": "2015-10-11T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -52,6 +63,7 @@
         "气球狗迪尼 第二期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/tinny/",
     "begin": "2015-09-24T21:40:00.000Z",
@@ -71,6 +83,7 @@
         "心灵想要大声呼喊。"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.kokosake.jp/",
     "begin": "2015-09-19T16:00:00.000Z",
@@ -83,23 +96,103 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10020353",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "119344"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kokosake",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Wake Up, Girls! 青春の影",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Wake Up, Girls! 青春之影"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wakeupgirls2.jp/",
+    "begin": "2015-09-25T16:00:00.000Z",
+    "end": "2015-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "119985"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wakeupgirls_seisilyun",
+        "begin": "2014-01-13T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "Vib7KSLAWhsQnpQ0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "暁のヨナ OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拂晓的尤娜 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-09-18T16:00:00.000Z",
+    "end": "2016-12-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129014"
+      },
+      {
+        "site": "pptv",
+        "id": "bcGrKZH3Z6UIhu4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

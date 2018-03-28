@@ -6,6 +6,7 @@
         "洛克人EXE BEAST"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/rockman_beast/",
     "begin": "2005-09-30T23:30:00.000Z",
@@ -25,6 +26,7 @@
         "最终幻想VII：降临之子"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.square-enix.co.jp/dvd/ff7ac/",
     "begin": "2005-09-14T16:00:00.000Z",
@@ -36,24 +38,54 @@
         "begin": "",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
         "comment": "",
-        "url": "http://vip.iqiyi.com/20110909/2fbdedacafd41bd8.html"
+        "url": "http://vip.iqiyi.com/20110909/2fbdedacafd41bd8.html",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "76001",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1890"
+      }
+    ]
+  },
+  {
+    "title": "銀魂 〜何事も最初が肝心なので多少背伸びするくらいが丁度良い〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂 JUMP动画巡回展 2005"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-09-24T16:00:00.000Z",
+    "end": "2005-09-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3153"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jump-ani-gintama",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

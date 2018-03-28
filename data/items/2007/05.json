@@ -6,6 +6,7 @@
         "电脑线圈"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/coil/",
     "begin": "2007-05-12T09:30:00.000Z",
@@ -25,6 +26,7 @@
         "创星的大天使"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.aquarion.info/",
     "begin": "2007-05-23T16:00:00.000Z",
@@ -35,15 +37,25 @@
         "site": "qq",
         "id": "g/g327ynn2eboikof",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "22601"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aquarion-betrayal",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -54,6 +66,7 @@
         "ICE"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2007-05-25T16:00:00.000Z",
@@ -66,8 +79,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -83,6 +96,7 @@
         "NHK15个动画短片"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/ani-kuri",
     "begin": "2007-05-07T16:00:00.000Z",
@@ -95,8 +109,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

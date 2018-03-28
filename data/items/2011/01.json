@@ -6,6 +6,7 @@
         "昭和物语"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.showa-movie.jp/index.php",
     "begin": "2011-01-07T09:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -36,6 +37,7 @@
         "兔女郎的诱惑"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://riorainbowgate.com/",
     "begin": "2011-01-04T14:00:00.000Z",
@@ -43,18 +45,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "nqeiaIIjuXpzicfeU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "10074"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch246",
+        "begin": "2011-01-07T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -68,6 +70,7 @@
         "龙之界点"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://dragoncrisis.jp/",
     "begin": "2011-01-10T16:30:00.000Z",
@@ -80,8 +83,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -97,6 +100,7 @@
         "GOSICK"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gosick.tv/",
     "begin": "2011-01-07T16:53:00.000Z",
@@ -109,8 +113,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -119,8 +123,8 @@
         "begin": "2012-11-30T16:00:31.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -139,6 +143,7 @@
         "零度战姬"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://freezing.tv/season1/",
     "begin": "2011-01-08T00:30:00.000Z",
@@ -148,6 +153,16 @@
       {
         "site": "bangumi",
         "id": "10040"
+      },
+      {
+        "site": "nicovideo",
+        "id": "freezing",
+        "begin": "2013-09-09T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -158,6 +173,7 @@
         "这个是僵尸吗？"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://newtype.kadocomic.jp/zombie/",
     "begin": "2011-01-10T16:30:00.000Z",
@@ -167,6 +183,16 @@
       {
         "site": "bangumi",
         "id": "9774"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch279",
+        "begin": "2011-01-13T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -180,6 +206,7 @@
         "恶魔奶爸"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ytv.co.jp/beelze/",
     "begin": "2011-01-08T22:00:00.000Z",
@@ -192,8 +219,8 @@
         "begin": "2016-12-15T00:49:56.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -212,6 +239,7 @@
         "魔法少女小圆"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.madoka-magica.com/tv/",
     "begin": "2011-01-06T16:25:00.000Z",
@@ -221,6 +249,16 @@
       {
         "site": "bangumi",
         "id": "9717"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch260",
+        "begin": "2011-01-12T18:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -234,6 +272,7 @@
         "IS〈无限斯特拉托斯〉"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/is/",
     "begin": "2011-01-06T16:25:00.000Z",
@@ -243,6 +282,16 @@
       {
         "site": "bangumi",
         "id": "9800"
+      },
+      {
+        "site": "nicovideo",
+        "id": "is",
+        "begin": "2011-09-29T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -253,6 +302,7 @@
         "腹黑妹妹控兄记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/oniichan/",
     "begin": "2011-01-08T15:30:00.000Z",
@@ -263,15 +313,25 @@
         "site": "qq",
         "id": "b/buifm97guxf51ld",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "9801"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch319",
+        "begin": "2011-01-11T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -283,6 +343,7 @@
         "超元气三姐妹 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mitsudomoe-anime.com/",
     "begin": "2011-01-08T17:58:00.000Z",
@@ -293,10 +354,10 @@
         "site": "letv",
         "id": "35949",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -315,6 +376,7 @@
         "卡片战斗先导者"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://cf-vanguard.com/",
     "begin": "2011-01-07T23:00:00.000Z",
@@ -327,23 +389,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "35930",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10225"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch318",
+        "begin": "2011-01-09T01:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -354,6 +426,7 @@
         "食梦者玛利"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/yumekui/",
     "begin": "2011-01-06T16:55:00.000Z",
@@ -366,8 +439,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -386,6 +459,7 @@
         "灵异E接触"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/level-e/",
     "begin": "2011-01-10T16:45:00.000Z",
@@ -398,8 +472,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -415,6 +489,7 @@
         "放浪男孩"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.houroumusuko.jp/",
     "begin": "2011-01-13T16:15:00.000Z",
@@ -427,8 +502,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -447,6 +522,7 @@
         "分形世界"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://fractale-anime.com/",
     "begin": "2011-01-13T15:45:00.000Z",
@@ -459,18 +535,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "2735",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -489,6 +565,7 @@
         "金刚狼"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.animax.co.jp/marvelanime/wolverine/",
     "begin": "2011-01-07T13:00:00.000Z",
@@ -501,8 +578,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -511,8 +588,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -528,6 +605,7 @@
         "DD北斗之拳"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ktv.jp/hokuto/index.html",
     "begin": "2011-01-11T18:00:00.000Z",
@@ -547,6 +625,7 @@
         "滑过河面的风"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/tamago/program/20110107_doc.html",
     "begin": "2011-01-07T15:15:00.000Z",
@@ -559,8 +638,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -576,6 +655,7 @@
         "好想告诉你 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ntv.co.jp/kiminitodoke/",
     "begin": "2011-01-04T17:05:00.000Z",
@@ -588,8 +668,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

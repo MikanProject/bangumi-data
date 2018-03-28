@@ -9,6 +9,7 @@
         "SLAM DUNK"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-video.co.jp/BD/slamdunk.html",
     "begin": "1993-10-16T16:00:00.000Z",
@@ -21,13 +22,23 @@
         "begin": "2015-11-28T11:19:28.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1608"
+      },
+      {
+        "site": "nicovideo",
+        "id": "SLAM_DUNK",
+        "begin": "2017-11-06T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -38,6 +49,7 @@
         "亚尔斯兰战记III 东之城 西之城"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-10-21T16:00:00.000Z",
@@ -50,13 +62,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "28712"
+      }
+    ]
+  },
+  {
+    "title": "魔神英雄伝ワタル 終わりなき時の物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔神英雄传 永恒传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-10-01T16:00:00.000Z",
+    "end": "1994-02-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38723"
+      },
+      {
+        "site": "pptv",
+        "id": "Xu3YVr4klNI1sxs",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

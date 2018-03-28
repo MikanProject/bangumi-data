@@ -9,6 +9,7 @@
         "高智能方程式"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.vap.co.jp/cyber/",
     "begin": "1991-03-15T16:00:00.000Z",
@@ -21,8 +22,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -38,6 +39,7 @@
         "机动战士高达F91"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1991-03-16T16:00:00.000Z",
@@ -48,10 +50,10 @@
         "site": "qq",
         "id": "k/kd7sd8mpyq2j2nn",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -67,6 +69,7 @@
         "龙珠Z 超级赛亚人孙悟空"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1991-03-09T16:00:00.000Z",
@@ -74,18 +77,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3ovv4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "44942"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_supersaiyajin",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -96,6 +99,7 @@
         "哆啦A梦：大雄的天方夜譚"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1991-03-09T16:00:00.000Z",
@@ -103,28 +107,48 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh60b9s",
-        "begin": "2014-03-03T02:30:05.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "80870",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "450"
+      }
+    ]
+  },
+  {
+    "title": "ドラミちゃん アララ♥少年山賊団!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦美与阿拉拉·少年山贼团"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-03-09T16:00:00.000Z",
+    "end": "1991-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121742"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

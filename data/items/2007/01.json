@@ -6,6 +6,7 @@
         "GR铁甲人"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://gr-anime.com/",
     "begin": "2007-01-19T14:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "校园乌托邦 学美向前冲！"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/manabi/",
     "begin": "2007-01-07T16:30:00.000Z",
@@ -47,13 +49,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2470"
+      },
+      {
+        "site": "nicovideo",
+        "id": "manabi_straight",
+        "begin": "2017-10-01T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -64,6 +76,7 @@
         "神圣十月"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.saintoctober.konami.jp/",
     "begin": "2007-01-04T16:55:00.000Z",
@@ -86,6 +99,7 @@
         "拯救德尔托拉"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.deltoraquest.jp/",
     "begin": "2007-01-05T23:00:00.000Z",
@@ -98,8 +112,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -115,6 +129,7 @@
         "棒球大联盟 第三季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/major/",
     "begin": "2007-01-06T09:00:00.000Z",
@@ -127,8 +142,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -137,8 +152,8 @@
         "begin": "2014-12-24T06:17:42.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -157,6 +172,7 @@
         "向阳素描"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/hidamari/1st/",
     "begin": "2007-01-11T16:35:00.000Z",
@@ -169,13 +185,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "896"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hidamari_01",
+        "begin": "2014-11-14T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -186,6 +212,7 @@
         "京四郎和永远的天空"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.kyoshiro-sora.net/",
     "begin": "2007-01-05T04:30:00.000Z",
@@ -198,8 +225,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -215,6 +242,7 @@
         "向日葵!!"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/himawari2/",
     "begin": "2007-01-06T15:30:00.000Z",
@@ -227,18 +255,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "j/jzlxtdawrpcvsui",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -257,6 +285,7 @@
         "交响情人梦"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nodame-anime.com/season1/index.html",
     "begin": "2007-01-11T16:00:00.000Z",
@@ -269,8 +298,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -279,8 +308,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -299,6 +328,7 @@
         "SHUFFLE! MEMORIES"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.shuffle-tv.com/",
     "begin": "2007-01-07T15:00:00.000Z",
@@ -311,8 +341,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -328,6 +358,7 @@
         "除魔维纳斯"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/vvv/",
     "begin": "2007-01-11T17:05:00.000Z",
@@ -340,8 +371,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -357,6 +388,7 @@
         "月面兔兵器米娜"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mi-na.jp/",
     "begin": "2007-01-13T17:15:00.000Z",
@@ -377,6 +409,7 @@
         "孤星泪"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nippon-animation.co.jp/lesmise/",
     "begin": "2007-01-07T10:30:00.000Z",
@@ -389,8 +422,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -399,8 +432,8 @@
         "begin": "2014-09-12T06:32:44.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -416,6 +449,7 @@
         "恋爱天使 安琪莉可 闪耀的明日"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gamecity.ne.jp/neoromance/tv/ange/02/index.htm",
     "begin": "2007-01-05T16:30:00.000Z",
@@ -435,6 +469,7 @@
         "东京魔人学园剑风帖 龙龙"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.majin.tv/",
     "begin": "2007-01-19T14:00:00.000Z",
@@ -442,23 +477,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "T4B8ibmLIOHbZV78",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "qq",
         "id": "a/am0nal8x8ak0ovf",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -477,6 +502,7 @@
         "Master of Epic The Animation Age"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://moepic.com/anime/",
     "begin": "2007-01-07T17:00:00.000Z",
@@ -489,8 +515,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -506,6 +532,7 @@
         "银河铁道物语 被遗忘时间的惑星"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2007-01-24T16:00:00.000Z",
@@ -518,8 +545,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

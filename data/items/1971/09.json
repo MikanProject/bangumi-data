@@ -6,6 +6,7 @@
         "天才傻鹏"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tms-e.com/search/index.php?pdt_no=4",
     "begin": "1971-09-25T22:58:00.000Z",
@@ -15,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "107451"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bakabon",
+        "begin": "2011-09-20T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

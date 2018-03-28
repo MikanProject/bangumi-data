@@ -6,6 +6,7 @@
         "战斗之魂Brave"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nagoyatv.com/battlespirits_brave/",
     "begin": "2010-09-11T22:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "2013-01-29T04:25:14.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -38,6 +39,7 @@
         "精灵宝可梦 超级愿望"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_bw/",
     "begin": "2010-09-23T08:30:00.000Z",
@@ -50,8 +52,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -60,28 +62,28 @@
         "begin": "2012-12-25T00:42:07.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "h/hibacbz0801byjb",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10006539",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -90,8 +92,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -107,6 +109,7 @@
         "黑塔利亚 第4期"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://hetalia.com/top.htm",
     "begin": "2010-09-10T07:00:00.000Z",
@@ -117,15 +120,87 @@
         "site": "letv",
         "id": "10018939",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "8082"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hetaria-world-series",
+        "begin": "2012-12-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ToHeart2 adnext",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2adnext/index.html",
+    "begin": "2010-09-23T16:00:00.000Z",
+    "end": "2010-12-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8725"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2adnext",
+        "begin": "2012-03-03T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "vIx39V3DM3HUUro",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "あぐかる",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://puyukai.com/agukaru/",
+    "begin": "2010-09-17T16:00:00.000Z",
+    "end": "2014-04-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112147"
+      },
+      {
+        "site": "nicovideo",
+        "id": "agukaru",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

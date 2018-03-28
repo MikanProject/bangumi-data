@@ -6,6 +6,7 @@
         "纸箱战机"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/lbx/",
     "begin": "2011-03-02T10:27:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -28,18 +29,8 @@
         "begin": "2012-10-15T01:29:39.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "qq",
-        "id": "k/kwwbu8r5qrpx69y",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -55,6 +46,7 @@
         "木橱童子"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.janica.jp/pja/tansu/",
     "begin": "2011-03-26T16:00:00.000Z",
@@ -67,8 +59,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -84,6 +76,7 @@
         "羈绊 一击"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.janica.jp/pja/kizuna/",
     "begin": "2011-03-19T16:00:00.000Z",
@@ -96,8 +89,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -113,6 +106,7 @@
         "万能蔬菜卜卜侠"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.janica.jp/pja/ninnin/",
     "begin": "2011-03-05T16:00:00.000Z",
@@ -125,8 +119,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -142,6 +136,7 @@
         "爷爷的煤油灯"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.janica.jp/pja/ojisan/",
     "begin": "2011-03-19T16:00:00.000Z",
@@ -154,8 +149,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -171,6 +166,7 @@
         "哆啦A梦：新大雄与铁人兵团"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://doraeiga.com/2011/",
     "begin": "2011-03-05T16:00:00.000Z",
@@ -181,15 +177,25 @@
         "site": "letv",
         "id": "46395",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "19130"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -200,6 +206,7 @@
         "世界第一初恋 OAD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2011-03-22T16:00:00.000Z",
@@ -207,23 +214,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "qq",
-        "id": "5/5ayhh9ab6yobfkz",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "41120",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -239,22 +236,13 @@
         "光之美少女全明星DX3 传达到未来！连结世界☆彩虹之花！"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/movie/2011_precure_allstars/",
     "begin": "2011-03-19T16:00:00.000Z",
     "end": "2011-03-19T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3p2gw",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "13045"
@@ -268,22 +256,13 @@
         "海贼王 追寻草帽"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.jump-heroesfilm.com/",
     "begin": "2011-03-19T16:00:00.000Z",
     "end": "2011-03-19T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro4gqbg",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "20523"
@@ -297,6 +276,7 @@
         "监狱兔 第四季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mtvjapan.com/usavich/",
     "begin": "2011-03-26T16:00:00.000Z",
@@ -309,8 +289,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -319,8 +299,8 @@
         "begin": "2016-12-13T09:02:47.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -336,6 +316,7 @@
         "忍者乱太郎 19期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "2011-03-28T08:35:00.000Z",
@@ -355,6 +336,7 @@
         "最游记外传"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://saiyuki-gaiden.com/",
     "begin": "2011-03-25T16:00:00.000Z",
@@ -367,13 +349,53 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "6998"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saiyuki-gaiden",
+        "begin": "2014-03-24T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ショコラの魔法",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法巧克力专门店"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-03-03T16:00:00.000Z",
+    "end": "2012-12-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10461"
+      },
+      {
+        "site": "pptv",
+        "id": "Zb6aGIDmVpT3dd0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "雪之女王"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/snowqueen/",
     "begin": "2005-05-22T10:30:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "绝对少年"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.zettai-shonen.com/",
     "begin": "2005-05-20T23:06:00.000Z",
@@ -54,6 +56,7 @@
         "新释 真田十勇士"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sanada10.com/",
     "begin": "2005-05-07T10:00:00.000Z",
@@ -66,8 +69,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -83,6 +86,7 @@
         "妹妹恋人"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.ponycanyon.co.jp/tpic/boku_imoto/",
     "begin": "2005-05-08T16:00:00.000Z",
@@ -93,20 +97,20 @@
         "site": "qq",
         "id": "4/4lz3b5jl9iaf2hm",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "22161",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -122,6 +126,7 @@
         "机动战士Z高达 星之继承者"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.z-gundam.net/",
     "begin": "2005-05-28T16:00:00.000Z",
@@ -132,10 +137,10 @@
         "site": "qq",
         "id": "2/286vuymzp0bvolj",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -151,22 +156,13 @@
         "玻璃兔"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.ggvp.net/usagi/",
     "begin": "2005-05-14T16:00:00.000Z",
     "end": "2005-05-14T17:25:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrn27p0k",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "16357"
@@ -180,6 +176,7 @@
         "鸦 -KARAS-"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.thekaras.net/",
     "begin": "2005-05-28T16:00:00.000Z",
@@ -192,8 +189,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

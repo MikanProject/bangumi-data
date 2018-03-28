@@ -6,6 +6,7 @@
         "月光旅程 -Touch down-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.moonlightmile.jp/",
     "begin": "2007-09-13T14:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "CLANNAD 剧场版"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2007-09-15T16:00:00.000Z",
@@ -45,10 +47,10 @@
         "site": "qq",
         "id": "4/4huihrcxu6nvc1x",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

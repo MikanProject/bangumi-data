@@ -6,6 +6,7 @@
         "波波罗克罗伊斯物语"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-10-04T16:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "女恶魔人"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ch.nicovideo.jp/devilman-lady",
     "begin": "1998-10-10T16:00:00.000Z",
@@ -44,6 +46,16 @@
       {
         "site": "bangumi",
         "id": "7570"
+      },
+      {
+        "site": "nicovideo",
+        "id": "devilman-lady",
+        "begin": "2011-11-23T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -54,6 +66,7 @@
         "钢铁新世纪"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-10-05T16:00:00.000Z",
@@ -73,6 +86,7 @@
         "快杰蒸汽侦探团"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.production-ig.co.jp/xebec/sakuhin/joki/",
     "begin": "1998-10-07T09:00:00.000Z",
@@ -85,8 +99,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -102,6 +116,7 @@
         "饿沙罗鬼"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sunrise-inc.co.jp/datacard/card0164.htm",
     "begin": "1998-10-04T00:30:00.000Z",
@@ -114,8 +129,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -133,22 +148,13 @@
         "宇宙牛仔"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=41",
     "begin": "1998-10-23T09:00:00.000Z",
     "end": "1999-04-23T15:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "qq",
-        "id": "k/kw3t7s1i039met6",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "253"
@@ -165,6 +171,7 @@
         "生化体"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.at-x.com/program/detail/985",
     "begin": "1998-10-07T16:00:00.000Z",
@@ -177,8 +184,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -194,6 +201,7 @@
         "圣路美娜女学院"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-10-05T16:00:00.000Z",
@@ -213,6 +221,7 @@
         "危险调查员"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.vap.co.jp/keaton/index.html",
     "begin": "1998-10-05T16:00:00.000Z",
@@ -225,8 +234,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -244,6 +253,7 @@
         "爱情跷跷板"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gainax.co.jp/anime/karekano/",
     "begin": "1998-10-02T16:00:00.000Z",
@@ -256,8 +266,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -273,6 +283,7 @@
         "魔术士奥芬"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-10-03T16:00:00.000Z",
@@ -285,8 +296,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -302,6 +313,7 @@
         "守护月天"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/getten/index2.html",
     "begin": "1998-10-17T16:00:00.000Z",
@@ -314,8 +326,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -331,6 +343,7 @@
         "青之6号"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-10-25T16:00:00.000Z",
@@ -343,8 +356,8 @@
         "begin": "2014-07-23T05:05:41.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -360,6 +373,7 @@
         "机械女神JtoX"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-10-06T16:00:00.000Z",
@@ -372,8 +386,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

@@ -7,6 +7,7 @@
         "何时搅了荷包蛋的黄？"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/medamayaki/",
     "begin": "2014-08-04T15:10:00.000Z",
@@ -19,18 +20,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "84",
-        "begin": "",
-        "official": true,
+        "begin": "2014-08-04T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -38,29 +39,29 @@
         "id": "QeF47CAU9jM",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "a9b52a10241b11e4a705",
-        "begin": "",
+        "begin": "2014-08-17T02:29:19.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10004046",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -80,6 +81,7 @@
         "花物语"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.monogatari-series.com/2ndseason/",
     "begin": "2014-08-16T10:00:00.000Z",
@@ -90,10 +92,10 @@
         "site": "sohu",
         "id": "s2014/hwy",
         "begin": "2014-08-22T01:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -107,51 +109,13 @@
     ]
   },
   {
-    "title": "蟲師 続章 特別篇「棘のみち」",
-    "titleTranslate": {
-      "zh-Hans": [
-        "虫师 续章 荆棘之路"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.mushishi-anime.com",
-    "begin": "2014-08-20T14:00:00.000Z",
-    "end": "2014-08-20T14:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bilibili",
-        "begin": "2014-08-22T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://www.bilibili.com/video/av1463269/"
-      },
-      {
-        "site": "sohu",
-        "id": "s2014/csxzjjzl",
-        "begin": "2014-08-22T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "saraba1st",
-        "id": "1010630"
-      }
-    ]
-  },
-  {
     "title": "テラフォーマーズ バグズ2号編",
     "titleTranslate": {
       "zh-Hans": [
         "火星异种 Bugs2号编"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://terraformars.tv/",
     "begin": "2014-08-20T16:00:00.000Z",
@@ -162,10 +126,10 @@
         "site": "qq",
         "id": "8/8tdh5ttykqm9y65",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -181,6 +145,7 @@
         "哆啦A梦：伴我同行"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://doraemon-3d.com/",
     "begin": "2014-08-08T16:00:00.000Z",
@@ -191,15 +156,25 @@
         "site": "iqiyi",
         "id": "a_19rrog1cdo",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "95800"
+      },
+      {
+        "site": "pptv",
+        "id": "BiaELiafFXxwVo5k4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -210,6 +185,7 @@
         "在盛夏等待 特别篇"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-08-29T16:00:00.000Z",
@@ -222,13 +198,103 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "100450"
+      }
+    ]
+  },
+  {
+    "title": "宇宙兄弟#0",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙兄弟#0"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/uchukyodai-movie/",
+    "begin": "2014-08-09T16:00:00.000Z",
+    "end": "2014-08-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90502"
+      },
+      {
+        "site": "pptv",
+        "id": "fsmjIYnvX50AfuY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "新劇場版 頭文字D Legend1 -覚醒-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "头文字D Legend1 -觉醒-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://initiald-movie.com/",
+    "begin": "2014-08-23T16:00:00.000Z",
+    "end": "2014-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78796"
+      },
+      {
+        "site": "pptv",
+        "id": "cOzIRq4UhMIlows",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "アオハライド OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青春之旅 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aoha-anime.com/",
+    "begin": "2014-08-25T16:00:00.000Z",
+    "end": "2014-12-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103812"
+      },
+      {
+        "site": "pptv",
+        "id": "xWpGxCySAkCjIYk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "魔法游戏"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.anime-int.com/works/magic/2d/index-n.html",
     "begin": "2001-11-16T16:00:00.000Z",
@@ -15,6 +16,26 @@
       {
         "site": "bangumi",
         "id": "112452"
+      }
+    ]
+  },
+  {
+    "title": "メモリーズオフ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秋之回忆 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-11-21T16:00:00.000Z",
+    "end": "2002-03-06T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23154"
       }
     ]
   }

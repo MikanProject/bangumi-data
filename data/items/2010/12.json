@@ -9,6 +9,7 @@
         "星座彼氏"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://sta-ska.com/index.html",
     "begin": "2010-12-23T17:10:00.000Z",
@@ -21,13 +22,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "6934"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch331",
+        "begin": "2011-02-03T18:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -38,6 +49,7 @@
         "潜行吧！奈亚子 Remember My Love"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ga.sbcr.jp/bunko_blog/nyaruani/",
     "begin": "2010-12-10T15:30:00.000Z",
@@ -47,6 +59,16 @@
       {
         "site": "bangumi",
         "id": "10076"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch820",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -57,6 +79,7 @@
         "恶魔奶爸 OAD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2010-12-29T16:00:00.000Z",
@@ -67,10 +90,10 @@
         "site": "letv",
         "id": "42248",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -86,22 +109,13 @@
         "闪电十一人 最强军团王牙来袭"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2010-12-23T16:00:00.000Z",
     "end": "2010-12-23T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrnnm078",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "21743"
@@ -116,6 +130,7 @@
         "巨耳小怯"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2010-12-18T16:00:00.000Z",
@@ -128,18 +143,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhk7nuc",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -155,6 +160,7 @@
         "苍穹之法芙娜 HEAVEN AND EARTH"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.fafner.jp/h-and-e/index.html",
     "begin": "2010-12-25T16:00:00.000Z",
@@ -167,8 +173,8 @@
         "begin": "2012-07-01T06:24:13.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -184,6 +190,7 @@
         "型男恋爱王国"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.ciao.shogakukan.co.jp/",
     "begin": "2010-12-28T16:00:00.000Z",
@@ -196,8 +203,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -213,6 +220,7 @@
         "百合星人奈绪子 OAD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2010-12-18T16:00:00.000Z",
@@ -225,13 +233,113 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10954"
+      }
+    ]
+  },
+  {
+    "title": "“文学少女”メモワールIII-恋する乙女の狂想曲（ラプソディ）-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "文学少女 热恋少女们的狂想曲"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-12-24T16:00:00.000Z",
+    "end": "2010-12-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6814"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bungakushoujo-memoire",
+        "begin": "2011-11-23T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "WJRw7la8LGrNS7M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "グラール騎士団",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥拉尔骑士团"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://goulart.jp/",
+    "begin": "2010-12-18T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10570"
+      },
+      {
+        "site": "pptv",
+        "id": "gLaRD3fdTYvubNQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "怪物王女 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物王女 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-12-09T16:00:00.000Z",
+    "end": "2011-10-07T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10488"
+      },
+      {
+        "site": "pptv",
+        "id": "b9eyMJjibbqwPjfU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

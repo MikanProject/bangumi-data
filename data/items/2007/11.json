@@ -6,6 +6,7 @@
         "最高! 拓麻歌子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gyao.jp/bkids/tamago/index.php",
     "begin": "2007-11-29T03:00:00.000Z",
@@ -25,6 +26,7 @@
         "翼·年代记 东京默示录"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.shonenmagazine.com/tsubasa_tokyo/",
     "begin": "2007-11-16T16:00:00.000Z",
@@ -37,13 +39,39 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2894"
+      }
+    ]
+  },
+  {
+    "title": "Candy☆Boy",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-11-22T16:00:00.000Z",
+    "end": "2007-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "95419"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch157",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "鲁邦三世：拿破仑词典争夺战"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "1991-08-09T16:00:00.000Z",
@@ -15,6 +16,26 @@
       {
         "site": "bangumi",
         "id": "67766"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +46,7 @@
         "人鱼之森"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1991-08-16T16:00:00.000Z",
@@ -37,18 +59,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "i/izzhgoy2bctltv6",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,6 +86,7 @@
         "暴风战士奥刚"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1991-08-25T16:00:00.000Z",
@@ -76,8 +99,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -93,6 +116,7 @@
         "亚尔斯兰战记"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1991-08-17T16:00:00.000Z",
@@ -105,8 +129,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

@@ -6,6 +6,7 @@
         "足球风云"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/lineup/tv/shoot/",
     "begin": "1993-11-07T16:00:00.000Z",
@@ -18,18 +19,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "f/fqy4dpm1wlnc478",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -45,6 +46,7 @@
         "JOJO的奇妙冒险"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-11-19T16:00:00.000Z",
@@ -57,13 +59,63 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "38326"
+      }
+    ]
+  },
+  {
+    "title": "THE 八犬伝 〜新章〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "THE 八犬传 -新章-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-11-25T16:00:00.000Z",
+    "end": "1995-03-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "63333"
+      }
+    ]
+  },
+  {
+    "title": "タイムボカン王道復古",
+    "titleTranslate": {
+      "zh-Hans": [
+        "王道复古"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-11-26T16:00:00.000Z",
+    "end": "1994-01-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "64174"
+      },
+      {
+        "site": "pptv",
+        "id": "zHxHxS2TA0GkIoo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

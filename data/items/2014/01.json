@@ -10,6 +10,7 @@
         "FUTURE CARD BUDDYFIGHT"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-aichi.co.jp/fc-buddyfight/",
     "begin": "2014-01-03T23:00:00.000Z",
@@ -22,38 +23,38 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "95313",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "222",
-        "begin": "",
-        "official": true,
+        "begin": "2014-01-03T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "0a14b8a862d411e3a705",
-        "begin": "",
+        "begin": "2014-01-11T10:01:38.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -61,29 +62,29 @@
         "id": "0yYeCeFSZDo",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "g/gkvdkxuaepreo2m",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "219",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -103,6 +104,7 @@
         "Recently, my sister is unusual."
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://imocyo-anime.com/",
     "begin": "2014-01-04T13:30:00.000Z",
@@ -115,18 +117,18 @@
         "begin": "2014-01-04T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "183",
         "begin": "2014-01-04T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -136,6 +138,16 @@
       {
         "site": "saraba1st",
         "id": "987191"
+      },
+      {
+        "site": "nicovideo",
+        "id": "imocyo-anime",
+        "begin": "2014-01-10T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -149,6 +161,7 @@
         "NOBUNAGUN"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.vap.co.jp/nobunagun/",
     "begin": "2014-01-05T13:00:00.000Z",
@@ -159,30 +172,30 @@
         "site": "qq",
         "id": "d/dob058ixul6vbw4",
         "begin": "2014-01-05T16:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "223",
         "begin": "2014-01-05T16:35:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "188",
         "begin": "2014-01-05T16:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -192,6 +205,16 @@
       {
         "site": "saraba1st",
         "id": "990314"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nobunagun",
+        "begin": "2014-01-07T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -206,6 +229,7 @@
         "SPACE DANDY"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://space-dandy.com/",
     "begin": "2014-01-05T14:00:00.000Z",
@@ -218,18 +242,18 @@
         "begin": "2014-01-05T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "185",
         "begin": "2014-01-05T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -239,6 +263,16 @@
       {
         "site": "saraba1st",
         "id": "961085"
+      },
+      {
+        "site": "nicovideo",
+        "id": "space-dandy",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -252,6 +286,7 @@
         "NORAGAMI"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://noragami-anime.net/1/",
     "begin": "2014-01-05T14:30:00.000Z",
@@ -262,10 +297,10 @@
         "site": "iqiyi",
         "id": "a_19rrgje7tl",
         "begin": "2014-01-05T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -274,18 +309,18 @@
         "begin": "2014-01-05T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "186",
         "begin": "2014-01-05T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -295,6 +330,16 @@
       {
         "site": "saraba1st",
         "id": "964386"
+      },
+      {
+        "site": "nicovideo",
+        "id": "noragami-anime",
+        "begin": "2014-01-09T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -305,6 +350,7 @@
         "大家集合！ Falcom学园"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.fal-gaku.com/",
     "begin": "2014-01-05T13:25:00.000Z",
@@ -315,20 +361,20 @@
         "site": "pptv",
         "id": "U8WvLZX7a6kMiavI",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "33455b5a6dcf11e3a705",
-        "begin": "",
+        "begin": "2014-01-06T01:55:57.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -336,49 +382,49 @@
         "id": "VyjqLWiyiSU",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "d/do9n7u9ssryk2t4",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "95331",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1489",
-        "begin": "",
-        "official": true,
+        "begin": "2014-01-04T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "187",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -388,6 +434,16 @@
       {
         "site": "saraba1st",
         "id": "958301"
+      },
+      {
+        "site": "nicovideo",
+        "id": "falgaku-anime",
+        "begin": "2016-10-04T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -401,6 +457,7 @@
         "SEITOKAIYAKUINDOMO*"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/seitokai2/",
     "begin": "2014-01-04T11:30:00.000Z",
@@ -413,23 +470,33 @@
         "begin": "2014-01-04T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "182",
         "begin": "2014-01-04T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "85204"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seitokai02",
+        "begin": "2014-01-13T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -443,6 +510,7 @@
         "Witch Craft Works"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.witch-cw-anime.jp/",
     "begin": "2014-01-05T13:30:00.000Z",
@@ -453,30 +521,30 @@
         "site": "letv",
         "id": "95345",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "0/013o2kb95j423ab",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "0fa22c4c452911e3b8b7",
-        "begin": "",
+        "begin": "2014-01-01T07:38:58.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -484,9 +552,9 @@
         "id": "3CzwLK6v9Gc",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -495,18 +563,18 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "176",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -516,6 +584,16 @@
       {
         "site": "saraba1st",
         "id": "968599"
+      },
+      {
+        "site": "nicovideo",
+        "id": "witch-cw",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -526,6 +604,7 @@
         "Buddy Complex"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.buddy-complex.jp/",
     "begin": "2014-01-05T15:00:00.000Z",
@@ -537,19 +616,19 @@
         "id": "fAbbteIVqLA",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "6e1724d65b3511e3a705",
-        "begin": "",
-        "official": true,
+        "begin": "2014-01-02T00:31:38.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -558,18 +637,18 @@
         "begin": "2014-04-09T22:48:52.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "kankan",
         "id": "75159",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -578,28 +657,28 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1722",
-        "begin": "",
+        "begin": "2014-01-04T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "199",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -615,6 +694,7 @@
         "天才麻将少女 全国篇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.saki-anime.com/",
     "begin": "2014-01-05T17:05:00.000Z",
@@ -626,9 +706,9 @@
         "id": "33ea967a5ca311e3b8b7",
         "begin": "2014-01-05T17:05:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -636,24 +716,34 @@
         "id": "JzB40TpDmPE",
         "begin": "2014-01-05T17:05:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "190",
         "begin": "2014-01-05T17:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "52606"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saki-zenkokuhen",
+        "begin": "2014-01-11T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -665,6 +755,7 @@
         "邻座同学是怪咖"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.t-sekikun.jp/",
     "begin": "2014-01-05T17:35:00.000Z",
@@ -675,10 +766,10 @@
         "site": "youku",
         "id": "b302b478144711e38b3f",
         "begin": "2014-01-05T21:15:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -686,24 +777,34 @@
         "id": "V48zjBLR5PA",
         "begin": "2014-01-05T21:15:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "189",
         "begin": "2014-01-05T21:15:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "69103"
+      },
+      {
+        "site": "nicovideo",
+        "id": "t-sekikun",
+        "begin": "2014-01-12T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -714,6 +815,7 @@
         "献给某飞行员的恋歌"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://koiuta.tv/",
     "begin": "2014-01-06T13:00:00.000Z",
@@ -724,10 +826,10 @@
         "site": "letv",
         "id": "95021",
         "begin": "2014-01-06T13:05:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -736,18 +838,18 @@
         "begin": "2014-01-06T13:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "192",
         "begin": "2014-01-06T13:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -757,6 +859,16 @@
       {
         "site": "saraba1st",
         "id": "978861"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koiuta-tv",
+        "begin": "2014-01-06T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -770,6 +882,7 @@
         "SONIANI -SUPER SONICO THE ANIMATION-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://soniani.jp/",
     "begin": "2014-01-06T11:30:00.000Z",
@@ -780,10 +893,10 @@
         "site": "qq",
         "id": "8/8afffvyby5ga318",
         "begin": "2014-01-06T16:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -792,18 +905,18 @@
         "begin": "2014-01-06T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "193",
         "begin": "2014-01-06T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -813,6 +926,16 @@
       {
         "site": "saraba1st",
         "id": "956552"
+      },
+      {
+        "site": "nicovideo",
+        "id": "soniani",
+        "begin": "2014-01-07T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -826,6 +949,7 @@
         "NOBUNAGA THE FOOL"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nobunaga.tv/",
     "begin": "2014-01-05T16:35:00.000Z",
@@ -838,8 +962,8 @@
         "begin": "2014-01-05T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -847,9 +971,9 @@
         "id": "zw8cGAwSDJM",
         "begin": "2014-01-05T16:35:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -859,6 +983,16 @@
       {
         "site": "saraba1st",
         "id": "970632"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nobunaga",
+        "begin": "2014-01-10T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -872,6 +1006,7 @@
         "D-FRAGMENTS"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.d-fragments.net/",
     "begin": "2014-01-06T17:05:00.000Z",
@@ -884,8 +1019,8 @@
         "begin": "2014-01-06T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -893,19 +1028,19 @@
         "id": "OpofdZOE_mI",
         "begin": "2014-01-06T17:35:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "198",
         "begin": "2014-01-06T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -915,6 +1050,16 @@
       {
         "site": "saraba1st",
         "id": "987886"
+      },
+      {
+        "site": "nicovideo",
+        "id": "d-frag",
+        "begin": "2014-01-16T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -925,6 +1070,7 @@
         "攻壳机动队入门ARISE"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://s.mxtv.jp/kokakua_nyumon/",
     "begin": "2014-01-06T16:00:00.000Z",
@@ -947,6 +1093,7 @@
         "Chu-2 byo demo KOI ga shitai REN"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.anime-chu-2.com/",
     "begin": "2014-01-08T15:30:00.000Z",
@@ -959,18 +1106,18 @@
         "begin": "2014-01-08T18:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "1be4027c66b811e3a705",
         "begin": "2014-01-08T18:30:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -978,29 +1125,29 @@
         "id": "ZL7up76Yeik",
         "begin": "2014-01-08T18:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "4349",
         "begin": "2014-01-08T18:30:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "202",
         "begin": "2014-01-08T18:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1010,6 +1157,16 @@
       {
         "site": "saraba1st",
         "id": "984504"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chu-2-ren",
+        "begin": "2018-01-06T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1020,6 +1177,7 @@
         "妖怪手表"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch/",
     "begin": "2014-01-08T10:00:00.000Z",
@@ -1030,20 +1188,20 @@
         "site": "pptv",
         "id": "Oy0Hhe1TwwFk4ko",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "h/hbccdwvo9t21w4i",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -1053,6 +1211,16 @@
       {
         "site": "saraba1st",
         "id": "988026"
+      },
+      {
+        "site": "nicovideo",
+        "id": "youkai-watch",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1067,6 +1235,7 @@
         "HAMATORA THE ANIMATION"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://hamatorapj.com/animation.html",
     "begin": "2014-01-07T16:40:00.000Z",
@@ -1078,9 +1247,9 @@
         "id": "9997364a5ca811e3b8b7",
         "begin": "2014-01-07T17:10:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1088,19 +1257,19 @@
         "id": "eUPF1XG11cs",
         "begin": "2014-01-07T17:10:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "203",
         "begin": "2014-01-07T17:10:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1110,6 +1279,16 @@
       {
         "site": "saraba1st",
         "id": "965704"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hamatorapj",
+        "begin": "2013-12-30T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1120,6 +1299,7 @@
         "银之匙 Silver Spoon 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ginsaji-anime.com/",
     "begin": "2014-01-09T15:50:00.000Z",
@@ -1130,10 +1310,10 @@
         "site": "letv",
         "id": "95033",
         "begin": "2014-01-09T15:55:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1142,18 +1322,18 @@
         "begin": "2014-01-09T15:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "207",
         "begin": "2014-01-09T15:55:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1176,6 +1356,7 @@
         "Mikakunin DE Sinkoukei"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://mikakunin.jp/",
     "begin": "2014-01-08T17:13:00.000Z",
@@ -1188,18 +1369,18 @@
         "begin": "2014-01-10T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "2aa61d0a235511e3b8b7",
         "begin": "2014-01-10T14:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1208,18 +1389,18 @@
         "begin": "2014-01-10T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "206",
         "begin": "2014-01-10T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1229,6 +1410,16 @@
       {
         "site": "saraba1st",
         "id": "988504"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mikakunin",
+        "begin": "2014-01-12T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1239,6 +1430,7 @@
         "Z/X IGNITION"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://zxignition.tv/",
     "begin": "2014-01-09T17:20:00.000Z",
@@ -1251,8 +1443,8 @@
         "begin": "2014-01-09T17:20:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1260,19 +1452,19 @@
         "id": "empzLT6BOj4",
         "begin": "2014-01-09T17:20:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "218",
         "begin": "2014-01-09T17:20:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1282,6 +1474,16 @@
       {
         "site": "saraba1st",
         "id": "965956"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zxignition",
+        "begin": "2014-01-12T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1292,6 +1494,7 @@
         "pupa"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.pupa-anime.com/",
     "begin": "2014-01-09T17:30:00.000Z",
@@ -1301,11 +1504,11 @@
       {
         "site": "youku",
         "id": "02dba6f41c3f11e3a705",
-        "begin": "",
+        "begin": "2014-01-10T01:04:51.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1313,39 +1516,39 @@
         "id": "YK2bP-HVmSE",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "f/fifserh0g9lpnvc",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "247",
-        "begin": "",
-        "official": true,
+        "begin": "2014-01-08T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "211",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1361,6 +1564,7 @@
         "鬼灯的冷彻"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://hozukino-reitetsu.com/",
     "begin": "2014-01-09T16:50:00.000Z",
@@ -1373,8 +1577,8 @@
         "begin": "2016-08-03T02:39:07.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1383,18 +1587,18 @@
         "begin": "2014-01-09T19:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "05650f98030111e3a705",
         "begin": "2014-01-09T19:05:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1402,9 +1606,9 @@
         "id": "jDJLFxCWxBI",
         "begin": "2014-01-09T19:05:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1413,18 +1617,18 @@
         "begin": "2014-01-09T19:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "208",
         "begin": "2014-01-09T19:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1434,6 +1638,16 @@
       {
         "site": "saraba1st",
         "id": "988855"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hozukino-reitetsu",
+        "begin": "2014-01-13T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1447,6 +1661,7 @@
         "MAGICAL WARFARE"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/mahosen/",
     "begin": "2014-01-09T17:13:00.000Z",
@@ -1459,8 +1674,8 @@
         "begin": "2016-08-05T07:17:28.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1469,8 +1684,8 @@
         "begin": "2014-01-09T20:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1479,18 +1694,18 @@
         "begin": "2014-01-09T20:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "209",
         "begin": "2014-01-09T20:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1500,6 +1715,16 @@
       {
         "site": "saraba1st",
         "id": "963378"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahosen",
+        "begin": "2014-01-26T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1510,6 +1735,7 @@
         "樱Trick"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/sakura/",
     "begin": "2014-01-09T17:43:00.000Z",
@@ -1522,8 +1748,8 @@
         "begin": "2014-01-09T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1531,19 +1757,19 @@
         "id": "F_Kpy6LCzCs",
         "begin": "2014-01-09T20:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "6e3c74d250ba11e3b8b7",
         "begin": "2014-01-09T20:30:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1552,18 +1778,18 @@
         "begin": "2014-01-09T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "214",
         "begin": "2014-01-09T20:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1573,6 +1799,16 @@
       {
         "site": "saraba1st",
         "id": "985396"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sakuratrick",
+        "begin": "2014-01-21T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1586,6 +1822,7 @@
         "STRANGE+"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.dreamcreation.co.jp/stpl/",
     "begin": "2014-01-09T16:00:00.000Z",
@@ -1596,10 +1833,10 @@
         "site": "pptv",
         "id": "BhD8euJIuPZZ1z8",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1607,49 +1844,49 @@
         "id": "agOIIdO0Heg",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "db819ff85bc911e38b3f",
-        "begin": "",
+        "begin": "2014-01-10T00:56:02.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "7/75ly4e6byzt3jdk",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "212",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "24",
-        "begin": "",
-        "official": true,
+        "begin": "2014-01-08T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1659,6 +1896,16 @@
       {
         "site": "saraba1st",
         "id": "989343"
+      },
+      {
+        "site": "nicovideo",
+        "id": "stpl",
+        "begin": "2014-01-07T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1672,6 +1919,7 @@
         "Wake Up, Girls!"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://wakeupgirls.jp/",
     "begin": "2014-01-10T16:23:00.000Z",
@@ -1682,10 +1930,10 @@
         "site": "youku",
         "id": "afa35b76032a11e38b3f",
         "begin": "2014-01-10T16:53:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1693,24 +1941,34 @@
         "id": "7LMph51n7d8",
         "begin": "2014-01-10T16:53:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "215",
         "begin": "2014-01-10T16:53:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "48880"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wakeupgirls",
+        "begin": "2014-01-13T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1724,6 +1982,7 @@
         "NO-RIN"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.no-rin.tv/",
     "begin": "2014-01-10T16:00:00.000Z",
@@ -1734,10 +1993,10 @@
         "site": "qq",
         "id": "s/sscgn2qjxk1fc2i",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1745,39 +2004,39 @@
         "id": "0HLSH-kZAxA",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "717eef92031411e38b3f",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "249",
-        "begin": "",
+        "begin": "2014-01-09T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "217",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1787,6 +2046,16 @@
       {
         "site": "saraba1st",
         "id": "907036"
+      },
+      {
+        "site": "nicovideo",
+        "id": "no-rin",
+        "begin": "2014-01-12T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1797,6 +2066,7 @@
         "伪恋"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nisekoi.jp/1st/",
     "begin": "2014-01-11T14:30:00.000Z",
@@ -1807,30 +2077,30 @@
         "site": "letv",
         "id": "95078",
         "begin": "2014-01-11T14:35:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1573",
         "begin": "2014-01-11T14:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "221",
         "begin": "2014-01-11T14:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1840,6 +2110,16 @@
       {
         "site": "saraba1st",
         "id": "989359"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nisekoi",
+        "begin": "2014-01-13T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1850,6 +2130,7 @@
         "世界征服～谋略之星～"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sekaiseifuku-zzz.com/",
     "begin": "2014-01-11T15:00:00.000Z",
@@ -1860,10 +2141,10 @@
         "site": "letv",
         "id": "95268",
         "begin": "2014-01-16T20:30:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1872,28 +2153,28 @@
         "begin": "2014-01-16T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1647",
         "begin": "2014-01-16T20:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "222",
         "begin": "2014-01-16T20:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1903,6 +2184,16 @@
       {
         "site": "saraba1st",
         "id": "979254"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sekaiseifuku-zzz",
+        "begin": "2014-01-15T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1917,6 +2208,7 @@
         "WIZARD BARRISTERS"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://wizardbarristers.com/",
     "begin": "2014-01-12T15:30:00.000Z",
@@ -1929,18 +2221,18 @@
         "begin": "2014-01-12T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "224",
         "begin": "2014-01-12T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1950,6 +2242,16 @@
       {
         "site": "saraba1st",
         "id": "945394"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wizardbarristers",
+        "begin": "2014-01-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1961,6 +2263,7 @@
         "摸索吧！部活剧 Encore"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ntv.co.jp/tesabu/",
     "begin": "2014-01-11T19:00:00.000Z",
@@ -1973,28 +2276,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "a/ah9btl2q75qm71m",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "d8ac33ca711211e3b8b7",
-        "begin": "",
+        "begin": "2014-01-13T02:28:05.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2002,34 +2305,44 @@
         "id": "IEeRScWf3H8",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1579",
-        "begin": "",
+        "begin": "2014-01-10T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "223",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "91987"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tesabu",
+        "begin": "2013-10-05T17:50:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2041,6 +2354,7 @@
         "狐仙的恋爱入门"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://inarikonkon.jp/",
     "begin": "2014-01-15T16:00:00.000Z",
@@ -2051,10 +2365,10 @@
         "site": "letv",
         "id": "95081",
         "begin": "2014-01-15T17:30:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2063,18 +2377,18 @@
         "begin": "2014-01-15T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "226",
         "begin": "2014-01-15T17:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2098,6 +2412,7 @@
         "MAKEN-KI!"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://maken-ki-two.com/",
     "begin": "2014-01-15T16:30:00.000Z",
@@ -2105,24 +2420,24 @@
     "comment": "",
     "sites": [
       {
+        "url": "http://comic.le.com/zt/mjj2/index.shtml",
         "site": "letv",
         "id": "96258",
         "begin": "2014-01-15T18:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://comic.le.com/zt/mjj2/index.shtml"
+        "censored": null,
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "227",
         "begin": "2014-01-15T18:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -2138,6 +2453,7 @@
         "GO!GO!575"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://gogo575.sega.jp/",
     "begin": "2014-01-09T16:25:00.000Z",
@@ -2148,10 +2464,10 @@
         "site": "pptv",
         "id": "PScRjicddzQtu7FQ",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2159,54 +2475,64 @@
         "id": "7gCdfLVzEac",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "4d14916662e111e3b8b7",
-        "begin": "",
+        "begin": "2014-01-10T00:49:31.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "l/lek65108jsrrl4p",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "241",
-        "begin": "",
-        "official": true,
+        "begin": "2014-01-08T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "210",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "88039"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gogo575",
+        "begin": "2014-01-12T16:05:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2220,6 +2546,7 @@
         "兔宝的悲惨日常 觉醒篇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://wooser.tv/",
     "begin": "2014-01-07T16:35:00.000Z",
@@ -2230,25 +2557,35 @@
         "site": "pptv",
         "id": "QNKibPKQKergbmQE",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "v/v78mvhukcdb4m6d",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "81847"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wooser-tv-kakuse",
+        "begin": "2014-01-07T16:40:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2259,6 +2596,7 @@
         "姐姐来了"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.takeshobo.co.jp/sp/tv_oneechan/",
     "begin": "2014-01-08T18:00:00.000Z",
@@ -2269,31 +2607,42 @@
         "site": "pptv",
         "id": "BQicpZ881peNGxCw",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "9/9d2wr6l2d1o7d5z",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "85557"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tv-oneechan",
+        "begin": "2014-01-09T16:35:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
   {
     "title": "めいたんていラスカル",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.araiguma-rascal.com/meitantei/",
     "begin": "2014-01-08T23:55:00.000Z",
@@ -2313,6 +2662,7 @@
         "超地下偶像"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.music-ru.com/akaechan/",
     "begin": "2014-01-06T16:21:00.000Z",
@@ -2332,6 +2682,7 @@
         "47都道府犬R"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ntv.co.jp/inuneko/dog/",
     "begin": "2014-01-11T18:45:00.000Z",
@@ -2351,6 +2702,7 @@
         "猫拉面"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ntv.co.jp/inuneko/cat/",
     "begin": "2014-01-11T18:45:00.000Z",
@@ -2373,6 +2725,7 @@
         "机器人少女Z"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.robot-girlsz.com/",
     "begin": "2014-01-04T15:50:00.000Z",
@@ -2383,35 +2736,45 @@
         "site": "pptv",
         "id": "MyQQjvZczApt61M",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "92150",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "200",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "79350"
+      },
+      {
+        "site": "nicovideo",
+        "id": "robot-girlsz",
+        "begin": "2014-02-01T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2423,6 +2786,7 @@
         "小小克星EX"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.litbus-anime.com/ex/index.html",
     "begin": "2014-01-29T16:00:00.000Z",
@@ -2433,15 +2797,165 @@
         "site": "pptv",
         "id": "mo1n5U2zI2HEQqo",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "83737"
+      }
+    ]
+  },
+  {
+    "title": "蟲師 日蝕む翳",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虫师 蚀日之翳"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mushishi-anime.com/hihamukage/",
+    "begin": "2014-01-04T16:00:00.000Z",
+    "end": "2014-01-04T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "88473"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mushishi-tokubetsuhen01",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "おにくだいすき！ ゼウシくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无肉不欢的宙牛君"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://zeushi-kun.jp/",
+    "begin": "2014-01-06T16:00:00.000Z",
+    "end": "2014-03-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90667"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zeushi-kun",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "チャンネル5.5",
+    "titleTranslate": {
+      "zh-Hans": [
+        "5.5频道"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://cmt-ch5-5.tv/pc/",
+    "begin": "2014-01-28T16:00:00.000Z",
+    "end": "2014-03-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93259"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5-5",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 剧场版 向着光辉的彼岸！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.idolmaster-anime.jp/",
+    "begin": "2014-01-25T16:00:00.000Z",
+    "end": "2014-01-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "64172"
+      },
+      {
+        "site": "pptv",
+        "id": "QtC8OqIIeLYZlic8",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "となりの関くん OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "上课小动作 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-01-04T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84719"
+      },
+      {
+        "site": "pptv",
+        "id": "eibzIRq4UhMIlows",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

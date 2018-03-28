@@ -6,6 +6,7 @@
         "魔法老师涅吉！"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/negima/index.html",
     "begin": "2005-01-05T16:00:00.000Z",
@@ -18,13 +19,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "17119"
+      },
+      {
+        "site": "nicovideo",
+        "id": "negima01",
+        "begin": "2014-12-25T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -38,6 +49,7 @@
         "AIR"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/air/",
     "begin": "2005-01-06T15:30:00.000Z",
@@ -50,18 +62,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "j/jsawpdhyfo7906j",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -77,6 +89,7 @@
         "人机续篇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/jinki/",
     "begin": "2005-01-05T17:12:00.000Z",
@@ -89,8 +102,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -106,6 +119,7 @@
         "我的女神"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/megamisama/megami1/index-j.html",
     "begin": "2005-01-06T16:55:00.000Z",
@@ -118,28 +132,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "b/bskp4vp3h7tzhs0",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "8605",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -155,6 +169,7 @@
         "女生万岁 second season"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.girls-bravo.tv/",
     "begin": "2005-01-27T15:30:00.000Z",
@@ -175,6 +190,7 @@
         "心动的日子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/mahoraba/",
     "begin": "2005-01-09T16:30:00.000Z",
@@ -187,8 +203,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -204,6 +220,7 @@
         "王牌鉴定人"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.aniplex.co.jp/galleryfake/",
     "begin": "2005-01-08T15:55:00.000Z",
@@ -216,8 +233,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -233,6 +250,7 @@
         "喜欢就是喜欢"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/http://sukisyo.tv/",
     "begin": "2005-01-08T15:30:00.000Z",
@@ -245,28 +263,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "q/qoy263ioaan7g0e",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "21861",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -282,6 +300,7 @@
         "异度传说"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-asahi.co.jp/xenosaga/",
     "begin": "2005-01-05T17:42:00.000Z",
@@ -301,6 +320,7 @@
         "变形金刚 银河之力"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-aichi.co.jp/TF/",
     "begin": "2005-01-07T23:00:00.000Z",
@@ -320,6 +340,7 @@
         "魔法的坎娜"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/http://www.magical-canan.com/",
     "begin": "2005-01-01T01:00:00.000Z",
@@ -339,6 +360,7 @@
         "UG☆极限女孩"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ponycanyon.co.jp/pc-moe/ug/index.html",
     "begin": "2005-01-09T15:00:00.000Z",
@@ -358,6 +380,7 @@
         "礼武流奇谭X"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.limeirox.com/",
     "begin": "2005-01-04T16:55:00.000Z",
@@ -370,8 +393,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -387,6 +410,7 @@
         "笨笨森林日志"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.kids-station.com/minisite/damekko/",
     "begin": "2005-01-17T14:30:00.000Z",
@@ -399,8 +423,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -416,6 +440,7 @@
         "星舰驾驶员"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/http://www.starshipoperators.com/home/index.html",
     "begin": "2005-01-05T09:00:00.000Z",
@@ -428,8 +453,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -445,6 +470,7 @@
         "蜜桃女孩"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/peachgirl/",
     "begin": "2005-01-07T22:00:00.000Z",
@@ -457,8 +483,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -474,6 +500,7 @@
         "B传说！战斗弹珠人 炎魂"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/b-daman_fs/",
     "begin": "2005-01-10T09:00:00.000Z",
@@ -493,6 +520,7 @@
         "魔豆传奇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.animax.co.jp/program/program.php3?naiyo=m_pandarian",
     "begin": "2005-01-07T22:30:00.000Z",
@@ -512,6 +540,7 @@
         "网球王子剧场版 二人的武士"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2005-01-29T16:00:00.000Z",
@@ -524,28 +553,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "h/h9ytlsw3uflqoub",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "53231",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -561,6 +590,7 @@
         "网球王子剧场版 迹部的礼物"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2005-01-29T16:00:00.000Z",
@@ -573,28 +603,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "l/luke12y3zia8yfo",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "53232",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

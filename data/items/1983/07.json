@@ -7,6 +7,7 @@
         "魔法小天使"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://pierrot.jp/title/magicgirl/",
     "begin": "1983-07-01T09:00:00.000Z",
@@ -17,15 +18,25 @@
         "site": "qq",
         "id": "y/y3tkkyeb8f1scjh",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10560"
+      },
+      {
+        "site": "nicovideo",
+        "id": "creamy-mami",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -36,6 +47,7 @@
         "太阳之牙达格拉姆文书"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1983-07-09T16:00:00.000Z",
@@ -55,6 +67,7 @@
         "猫眼三姐妹"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tms-e.com/bb_mobile/cats_eye/",
     "begin": "1983-07-11T14:00:00.000Z",
@@ -64,6 +77,16 @@
       {
         "site": "bangumi",
         "id": "9304"
+      },
+      {
+        "site": "nicovideo",
+        "id": "catseye",
+        "begin": "2011-11-02T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

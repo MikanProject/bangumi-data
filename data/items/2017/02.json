@@ -9,6 +9,7 @@
         "KiraKira☆光之美少女 A La Mode"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.asahi.co.jp/precure/",
     "begin": "2017-02-04T23:30:00.000Z",
@@ -21,8 +22,8 @@
         "begin": "2017-02-05T03:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -42,6 +43,7 @@
         "龙的牙医"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/ryu/",
     "begin": "2017-02-18T11:00:00.000Z",
@@ -54,13 +56,23 @@
         "begin": "2017-02-18T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "191056"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-ryu",
+        "begin": "2017-02-10T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -71,6 +83,7 @@
         "锁链战记～赫克瑟塔斯之光～ 第3章"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://chronicle-anime.com/",
     "begin": "2017-02-11T16:00:00.000Z",
@@ -83,8 +96,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -93,8 +106,8 @@
         "begin": "2016-12-16T08:55:22.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -113,6 +126,7 @@
         "皮卡虫!!"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/seimei/pikaia2.html",
     "begin": "2017-02-26T07:45:00.000Z",
@@ -122,35 +136,6 @@
       {
         "site": "bangumi",
         "id": "210806"
-      }
-    ]
-  },
-  {
-    "title": "鬼平～その男、長谷川平蔵～",
-    "titleTranslate": {
-      "zh-Hans": [
-        "鬼平～那个男人、长谷川平藏～"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2017-02-22T16:00:00.000Z",
-    "end": "2017-02-22T16:40:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "m6CMCnLYSIbpZ88",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "203325"
       }
     ]
   }

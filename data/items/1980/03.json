@@ -6,22 +6,13 @@
         "银河铁道999：玻璃克莱尔"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1980-03-15T16:00:00.000Z",
     "end": "1980-03-15T16:15:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3rux8",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "127777"
@@ -35,6 +26,7 @@
         "哆啦A梦：大雄的恐龙"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1980-03-15T16:00:00.000Z",
@@ -47,18 +39,18 @@
         "begin": "2014-03-03T02:28:35.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "80772",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -74,6 +66,7 @@
         "宇宙大帝西格玛神"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1980-03-19T10:00:00.000Z",
@@ -93,6 +86,7 @@
         "明日之丈 剧场版"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1980-03-08T16:00:00.000Z",

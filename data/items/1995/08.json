@@ -6,6 +6,7 @@
         "鲁邦三世：追寻哈里毛的宝藏"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "1995-08-04T16:00:00.000Z",
@@ -15,6 +16,26 @@
       {
         "site": "bangumi",
         "id": "67768"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +46,7 @@
         "秀逗魔导士 剧场版"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1995-08-05T16:00:00.000Z",
@@ -35,15 +57,25 @@
         "site": "qq",
         "id": "z/zjbhkhzmf5eqrie",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "3781"
+      },
+      {
+        "site": "pptv",
+        "id": "RfTgXsYsnNo9uyM",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -54,6 +86,7 @@
         "亚尔斯兰战记V 征马孤影"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1995-08-21T16:00:00.000Z",
@@ -66,8 +99,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

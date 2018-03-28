@@ -6,6 +6,7 @@
         "鲁邦三世：海明威手稿之谜"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "1990-07-20T16:00:00.000Z",
@@ -15,6 +16,26 @@
       {
         "site": "bangumi",
         "id": "67765"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +46,7 @@
         "龙珠Z 地球争霸战"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1990-07-07T16:00:00.000Z",
@@ -32,18 +54,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro4sgzk",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "44941"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_tikyumarugoto",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -54,6 +76,7 @@
         "罗宾汉大冒险"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tatsunoko.co.jp/works/archive/robinhood.html",
     "begin": "1990-07-29T16:00:00.000Z",
@@ -66,8 +89,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

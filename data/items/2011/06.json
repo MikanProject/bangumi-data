@@ -9,6 +9,7 @@
         "苹果核战记XIII"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://appleseed13.jp/",
     "begin": "2011-06-03T14:00:00.000Z",
@@ -21,23 +22,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "44683",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10383"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch60024",
+        "begin": "2011-06-23T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -48,6 +59,7 @@
         "战场的女武神3 为了谁所受的枪伤"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://valkyria3-anime.sega.jp/",
     "begin": "2011-06-29T16:00:00.000Z",
@@ -60,13 +72,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10650"
+      }
+    ]
+  },
+  {
+    "title": "かよえ！チュー学",
+    "titleTranslate": {
+      "zh-Hans": [
+        "通通中学！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tokai-tv.com/anime/19981231_anime_8352.php",
+    "begin": "2011-06-06T16:00:00.000Z",
+    "end": "2014-03-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18293"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kayochu",
+        "begin": "2011-10-07T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

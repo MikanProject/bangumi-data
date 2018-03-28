@@ -6,6 +6,7 @@
         "弹珠警察"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nagoyatv.com/anime-history/data/data25/data25.html",
     "begin": "1999-02-06T22:00:00.000Z",
@@ -25,6 +26,7 @@
         "小魔女DoReMi"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/doremi/index.html",
     "begin": "1999-02-06T23:30:00.000Z",
@@ -37,13 +39,23 @@
         "begin": "2015-08-14T17:06:04.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "14652"
+      },
+      {
+        "site": "nicovideo",
+        "id": "doremi",
+        "begin": "2016-06-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -54,6 +66,7 @@
         "超机甲发明小子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1999-02-05T12:00:00.000Z",
@@ -73,6 +86,7 @@
         "变形金刚 野兽之战新传"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/beastwars/",
     "begin": "1999-02-03T09:30:00.000Z",
@@ -92,6 +106,7 @@
         "浪客剑心 追忆篇"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.kenshin-tv.com/",
     "begin": "1999-02-20T16:00:00.000Z",
@@ -104,23 +119,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "c/cz3xrrh4apzn2o1",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1728"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rurouni-kenshin-tuioku",
+        "begin": "2014-09-13T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -131,6 +156,7 @@
         "神风怪盗贞德"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1999-02-13T16:00:00.000Z",
@@ -143,8 +169,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

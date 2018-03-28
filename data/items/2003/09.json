@@ -6,6 +6,7 @@
         "南国少年巴布华"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nippon-animation.co.jp/na/papuwa/",
     "begin": "2003-09-30T09:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "纯爱物语"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.enterbrain.co.jp/game_site/tls/tlss/top.htm",
     "begin": "2003-09-26T16:00:00.000Z",
@@ -47,13 +49,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "29280"
+      }
+    ]
+  },
+  {
+    "title": "はじめの一歩 間柴vs木村 死刑執行",
+    "titleTranslate": {
+      "zh-Hans": [
+        "第一神拳 间柴vs木村 死刑执行"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-09-05T16:00:00.000Z",
+    "end": "2003-09-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "135196"
+      },
+      {
+        "site": "pptv",
+        "id": "bpJu7FS6KmjLSbE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "鬼太郎"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1971-10-07T10:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "2015-10-29T08:36:30.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "鲁邦三世 第一期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.lupin-3rd.net/",
     "begin": "1971-10-24T03:00:00.000Z",
@@ -44,6 +46,16 @@
       {
         "site": "bangumi",
         "id": "24274"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-1st",
+        "begin": "2011-09-20T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

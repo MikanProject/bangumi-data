@@ -9,6 +9,7 @@
         "Hello! Lady Lynn"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/lineup/tv/hellolady/",
     "begin": "1988-05-12T16:00:00.000Z",
@@ -21,8 +22,8 @@
         "begin": "2015-11-05T09:15:16.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

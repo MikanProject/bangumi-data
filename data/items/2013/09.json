@@ -6,6 +6,7 @@
         "超青春姐弟s"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ssb-love.tv/",
     "begin": "2013-09-13T16:53:00.000Z",
@@ -15,11 +16,11 @@
       {
         "site": "youku",
         "id": "50a2ad0a08b311e3b8b7",
-        "begin": "",
+        "begin": "2013-09-13T22:30:05.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -27,29 +28,29 @@
         "id": "o3pTET0Lh68",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "v/v3qmzely1mvcn9i",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "93252",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -58,8 +59,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -79,6 +80,7 @@
         "魔鬼恋人"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://anime-dialover.com/",
     "begin": "2013-09-16T14:30:00.000Z",
@@ -89,20 +91,20 @@
         "site": "qq",
         "id": "p/p5yfnziow4uwunf",
         "begin": "2013-09-23T15:30:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "479",
-        "begin": "2013-09-23T15:30:00.000Z",
-        "official": true,
+        "begin": "2013-09-15T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -112,6 +114,16 @@
       {
         "site": "saraba1st",
         "id": "955887"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-dialover",
+        "begin": "2013-09-21T16:45:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -122,6 +134,7 @@
         "拓麻歌子！ Miracle Friends"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/tamagotchi2013/index2.html",
     "begin": "2013-09-05T09:30:00.000Z",
@@ -141,6 +154,7 @@
         "最强银河究极ZERO 战斗之魂"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sunrise-inc.co.jp/battlespirits6/",
     "begin": "2013-09-21T22:00:00.000Z",
@@ -153,8 +167,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -173,6 +187,7 @@
         "咬屁屁虫 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/oshiri/",
     "begin": "2013-09-30T09:25:00.000Z",
@@ -185,8 +200,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -202,6 +217,7 @@
         "Code Geass 亡国的阿基德 第二章「翼龙折翅」"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.geass.jp/akito/",
     "begin": "2013-09-14T16:00:00.000Z",
@@ -214,8 +230,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -224,18 +240,18 @@
         "begin": "2016-08-31T16:02:16.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "82177",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -251,6 +267,7 @@
         "宇宙海盗船长哈洛克"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://harlock-movie.com/",
     "begin": "2013-09-07T16:00:00.000Z",
@@ -263,18 +280,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rro3wd2c",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -290,6 +307,7 @@
         "大怪兽RUSH"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.daikaijyu.com/rush/",
     "begin": "2013-09-18T16:00:00.000Z",
@@ -302,8 +320,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -319,6 +337,7 @@
         "我的青春恋爱物语果然有问题 OVA"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/oregairu/",
     "begin": "2013-09-19T16:00:00.000Z",
@@ -331,13 +350,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "82777"
+      }
+    ]
+  },
+  {
+    "title": "ちはやふる OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "歌牌情缘 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-09-13T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74659"
+      },
+      {
+        "site": "pptv",
+        "id": "OjMdmwNp2Rd6ibGA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

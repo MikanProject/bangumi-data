@@ -6,6 +6,7 @@
         "摇曳百合♪♪"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://yuruyuri.com/2nd/",
     "begin": "2012-07-02T17:00:00.000Z",
@@ -15,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "28900"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuruyuri2",
+        "begin": "2012-07-03T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +36,7 @@
         "弑神者"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.campi-anime.com/",
     "begin": "2012-07-06T14:30:00.000Z",
@@ -35,10 +47,10 @@
         "site": "pptv",
         "id": "6DIOjPRayghr6VE",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -54,6 +66,7 @@
         "织田信奈的野望"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://odanobuna.com/",
     "begin": "2012-07-08T16:05:00.000Z",
@@ -63,6 +76,16 @@
       {
         "site": "bangumi",
         "id": "31413"
+      },
+      {
+        "site": "nicovideo",
+        "id": "odanobuna",
+        "begin": "2012-07-15T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -73,6 +96,7 @@
         "轮回的拉格朗日 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lag-rin.com/",
     "begin": "2012-07-01T13:00:00.000Z",
@@ -83,10 +107,10 @@
         "site": "pptv",
         "id": "uOLeXMQqmtg7uSE",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -95,13 +119,23 @@
         "begin": "2014-04-09T23:06:33.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "37562"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lag-rin",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -112,6 +146,7 @@
         "美少女死神 还我H之魂"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://boku-h.com/",
     "begin": "2012-07-06T02:00:00.000Z",
@@ -122,15 +157,25 @@
         "site": "kankan",
         "id": "66561",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "29650"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boku-h",
+        "begin": "2012-07-15T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -141,6 +186,7 @@
         "千岁 Get you!!"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.takeshobo.co.jp/sp/tv_chitose/",
     "begin": "2012-07-01T15:56:00.000Z",
@@ -150,6 +196,16 @@
       {
         "site": "bangumi",
         "id": "41029"
+      },
+      {
+        "site": "nicovideo",
+        "id": "getyou",
+        "begin": "2012-07-05T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -160,6 +216,7 @@
         "恋爱与选举与巧克力"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.koichoco.com/",
     "begin": "2012-07-05T16:25:00.000Z",
@@ -170,25 +227,35 @@
         "site": "pptv",
         "id": "4jwIhu5UxAJl40s",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "t/tozq3ocxm4tnxmp",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "27236"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koichoco",
+        "begin": "2012-07-30T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -199,6 +266,7 @@
         "无赖勇者的鬼畜美学"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://kichiku.tv/",
     "begin": "2012-07-06T01:30:00.000Z",
@@ -208,6 +276,16 @@
       {
         "site": "bangumi",
         "id": "27566"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hagure",
+        "begin": "2012-07-26T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -219,6 +297,7 @@
         "恋爱随意链接"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.kokoro-connect.com/",
     "begin": "2012-07-07T15:30:00.000Z",
@@ -229,25 +308,35 @@
         "site": "pptv",
         "id": "t4Ju7FS6KmjLSbE",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "78824",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "37154"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kokoro-connect",
+        "begin": "2012-07-13T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -261,6 +350,7 @@
         "Muv-Luv Alternative Total Eclipse"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://muv-luv-te-anime.com/",
     "begin": "2012-07-01T16:35:00.000Z",
@@ -271,15 +361,25 @@
         "site": "acfun",
         "id": "2592",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "20729"
+      },
+      {
+        "site": "nicovideo",
+        "id": "total-eclipse",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -290,6 +390,7 @@
         "人类衰退之后"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.maql.co.jp/special/jintai/",
     "begin": "2012-07-01T15:00:00.000Z",
@@ -300,15 +401,25 @@
         "site": "qq",
         "id": "j/jvjsmfymdpk151d",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "26449"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jintai",
+        "begin": "2012-07-05T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -322,6 +433,7 @@
         "刀剑神域"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.swordart-online.net/aincrad/",
     "begin": "2012-07-07T15:00:00.000Z",
@@ -332,15 +444,25 @@
         "site": "letv",
         "id": "78569",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "23686"
+      },
+      {
+        "site": "nicovideo",
+        "id": "swordart-online",
+        "begin": "2012-07-09T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -351,6 +473,7 @@
         "穷神"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.binbogamiga.net/",
     "begin": "2012-07-04T16:50:00.000Z",
@@ -370,6 +493,7 @@
         "女子落"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/joshiraku/",
     "begin": "2012-07-05T17:25:00.000Z",
@@ -379,6 +503,16 @@
       {
         "site": "bangumi",
         "id": "37897"
+      },
+      {
+        "site": "nicovideo",
+        "id": "joshiraku",
+        "begin": "2012-07-14T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -389,6 +523,7 @@
         "三人行必有我妹"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/nakaimo/",
     "begin": "2012-07-05T16:55:00.000Z",
@@ -396,18 +531,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "5zkDgelPvic1g3kY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "41028"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nakaimo",
+        "begin": "2013-03-29T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -418,6 +553,7 @@
         "TARI TARI"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://taritari.jp/",
     "begin": "2012-07-01T13:30:00.000Z",
@@ -427,6 +563,16 @@
       {
         "site": "bangumi",
         "id": "37137"
+      },
+      {
+        "site": "nicovideo",
+        "id": "taritari",
+        "begin": "2012-07-07T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -440,6 +586,7 @@
         "魔力家族 -La storia della Arcana Famiglia-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://arcanafamiglia.com/",
     "begin": "2012-07-01T14:30:00.000Z",
@@ -450,25 +597,35 @@
         "site": "pptv",
         "id": "vN6qKJD2ZqQHhe0",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "78810",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "33702"
+      },
+      {
+        "site": "nicovideo",
+        "id": "arcana",
+        "begin": "2012-07-07T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -479,6 +636,7 @@
         "DOG DAYS 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.dogdays.tv/2nd/",
     "begin": "2012-07-07T14:30:00.000Z",
@@ -489,30 +647,30 @@
         "site": "pptv",
         "id": "6jQQjvZczApt61M",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "kankan",
         "id": "66707",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "78602",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -528,6 +686,7 @@
         "探险托里兰托"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/driland/",
     "begin": "2012-07-07T14:30:00.000Z",
@@ -540,8 +699,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -550,8 +709,8 @@
         "begin": "2015-08-14T17:05:08.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -570,6 +729,7 @@
         "夏雪密会"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://natsuyuki.tv/",
     "begin": "2012-07-05T16:35:00.000Z",
@@ -580,10 +740,10 @@
         "site": "letv",
         "id": "78773",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -599,6 +759,7 @@
         "薄樱鬼 黎明录"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.geneonuniversal.jp/rondorobe/anime/hakuoki/tv/",
     "begin": "2012-07-01T12:25:00.000Z",
@@ -609,25 +770,35 @@
         "site": "pptv",
         "id": "icB7qaNA2puRHxS0",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "78817",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "35715"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hakuoki_reimeiroku",
+        "begin": "2012-07-12T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -638,6 +809,7 @@
         "萌菌物语 Returns"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://kamosuzo2.tv/",
     "begin": "2012-07-05T16:05:00.000Z",
@@ -657,6 +829,7 @@
         "超译百人一首 歌之恋"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.anime-utakoi.jp/",
     "begin": "2012-07-02T16:30:00.000Z",
@@ -667,15 +840,25 @@
         "site": "kankan",
         "id": "66701",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "37138"
+      },
+      {
+        "site": "nicovideo",
+        "id": "utakoi",
+        "begin": "2012-07-24T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -686,6 +869,7 @@
         "境界线上的地平线 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://genesis-horizon.net/",
     "begin": "2012-07-07T17:28:00.000Z",
@@ -696,10 +880,10 @@
         "site": "pptv",
         "id": "8SsVkicth0Q9y8Fg",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -708,18 +892,18 @@
         "begin": "2014-09-12T06:24:04.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "78766",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -735,6 +919,7 @@
         "公立海老栖川高校天闷部"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ebiten.jp/",
     "begin": "2012-07-14T14:30:00.000Z",
@@ -745,15 +930,25 @@
         "site": "pptv",
         "id": "G0RAviaaMicDqdG4M",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "28225"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch60325",
+        "begin": "2013-04-06T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -764,6 +959,7 @@
         "御宅英文！魔法少女小缎带"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.moe-ribbon.com/",
     "begin": "2012-07-31T01:25:00.000Z",
@@ -776,13 +972,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "42869"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ribbon",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -793,6 +999,7 @@
         "剧场版 精灵宝可梦超级愿望：酋雷姆VS圣剑士 凯路迪欧"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2012-07-14T16:00:00.000Z",
@@ -805,8 +1012,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -815,8 +1022,8 @@
         "begin": "2015-09-17T05:39:45.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -832,6 +1039,7 @@
         "精灵宝可梦：唱歌吧美洛耶塔 找寻梨花果"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2012-07-14T17:10:00.000Z",
@@ -851,6 +1059,7 @@
         "精灵宝可梦：美洛耶塔的闪亮音乐会"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2012-07-14T17:10:00.000Z",
@@ -870,6 +1079,7 @@
         "古斯柯布多力传记"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-07-07T16:00:00.000Z",
@@ -882,8 +1092,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -899,6 +1109,7 @@
         "罪恶王冠 失落的圣诞节 an episode of port town"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-07-26T16:00:00.000Z",
@@ -911,8 +1122,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

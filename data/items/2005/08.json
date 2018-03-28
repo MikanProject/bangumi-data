@@ -9,6 +9,7 @@
         "强殖装甲凯普"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.guyver.jp/",
     "begin": "2005-08-06T10:00:00.000Z",
@@ -21,18 +22,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "2/2oxwe76p4ko9gm2",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -44,6 +45,7 @@
   {
     "title": "ぼくの防空壕",
     "titleTranslate": {},
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.shin-ei-animation.jp/sensoudouwashu/modules/bokugo/",
     "begin": "2005-08-13T16:00:00.000Z",
@@ -63,6 +65,7 @@
         "最终兵器彼女 Another love song"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2005-08-05T16:00:00.000Z",
@@ -73,10 +76,10 @@
         "site": "qq",
         "id": "0/0ci2guo4k6dj9ni",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -92,6 +95,7 @@
         "AIR夏季篇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2005-08-28T16:00:00.000Z",
@@ -102,15 +106,45 @@
         "site": "qq",
         "id": "6/6pnj579h402jj1m",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2127"
+      }
+    ]
+  },
+  {
+    "title": "プレイヤーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "歌魂斗"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://anime.softgarage.com/prayers/index.html",
+    "begin": "2005-08-26T16:00:00.000Z",
+    "end": "2005-11-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74561"
+      },
+      {
+        "site": "nicovideo",
+        "id": "amg-players",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

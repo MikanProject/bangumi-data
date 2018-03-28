@@ -6,6 +6,7 @@
         "小蜜蜂寻亲记 重制版"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1989-07-21T16:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "2016-12-06T01:58:55.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "龙珠Z 热血热斗"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1989-07-15T16:00:00.000Z",
@@ -45,15 +47,25 @@
         "site": "iqiyi",
         "id": "a_19rro3njvw",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "44939"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -64,6 +76,7 @@
         "魔女宅急便"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1989-07-29T16:00:00.000Z",
@@ -76,8 +89,8 @@
         "begin": "2017-01-24T08:06:01.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -93,6 +106,7 @@
         "森林好小子"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1989-07-01T16:00:00.000Z",
@@ -105,13 +119,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "217850"
+      }
+    ]
+  },
+  {
+    "title": "機動警察パトレイバー the Movie",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察 东京毁灭战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-15T16:00:00.000Z",
+    "end": "1989-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9979"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PATLABOR_01",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

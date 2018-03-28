@@ -6,6 +6,7 @@
         "Candy☆Boy"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://candyboy.jp/",
     "begin": "2008-05-02T03:00:00.000Z",
@@ -18,13 +19,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2829"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch157",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

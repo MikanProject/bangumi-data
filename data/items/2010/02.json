@@ -9,6 +9,7 @@
         "Heart Catch 光之美少女!"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://asahi.co.jp/heartcatch_precure/",
     "begin": "2010-02-06T23:30:00.000Z",
@@ -16,23 +17,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "9lsmpAxy4iaCDAWk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb14tx",
         "begin": "2015-08-14T17:08:16.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -48,6 +39,7 @@
         "鲁邦三世：the Last Job"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "2010-02-12T16:00:00.000Z",
@@ -57,6 +49,16 @@
       {
         "site": "bangumi",
         "id": "49313"
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -67,6 +69,7 @@
         "吸血丸"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "2010-02-06T16:00:00.000Z",
@@ -79,8 +82,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -89,28 +92,28 @@
         "begin": "2012-12-14T06:06:06.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "7/7p6lgztb38ciaam",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1463012",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -126,6 +129,7 @@
         "凉宫春日的消失"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.kyotoanimation.co.jp/haruhi/movie/index.html",
     "begin": "2010-02-06T16:00:00.000Z",
@@ -138,13 +142,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "3375"
+      }
+    ]
+  },
+  {
+    "title": "超劇場版ケロロ軍曹 誕生!究極ケロロ奇跡の時空島であります!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超剧场版 Keroro军曹 诞生！究极Keroro奇迹的时空之岛！！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.keroro-movie.net/",
+    "begin": "2010-02-27T16:00:00.000Z",
+    "end": "2010-02-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3765"
+      },
+      {
+        "site": "pptv",
+        "id": "9LQdmwNp2Rd6ibGA",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   }

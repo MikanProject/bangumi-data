@@ -7,6 +7,7 @@
         "这个男子 为石化而烦恼"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-11-29T16:00:00.000Z",
@@ -17,10 +18,10 @@
         "site": "acfun",
         "id": "1470117",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -37,6 +38,7 @@
         "日本动画人博览会"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://animatorexpo.com",
     "begin": "2014-11-07T16:00:00.000Z",
@@ -47,15 +49,25 @@
         "site": "letv",
         "id": "10006626",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "116370"
+      },
+      {
+        "site": "nicovideo",
+        "id": "animatorexpo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -66,6 +78,7 @@
         "乐园追放 -Expelled From Paradise-"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://rakuen-tsuiho.com/",
     "begin": "2014-11-15T16:00:00.000Z",
@@ -78,8 +91,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -95,6 +108,7 @@
         "十三支演义 偃月三国传"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://jyuza-anime.com/",
     "begin": "2014-11-28T16:00:00.000Z",
@@ -107,8 +121,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -124,6 +138,7 @@
         "翠星之加尔刚蒂亚～遥远的巡回航路～"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-11-21T16:00:00.000Z",
@@ -136,13 +151,99 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "86870"
+      }
+    ]
+  },
+  {
+    "title": "おにくだいすき！ ゼウシくん 2期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无肉不欢的宙牛君 2期"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://zeushi-kun.jp/",
+    "begin": "2014-11-29T16:00:00.000Z",
+    "end": "2015-03-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "119033"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zeushi-kun",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ダイヤのA OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钻石王牌 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-11-17T16:00:00.000Z",
+    "end": "2015-03-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108595"
+      },
+      {
+        "site": "pptv",
+        "id": "OBz4dt5EtPJV0zs",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "LOVE STAGE!! OAD",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-11-26T16:00:00.000Z",
+    "end": "2014-11-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103813"
+      },
+      {
+        "site": "pptv",
+        "id": "1nBc2kKoGFa5N58",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

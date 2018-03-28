@@ -6,22 +6,13 @@
         "阿拉蕾 哦呦呦！宇宙大冒险"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1982-07-10T16:00:00.000Z",
     "end": "1982-07-10T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro0n498",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "82718"
@@ -35,6 +26,7 @@
         "银河烈风幕臣我"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://s.mxtv.jp/anime/baxinger/",
     "begin": "1982-07-06T09:30:00.000Z",
@@ -54,6 +46,7 @@
         "我青春的世外桃源"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1982-07-28T16:00:00.000Z",
@@ -63,6 +56,36 @@
       {
         "site": "bangumi",
         "id": "127779"
+      }
+    ]
+  },
+  {
+    "title": "コブラ SPACE ADVENTURE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥普拉 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-07-03T16:00:00.000Z",
+    "end": "1982-07-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67751"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cobra-adventure",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

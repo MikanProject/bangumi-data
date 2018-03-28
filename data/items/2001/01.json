@@ -6,6 +6,7 @@
         "爆旋陀螺"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.d-rights.com/beyblade/2002/2001/",
     "begin": "2001-01-08T09:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "机兽新世纪ZERO"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.shopro.co.jp/tv/program/zoids/zero/index.html",
     "begin": "2001-01-06T13:00:00.000Z",
@@ -54,6 +56,7 @@
         "永恒传说"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/tales/",
     "begin": "2001-01-08T09:30:00.000Z",
@@ -66,8 +69,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -83,6 +86,7 @@
         "头文字D Third Stage"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-01-13T16:00:00.000Z",
@@ -95,18 +99,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "u/uk42ddvuyqxiq9q",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -122,6 +126,7 @@
         "刃牙"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://baki.ne.jp/",
     "begin": "2001-01-08T16:00:00.000Z",
@@ -134,8 +139,8 @@
         "begin": "2013-08-06T06:37:33.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -151,6 +156,7 @@
         "地球少女Arjuna"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.bandaivisual.co.jp/arjuna/",
     "begin": "2001-01-09T16:00:00.000Z",
@@ -163,8 +169,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

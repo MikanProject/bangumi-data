@@ -6,6 +6,7 @@
         "机动战士高达 剧场版II 哀・战士"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1981-07-11T16:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "qq",
         "id": "l/lk34bbjniysk41a",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,22 +36,13 @@
         "阿拉蕾 hello!不可思议岛"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1981-07-18T16:00:00.000Z",
     "end": "1981-07-18T16:25:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro0na58",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "47011"
@@ -64,6 +56,7 @@
         "剧场版 明日之丈2"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1981-07-04T16:00:00.000Z",
@@ -83,6 +76,7 @@
         "战国魔神豪将军"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1981-07-03T16:00:00.000Z",

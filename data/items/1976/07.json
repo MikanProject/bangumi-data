@@ -6,6 +6,7 @@
         "无敌飞天侠"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://machine-blaster.com/",
     "begin": "1976-07-05T14:30:00.000Z",
@@ -15,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "37226"
+      },
+      {
+        "site": "nicovideo",
+        "id": "machine-blaster",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

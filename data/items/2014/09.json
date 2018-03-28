@@ -6,6 +6,7 @@
         "火星异种"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.terraformars.tv/",
     "begin": "2014-09-26T15:30:00.000Z",
@@ -17,19 +18,19 @@
         "id": "jGaFpdJqObQ",
         "begin": "2014-09-26T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "ff86b776cf5f11e3b8b7",
         "begin": "2014-09-26T16:30:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -38,8 +39,8 @@
         "begin": "2014-09-26T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -62,6 +63,7 @@
         "tribe cool crew"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tribecoolcrew.net/",
     "begin": "2014-09-27T22:00:00.000Z",
@@ -72,10 +74,10 @@
         "site": "acfun",
         "id": "1464859",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -84,8 +86,8 @@
         "begin": "2014-09-30T06:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -101,6 +103,7 @@
         "BUDDY COMPLEX 完结篇 -回到那片天空的未来-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://buddy-complex.jp/",
     "begin": "2014-09-29T15:00:00.000Z",
@@ -111,10 +114,10 @@
         "site": "acfun",
         "id": "1464854",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -123,8 +126,8 @@
         "begin": "2014-09-30T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -133,18 +136,18 @@
         "begin": "2014-09-30T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "kankan",
         "id": "75159",
         "begin": "2014-09-30T16:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -163,6 +166,7 @@
         "加油！露露落落 第2期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/lululolo/",
     "begin": "2014-09-25T08:25:00.000Z",
@@ -182,6 +186,7 @@
         "气球狗迪尼"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://tinnyballoon.com/animation/",
     "begin": "2014-09-26T08:25:00.000Z",
@@ -201,6 +206,7 @@
         "夏恋战机"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.karensenki.com/",
     "begin": "2014-09-27T16:00:00.000Z",
@@ -213,8 +219,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -230,6 +236,7 @@
         "梦幻足球手Stella"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.shogakukan.co.jp/pr/anisun/fs/index.html",
     "begin": "2014-09-16T16:00:00.000Z",
@@ -242,8 +249,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -259,6 +266,7 @@
         "黑白小姐 「经纪人」"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-09-24T16:00:00.000Z",
@@ -271,13 +279,73 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "114062"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 gdgd妖精s っていう映画はどうかな…?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 gdgd妖精s"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gdgdfairy.com/",
+    "begin": "2014-09-27T16:00:00.000Z",
+    "end": "2014-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gdgd-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ディーふらぐ! OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "属性同好会 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-09-23T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100705"
+      },
+      {
+        "site": "pptv",
+        "id": "xV85txibF9TOWFHw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

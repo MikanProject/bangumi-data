@@ -10,6 +10,7 @@
         "心跳！光之美少女"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://asahi.co.jp/dokidoki_precure/",
     "begin": "2013-02-02T23:30:00.000Z",
@@ -20,10 +21,10 @@
         "site": "pptv",
         "id": "sFkzsRlic7y2QDnY",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -32,8 +33,8 @@
         "begin": "2016-12-12T08:25:10.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -49,6 +50,7 @@
         "直白标题机器人动画"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.robotanime.jp/",
     "begin": "2013-02-05T16:30:00.000Z",
@@ -61,13 +63,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "61141"
+      },
+      {
+        "site": "nicovideo",
+        "id": "robotanime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -78,6 +90,7 @@
         "魔法禁书目录 恩底弥翁的奇迹"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.project-index.net/",
     "begin": "2013-02-23T16:00:00.000Z",
@@ -90,18 +103,18 @@
         "begin": "2016-08-15T01:30:14.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "91233",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -118,6 +131,7 @@
         "银河美少年 剧场版"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.stardriver-movie.net/",
     "begin": "2013-02-09T16:00:00.000Z",
@@ -130,13 +144,33 @@
         "begin": "2014-09-05T08:25:20.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "48702"
+      },
+      {
+        "site": "nicovideo",
+        "id": "stardriver-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "5mlDwSmPicz2gHoY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -147,6 +181,7 @@
         "天保水浒传NEO"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-02-28T16:00:00.000Z",
@@ -159,8 +194,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -176,6 +211,7 @@
         "学园救援团 OAD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-02-10T16:00:00.000Z",
@@ -188,13 +224,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "69069"
+      }
+    ]
+  },
+  {
+    "title": "ベルセルク  黄金時代篇III 降臨",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑风传奇 黄金时代篇III 降临"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.berserkfilm.com/",
+    "begin": "2013-02-01T16:00:00.000Z",
+    "end": "2013-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45241"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserkfilm",
+        "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "神是中学生"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.aniplex.co.jp/kamichu/archive/index.html",
     "begin": "2005-06-28T17:40:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "帕塔利洛西游记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.patalliro.com/anime/",
     "begin": "2005-06-06T15:30:00.000Z",
@@ -47,8 +49,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,6 +66,7 @@
         "草莓100% Original DVD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2005-06-20T16:00:00.000Z",
@@ -71,23 +74,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "qq",
-        "id": "n/nfbv89rqvwz1ft7",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "40002",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -103,6 +96,7 @@
         "魔法娜娜咪 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2005-06-17T16:00:00.000Z",
@@ -115,8 +109,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

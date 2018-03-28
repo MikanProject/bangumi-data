@@ -6,6 +6,7 @@
         "桃色姐妹花"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.momose-net.com/",
     "begin": "1998-08-25T16:00:00.000Z",
@@ -25,6 +26,7 @@
         "秀逗魔导士GORGEOUS"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-08-01T16:00:00.000Z",
@@ -35,15 +37,25 @@
         "site": "qq",
         "id": "i/iatciy3zx6euxfz",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "11647"
+      },
+      {
+        "site": "pptv",
+        "id": "RfTgXsYsnNo9uyM",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -54,6 +66,7 @@
         "机动战士高达 第08MS小队 米娜的报告"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-08-01T16:00:00.000Z",
@@ -64,10 +77,10 @@
         "site": "qq",
         "id": "p/pqd8onvspoiw24u",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -83,6 +96,7 @@
         "新机动战记高达W 无尽的华尔兹 剧场版"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-08-01T16:00:00.000Z",
@@ -93,10 +107,10 @@
         "site": "qq",
         "id": "i/izkiu4p8jljjjvk",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -112,6 +126,7 @@
         "真盖塔 世界最后之日"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-08-25T16:00:00.000Z",
@@ -124,13 +139,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "23213"
+      }
+    ]
+  },
+  {
+    "title": "機動戦艦ナデシコ -The prince of darkness-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战舰 -The prince of darkness-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=444",
+    "begin": "1998-08-08T16:00:00.000Z",
+    "end": "1998-08-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "516"
+      },
+      {
+        "site": "pptv",
+        "id": "yX1X1T2jE1G0Mpo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

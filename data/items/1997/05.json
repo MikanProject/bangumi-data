@@ -6,6 +6,7 @@
         "CLAMP学园侦探团"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://pierrot.jp/archives/tv_list_1995/tv_035.html",
     "begin": "1997-05-03T16:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "不思议游戏 OVA2 延续篇"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1997-05-25T16:00:00.000Z",
@@ -47,8 +49,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -57,8 +59,8 @@
         "begin": "2013-04-18T02:16:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

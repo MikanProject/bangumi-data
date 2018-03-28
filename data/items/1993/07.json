@@ -6,6 +6,7 @@
         "鲁邦三世 鲁邦暗杀指令"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "1993-07-23T16:00:00.000Z",
@@ -15,6 +16,26 @@
       {
         "site": "bangumi",
         "id": "84984"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,22 +46,13 @@
         "阿拉蕾 来自企鹅村的爱"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-07-10T16:00:00.000Z",
     "end": "1993-07-10T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro0n4sk",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "82725"
@@ -54,6 +66,7 @@
         "龙珠Z 银河最强战士"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1993-07-10T16:00:00.000Z",
@@ -61,18 +74,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3osb4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "45394"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_gingagirigiri",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -83,6 +96,7 @@
         "蜡笔小新之动感超人大战泳装魔王"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "1993-07-24T16:00:00.000Z",
@@ -95,8 +109,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -104,8 +118,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": "",
         "url": "http://www.iqiyi.com/dongman/20130715/839f4bf2c2cbe419.html"
       },

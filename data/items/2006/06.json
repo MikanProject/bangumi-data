@@ -6,6 +6,7 @@
         "蜂蜜与四叶草II"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hachikuro.net/",
     "begin": "2006-06-29T16:00:00.000Z",
@@ -18,18 +19,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "x/xumudvzjaautu6q",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -46,6 +47,7 @@
         "贫乏姐妹物语"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/binboushimai/",
     "begin": "2006-06-29T17:40:00.000Z",
@@ -58,18 +60,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "9/9y1p6nqbhm2fe7o",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -85,6 +87,7 @@
         "飞天小女警Z"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sonymusic.co.jp/Animation/ppgz/",
     "begin": "2006-06-30T22:00:00.000Z",
@@ -97,8 +100,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -117,6 +120,7 @@
         "FLAG"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.flag20xx.net/",
     "begin": "2006-06-16T03:00:00.000Z",
@@ -129,13 +133,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1788"
+      },
+      {
+        "site": "nicovideo",
+        "id": "flag",
+        "begin": "2012-03-28T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

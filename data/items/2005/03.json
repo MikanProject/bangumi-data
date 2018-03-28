@@ -6,22 +6,13 @@
         "海贼王 祭典男爵与神秘岛"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.onepiece-movie.com/",
     "begin": "2005-03-04T16:00:00.000Z",
     "end": "2005-03-04T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro4gwqo",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "1991"
@@ -35,6 +26,7 @@
         "星空防卫队 Advance"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2005-03-25T16:00:00.000Z",
@@ -54,6 +46,7 @@
         "扑杀天使朵库萝"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.bin-kan.com/",
     "begin": "2005-03-25T16:00:00.000Z",
@@ -66,8 +59,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

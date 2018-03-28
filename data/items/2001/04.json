@@ -7,6 +7,7 @@
         "音乐小彗星"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toho-a-park.com/character/comet/index.html",
     "begin": "2001-04-01T00:30:00.000Z",
@@ -19,8 +20,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -36,6 +37,7 @@
         "天使领域"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://mv.avex.jp/angelic/",
     "begin": "2001-04-01T08:20:00.000Z",
@@ -48,13 +50,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "4011"
+      },
+      {
+        "site": "nicovideo",
+        "id": "angelic",
+        "begin": "2012-06-06T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -65,6 +77,7 @@
         "电脑冒险记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.tv-tokyo.co.jp/webdiver/",
     "begin": "2001-04-06T09:00:00.000Z",
@@ -80,6 +93,7 @@
   {
     "title": "仰天人間バトシーラー",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.g-tac.co.jp/batonext/batoindex.html",
     "begin": "2001-04-06T23:00:00.000Z",
@@ -99,6 +113,7 @@
         "数码暴龙03驯兽师之王"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.fujitv.co.jp/jp/b_hp/digimont/",
     "begin": "2001-04-01T00:00:00.000Z",
@@ -111,13 +126,23 @@
         "begin": "2015-08-20T03:32:13.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "3130"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon_t",
+        "begin": "2016-12-01T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -128,6 +153,7 @@
         "妹妹公主"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/sispri/index.html",
     "begin": "2001-04-04T14:00:00.000Z",
@@ -147,6 +173,7 @@
         "漫画同人会"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.aquaplus.co.jp/cp/",
     "begin": "2001-04-02T15:00:00.000Z",
@@ -159,8 +186,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -176,6 +203,7 @@
         "魂狩"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.kids-station.com/minisite/tokushu/soultaker/",
     "begin": "2001-04-04T13:30:00.000Z",
@@ -188,8 +216,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -205,6 +233,7 @@
         "热带雨林的爆笑生活"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-04-03T06:00:00.000Z",
@@ -217,8 +246,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -234,6 +263,7 @@
         "狂野禁区"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.vap.co.jp/zoe/tv/",
     "begin": "2001-04-06T13:30:00.000Z",
@@ -246,8 +276,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -263,6 +293,7 @@
         "ARMS神臂"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tms-e.com/library/on_air_back/arms/index.html",
     "begin": "2001-04-07T13:30:00.000Z",
@@ -275,8 +306,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -295,6 +326,7 @@
         "黑街二人组"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.jvcmusic.co.jp/m-serve/tv/noir/",
     "begin": "2001-04-05T07:00:00.000Z",
@@ -305,15 +337,25 @@
         "site": "qq",
         "id": "k/kqigw4r6dshzz5n",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "788"
+      },
+      {
+        "site": "nicovideo",
+        "id": "noir-anime",
+        "begin": "2014-01-30T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -324,6 +366,7 @@
         "基因攻防战"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.geneshaft.com/",
     "begin": "2001-04-05T22:30:00.000Z",
@@ -343,6 +386,7 @@
         "花右京女仆队"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.at-x.com/program/detail/1911",
     "begin": "2001-04-12T14:15:00.000Z",
@@ -362,6 +406,7 @@
         "新白雪姬传说"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/pretear/index_set.html",
     "begin": "2001-04-04T16:00:00.000Z",
@@ -381,6 +426,7 @@
         "银河天使"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.madhouse.co.jp/works/2001-2000/works_tv_galaxyange.html",
     "begin": "2001-04-07T16:00:00.000Z",
@@ -393,8 +439,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -410,6 +456,7 @@
         "钢铁天使核桃 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.at-x.com/program/detail/1433",
     "begin": "2001-04-12T16:00:00.000Z",
@@ -429,6 +476,7 @@
         "逮捕令 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-04-07T16:00:00.000Z",
@@ -441,18 +489,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "7/727svzatiemfj2x",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -468,6 +516,7 @@
         "世界名著剧场・完结版 爱少女波丽安娜物语"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.nippon-animation.co.jp/work/1486/",
     "begin": "2001-04-01T16:00:00.000Z",
@@ -480,8 +529,8 @@
         "begin": "2012-10-17T01:26:27.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -497,6 +546,7 @@
         "蜡笔小新 呼风唤雨！大人帝国的反击"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "2001-04-21T16:00:00.000Z",
@@ -509,19 +559,19 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/v_19rrifx027.html"
+        "url": "http://www.iqiyi.com/v_19rrifx027.html",
+        "exist": null
       },
       {
         "site": "bangumi",
@@ -536,6 +586,7 @@
         "名侦探柯南 通往天国的倒数计时"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.conan-movie.jp/",
     "begin": "2001-04-21T16:00:00.000Z",
@@ -548,13 +599,23 @@
         "begin": "2016-11-11T08:33:52.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2971"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -565,6 +626,7 @@
         "忍者乱太郎 9期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "2001-04-02T08:35:00.000Z",
@@ -584,6 +646,7 @@
         "星之海洋"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-04-03T16:00:00.000Z",
@@ -596,8 +659,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -613,6 +676,7 @@
         "破邪巨星G弹劾凰"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-04-05T16:00:00.000Z",
@@ -625,8 +689,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -642,6 +706,7 @@
         "魔法战士李维"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.jcstaff.co.jp/sho-sai/ri-shokai/riui-syokai.htm",
     "begin": "2001-04-03T16:00:00.000Z",
@@ -654,8 +719,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

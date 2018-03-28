@@ -6,6 +6,7 @@
         "秀逗魔导士NEXT"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/slayers-tv.net/",
     "begin": "1996-04-05T16:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "玩偶游戏"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.super-vision.co.jp/dvd/omocha/",
     "begin": "1996-04-05T16:00:00.000Z",
@@ -47,8 +49,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,6 +66,7 @@
         "天空之艾斯嘉科尼"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.escaflowne.jp/",
     "begin": "1996-04-02T16:00:00.000Z",
@@ -83,6 +86,7 @@
         "地狱老师"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/nube/",
     "begin": "1996-04-13T16:00:00.000Z",
@@ -95,13 +99,23 @@
         "begin": "2015-08-14T16:07:37.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "25602"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nube",
+        "begin": "2015-01-14T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -112,6 +126,7 @@
         "机动新世纪高达X"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gundam-x.net/",
     "begin": "1996-04-05T16:00:00.000Z",
@@ -124,18 +139,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "u/uiu4a0bfw9gkkpb",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -151,6 +166,7 @@
         "VS骑士柠檬汽水&40炎"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1996-04-03T16:00:00.000Z",
@@ -170,6 +186,7 @@
         "蜡笔小新 奇异乐园大冒险"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "1996-04-13T16:00:00.000Z",
@@ -182,19 +199,19 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/v_19rrifx03f.html"
+        "url": "http://www.iqiyi.com/v_19rrifx03f.html",
+        "exist": null
       },
       {
         "site": "bangumi",
@@ -209,6 +226,7 @@
         "忍者乱太郎 4期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "1996-04-01T08:35:00.000Z",
@@ -228,6 +246,7 @@
         "钢铁神兵B'T-X"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1996-04-06T16:00:00.000Z",
@@ -240,8 +259,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -257,6 +276,7 @@
         "佐罗的传说"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.pro-reed.com/works/tv_series/w031.html",
     "begin": "1996-04-05T16:00:00.000Z",
@@ -269,13 +289,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10965"
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 DEAD OR ALIVE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世：DEAD OR ALIVE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-20T16:00:00.000Z",
+    "end": "1996-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67763"
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

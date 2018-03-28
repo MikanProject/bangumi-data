@@ -6,6 +6,7 @@
         "银河铁道999"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/lineup/tv/999/",
     "begin": "1978-09-14T18:30:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "2015-10-29T08:36:10.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

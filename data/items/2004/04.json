@@ -2,6 +2,7 @@
   {
     "title": "マシュマロ通信",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-osaka.co.jp/marshmallow/index.html",
     "begin": "2004-04-04T00:30:00.000Z",
@@ -21,6 +22,7 @@
         "仙境传说"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ragnarokonline.jp/",
     "begin": "2004-04-06T16:30:00.000Z",
@@ -33,18 +35,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "q/q2vw7kszrhwwask",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -60,6 +62,7 @@
         "忘却的旋律"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/boukyaku/",
     "begin": "2004-04-06T17:59:00.000Z",
@@ -72,8 +75,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -90,6 +93,7 @@
         "美与丑的世界"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/konomini/",
     "begin": "2004-04-01T15:30:00.000Z",
@@ -102,18 +106,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "t/tk3anhnbwweipfm",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -129,6 +133,7 @@
         "Pugyuru"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.pugyuru.jp/",
     "begin": "2004-04-12T16:00:00.000Z",
@@ -141,8 +146,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -158,6 +163,7 @@
         "爱你宝贝"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tms-e.com/on_air/beibe/",
     "begin": "2004-04-03T10:00:00.000Z",
@@ -170,18 +176,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "i/iz6m1djp4h2xrsa",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -197,6 +203,7 @@
         "火鸟"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/hinotori/main.html",
     "begin": "2004-04-04T10:30:00.000Z",
@@ -209,8 +216,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -226,6 +233,7 @@
         "熊猫万能侠"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.panda-z.net/",
     "begin": "2004-04-11T22:30:00.000Z",
@@ -245,6 +253,7 @@
         "怪物"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.vap.co.jp/monster/",
     "begin": "2004-04-06T15:40:00.000Z",
@@ -257,8 +266,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -274,6 +283,7 @@
         "美鸟日记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://pierrot.jp/archives/tv_list_2000/tv_067.html",
     "begin": "2004-04-03T15:30:00.000Z",
@@ -286,18 +296,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "13932",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -316,6 +326,7 @@
         "KERORO军曹"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/keroro/",
     "begin": "2004-04-03T01:00:00.000Z",
@@ -335,6 +346,7 @@
         "魔法少女队"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tfc-anime.net/tweeny-witches/index.html",
     "begin": "2004-04-09T09:20:00.000Z",
@@ -347,8 +359,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -364,6 +376,7 @@
         "苏生龙王传说"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.fujitv.co.jp/b_hp/legendz/index.html",
     "begin": "2004-04-04T00:30:00.000Z",
@@ -383,6 +396,7 @@
         "花右京女仆队 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/hanaukyo/",
     "begin": "2004-04-04T15:00:00.000Z",
@@ -402,6 +416,7 @@
         "老师的时间"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/sensei/",
     "begin": "2004-04-04T16:30:00.000Z",
@@ -414,8 +429,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -431,6 +446,7 @@
         "恋风"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/koikaze/",
     "begin": "2004-04-01T17:27:00.000Z",
@@ -441,10 +457,10 @@
         "site": "qq",
         "id": "8/87h71uq2p55brm3",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -460,22 +476,13 @@
         "天上天下"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.avexmovie.jp/lineup/tenten/",
     "begin": "2004-04-01T17:57:00.000Z",
     "end": "2004-09-16T18:12:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "qq",
-        "id": "t/tw224k7bwhaej63",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "4371"
@@ -489,6 +496,7 @@
         "滑板战士"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/amdriver/main_index.html",
     "begin": "2004-04-05T09:30:00.000Z",
@@ -508,6 +516,7 @@
         "今天开始做魔王"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.maru-ma.com/",
     "begin": "2004-04-03T00:00:00.000Z",
@@ -520,28 +529,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "2/2pqukl3ql245jfw",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "8356",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -557,6 +566,7 @@
         "神魂合体豪旦那 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.imagicatv.jp/content/godannar/",
     "begin": "2004-04-06T16:05:00.000Z",
@@ -569,8 +579,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -586,6 +596,7 @@
         "陆奥圆明流外传 修罗之刻"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.maql.co.jp/special/shura/",
     "begin": "2004-04-06T09:00:00.000Z",
@@ -598,8 +609,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -615,6 +626,7 @@
         "杀戮都市"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.gantz.net/",
     "begin": "2004-04-12T17:43:00.000Z",
@@ -637,22 +649,13 @@
         "爆裂天使"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.baku-ten.com/TV/top.html",
     "begin": "2004-04-06T17:12:00.000Z",
     "end": "2004-09-21T17:42:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "WZJu7FS6KmjLSbE",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "4471"
@@ -666,6 +669,7 @@
         "格斗金肉人II世 ULTIMATE MUSCLE"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/niku/",
     "begin": "2004-04-07T16:00:00.000Z",
@@ -685,6 +689,7 @@
         "绚烂舞踏祭"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/kenran/main_index.html",
     "begin": "2004-04-01T09:30:00.000Z",
@@ -704,6 +709,7 @@
         "人鱼的旋律 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.tv-aichi.co.jp/pichi/index.html",
     "begin": "2004-04-02T23:00:00.000Z",
@@ -716,8 +722,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -733,6 +739,7 @@
         "弹道"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/dandoh/main_index.html",
     "begin": "2004-04-03T00:30:00.000Z",
@@ -745,8 +752,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -758,6 +765,7 @@
   {
     "title": "じゃがいぬくん",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.jagainukun.net/",
     "begin": "2004-04-03T22:00:00.000Z",
@@ -773,6 +781,7 @@
   {
     "title": "それいけ！ズッコケ三人組",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.zukkoke.net/",
     "begin": "2004-04-04T00:00:00.000Z",
@@ -794,6 +803,7 @@
         "异域天使"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.jvcmusic.co.jp/m-serve/madlax/",
     "begin": "2004-04-05T17:00:00.000Z",
@@ -806,8 +816,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -823,6 +833,7 @@
         "铁人28号"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tetsujin28.tv/",
     "begin": "2004-04-07T16:30:00.000Z",
@@ -842,6 +853,7 @@
         "最游记RELOAD GUNLOCK"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/saiyuki_rg/",
     "begin": "2004-04-01T16:30:00.000Z",
@@ -854,13 +866,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "6997"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saiyuki_rg",
+        "begin": "2017-01-10T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -871,6 +893,7 @@
         "魔法咪路咪路Wonderful"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/mirumo/main_index.htm",
     "begin": "2004-04-06T10:30:00.000Z",
@@ -893,6 +916,7 @@
         "头文字D Fourth Stage"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://mv.avex.jp/initial/initial.html",
     "begin": "2004-04-17T16:00:00.000Z",
@@ -905,28 +929,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "m/mypnbgb1fsnnk0a",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "41918",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -942,6 +966,7 @@
         "苹果核战记"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.appleseedthemovie.com/",
     "begin": "2004-04-17T16:00:00.000Z",
@@ -952,10 +977,10 @@
         "site": "qq",
         "id": "8/8ke57ytm8knfd6b",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -971,6 +996,7 @@
         "蜡笔小新 呼风唤雨！夕阳下的春日部男孩"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "2004-04-17T16:00:00.000Z",
@@ -983,19 +1009,19 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/v_19rrifx022.html"
+        "url": "http://www.iqiyi.com/v_19rrifx022.html",
+        "exist": null
       },
       {
         "site": "bangumi",
@@ -1010,6 +1036,7 @@
         "名侦探柯南 银翼的魔术师"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.conan-movie.jp/",
     "begin": "2004-04-17T16:00:00.000Z",
@@ -1022,13 +1049,23 @@
         "begin": "2016-11-11T08:33:52.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2974"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1039,6 +1076,7 @@
         "忍者乱太郎 12期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "2004-04-05T08:35:00.000Z",
@@ -1058,6 +1096,7 @@
         "新盖塔"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2004-04-09T16:00:00.000Z",
@@ -1070,8 +1109,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1087,6 +1126,7 @@
         "夏色的砂时计"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.oaks-soft.co.jp/princess-soft/natsuiro/",
     "begin": "2004-04-23T16:00:00.000Z",
@@ -1099,13 +1139,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "14153"
+      }
+    ]
+  },
+  {
+    "title": "蒼い海のトリスティア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "发明工坊"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-04-23T16:00:00.000Z",
+    "end": "2004-07-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25414"
+      },
+      {
+        "site": "pptv",
+        "id": "ddiajIYnvX50AfuY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

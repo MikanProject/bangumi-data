@@ -6,11 +6,11 @@
         "排球少年 才能与感觉"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2018-01-17T00:00:00",
-    "end": "2018-02-16T00:00:00",
-    "releaseDate": "2017-09-15T00:00:00",
+    "begin": "2017-09-15T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-01-17T00:00:00",
     "comment": "",
     "sites": [
@@ -27,11 +27,11 @@
         "排球少年 观念之战"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2018-01-17T00:00:00",
-    "end": "2018-02-16T00:00:00",
-    "releaseDate": "2017-09-29T00:00:00",
+    "begin": "2017-09-29T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-01-17T00:00:00",
     "comment": "",
     "sites": [
@@ -48,11 +48,11 @@
         "剧场版 魔法科高校的劣等生 呼唤星辰的少女"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://mahouka.jp/",
-    "begin": "2018-01-24T00:00:00",
-    "end": "2018-02-23T00:00:00",
-    "releaseDate": "2017-06-17T00:00:00",
+    "begin": "2017-06-17T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-01-24T00:00:00",
     "comment": "",
     "sites": [
@@ -69,11 +69,11 @@
         "KING OF PRISM  PRIDE the HERO"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://kinpri.com/",
-    "begin": "2018-01-26T00:00:00",
-    "end": "2018-02-25T00:00:00",
-    "releaseDate": "2017-06-10T00:00:00",
+    "begin": "2017-06-10T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-01-26T00:00:00",
     "comment": "",
     "sites": [
@@ -90,11 +90,11 @@
         "宇宙战舰大和号2202 爱的战士们 第四章"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://yamato2202.net/",
     "begin": "2018-01-27T00:00:00",
-    "end": "2018-02-26T00:00:00",
-    "releaseDate": "2018-01-27T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-01-27T00:00:00",
     "comment": "",
     "sites": [
@@ -111,11 +111,11 @@
         "魔法少女伊莉雅 雪下之誓"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://anime.prisma-illya.jp/",
-    "begin": "2018-01-31T00:00:00",
-    "end": "2018-03-02T00:00:00",
-    "releaseDate": "2017-08-26T00:00:00",
+    "begin": "2017-08-26T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-01-31T00:00:00",
     "comment": "",
     "sites": [
@@ -126,17 +126,38 @@
     ]
   },
   {
+    "title": "弱虫ペダル Re:GENERATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飙速宅男 Re：GENERATION"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yowapeda.com/",
+    "begin": "2017-10-13T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-02-14T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219485"
+      }
+    ]
+  },
+  {
     "title": "ノーゲーム・ノーライフ ゼロ",
     "titleTranslate": {
       "zh-Hans": [
         "NO GAME NO LIFE 游戏人生 ZERO"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://ngnl.jp/",
-    "begin": "2018-02-23T00:00:00",
-    "end": "2018-03-25T00:00:00",
-    "releaseDate": "2017-07-15T00:00:00",
+    "begin": "2017-07-15T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-02-23T00:00:00",
     "comment": "",
     "sites": [
@@ -153,11 +174,11 @@
         "交响诗篇 Hi-Evolution"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://eurekaseven.jp/",
-    "begin": "2018-02-23T00:00:00",
-    "end": "2018-03-25T00:00:00",
-    "releaseDate": "2017-09-16T00:00:00",
+    "begin": "2017-09-16T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-02-23T00:00:00",
     "comment": "",
     "sites": [
@@ -168,17 +189,59 @@
     ]
   },
   {
+    "title": "コードギアス 反逆のルルーシュ I 興道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 反叛的鲁路修 Ⅰ 兴道"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/L-geass/",
+    "begin": "2017-10-21T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-02-23T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "199229"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム Twilight AXIS 赤き残影",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 暮光的阿克西斯 赤红残影"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://g-twilight-axis.net/",
+    "begin": "2017-11-18T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-02-23T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226561"
+      }
+    ]
+  },
+  {
     "title": "フルメタル・パニック! ボーイ・ミーツ・ガール",
     "titleTranslate": {
       "zh-Hans": [
         "全金属狂潮 Boy Meets Girl"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2018-02-28T00:00:00",
-    "end": "2018-03-30T00:00:00",
-    "releaseDate": "2017-11-25T00:00:00",
+    "begin": "2017-11-25T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-02-28T00:00:00",
     "comment": "",
     "sites": [
@@ -189,17 +252,38 @@
     ]
   },
   {
+    "title": "刀剣乱舞-花丸- ～幕間回想録～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刀剑乱舞-花丸- ～幕間回想录～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://touken-hanamaru.jp/",
+    "begin": "2017-12-01T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-02-28T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226599"
+      }
+    ]
+  },
+  {
     "title": "劇場版 響け！ユーフォニアム～届けたいメロディ～",
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 吹响！悠风号～想要传达的旋律～"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://anime-eupho.com/",
-    "begin": "2018-03-07T00:00:00",
-    "end": "2018-04-06T00:00:00",
-    "releaseDate": "2017-09-30T00:00:00",
+    "begin": "2017-09-30T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-03-07T00:00:00",
     "comment": "",
     "sites": [
@@ -210,17 +294,38 @@
     ]
   },
   {
+    "title": "映画 キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "KiraKira☆光之美少女 A La Mode 清脆出炉！回忆的法式千层酥！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2017-10-28T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-03-07T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219482"
+      }
+    ]
+  },
+  {
     "title": "カゲロウデイズ-in a day's-",
     "titleTranslate": {
       "zh-Hans": [
         "阳炎眩乱-in a day's-"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://kageroumx4d.com/",
-    "begin": "2018-03-14T00:00:00",
-    "end": "2018-04-13T00:00:00",
-    "releaseDate": "2016-11-04T00:00:00",
+    "begin": "2016-11-04T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-03-14T00:00:00",
     "comment": "",
     "sites": [
@@ -231,17 +336,59 @@
     ]
   },
   {
+    "title": "劇場版 生徒会役員共",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 妄想学生会"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://king-cr.jp/special/seitokai_G/",
+    "begin": "2017-07-21T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-03-16T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "200887"
+      }
+    ]
+  },
+  {
+    "title": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灵能百分百 REIGEN ～不为人知的奇迹的灵能力者～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://mobpsycho100.com/special/event0318.html",
+    "begin": "2018-03-18T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-03-18T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228109"
+      }
+    ]
+  },
+  {
     "title": "メアリと魔女の花",
     "titleTranslate": {
       "zh-Hans": [
         "玛丽与魔女之花"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://maryflower.jp",
-    "begin": "2018-03-20T00:00:00",
-    "end": "2018-04-19T00:00:00",
-    "releaseDate": "2017-07-08T00:00:00",
+    "begin": "2017-07-08T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-03-20T00:00:00",
     "comment": "",
     "sites": [
@@ -252,17 +399,38 @@
     ]
   },
   {
+    "title": "ガールズ&amp;パンツァー 最終章 I",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 最终章 I"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer.jp/",
+    "begin": "2017-12-09T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-03-23T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "191302"
+      }
+    ]
+  },
+  {
     "title": "フルメタル・パニック! ワン・ナイト・スタンド",
     "titleTranslate": {
       "zh-Hans": [
         "全金属狂潮 One Night Stand"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2018-03-28T00:00:00",
-    "end": "2018-04-27T00:00:00",
-    "releaseDate": "2018-01-13T00:00:00",
+    "begin": "2018-01-13T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-03-28T00:00:00",
     "comment": "",
     "sites": [
@@ -279,11 +447,11 @@
         "魔法少女奈叶 Reflection"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.nanoha.com/",
-    "begin": "2018-04-11T00:00:00",
-    "end": "2018-05-11T00:00:00",
-    "releaseDate": "2017-07-22T00:00:00",
+    "begin": "2017-07-22T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-04-11T00:00:00",
     "comment": "",
     "sites": [
@@ -294,23 +462,317 @@
     ]
   },
   {
+    "title": "打ち上げ花火、下から見るか？横から見るか？",
+    "titleTranslate": {
+      "zh-Hans": [
+        "升空的焰火，从下面看还是从侧面看？"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.uchiagehanabi.jp/",
+    "begin": "2017-08-18T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-04-18T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "200704"
+      }
+    ]
+  },
+  {
+    "title": "特別版 Free!-Take Your Marks-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "特別版 Free!-Take Your Marks-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tym.iwatobi-sc.com/",
+    "begin": "2017-10-28T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-04-18T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211618"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 はいからさんが通る 前編 ～紅緒、花の17歳～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 窈窕淑女 前篇 ～红绪、花样的17岁～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://haikarasan.net/",
+    "begin": "2017-11-11T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-04-25T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184151"
+      }
+    ]
+  },
+  {
     "title": "フルメタル・パニック! イントゥ・ザ・ブルー",
     "titleTranslate": {
       "zh-Hans": [
         "全金属狂潮 Into the Blue"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2018-04-25T00:00:00",
-    "end": "2018-05-25T00:00:00",
-    "releaseDate": "2018-01-20T00:00:00",
+    "begin": "2018-01-20T00:00:00",
+    "end": "",
     "bdReleaseDate": "2018-04-25T00:00:00",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "226191"
+      }
+    ]
+  },
+  {
+    "title": "Fate/stay night [Heaven’s Feel] I.presage flower",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/stay night [Heaven’s Feel] I.presage flower"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.fate-sn.com/",
+    "begin": "2017-10-14T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-05-09T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109375"
+      }
+    ]
+  },
+  {
+    "title": "GODZILLA -怪獣惑星-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥斯拉 怪兽行星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://godzilla-anime.com/index.html",
+    "begin": "2017-11-17T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-05-16T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "190385"
+      }
+    ]
+  },
+  {
+    "title": "きみの声をとどけたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "想要传递给你的声音"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kimikoe.com/movie/index.html",
+    "begin": "2017-08-25T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-05-25T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189546"
+      }
+    ]
+  },
+  {
+    "title": "Dance with Devils-Fortuna-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "与魔共舞-Fortuna-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://dwd-movie.com/",
+    "begin": "2017-11-04T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-05-25T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207664"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第四章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2202 爱的战士们 第四章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yamato2202.net/",
+    "begin": "2018-05-25T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-05-25T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192153"
+      }
+    ]
+  },
+  {
+    "title": "ご注文はうさぎですか？？～Dear My Sister～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "请问您今天要来点兔子吗？？～Dear My Sister～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.gochiusa.com/",
+    "begin": "2017-11-11T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-05-30T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "181995"
+      }
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー tri. 第6章「ぼくらの未来」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险 tri. 第六章「我们的未来」"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-05-05T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-06-02T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192204"
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 反逆のルルーシュ II 叛道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 反叛的鲁路修 II 叛道"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/",
+    "begin": "2018-02-10T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-06-08T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "199230"
+      }
+    ]
+  },
+  {
+    "title": "曇天に笑う＜外伝＞～宿命、双頭の風魔～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "笑对昙天 &lt;外传&gt; ～宿命、双头的风魔～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-06-09T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-06-09T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218214"
+      }
+    ]
+  },
+  {
+    "title": "映画 中二病でも恋がしたい！ -Take On Me-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 中二病也要谈恋爱！ -Take On Me-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.anime-chu-2.com/",
+    "begin": "2018-01-06T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-07-18T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215425"
+      }
+    ]
+  },
+  {
+    "title": "曇天に笑う＜外伝＞ ～桜華、天望の架橋～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "笑对昙天 &lt;外传&gt;～樱华、天望的架桥～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://donten-anime.jp/",
+    "begin": "2018-09-01T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-09-01T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218215"
       }
     ]
   }

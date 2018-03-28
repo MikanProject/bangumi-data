@@ -9,6 +9,7 @@
         "太阳勇者"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.yusha.net/fighbird/",
     "begin": "1991-02-02T16:00:00.000Z",
@@ -21,13 +22,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "37246"
+      }
+    ]
+  },
+  {
+    "title": "緊急発進セイバーキッズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲拯救队"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-02-19T16:00:00.000Z",
+    "end": "1992-02-11T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81581"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saverkids",
+        "begin": "2011-11-09T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

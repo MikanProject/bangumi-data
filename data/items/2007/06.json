@@ -6,6 +6,7 @@
         "鬼泣"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://dmc-tv.com/",
     "begin": "2007-06-14T14:00:00.000Z",
@@ -25,6 +26,7 @@
         "铁子之旅"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://tetsuko.jp/",
     "begin": "2007-06-24T01:00:00.000Z",
@@ -44,6 +46,7 @@
         "湾岸MIDNIGHT"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.universalpictures.jp/sp/wangan/",
     "begin": "2007-06-09T12:00:00.000Z",
@@ -56,8 +59,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -73,6 +76,7 @@
         "猫拉面"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.neko-rahmen.com/",
     "begin": "2007-06-22T16:00:00.000Z",
@@ -85,8 +89,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -102,6 +106,7 @@
         "魔法娜娜咪 第四季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2007-06-01T16:00:00.000Z",
@@ -111,6 +116,36 @@
       {
         "site": "bangumi",
         "id": "216383"
+      }
+    ]
+  },
+  {
+    "title": "テイルズ オブ シンフォニア THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙乐传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://ova-tos.com/sylvarant/",
+    "begin": "2007-06-08T16:00:00.000Z",
+    "end": "2007-12-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3014"
+      },
+      {
+        "site": "nicovideo",
+        "id": "TOS-anime01",
+        "begin": "2016-07-06T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

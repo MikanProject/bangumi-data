@@ -9,6 +9,7 @@
         "The Seven Deadly Sins -Signs of holy war-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.7-taizai.net/",
     "begin": "2016-08-28T08:30:00.000Z",
@@ -18,12 +19,23 @@
       {
         "site": "bangumi",
         "id": "175603"
+      },
+      {
+        "site": "nicovideo",
+        "id": "7-taizai02",
+        "begin": "2016-08-28T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
   {
     "title": "双生灵探",
     "titleTranslate": {},
+    "type": "web",
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/835d044d6dd88a012ef06a244da6d3a6.html",
     "begin": "2016-08-25T12:00:00.000Z",
@@ -36,18 +48,18 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "9/9fan764zm5pe3m8",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -63,6 +75,7 @@
         "伤物语II 热血篇"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.kizumonogatari-movie.com/",
     "begin": "2016-08-19T16:00:00.000Z",
@@ -73,10 +86,10 @@
         "site": "youku",
         "id": "383c6440a6d611e0a046",
         "begin": "2017-02-23T05:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -84,9 +97,9 @@
         "id": "jEqiWcizq8A",
         "begin": "2017-02-23T05:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -102,6 +115,7 @@
         "兔丸"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2016-08-05T16:00:00.000Z",
@@ -114,8 +128,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -132,6 +146,7 @@
         "高达创战者Try Island Wars"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://gundam-bf.net/try_special/",
     "begin": "2016-08-21T16:00:00.000Z",
@@ -144,8 +159,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -161,6 +176,7 @@
         "Under The Dog"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://under-the-dog.com/",
     "begin": "2016-08-01T16:00:00.000Z",
@@ -173,8 +189,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

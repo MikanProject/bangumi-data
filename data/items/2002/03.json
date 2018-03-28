@@ -6,6 +6,7 @@
         "洛克人EXE Season"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.shopro.co.jp/tv/archive/rockman/",
     "begin": "2002-03-04T09:30:00.000Z",
@@ -25,6 +26,7 @@
         "哆啦A梦 大雄与机器人王国"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shopro.co.jp/tv/archive/rockman/",
     "begin": "2002-03-09T16:00:00.000Z",
@@ -35,15 +37,25 @@
         "site": "letv",
         "id": "80962",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "468"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -54,6 +66,7 @@
         "私立荒矶高等学校生徒会执行部"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-03-29T16:00:00.000Z",
@@ -64,10 +77,10 @@
         "site": "qq",
         "id": "o/ouf9a0601tiexsy",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -83,6 +96,7 @@
         "You're Under Arrest 逮捕令"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-03-29T16:00:00.000Z",
@@ -93,10 +107,10 @@
         "site": "qq",
         "id": "u/ug20xje2k1ueg8n",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -112,6 +126,7 @@
         "机动警察 十三号废弃物"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-03-30T16:00:00.000Z",
@@ -122,10 +137,10 @@
         "site": "qq",
         "id": "a/aj5o1l8zjhv7etb",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -141,22 +156,13 @@
         "海贼王 珍兽岛之乔巴王国"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-03-02T16:00:00.000Z",
     "end": "2002-03-02T17:00:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro4grdg",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "1901"
@@ -170,22 +176,13 @@
         "数码暴龙03驯兽师之王 暴走的数码列车"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-03-02T16:00:00.000Z",
     "end": "2002-03-02T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro4ufw0",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "3138"
@@ -199,6 +196,7 @@
         "机动警察迷你版"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-03-30T16:00:00.000Z",
@@ -211,8 +209,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -228,22 +226,13 @@
         "煌罗万象"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/aura/index.html",
     "begin": "2002-03-29T16:00:00.000Z",
     "end": "2002-09-13T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "0RvlY8sxod9CwCg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "4210"
@@ -257,6 +246,7 @@
         "枪之国度"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-03-28T16:00:00.000Z",
@@ -269,13 +259,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "69698"
+      }
+    ]
+  },
+  {
+    "title": "カナリア 〜この想いを歌に乗せて〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金丝雀"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-22T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78038"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch61002",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

@@ -10,6 +10,7 @@
         "Suite光之美少女♪"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://asahi.co.jp/suite_precure/",
     "begin": "2011-02-05T23:30:00.000Z",
@@ -17,23 +18,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "SPDLSbEXh8Uopg4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb14k1",
         "begin": "2015-08-14T17:08:48.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -52,6 +43,7 @@
         "邪恶力量"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://wwws.warnerbros.co.jp/supernatural/",
     "begin": "2011-02-23T13:00:00.000Z",
@@ -71,6 +63,7 @@
         "爆丸4 机械波涛"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.bakugan.jp/",
     "begin": "2011-02-13T16:30:00.000Z",
@@ -90,6 +83,7 @@
         "放学后的昴星团 网络放送版"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://sbr-gx.jp",
     "begin": "2011-02-01T16:00:00.000Z",
@@ -102,8 +96,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -119,6 +113,7 @@
         "恋爱☆迁都"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://dbeat.bandaivisual.co.jp/koisento/",
     "begin": "2011-02-25T16:00:00.000Z",
@@ -131,13 +126,113 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "14890"
+      }
+    ]
+  },
+  {
+    "title": "バカとテストと召喚獣 〜祭〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "笨蛋，测验，召唤兽 ～祭～"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.bakatest.com/ova/index.html",
+    "begin": "2011-02-23T16:00:00.000Z",
+    "end": "2011-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12496"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch60021",
+        "begin": "2011-04-29T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "PQUAfuZMvPpd20M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ああっ女神さまっ OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的女神 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://kc.kodansha.co.jp/megamisama/",
+    "begin": "2011-02-23T16:00:00.000Z",
+    "end": "2013-08-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12546"
+      },
+      {
+        "site": "pptv",
+        "id": "Vdu1M5sBca8SkPg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 マクロスF 恋離飛翼 〜サヨナラノツバサ〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 超时空要塞F 恋离飞翼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.macrossf.com/movie2/",
+    "begin": "2011-02-26T16:00:00.000Z",
+    "end": "2011-02-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12618"
+      },
+      {
+        "site": "pptv",
+        "id": "kHicUUrogkM4xrxc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

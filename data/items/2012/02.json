@@ -9,6 +9,7 @@
         "黑岩射手"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.noitamina-brs.jp/",
     "begin": "2012-02-02T15:45:00.000Z",
@@ -18,6 +19,16 @@
       {
         "site": "bangumi",
         "id": "22179"
+      },
+      {
+        "site": "nicovideo",
+        "id": "blackrockshooter",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -31,6 +42,7 @@
         "Smile 光之美少女！"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://asahi.co.jp/smile_precure/",
     "begin": "2012-02-04T23:30:00.000Z",
@@ -43,8 +55,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -53,8 +65,8 @@
         "begin": "2015-10-09T03:15:46.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -70,6 +82,7 @@
         "实乃里Scramble!"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.animebunko.com/minori/",
     "begin": "2012-02-15T16:00:00.000Z",
@@ -82,8 +95,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -99,6 +112,7 @@
         "颠倒的帕特玛 初始之日"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://patema.jp/",
     "begin": "2012-02-25T16:00:00.000Z",
@@ -111,13 +125,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "43159"
+      },
+      {
+        "site": "nicovideo",
+        "id": "patema",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -128,6 +152,7 @@
         "百合星人奈绪子 OVA"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.animebunko.com/naokosan/",
     "begin": "2012-02-15T16:00:00.000Z",
@@ -140,13 +165,73 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "24546"
+      }
+    ]
+  },
+  {
+    "title": "ベルセルク 黄金時代篇I 覇王の卵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑风传奇 黄金时代篇I 霸王之卵"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.berserkfilm.com/",
+    "begin": "2012-02-04T16:00:00.000Z",
+    "end": "2012-02-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10840"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserkfilm",
+        "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "いじめ 〜いけにえの教室〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "欺负 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-02-03T16:00:00.000Z",
+    "end": "2012-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "92509"
+      },
+      {
+        "site": "pptv",
+        "id": "KCQQjvZczApt61M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

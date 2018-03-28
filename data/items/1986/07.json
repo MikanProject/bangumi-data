@@ -6,6 +6,7 @@
         "鬼太郎 最强妖怪军团!登陆日本!!"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1986-07-12T16:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "iqiyi",
         "id": "a_19rro3wphk",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {

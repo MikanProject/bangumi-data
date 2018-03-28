@@ -6,6 +6,7 @@
         "魔卡少女樱 香港之旅"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1999-08-21T16:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "letv",
         "id": "31390",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,22 +36,13 @@
         "金田一少年事件簿2 杀戮的深蓝"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/movie/kin-m2/",
     "begin": "1999-08-21T16:00:00.000Z",
     "end": "1999-08-21T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrnmzvnc",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "49423"

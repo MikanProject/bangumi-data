@@ -9,6 +9,7 @@
         "KINGDOM2"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/kingdom2/",
     "begin": "2013-06-08T14:45:00.000Z",
@@ -21,23 +22,33 @@
         "begin": "2013-08-22T08:07:35.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "583",
-        "begin": "",
-        "official": true,
+        "begin": "2013-06-07T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "62281"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kingdom2",
+        "begin": "2016-01-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -48,6 +59,7 @@
         "剧场版 虽然是玻璃假面"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://garasunokamendesuga.ponycanyon.co.jp/movie/",
     "begin": "2013-06-22T16:00:00.000Z",
@@ -60,8 +72,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -77,6 +89,7 @@
         "宇宙战舰大和号2199 第六章「到达！大麦哲伦」"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-06-15T16:00:00.000Z",
@@ -96,6 +109,7 @@
         "萝球社 OAD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://d-game.dengeki.com/RO-KYU-BU/index.html",
     "begin": "2013-06-22T16:00:00.000Z",
@@ -106,15 +120,45 @@
         "site": "pptv",
         "id": "SzIenARq2hh7ibWE",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "66523"
+      }
+    ]
+  },
+  {
+    "title": "どーにゃつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜甜圈猫"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://donyatsu.jp",
+    "begin": "2013-06-01T16:00:00.000Z",
+    "end": "2013-06-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "94548"
+      },
+      {
+        "site": "nicovideo",
+        "id": "donyatsu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

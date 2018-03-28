@@ -6,22 +6,13 @@
         "阿拉蕾 哦呦呦！梦之机械警察"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1985-07-13T16:00:00.000Z",
     "end": "1985-07-13T16:40:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro0n610",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "82721"
@@ -42,6 +33,7 @@
         "不良拍档"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sunrise-inc.co.jp/dirtypair/",
     "begin": "1985-07-15T13:30:00.000Z",

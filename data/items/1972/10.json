@@ -6,6 +6,7 @@
         "根性青蛙"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1972-10-07T11:00:00.000Z",
@@ -15,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "53739"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dokonjou_gaeru",
+        "begin": "2012-02-16T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -25,6 +36,7 @@
         "科学小飞侠"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tatsunoko.co.jp/works/archive/gatchaman.html",
     "begin": "1972-10-01T10:00:00.000Z",

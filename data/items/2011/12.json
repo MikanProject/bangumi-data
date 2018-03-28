@@ -6,6 +6,7 @@
         "机动战士高达SEED HD重制版"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gundam-seed.net/",
     "begin": "2011-12-23T16:00:00.000Z",
@@ -18,18 +19,18 @@
         "begin": "2017-03-02T09:20:16.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "d/dm1mifa4wc4jssg",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -45,22 +46,13 @@
         "海贼王 3D 激走！陷阱过山车"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2011-12-01T16:00:00.000Z",
     "end": "2011-12-01T16:12:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrnn06rs",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "162047"
@@ -74,22 +66,13 @@
         "闪电十一人GO 究极之绊 狮鹫兽"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2011-12-23T16:00:00.000Z",
     "end": "2011-12-23T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrnnlxww",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "33663"
@@ -103,6 +86,7 @@
         "武装中学生"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://basketarmy.jp/",
     "begin": "2011-12-22T16:00:00.000Z",
@@ -115,8 +99,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -132,6 +116,7 @@
         "棒球大联盟OVA World Series篇"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2011-12-14T16:00:00.000Z",
@@ -144,8 +129,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -161,6 +146,7 @@
         "鲁邦三世：血之刻印 永远的Mermaid"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/",
     "begin": "2011-12-02T16:00:00.000Z",
@@ -180,6 +166,7 @@
         "京骚戏画"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.kyousogiga.com/",
     "begin": "2011-12-10T16:00:00.000Z",
@@ -192,8 +179,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

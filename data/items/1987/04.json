@@ -9,6 +9,7 @@
         "CITY HUNTER"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.cityhunter-dvd.com/",
     "begin": "1987-04-06T18:35:00.000Z",
@@ -21,8 +22,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -31,18 +32,18 @@
         "begin": "2012-08-24T05:26:39.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "kankan",
         "id": "49601",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -51,8 +52,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -68,6 +69,7 @@
         "橙路"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.dvd-orangeroad.com/",
     "begin": "1987-04-06T12:00:00.000Z",
@@ -80,18 +82,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "r/rr57uvmizpiqd67",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -107,6 +109,7 @@
         "赤色光弹"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tatsunoko.co.jp/works/archive/zillion.html",
     "begin": "1987-04-12T12:00:00.000Z",
@@ -126,6 +129,7 @@
         "超能力魔美"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1987-04-07T16:00:00.000Z",
@@ -138,8 +142,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -155,6 +159,7 @@
         "超兽机神断空我 GOD BLESS DANCOUGA"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1987-04-15T16:00:00.000Z",
@@ -167,8 +172,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

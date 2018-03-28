@@ -6,6 +6,7 @@
         "碧蓝幻想"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://anime.granbluefantasy.jp/",
     "begin": "2017-04-01T15:00:00.000Z",
@@ -17,14 +18,24 @@
         "id": "fTEamXXn3hxicicWU",
         "begin": "2017-04-01T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "146732"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime_granbluefantasy",
+        "begin": "2017-04-04T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -38,6 +49,7 @@
         "路人女主的养成方法 ♭"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.saenai.tv/",
     "begin": "2017-04-13T15:55:00.000Z",
@@ -50,8 +62,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -59,9 +71,9 @@
         "id": "a_19rrh9f1yl",
         "begin": "2017-04-13T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -81,6 +93,7 @@
         "Sword Oratoria"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://danmachi.com/sword_oratoria/",
     "begin": "2017-04-14T15:30:00.000Z",
@@ -92,14 +105,24 @@
         "id": "a_19rrh9f4qt",
         "begin": "2017-04-14T17:00:00.000Z",
         "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "172155"
+      },
+      {
+        "site": "nicovideo",
+        "id": "danmachi_gaiden",
+        "begin": "2017-04-18T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -114,6 +137,7 @@
         "重启咲良田"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://sagrada-anime.com/",
     "begin": "2017-04-05T14:30:00.000Z",
@@ -124,10 +148,10 @@
         "site": "acfun",
         "id": "1480091",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -136,8 +160,8 @@
         "begin": "2017-04-05T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -146,13 +170,23 @@
         "begin": "2017-04-05T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "193378"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sagrada-anime",
+        "begin": "2017-04-07T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -166,6 +200,7 @@
         "进击的巨人 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://shingeki.tv/season2/",
     "begin": "2017-04-01T13:00:00.000Z",
@@ -178,8 +213,8 @@
         "begin": "2017-04-01T20:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -188,13 +223,23 @@
         "begin": "2017-04-01T19:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "118335"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_season2",
+        "begin": "2017-03-24T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -205,6 +250,7 @@
         "偶像大师 灰姑娘女孩剧场"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://cingeki-anime.com/",
     "begin": "2017-04-04T12:55:00.000Z",
@@ -215,20 +261,20 @@
         "site": "sohu",
         "id": "s2017/dhpoxdsjcb",
         "begin": "2017-04-04T13:55:00.000Z",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "70efbfbd5d23144811ef",
         "begin": "2017-04-04T13:55:00.000Z",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -236,19 +282,19 @@
         "id": "_UKJ9sX-aTc",
         "begin": "2017-04-04T13:55:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "314020",
         "begin": "2017-04-04T13:55:00.000Z",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -257,8 +303,8 @@
         "begin": "2017-04-04T13:55:00.000Z",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -267,13 +313,23 @@
         "begin": "2017-04-04T13:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "195328"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cingeki-anime",
+        "begin": "2017-05-17T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -284,6 +340,7 @@
         "多美卡超救援 DRIVEHEAD 机动救急警察"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/drivehead/",
     "begin": "2017-04-14T22:00:00.000Z",
@@ -303,6 +360,7 @@
         "时钟机关之星"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/cp/",
     "begin": "2017-04-06T16:59:00.000Z",
@@ -315,13 +373,23 @@
         "begin": "2017-04-07T04:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "162715"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cp",
+        "begin": "2017-04-12T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -335,6 +403,7 @@
         "不正经的魔术讲师与禁忌教典"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://rokuaka.jp/",
     "begin": "2017-04-04T11:30:00.000Z",
@@ -346,14 +415,24 @@
         "id": "a_19rrh9f27t",
         "begin": "2017-04-04T13:00:00.000Z",
         "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "174138"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rokuaka",
+        "begin": "2017-04-08T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -365,6 +444,7 @@
         "FRAME ARMS GIRL"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.fagirl.com/",
     "begin": "2017-04-03T16:05:00.000Z",
@@ -377,8 +457,8 @@
         "begin": "2017-04-03T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -387,13 +467,23 @@
         "begin": "2017-04-03T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "198961"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fagirl",
+        "begin": "2017-04-07T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -405,6 +495,7 @@
         "爱丽丝和藏六"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.alicetozouroku.com/",
     "begin": "2017-04-02T13:30:00.000Z",
@@ -417,8 +508,8 @@
         "begin": "2017-04-02T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -427,13 +518,23 @@
         "begin": "2017-04-02T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "197441"
+      },
+      {
+        "site": "nicovideo",
+        "id": "alicetozouroku",
+        "begin": "2017-05-31T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -444,6 +545,7 @@
         "恋爱暴君"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://renaiboukun.com/",
     "begin": "2017-04-06T17:35:00.000Z",
@@ -456,13 +558,23 @@
         "begin": "2017-04-06T18:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "159795"
+      },
+      {
+        "site": "nicovideo",
+        "id": "renaiboukun",
+        "begin": "2017-04-07T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -475,6 +587,7 @@
         "我的妹妹是黄漫老师"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://eromanga-sensei.com/",
     "begin": "2017-04-08T15:30:00.000Z",
@@ -487,13 +600,23 @@
         "begin": "2017-04-08T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "172498"
+      },
+      {
+        "site": "nicovideo",
+        "id": "eromanga-sensei",
+        "begin": "2017-04-12T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -504,6 +627,7 @@
         "末日时在做什么？有没有空？可以来拯救吗？"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://sukasuka-anime.com",
     "begin": "2017-04-11T14:30:00.000Z",
@@ -515,14 +639,24 @@
         "id": "a_19rrh9f4gx",
         "begin": "2017-04-11T17:00:00.000Z",
         "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "185943"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sukasuka_anime",
+        "begin": "2017-04-19T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -533,6 +667,7 @@
         "月色真美"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://tsukigakirei.jp",
     "begin": "2017-04-06T15:00:00.000Z",
@@ -545,8 +680,8 @@
         "begin": "2017-04-06T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -562,6 +697,7 @@
         "怪怪守护神"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://tsugumomo.com",
     "begin": "2017-04-02T14:30:00.000Z",
@@ -574,13 +710,23 @@
         "begin": "2017-04-02T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "192428"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tsugumomo",
+        "begin": "2017-04-06T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -592,6 +738,7 @@
         "零之魔法书"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://zeronosyo.com",
     "begin": "2017-04-10T14:30:00.000Z",
@@ -604,13 +751,33 @@
         "begin": "2017-04-10T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "315437",
+        "begin": "2017-04-10T15:30:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "194259"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zeronosyo",
+        "begin": "2017-04-17T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -621,6 +788,7 @@
         "樱花任务"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://sakura-quest.com",
     "begin": "2017-04-05T15:00:00.000Z",
@@ -633,13 +801,23 @@
         "begin": "2017-04-05T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "200547"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sakura-quest",
+        "begin": "2017-04-07T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -652,6 +830,7 @@
         "忍者少女千鸟～伊势・金崎篇～"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://nobunaga-no-shinobi.com/",
     "begin": "2017-04-07T16:35:00.000Z",
@@ -664,18 +843,18 @@
         "begin": "2017-04-07T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10035912",
         "begin": "2017-04-07T17:35:00.000Z",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -684,8 +863,8 @@
         "begin": "2017-04-07T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -693,9 +872,9 @@
         "id": "nNF6raEiQAg",
         "begin": "2017-04-07T17:35:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -704,13 +883,23 @@
         "begin": "2017-04-07T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "209839"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nobunaga-no-shinobi02",
+        "begin": "2017-04-09T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -724,6 +913,7 @@
         "我的英雄学院 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://heroaca.com/",
     "begin": "2017-04-01T08:30:00.000Z",
@@ -734,10 +924,10 @@
         "site": "acfun",
         "id": "1480105",
         "begin": "2017-04-01T09:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -746,8 +936,8 @@
         "begin": "2017-04-01T09:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -755,9 +945,9 @@
         "id": "pEFBZGfERLo",
         "begin": "2017-04-01T09:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -773,6 +963,7 @@
         "境界的轮回 第三季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://anime-rinne.com/",
     "begin": "2017-04-08T08:35:00.000Z",
@@ -783,10 +974,10 @@
         "site": "acfun",
         "id": "1480099",
         "begin": "2017-04-08T11:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -795,8 +986,8 @@
         "begin": "2017-04-08T11:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -805,13 +996,23 @@
         "begin": "2017-04-08T11:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "193452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rinne03",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -822,6 +1023,7 @@
         "夏目友人帐 陆"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.natsume-anime.jp/",
     "begin": "2017-04-11T16:35:00.000Z",
@@ -832,10 +1034,10 @@
         "site": "mgtv",
         "id": "314036",
         "begin": "2017-04-11T19:00:00.000Z",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -844,8 +1046,8 @@
         "begin": "2017-04-11T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -854,18 +1056,18 @@
         "begin": "2017-04-11T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1480106",
         "begin": "2017-04-11T19:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -874,8 +1076,8 @@
         "begin": "2017-04-11T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -883,9 +1085,9 @@
         "id": "2ztR0qbh6i4",
         "begin": "2017-04-11T19:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -894,13 +1096,23 @@
         "begin": "2017-04-11T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "203387"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume6",
+        "begin": "2017-04-12T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -912,6 +1124,7 @@
         "双天使 BREAK"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://twinangel-break.com/",
     "begin": "2017-04-07T13:00:00.000Z",
@@ -922,20 +1135,20 @@
         "site": "bilibili",
         "id": "5955",
         "begin": "2017-04-15T03:00:00.000Z",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10036007",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -944,13 +1157,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "186220"
+      },
+      {
+        "site": "nicovideo",
+        "id": "twinangel-break",
+        "begin": "2017-04-17T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -964,6 +1187,7 @@
         "正确的KADO"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://seikaisuru-kado.com/",
     "begin": "2017-04-07T13:30:00.000Z",
@@ -974,20 +1198,20 @@
         "site": "letv",
         "id": "10036008",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1480103",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -996,13 +1220,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "161765"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seikaisuru-kado",
+        "begin": "2017-04-13T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1016,6 +1250,7 @@
         "武装少女"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://machiavellism-anime.jp/",
     "begin": "2017-04-05T14:00:00.000Z",
@@ -1027,14 +1262,24 @@
         "id": "a_19rrh9f4jd",
         "begin": "2017-04-05T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "185562"
+      },
+      {
+        "site": "nicovideo",
+        "id": "machiavellism",
+        "begin": "2017-04-16T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1048,6 +1293,7 @@
         "有顶天家族2"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://uchoten2-anime.com/",
     "begin": "2017-04-09T13:00:00.000Z",
@@ -1058,10 +1304,10 @@
         "site": "acfun",
         "id": "1480098",
         "begin": "2017-04-09T13:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1070,8 +1316,8 @@
         "begin": "2017-04-09T13:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1080,13 +1326,23 @@
         "begin": "2017-04-09T13:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "193042"
+      },
+      {
+        "site": "nicovideo",
+        "id": "uchoten2-anime",
+        "begin": "2017-04-14T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1097,6 +1353,7 @@
         "Re:CREATORS"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://recreators.tv/",
     "begin": "2017-04-08T14:30:00.000Z",
@@ -1109,8 +1366,8 @@
         "begin": "2017-04-08T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1119,8 +1376,8 @@
         "begin": "2017-04-08T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1136,6 +1393,7 @@
         "黑色推销员NEW"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://warau-new.jp/",
     "begin": "2017-04-03T14:00:00.000Z",
@@ -1148,13 +1406,23 @@
         "begin": "2017-04-03T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "202421"
+      },
+      {
+        "site": "nicovideo",
+        "id": "warau-new",
+        "begin": "2017-04-04T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1165,6 +1433,7 @@
         "高校星歌剧 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://hstar-mu.com/",
     "begin": "2017-04-03T15:00:00.000Z",
@@ -1175,10 +1444,10 @@
         "site": "acfun",
         "id": "1480094",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1187,8 +1456,8 @@
         "begin": "2017-04-03T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1196,9 +1465,9 @@
         "id": "sE4psYU06jI",
         "begin": "2017-04-03T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1207,13 +1476,23 @@
         "begin": "2017-04-03T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "184022"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hstar-mu02",
+        "begin": "2017-04-03T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1228,6 +1507,7 @@
         "ID-0 ALL MEMORIES EXIST WITH \"I-Machines\""
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://id-zero.com/",
     "begin": "2017-04-09T14:00:00.000Z",
@@ -1238,10 +1518,10 @@
         "site": "acfun",
         "id": "1480100",
         "begin": "2017-04-09T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1250,8 +1530,8 @@
         "begin": "2017-04-09T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1259,9 +1539,9 @@
         "id": "MF_XuRLHVXg",
         "begin": "2017-04-09T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1270,8 +1550,8 @@
         "begin": "2017-04-09T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1287,6 +1567,7 @@
         "假面Noise"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://fukumenkei-anime.jp/",
     "begin": "2017-04-11T14:00:00.000Z",
@@ -1299,8 +1580,8 @@
         "begin": "2017-04-11T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1309,8 +1590,8 @@
         "begin": "2017-04-11T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1326,6 +1607,7 @@
         "青春歌舞伎"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/kabukibu/",
     "begin": "2017-04-06T17:29:00.000Z",
@@ -1338,13 +1620,23 @@
         "begin": "2017-04-06T18:28:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "189793"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kabukibu",
+        "begin": "2017-04-21T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1359,6 +1651,7 @@
         "Idol Time 美妙天堂"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/ipp/",
     "begin": "2017-04-04T08:55:00.000Z",
@@ -1369,10 +1662,10 @@
         "site": "letv",
         "id": "10035810",
         "begin": "2017-04-04T09:55:00.000Z",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1381,18 +1674,18 @@
         "begin": "2017-04-04T09:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1480095",
         "begin": "2017-04-04T09:55:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1401,8 +1694,8 @@
         "begin": "2017-04-04T09:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1410,9 +1703,9 @@
         "id": "hhG7Y5sJi78",
         "begin": "2017-04-04T09:55:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1421,13 +1714,23 @@
         "begin": "2017-04-04T09:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "204200"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ipp",
+        "begin": "2017-04-14T12:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1439,6 +1742,7 @@
         "世界之暗图鉴"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/yamizukan/",
     "begin": "2017-04-02T18:35:00.000Z",
@@ -1451,28 +1755,28 @@
         "begin": "2017-04-02T19:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10035761",
         "begin": "2017-04-02T19:35:00.000Z",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1480096",
         "begin": "2017-04-02T19:35:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1481,8 +1785,8 @@
         "begin": "2017-04-02T19:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1490,9 +1794,9 @@
         "id": "FtO1_WOcyjU",
         "begin": "2017-04-02T19:35:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1501,13 +1805,23 @@
         "begin": "2017-04-02T19:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "210940"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamizukan",
+        "begin": "2017-04-03T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1518,6 +1832,7 @@
         "与僧侣交合的色欲之夜"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://soryo.w-anime.com/",
     "begin": "2017-04-02T16:00:00.000Z",
@@ -1528,25 +1843,35 @@
         "site": "pptv",
         "id": "t4xo5k60JGLFQ6s",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "bilibili",
         "id": "5960",
         "begin": "2017-04-03T02:40:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "207567"
+      },
+      {
+        "site": "nicovideo",
+        "id": "soryo-w-anime",
+        "begin": "2017-12-22T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1557,6 +1882,7 @@
         "王室教师海涅"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://heine-royal.com/",
     "begin": "2017-04-04T17:05:00.000Z",
@@ -1569,28 +1895,28 @@
         "begin": "2017-04-04T18:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10035811",
         "begin": "2017-04-04T18:05:00.000Z",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1480093",
         "begin": "2017-04-04T18:05:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1599,8 +1925,8 @@
         "begin": "2017-04-04T18:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1608,9 +1934,9 @@
         "id": "jjWggTdz9pI",
         "begin": "2017-04-04T18:05:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1619,13 +1945,23 @@
         "begin": "2017-04-04T18:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "195434"
+      },
+      {
+        "site": "nicovideo",
+        "id": "heine-royal",
+        "begin": "2017-04-05T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1636,6 +1972,7 @@
         "火影忍者 博人传之火影次世代"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/boruto/",
     "begin": "2017-04-05T08:55:00.000Z",
@@ -1646,10 +1983,10 @@
         "site": "letv",
         "id": "10035769",
         "begin": "2017-04-05T09:55:00.000Z",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1658,8 +1995,8 @@
         "begin": "2017-04-05T09:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1668,8 +2005,8 @@
         "begin": "2017-04-05T09:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1677,9 +2014,9 @@
         "id": "ffdR6DGHMFI",
         "begin": "2017-04-05T09:55:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1688,13 +2025,23 @@
         "begin": "2017-04-05T09:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "202661"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boruto",
+        "begin": "2017-04-09T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1705,6 +2052,7 @@
         "不要输！！恶之军团！"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://akunogundan.com/",
     "begin": "2017-04-05T13:30:00.000Z",
@@ -1717,13 +2065,23 @@
         "begin": "2017-04-05T13:45:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "208513"
+      },
+      {
+        "site": "nicovideo",
+        "id": "akunogundan",
+        "begin": "2017-04-07T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1734,6 +2092,7 @@
         "爱米-WE LOVE RICE-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://love-kome.com/",
     "begin": "2017-04-05T13:45:00.000Z",
@@ -1744,20 +2103,20 @@
         "site": "mgtv",
         "id": "313990",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1480092",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1766,8 +2125,8 @@
         "begin": "2017-04-05T14:45:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1775,14 +2134,24 @@
         "id": "mAf8Sxudxb4",
         "begin": "2017-04-05T14:45:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "198598"
+      },
+      {
+        "site": "nicovideo",
+        "id": "love-kome-anime",
+        "begin": "2017-04-07T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1793,6 +2162,7 @@
         "剑风传奇 次篇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://berserk-anime.com/",
     "begin": "2017-04-07T13:00:00.000Z",
@@ -1803,10 +2173,10 @@
         "site": "acfun",
         "id": "1480101",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1815,8 +2185,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1825,13 +2195,23 @@
         "begin": "2017-04-08T02:15:00.000Z",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "192906"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserk-anime",
+        "begin": "2016-07-24T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1842,6 +2222,7 @@
         "巴哈姆特之怒 VIRGIN SOUL"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "https://shingekinobahamut-virginsoul.jp",
     "begin": "2017-04-07T17:10:00.000Z",
@@ -1852,20 +2233,20 @@
         "site": "letv",
         "id": "10036009",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1480102",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1874,13 +2255,23 @@
         "begin": "2017-04-08T02:15:00.000Z",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "132981"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bahamut-vs",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1892,6 +2283,7 @@
         "喧哗番长 乙女 Girl Beats Boys"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://kbo-anime.com/",
     "begin": "2017-04-12T13:30:00.000Z",
@@ -1902,15 +2294,25 @@
         "site": "mgtv",
         "id": "314097",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "200859"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kbo-anime",
+        "begin": "2017-04-12T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1921,6 +2323,7 @@
         "Room Mate"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://oneroom-anime.com/",
     "begin": "2017-04-12T13:40:00.000Z",
@@ -1933,13 +2336,23 @@
         "begin": "2017-04-12T13:40:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "198396"
+      },
+      {
+        "site": "nicovideo",
+        "id": "Room_Mate",
+        "begin": "2017-04-13T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1951,6 +2364,7 @@
         "sin 七大罪"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.7-sins.tv/",
     "begin": "2017-04-14T15:00:00.000Z",
@@ -1960,6 +2374,16 @@
       {
         "site": "bangumi",
         "id": "189784"
+      },
+      {
+        "site": "nicovideo",
+        "id": "7-sins",
+        "begin": "2017-04-15T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1973,6 +2397,7 @@
         "阿童木起源"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://atom-tb.com/",
     "begin": "2017-04-15T14:00:00.000Z",
@@ -1985,13 +2410,23 @@
         "begin": "2017-04-15T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "184059"
+      },
+      {
+        "site": "nicovideo",
+        "id": "atom-tb",
+        "begin": "2017-04-17T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2002,6 +2437,7 @@
         "猫猫日本史 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://neco-neco.jp/",
     "begin": "2017-04-05T09:45:00.000Z",
@@ -2024,6 +2460,7 @@
         "银之守墓人"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ginno-guardian.jp/",
     "begin": "2017-04-01T12:00:00.000Z",
@@ -2036,28 +2473,28 @@
         "begin": "2017-03-31T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10035403",
         "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "313299",
         "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2066,18 +2503,18 @@
         "begin": "2017-03-31T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "c/co1rct64uxcugab",
         "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2086,23 +2523,33 @@
         "begin": "2017-03-31T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "pptv",
         "id": "q5B8ibmLIOHbZV78",
         "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "173850"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ginno-guardian",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -2113,6 +2560,7 @@
         "商人之星的小比索"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ch.nicovideo.jp/peso-game-line-me-anime",
     "begin": "2017-04-03T12:55:00.000Z",
@@ -2122,6 +2570,16 @@
       {
         "site": "bangumi",
         "id": "209544"
+      },
+      {
+        "site": "nicovideo",
+        "id": "peso-game-line-me-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -2132,6 +2590,7 @@
         "雏子的笔记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://hinakonote.jp",
     "begin": "2017-04-07T12:00:00.000Z",
@@ -2144,13 +2603,23 @@
         "begin": "2017-04-07T13:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "190907"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hinakonote",
+        "begin": "2017-04-14T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2161,6 +2630,7 @@
         "偶像活动Stars 第二年"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.aikatsu.net/",
     "begin": "2017-04-06T09:25:00.000Z",
@@ -2172,9 +2642,9 @@
         "id": "a_19rrh9f4mh",
         "begin": "2017-04-06T11:30:00.000Z",
         "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2190,6 +2660,7 @@
         "没有给我哥吃的药！"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://s.mxtv.jp/anime/anitsuke/",
     "begin": "2017-04-07T12:55:00.000Z",
@@ -2200,10 +2671,10 @@
         "site": "qq",
         "id": "m/maa2g8kqchabbgl",
         "begin": "2017-03-28T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2212,13 +2683,23 @@
         "begin": "2017-03-28T02:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "210811"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke",
+        "begin": "2017-04-09T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2229,6 +2710,7 @@
         "扩张少女系Trinary"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://anime.kakutora.com/",
     "begin": "2017-04-12T07:00:00.000Z",
@@ -2241,18 +2723,18 @@
         "begin": "2017-04-14T03:00:00.000Z",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10036060",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -2261,13 +2743,169 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "192637"
+      },
+      {
+        "site": "nicovideo",
+        "id": "trinary",
+        "begin": "2017-04-26T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "100%パスカル先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "100%帕斯卡老师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pasu-chi.com/",
+    "begin": "2017-04-14T21:30:00.000Z",
+    "end": "2017-12-16T22:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "nqKODHTaSojradE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "206011"
+      }
+    ]
+  },
+  {
+    "title": "プリプリちぃちゃん!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噗利噗利奇!!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pasu-chi.com/",
+    "begin": "2017-04-14T21:30:00.000Z",
+    "end": "2017-12-16T22:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "lqqGBGzSQoDjYck",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5954",
+        "begin": "2017-04-17T03:25:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "207242"
+      }
+    ]
+  },
+  {
+    "title": "モンスターストライク セカンドシーズン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物弹珠 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2017-04-01T15:00:00.000Z",
+    "end": "2017-09-02T15:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205015"
+      },
+      {
+        "site": "bilibili",
+        "id": "6059",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhdz2gt",
+        "begin": "2017-08-14T10:31:53.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "xnVf3UWrG1m8OqI",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "w/wrqntnqyx2vhs7v",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "パンパカパンツ おNEWさん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.panpaka.com",
+    "begin": "2017-04-07T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238403"
       }
     ]
   }

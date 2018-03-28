@@ -6,6 +6,7 @@
         "好帅好可爱宣言!"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://kakokawa.com/",
     "begin": "2010-11-05T09:55:00.000Z",
@@ -18,13 +19,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10494"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kakokawa",
+        "begin": "2010-10-12T03:00:05.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -38,6 +49,7 @@
         "奈丽和塞泽尔"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://nelly-caesar.com/",
     "begin": "2010-11-09T16:00:00.000Z",
@@ -57,6 +69,7 @@
         "小新超人"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2010-11-16T16:00:00.000Z",
@@ -69,8 +82,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -79,18 +92,18 @@
         "begin": "2016-01-08T03:33:40.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "h/h6ve1mfenzo3v0f",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -99,8 +112,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -116,6 +129,7 @@
         "产品用途拟人化剧场 pure skin jelly 滋润的众人"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2010-11-29T16:00:00.000Z",
@@ -126,10 +140,10 @@
         "site": "letv",
         "id": "34350",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -145,6 +159,7 @@
         "玉响"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.tamayura.info/",
     "begin": "2010-11-26T16:00:00.000Z",
@@ -157,23 +172,119 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "h/hsac5f0iqzra0pl",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "8452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tamayura",
+        "begin": "2012-02-29T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "TRIP TREK",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://trip.oh-news.net/",
+    "begin": "2010-11-10T16:00:00.000Z",
+    "end": "2011-01-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10070"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch84",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "眼鏡なカノジョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "眼镜女友"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://meganenakanojo.com/",
+    "begin": "2010-11-25T16:00:00.000Z",
+    "end": "2010-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9368"
+      },
+      {
+        "site": "pptv",
+        "id": "4FMurBR66iaiaLCXE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "エア・ギア 黒の羽と眠りの森 -Break on the sky-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞轮少年 黑翼与沉睡森林 -Break on the sky-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-11-17T16:00:00.000Z",
+    "end": "2011-06-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10299"
+      },
+      {
+        "site": "pptv",
+        "id": "ROicaWMAmltQ3tR0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

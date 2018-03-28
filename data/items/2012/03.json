@@ -6,6 +6,7 @@
         "OZUMA"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ozuma.jp/",
     "begin": "2012-03-16T15:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "pptv",
         "id": "BFslowtx4RibCAGg",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "绯色的欠片"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hiironokakera.tv/",
     "begin": "2012-03-05T17:29:00.000Z",
@@ -45,10 +47,10 @@
         "site": "pptv",
         "id": "3ALibfORKuvhb2UE",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -57,33 +59,43 @@
         "begin": "2013-01-09T06:48:52.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "e/e7i9xvn5d08eko0",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "72997",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "29072"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hiiro",
+        "begin": "2012-04-04T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -94,6 +106,7 @@
         "圣斗士星矢Ω"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/seiya/",
     "begin": "2012-03-31T21:30:00.000Z",
@@ -106,8 +119,8 @@
         "begin": "2015-08-14T17:03:10.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -127,6 +140,7 @@
         "恋研！~我们变成动画啦！~"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://koiken-anime.jp/",
     "begin": "2012-03-01T16:00:00.000Z",
@@ -139,8 +153,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -156,6 +170,7 @@
         "视而不见"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/shiranpuri/",
     "begin": "2012-03-26T16:00:00.000Z",
@@ -168,8 +183,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -185,6 +200,7 @@
         "浮浮啾啾"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/juju/",
     "begin": "2012-03-19T16:00:00.000Z",
@@ -197,8 +213,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -214,6 +230,7 @@
         "侠猪布塔"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/buta/",
     "begin": "2012-03-05T16:00:00.000Z",
@@ -226,8 +243,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -243,6 +260,7 @@
         "勿忘蛛"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/wasurenagumo/",
     "begin": "2012-03-12T16:00:00.000Z",
@@ -255,18 +273,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "76279",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -282,6 +300,7 @@
         "强袭魔女 剧场版"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://s-witch.cute.or.jp/movie/",
     "begin": "2012-03-17T16:00:00.000Z",
@@ -292,10 +311,10 @@
         "site": "letv",
         "id": "83122",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -311,6 +330,7 @@
         "光之美少女全明星 New Stage 未来的朋友"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.precure-allstars.com/",
     "begin": "2012-03-17T16:00:00.000Z",
@@ -318,23 +338,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3t3r0",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "letv",
         "id": "79497",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -350,6 +360,7 @@
         "哆啦A梦 大雄与奇迹之岛～动物历险记～"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.doraeiga.com/2012/",
     "begin": "2012-03-03T16:00:00.000Z",
@@ -360,15 +371,25 @@
         "site": "letv",
         "id": "79885",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "24815"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -379,6 +400,7 @@
         "分身战士 ALTERATION QUAN"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.s-cry-ed.net/",
     "begin": "2012-03-10T16:00:00.000Z",
@@ -391,8 +413,8 @@
         "begin": "2012-11-30T16:00:37.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -408,6 +430,7 @@
         "鲁邦三世 Master File"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-03-28T16:00:00.000Z",
@@ -420,8 +443,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -437,6 +460,7 @@
         "浪客剑心 新京都篇"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-03-21T16:00:00.000Z",
@@ -449,13 +473,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "24544"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kenshin-sinkilyouto",
+        "begin": "2017-08-03T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -466,6 +500,7 @@
         "A频道+smile"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.a-ch.jp/bd_dvd/ova.html",
     "begin": "2012-03-21T16:00:00.000Z",
@@ -478,8 +513,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -495,6 +530,7 @@
         "猫神八百万OVA"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-03-21T16:00:00.000Z",
@@ -507,8 +543,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

@@ -9,6 +9,7 @@
         "Urusei Yatsura Movie 6: Itsudatte My Darling"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "1991-11-02T16:00:00.000Z",
@@ -18,6 +19,36 @@
       {
         "site": "bangumi",
         "id": "47153"
+      }
+    ]
+  },
+  {
+    "title": "ここはグリーン・ウッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绿林寮"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-11-22T16:00:00.000Z",
+    "end": "1993-03-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8365"
+      },
+      {
+        "site": "pptv",
+        "id": "Y9GsKpL4aKYJhib8",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

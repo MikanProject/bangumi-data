@@ -6,6 +6,7 @@
         "激斗战车"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=71",
     "begin": "2001-10-06T22:00:00.000Z",
@@ -25,6 +26,7 @@
         "足球小将GOAL!"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/cap_tsuba/main_index.html",
     "begin": "2001-10-07T08:20:00.000Z",
@@ -37,18 +39,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "22279",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,6 +66,7 @@
         "棋魂"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/hikaru/",
     "begin": "2001-10-10T10:27:00.000Z",
@@ -73,6 +76,16 @@
       {
         "site": "bangumi",
         "id": "605"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hikaru",
+        "begin": "2012-12-14T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -83,6 +96,7 @@
         "网球王子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/tennipri/",
     "begin": "2001-10-10T10:00:00.000Z",
@@ -95,8 +109,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -105,28 +119,28 @@
         "begin": "2014-04-09T23:30:24.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "r/rvyijr1mt3r4q6a",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "11313",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -135,23 +149,33 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "103410",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1939"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tennipri",
+        "begin": "2012-05-20T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -162,6 +186,7 @@
         "X战记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.at-x.com/program_detail/index.html/2594/week",
     "begin": "2001-10-03T00:30:00.000Z",
@@ -174,18 +199,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "c/cqyom1alkttm7bf",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -201,6 +226,7 @@
         "人造人009"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-10-14T11:00:00.000Z",
@@ -213,8 +239,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -230,6 +256,7 @@
         "七虹香电击大作战"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mediafactory.co.jp/anime/najica/",
     "begin": "2001-10-04T01:30:00.000Z",
@@ -252,6 +279,7 @@
         "银河冒险战记 the second stage"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gonzo.co.jp/works/0103.html",
     "begin": "2001-10-05T00:30:00.000Z",
@@ -271,6 +299,7 @@
         "星之卡比"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://hicbc.com/tv/kirby/",
     "begin": "2001-10-05T22:30:00.000Z",
@@ -290,6 +319,7 @@
         "天使的尾巴"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.wonderfarm.co.jp/shippo/",
     "begin": "2001-10-04T12:30:00.000Z",
@@ -302,18 +332,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "f/fataqofbrg3l7y8",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -325,6 +355,7 @@
   {
     "title": "カスミン",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/kasumin/",
     "begin": "2001-10-13T22:40:00.000Z",
@@ -344,6 +375,7 @@
         "小小雪精灵"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/snow-sugar/",
     "begin": "2001-10-03T18:00:00.000Z",
@@ -356,8 +388,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -373,6 +405,7 @@
         "魔力女管家"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mahoro-matic.com/",
     "begin": "2001-10-05T18:00:00.000Z",
@@ -385,8 +418,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -402,6 +435,7 @@
         "可可露图书馆"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.jvcmusic.co.jp/m-serve/tv/kokosho/",
     "begin": "2001-10-11T16:00:00.000Z",
@@ -421,6 +455,7 @@
         "愿你在此"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-10-04T16:00:00.000Z",
@@ -431,10 +466,10 @@
         "site": "qq",
         "id": "c/c9hi46vxnx77bkb",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -450,6 +485,7 @@
         "皇家国教骑士团"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-10-18T16:00:00.000Z",
@@ -457,23 +493,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "5CgUkvpg0A5x71c",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "qq",
         "id": "l/la2nmgw6f8yy3lw",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -489,6 +515,7 @@
         "圣石小子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-10-13T16:00:00.000Z",
@@ -501,8 +528,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -518,6 +545,7 @@
         "最终幻想：无限"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2001-10-02T16:00:00.000Z",
@@ -530,8 +558,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

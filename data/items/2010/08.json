@@ -6,6 +6,7 @@
         "怪物猎人日记 岌岌可危的猫猫村 ☆猫猫千钧一发☆"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.capcom.co.jp/monsterhunter/pokapoka_airu/airuanimation.html",
     "begin": "2010-08-05T13:55:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "校园恐怖传说 - 新·花子来了"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hanakosan.net/",
     "begin": "2010-08-12T22:00:00.000Z",
@@ -54,22 +56,13 @@
         "意外的幸运签"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://colorful-movie.jp/",
     "begin": "2010-08-21T16:00:00.000Z",
     "end": "2010-08-21T18:10:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrmmv5ho",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "9350"
@@ -83,6 +76,7 @@
         "精灵宝可梦：皮卡丘的不可思议的不可思议大冒险"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2010-08-01T17:10:00.000Z",

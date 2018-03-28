@@ -6,6 +6,7 @@
         "全金属狂潮 校园篇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.fujitv.co.jp/b_hp/fullmeta/",
     "begin": "2003-08-25T17:28:00.000Z",
@@ -13,33 +14,13 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "nrmEAmrQQH7hX8c",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "qq",
-        "id": "y/y2rp64m54epu293",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "mgtv",
         "id": "291729",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -55,6 +36,7 @@
         "狗狗向前冲"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ytv.co.jp/massugu03/",
     "begin": "2003-08-18T00:55:00.000Z",
@@ -74,6 +56,7 @@
         "鲁邦三世 夺宝大作战"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "2003-08-01T16:00:00.000Z",
@@ -83,6 +66,56 @@
       {
         "site": "bangumi",
         "id": "84993"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ちっちゃな雪使いシュガー 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小小雪精灵 夏季特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-08-22T16:00:00.000Z",
+    "end": "2003-08-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2415"
+      },
+      {
+        "site": "pptv",
+        "id": "CjsGhOxSwgBj4Uk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "铁臂阿童木"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mxtv.co.jp/atom/",
     "begin": "1980-10-01T22:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -28,18 +29,18 @@
         "begin": "2011-01-24T01:12:47.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "z/zgi40gqg05wouh9",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -48,28 +49,28 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1464318",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "103250",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -85,6 +86,7 @@
         "太阳的使者 铁人28号"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mxtv.co.jp/tetsujin28/",
     "begin": "1980-10-03T22:30:00.000Z",
@@ -104,6 +106,7 @@
         "明日之丈2"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1980-10-13T12:00:00.000Z",
@@ -113,6 +116,16 @@
       {
         "site": "bangumi",
         "id": "67753"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ashitano-joe",
+        "begin": "2012-02-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "万能文化猫娘DASH!"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1998-09-23T16:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "qq",
         "id": "c/cxfzlchx74egw5y",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

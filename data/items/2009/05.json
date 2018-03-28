@@ -6,6 +6,7 @@
         "异世界的圣机师物语"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://seikishi.com/",
     "begin": "2009-05-01T16:00:00.000Z",
@@ -18,18 +19,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "6376",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -45,22 +46,13 @@
         "第一小队"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.first-squad.com/",
     "begin": "2009-05-13T16:00:00.000Z",
     "end": "2009-05-13T17:15:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrm5wxws",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "3190"
@@ -74,6 +66,7 @@
         "网球王子 过去和未来的信息"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.tenipuri.jp/dvd05/01.html",
     "begin": "2009-05-26T16:00:00.000Z",
@@ -86,8 +79,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -96,8 +89,8 @@
         "begin": "2013-01-29T07:31:47.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -113,6 +106,7 @@
         "狗/子弹&屠杀"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://annex.s-manga.net/dogs/",
     "begin": "2009-05-19T16:00:00.000Z",
@@ -125,8 +119,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

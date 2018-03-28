@@ -9,6 +9,7 @@
         "豹头王传说"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.guinsaga.net/",
     "begin": "2009-04-05T14:29:00.000Z",
@@ -21,8 +22,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -38,6 +39,7 @@
         "天国少女"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www3.nhk.or.jp/anime/hana/",
     "begin": "2009-04-05T14:01:00.000Z",
@@ -50,18 +52,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "5341",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -77,6 +79,7 @@
         "幻灵镇魂曲"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.phantom-r.jp/",
     "begin": "2009-04-02T16:30:00.000Z",
@@ -89,13 +92,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1426"
+      },
+      {
+        "site": "nicovideo",
+        "id": "phantom-r",
+        "begin": "2012-06-20T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -106,6 +119,7 @@
         "钢之炼金术师 FULLMETAL ALCHEMIST"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hagaren.jp/",
     "begin": "2009-04-05T08:00:00.000Z",
@@ -118,23 +132,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "45402",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1428"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hagaren-fa",
+        "begin": "2015-04-10T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -145,6 +169,7 @@
         "你好 安妮"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nippon-animation.co.jp/before_GG/index.html",
     "begin": "2009-04-05T10:30:00.000Z",
@@ -157,8 +182,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -174,6 +199,7 @@
         "花冠之泪"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://ponican.jp/ttt/",
     "begin": "2009-04-03T11:00:00.000Z",
@@ -186,8 +212,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -196,8 +222,8 @@
         "begin": "2012-07-01T06:25:22.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -213,6 +239,7 @@
         "初恋限定。"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.j-hatsukoi.com/",
     "begin": "2009-04-11T15:00:00.000Z",
@@ -225,8 +252,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -242,6 +269,7 @@
         "夏之岚"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/natsunoarashi/",
     "begin": "2009-04-05T16:30:00.000Z",
@@ -254,8 +282,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -271,6 +299,7 @@
         "女皇之刃 流浪的战士"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://queensblade.tv/",
     "begin": "2009-04-01T23:00:00.000Z",
@@ -280,6 +309,16 @@
       {
         "site": "bangumi",
         "id": "1434"
+      },
+      {
+        "site": "nicovideo",
+        "id": "queensblade01",
+        "begin": "2012-04-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -290,6 +329,7 @@
         "游魂 -Kiss on my Deity-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tayutama.com/",
     "begin": "2009-04-05T15:30:00.000Z",
@@ -302,8 +342,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -320,6 +360,7 @@
         "神幻拍档"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://07-ghost.net/",
     "begin": "2009-04-06T16:40:00.000Z",
@@ -332,8 +373,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -342,8 +383,8 @@
         "begin": "2012-07-01T06:24:21.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -362,6 +403,7 @@
         "战场女武神"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.valkyria-anime.com/",
     "begin": "2009-04-04T16:35:00.000Z",
@@ -374,8 +416,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -391,6 +433,7 @@
         "极上！！超人气委员长"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://mechamote.tv/",
     "begin": "2009-04-04T00:00:00.000Z",
@@ -403,8 +446,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -423,6 +466,7 @@
         "旋风管家 第二季"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://hayatenogotoku.com/index.html",
     "begin": "2009-04-03T16:23:00.000Z",
@@ -435,8 +479,8 @@
         "begin": "2014-09-12T06:31:25.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -452,6 +496,7 @@
         "天才麻将少女"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.saki-anime.com/1st/",
     "begin": "2009-04-05T17:00:00.000Z",
@@ -462,10 +507,10 @@
         "site": "acfun",
         "id": "1463253",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -481,6 +526,7 @@
         "潘多拉之心"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/ph/",
     "begin": "2009-04-02T16:39:00.000Z",
@@ -493,8 +539,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -503,18 +549,18 @@
         "begin": "2013-06-06T06:26:35.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "b/b1v5iy053dtf3k8",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -530,6 +576,7 @@
         "战国BASARA"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.sengokubasara.tv/basara1/index2.html",
     "begin": "2009-04-01T16:34:00.000Z",
@@ -542,8 +589,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -552,8 +599,8 @@
         "begin": "2014-09-12T06:44:11.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -562,33 +609,43 @@
         "begin": "2014-04-09T23:12:32.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "5/5xvc2gtn2s9mf43",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "acfun",
         "id": "1463236",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1429"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch327",
+        "begin": "2010-07-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -599,6 +656,7 @@
         "机巧魔神"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/asura/",
     "begin": "2009-04-02T00:30:00.000Z",
@@ -621,6 +679,7 @@
         "轻音少女"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/k-on/k-on_tv/index-j.html",
     "begin": "2009-04-02T17:09:00.000Z",
@@ -643,6 +702,7 @@
         "香格里拉"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.anime-shangri-la.jp/index.html",
     "begin": "2009-04-05T15:00:00.000Z",
@@ -662,6 +722,7 @@
         "神曲奏界Polyphonica crimson S"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.polyphonica.tv/",
     "begin": "2009-04-04T16:30:00.000Z",
@@ -674,8 +735,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -684,13 +745,23 @@
         "begin": "2014-09-12T06:28:24.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1442"
+      },
+      {
+        "site": "nicovideo",
+        "id": "polyphonica_cs",
+        "begin": "2013-07-30T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -704,6 +775,7 @@
         "飞篮扣杀"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://basquash.com/",
     "begin": "2009-04-02T16:30:00.000Z",
@@ -716,8 +788,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -736,6 +808,7 @@
         "东之伊甸"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.juiz.jp/",
     "begin": "2009-04-09T15:45:00.000Z",
@@ -748,8 +821,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -758,8 +831,8 @@
         "begin": "2014-09-12T06:35:48.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -775,6 +848,7 @@
         "天堂餐馆"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.rispara.tv/",
     "begin": "2009-04-08T17:08:00.000Z",
@@ -787,8 +861,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -804,6 +878,7 @@
         "苍天航路"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ntv.co.jp/souten/",
     "begin": "2009-04-07T16:14:00.000Z",
@@ -816,13 +891,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2088"
+      },
+      {
+        "site": "nicovideo",
+        "id": "souten_anime",
+        "begin": "2016-06-22T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -836,6 +921,7 @@
         "龙珠改"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/dragon_kai/",
     "begin": "2009-04-05T00:00:00.000Z",
@@ -848,8 +934,8 @@
         "begin": "2015-08-14T17:02:27.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -866,6 +952,7 @@
         "地下城与勇士"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://web.archive.org/web/*/www.sup-arad.jp/",
     "begin": "2009-04-03T17:45:00.000Z",
@@ -878,28 +965,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "y/ye76z23ahqk7ro4",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "5334",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -918,6 +1005,7 @@
         "宝石宠物"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.jewelpet.jp/",
     "begin": "2009-04-05T00:30:00.000Z",
@@ -930,8 +1018,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -948,6 +1036,7 @@
         "真无敌铁金刚 冲击z篇"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.shin-mazinger.com/",
     "begin": "2009-04-04T14:20:00.000Z",
@@ -960,8 +1049,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -970,8 +1059,8 @@
         "begin": "2014-08-19T01:23:12.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -990,6 +1079,7 @@
         "四叶游戏"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.shopro.co.jp/tv/crossgame/",
     "begin": "2009-04-05T01:00:00.000Z",
@@ -1002,18 +1092,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "7/7d8pewhl60n7jbd",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1029,6 +1119,7 @@
         "毎日妈妈"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.kaasan.jp/",
     "begin": "2009-04-01T10:00:00.000Z",
@@ -1041,8 +1132,8 @@
         "begin": "2012-06-07T09:16:44.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1061,6 +1152,7 @@
         "战斗陀螺金属对决"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/mf-beyblade/",
     "begin": "2009-04-04T23:30:00.000Z",
@@ -1080,6 +1172,7 @@
         "凉宫春日的忧郁 2009"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.haruhi.tv/",
     "begin": "2009-04-02T15:40:00.000Z",
@@ -1092,23 +1185,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "40473",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "1606"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haruhi_2009",
+        "begin": "2016-07-11T01:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1119,6 +1222,7 @@
         "胡子小鸡"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.higepiyo-tv.com/",
     "begin": "2009-04-03T09:20:00.000Z",
@@ -1131,8 +1235,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -1148,6 +1252,7 @@
         "蜡笔小新 春日部野生王国"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "2009-04-18T16:00:00.000Z",
@@ -1160,19 +1265,19 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20130715/dea630dffb9ba638.html"
+        "url": "http://www.iqiyi.com/dongman/20130715/dea630dffb9ba638.html",
+        "exist": null
       },
       {
         "site": "bangumi",
@@ -1187,6 +1292,7 @@
         "名侦探柯南 漆黑的追迹者"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.conan-movie.jp/",
     "begin": "2009-04-18T16:00:00.000Z",
@@ -1199,13 +1305,23 @@
         "begin": "2016-11-11T08:33:52.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "2783"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1216,6 +1332,7 @@
         "希望宅邸"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2009-04-24T16:00:00.000Z",
@@ -1228,13 +1345,49 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "12655"
+      }
+    ]
+  },
+  {
+    "title": "ToHeart2 adplus",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2adplus/",
+    "begin": "2009-04-24T16:00:00.000Z",
+    "end": "2009-10-07T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1011"
+      }
+    ]
+  },
+  {
+    "title": "天上人とアクト人最後の戦い",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天上人与亚克托人最后的战斗"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-04-18T16:00:00.000Z",
+    "end": "2009-04-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2454"
       }
     ]
   }

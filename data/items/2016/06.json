@@ -9,6 +9,7 @@
         "RS Project -Rebirth Storage-"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://rsproject.jp/",
     "begin": "2016-06-25T17:20:00.000Z",
@@ -21,18 +22,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "10024292",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -52,6 +53,7 @@
         "Fukigen na Mononokean"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://mononokean.tv/",
     "begin": "2016-06-28T14:30:00.000Z",
@@ -64,13 +66,23 @@
         "begin": "2016-06-30T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "168905"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mononokean",
+        "begin": "2016-07-09T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -85,6 +97,7 @@
         "温暖的印记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=honobono",
     "begin": "2016-06-06T15:08:00.000Z",
@@ -97,8 +110,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -110,6 +123,7 @@
   {
     "title": "灵契",
     "titleTranslate": {},
+    "type": "web",
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/95e64748a08b6c2c0c56f15fbbb4f91b.html",
     "begin": "2016-06-21T04:00:00.000Z",
@@ -119,21 +133,21 @@
       {
         "site": "bilibili",
         "id": "5102",
-        "begin": "",
+        "begin": "2016-06-21T16:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "v/v18x0bara3c1msb",
         "begin": "2016-06-21T04:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -142,8 +156,8 @@
         "begin": "2014-04-09T22:50:16.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -155,6 +169,7 @@
   {
     "title": "麻神",
     "titleTranslate": {},
+    "type": "web",
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/mashen/",
     "begin": "2016-06-29T02:00:00.000Z",
@@ -165,10 +180,10 @@
         "site": "qq",
         "id": "g/g1l5z0cndggpfja",
         "begin": "2016-06-29T02:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -184,6 +199,7 @@
         "田中君总是如此慵懒 特典"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2016-06-24T16:00:00.000Z",
@@ -196,8 +212,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -213,6 +229,7 @@
         "Re：从迷你开始的异世界生活"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://re-zero-anime.jp/",
     "begin": "2016-06-24T16:00:00.000Z",
@@ -223,10 +240,10 @@
         "site": "pptv",
         "id": "IBLibfORKuvhb2UE",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -242,6 +259,7 @@
         "为美好的世界献上祝福！ OAD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2016-06-24T16:00:00.000Z",
@@ -254,13 +272,69 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "162771"
+      }
+    ]
+  },
+  {
+    "title": "いっぽう日本昔ばなし",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-06-01T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211023"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ippou-mukashibanashi",
+        "begin": "2017-07-16T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "血界戦線 王様のレストランの王様",
+    "titleTranslate": {
+      "zh-Hans": [
+        "血界战线 王者餐厅的王者"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-06-03T16:00:00.000Z",
+    "end": "2016-06-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "166348"
+      },
+      {
+        "site": "pptv",
+        "id": "HC0Hhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "钢索危情"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.primetime.gs/tightrope/",
     "begin": "2012-05-30T16:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "qq",
         "id": "w/wgma3oj0k3xn19e",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "虹色萤火虫～永远的暑假～"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.nijiirohotaru.com/",
     "begin": "2012-05-19T16:00:00.000Z",
@@ -47,8 +49,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,6 +66,7 @@
         "萌幻变身"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://ai-mi.jp",
     "begin": "2012-05-25T16:00:00.000Z",
@@ -76,8 +79,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

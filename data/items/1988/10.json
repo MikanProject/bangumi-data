@@ -6,6 +6,7 @@
         "橙路 再回到往日"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.dvd-orangeroad.com/",
     "begin": "1988-10-08T16:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "qq",
         "id": "y/yndxod8yrn2yp4m",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -35,6 +36,7 @@
         "新格林名作剧场"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nippon-animation.co.jp/work/1550/",
     "begin": "1988-10-02T22:30:00.000Z",
@@ -47,28 +49,28 @@
         "begin": "2015-01-09T07:11:23.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "78829",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "mgtv",
         "id": "56113",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -84,6 +86,7 @@
         "美味大挑战"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1988-10-17T16:00:00.000Z",
@@ -103,6 +106,7 @@
         "飞跃巅峰！"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.gainax.co.jp/anime/top/index.html",
     "begin": "1988-10-07T16:00:00.000Z",
@@ -115,8 +119,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {

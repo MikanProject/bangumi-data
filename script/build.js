@@ -34,33 +34,16 @@ readJsonPaths(ITEMS_DIRECTORY)
 
         // 同步读取所有json文件
         itemPaths.forEach((itemPath) => {
-            let animeType = itemPath.match(/\d{4}(?:\/|\\)(\d{2}|movie|ova)/)[1];
-            const idPrefix = itemPath.match(/\d{4}(?:\/|\\)(\d{2}|movie|ova)/)[0]
-                .replace(/\/|\\/g, '_');
             let dataArray = fs.readJsonSync(itemPath);
 
-            dataArray = dataArray.map((itemData, index) => {
-                // example => 2016_06_0
-                const id = `${idPrefix}_${index}`;
+            dataArray = dataArray.map((itemData) => {
                 const result = Joi.validate(itemData, itemSchema);
 
                 if (result.error) {
                     throw result.error;
                 }
 
-                switch (animeType) {
-                    case 'movie':
-                        animeType = '剧场版';
-                        break;
-                    case 'ova':
-                        animeType = 'OVA';
-                        break;
-                    default:
-                        animeType = 'TV';
-                        break;
-                }
-
-                return Object.assign({ id, animeType }, itemData);
+                return itemData;
             });
 
             itemsData = itemsData.concat(dataArray);
@@ -101,7 +84,7 @@ readJsonPaths(ITEMS_DIRECTORY)
             }
 
             fs.writeJson(path.resolve(DIST_PATH, DIST_FILE_NAME), {
-                sites: sitesData,
+                siteMeta: sitesData,
                 items: itemsData
             }, (err) => {
                 if (err) {

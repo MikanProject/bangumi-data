@@ -7,6 +7,7 @@
         "今天的明日香"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://kyonoasukashow.com/",
     "begin": "2012-08-03T14:25:00.000Z",
@@ -19,8 +20,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -36,6 +37,7 @@
         "海贼王 奈美特别篇 领航员之泪与伙伴的羁绊"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/onep/campaign/nami_sp/",
     "begin": "2012-08-25T16:00:00.000Z",
@@ -46,11 +48,11 @@
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/v_19rro4guhk.html"
+        "url": "http://www.iqiyi.com/v_19rro4guhk.html",
+        "exist": null
       },
       {
         "site": "bangumi",
@@ -65,6 +67,7 @@
         "侦探歌剧 少女福尔摩斯 Alternative ONE"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://milky-holmes.com/anime/series/",
     "begin": "2012-08-25T16:00:00.000Z",
@@ -77,13 +80,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "47464"
+      },
+      {
+        "site": "nicovideo",
+        "id": "milky-holmes_alt",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -94,6 +107,7 @@
         "轮回的拉格朗日 鸭川日常"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://b.bngi-channel.jp/lag-rin",
     "begin": "2012-08-23T16:00:00.000Z",
@@ -104,10 +118,10 @@
         "site": "letv",
         "id": "81606",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -123,6 +137,7 @@
         "Code Geass 亡国的阿基德 第一章「翼龙降临」"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.geass.jp/akito/",
     "begin": "2012-08-04T16:00:00.000Z",
@@ -135,8 +150,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -145,18 +160,18 @@
         "begin": "2016-08-31T16:02:16.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "82177",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -172,6 +187,7 @@
         "京骚戏画"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.kyousogiga.com/",
     "begin": "2012-08-31T16:00:00.000Z",
@@ -184,8 +200,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -201,6 +217,7 @@
         "丹特丽安的书架 荆姬"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-08-11T16:00:00.000Z",
@@ -213,13 +230,103 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "46234"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 FAIRY TAIL 鳳凰の巫女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精的尾巴 剧场版 凤凰巫女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://fairytail-movie.com/",
+    "begin": "2012-08-18T16:00:00.000Z",
+    "end": "2012-08-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "30361"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairytail_houounomiko",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "侵略!!イカ娘 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "侵略！！乌贼娘 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-08-08T16:00:00.000Z",
+    "end": "2014-09-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46703"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ikamusume-ova-01",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "映画ジュエルペット スウィーツダンスプリンセス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝石宠物 剧场版 甜蜜舞蹈公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.jpet-movie.com/",
+    "begin": "2012-08-11T16:00:00.000Z",
+    "end": "2012-08-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66452"
+      },
+      {
+        "site": "pptv",
+        "id": "P9G7OaEHd7UYlv4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

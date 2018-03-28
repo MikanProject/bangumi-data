@@ -6,6 +6,7 @@
         "一骑当千 XTREME XECUTOR"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ikkitousen.com/",
     "begin": "2010-03-26T01:00:00.000Z",
@@ -25,6 +26,7 @@
         "花样河童"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hanakappa.jp/",
     "begin": "2010-03-28T22:15:00.000Z",
@@ -44,6 +46,7 @@
         "玛丽与伽利 ver 2.0"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/marie_gali/",
     "begin": "2010-03-30T09:55:00.000Z",
@@ -56,8 +59,8 @@
         "begin": "2015-08-14T17:09:03.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -73,6 +76,7 @@
         "由土里酱"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://yutori-chan.jp/",
     "begin": "2010-03-16T03:30:00.000Z",
@@ -85,13 +89,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "4390"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yutori-chan",
+        "begin": "2012-07-18T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -102,6 +116,7 @@
         "黑塔利亚 第3期"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://hetalia.com/top.htm",
     "begin": "2010-03-26T07:00:00.000Z",
@@ -112,15 +127,25 @@
         "site": "letv",
         "id": "10018939",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "4450"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hetaria-world-series",
+        "begin": "2012-12-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -131,6 +156,7 @@
         "书家"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.animax.co.jp/feature/index.php?code=NN10000946",
     "begin": "2010-03-27T16:00:00.000Z",
@@ -143,8 +169,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -160,6 +186,7 @@
         "哆啦A梦：大雄的人鱼大海战"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://doraeiga.com/2010/",
     "begin": "2010-03-06T16:00:00.000Z",
@@ -170,15 +197,25 @@
         "site": "letv",
         "id": "79883",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "4558"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -189,6 +226,7 @@
         "东之伊甸 剧场版II Paradise Lost"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://juiz.jp/blog/",
     "begin": "2010-03-13T16:00:00.000Z",
@@ -201,8 +239,8 @@
         "begin": "2013-06-06T06:26:12.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -218,6 +256,7 @@
         "忍者乱太郎 18期"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "2010-03-29T08:35:00.000Z",
@@ -237,6 +276,7 @@
         "仙乐传说 迪赛雅兰篇"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://ova-tos.com/index.php",
     "begin": "2010-03-25T16:00:00.000Z",
@@ -249,13 +289,53 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "4480"
+      },
+      {
+        "site": "nicovideo",
+        "id": "TOS-anime02",
+        "begin": "2016-07-06T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "這いよる! ニャルアニ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "潜行吧！奈亚子"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://ga.sbcr.jp/bunko_blog/nyaruani/",
+    "begin": "2010-03-15T16:00:00.000Z",
+    "end": "2010-03-15T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18079"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch820",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

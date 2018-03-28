@@ -9,6 +9,7 @@
         "CARDFIGHT!! Vanguard"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-lm/",
     "begin": "2014-03-09T01:00:00.000Z",
@@ -21,18 +22,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "youku",
         "id": "decc9d30adb711e38b3f",
-        "begin": "",
+        "begin": "2014-03-09T12:16:29.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -40,20 +41,31 @@
         "id": "idxgUQ7qnCA",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "90632"
+      },
+      {
+        "site": "nicovideo",
+        "id": "vanguard-lm",
+        "begin": "2014-03-18T10:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
   {
     "title": "ナンダカベロニカ",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/velonica/",
     "begin": "2014-03-10T09:10:00.000Z",
@@ -69,6 +81,7 @@
   {
     "title": "わしも-wasimo-",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
     "begin": "2014-03-10T09:00:00.000Z",
@@ -91,6 +104,7 @@
         "Keroro"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.keroro.com/flashanime/",
     "begin": "2014-03-22T10:00:00.000Z",
@@ -110,6 +124,7 @@
         "战国无双SP 真田之章"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/sengokumusou/",
     "begin": "2014-03-21T16:00:00.000Z",
@@ -122,28 +137,28 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrnwb0ik",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "z/zfvxl2ox1962zjg",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -159,6 +174,7 @@
         "世界第一初恋〜横泽隆史的场合〜"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://sekai-ichi-movie.jp/",
     "begin": "2014-03-15T16:00:00.000Z",
@@ -169,20 +185,20 @@
         "site": "pptv",
         "id": "cOTQTrYcjMotqxM",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "u/uosqtsn16jsdu1b",
         "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -198,6 +214,7 @@
         "光之美少女全明星 New Stage3 永远的朋友"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-03-15T16:00:00.000Z",
@@ -208,10 +225,10 @@
         "site": "iqiyi",
         "id": "a_19rrkvlb40",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -227,6 +244,7 @@
         "哆啦A梦 新·大雄的大魔境-贝可与5人探险队-"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://doraeiga.com/2014/",
     "begin": "2014-03-08T16:00:00.000Z",
@@ -237,10 +255,10 @@
         "site": "letv",
         "id": "10003862",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -256,6 +274,7 @@
         "黑之栖 CHRONUS"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/2014/",
     "begin": "2014-03-01T16:00:00.000Z",
@@ -268,8 +287,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -285,6 +304,7 @@
         "帕罗的未来岛"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/2014/",
     "begin": "2014-03-01T16:00:00.000Z",
@@ -297,8 +317,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -314,6 +334,7 @@
         "阿茹茉妮"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/2014/",
     "begin": "2014-03-01T16:00:00.000Z",
@@ -326,8 +347,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -343,6 +364,7 @@
         "一年级大个子二年级小个子"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://animemirai.jp/2014/",
     "begin": "2014-03-01T16:00:00.000Z",
@@ -355,8 +377,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -373,6 +395,7 @@
         "三人舞妓"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.starchild.co.jp/special/mitsuwano/",
     "begin": "2014-03-12T16:00:00.000Z",
@@ -385,8 +408,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -402,6 +425,7 @@
         "翼与萤火虫"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-03-16T16:00:00.000Z",
@@ -414,8 +438,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -431,6 +455,7 @@
         "未确认进行式 OVA"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://mikakunin.jp/goods.html",
     "begin": "2014-03-19T16:00:00.000Z",
@@ -443,8 +468,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -460,6 +485,7 @@
         "未确认进行式 OAD"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-03-28T16:00:00.000Z",
@@ -472,13 +498,73 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "100857"
+      }
+    ]
+  },
+  {
+    "title": "WILD ADAPTER",
+    "titleTranslate": {
+      "zh-Hans": [
+        "疾暴执行部"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://wild-adapter.com/",
+    "begin": "2014-03-26T16:00:00.000Z",
+    "end": "2015-09-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83933"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wild-adapter",
+        "begin": "2017-04-07T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 薄桜鬼 第二章 士魂蒼穹",
+    "titleTranslate": {
+      "zh-Hans": [
+        "薄樱鬼 第二章 士魂苍穹"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-03-08T16:00:00.000Z",
+    "end": "2014-03-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81846"
+      },
+      {
+        "site": "pptv",
+        "id": "HgXvbdU7qiblMyjI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -6,6 +6,7 @@
         "犬夜叉 镜中的梦幻城"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-12-28T16:00:00.000Z",
@@ -16,20 +17,20 @@
         "site": "qq",
         "id": "a/acpxdje8xzn3jp4",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "46372",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -45,6 +46,7 @@
         "梦幻篮球"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2002-12-18T16:00:00.000Z",
@@ -57,8 +59,8 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -74,6 +76,7 @@
         "超时空要塞 ZERO"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://www.macross.co.jp/zero/",
     "begin": "2002-12-21T16:00:00.000Z",
@@ -86,13 +89,33 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": false,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "3170"
+      }
+    ]
+  },
+  {
+    "title": "サクラ大戦 神崎すみれ 引退記念 す・み・れ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱花大战 神崎堇引退记念"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-12-18T16:00:00.000Z",
+    "end": "2002-12-18T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20931"
       }
     ]
   }

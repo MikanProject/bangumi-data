@@ -6,22 +6,13 @@
         "龙珠Z 一夫当关的最后决战~挑战弗利萨的Z战士 孙悟空的父亲~"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1990-10-07T16:00:00.000Z",
     "end": "1990-10-07T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3njkg",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "18505"
@@ -36,6 +27,7 @@
         "三目童子"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://tezukaosamu.net/jp/anime/48.html",
     "begin": "1990-10-18T16:00:00.000Z",
@@ -48,8 +40,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -58,8 +50,8 @@
         "begin": "2012-05-31T05:57:51.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -75,6 +67,7 @@
         "至尊勇者"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1990-10-06T16:00:00.000Z",
@@ -87,13 +80,43 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "10934"
+      }
+    ]
+  },
+  {
+    "title": "THE八犬伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "THE八犬传"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-10-25T16:00:00.000Z",
+    "end": "1991-03-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "63332"
+      },
+      {
+        "site": "pptv",
+        "id": "Rolz8VmicL23QTrY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

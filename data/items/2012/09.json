@@ -6,6 +6,7 @@
         "战斗之魂 Sword Eyes"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.nagoyatv.com/battlespirits_sword/",
     "begin": "2012-09-08T22:00:00.000Z",
@@ -18,8 +19,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -38,6 +39,7 @@
         "来自新世界"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-asahi.co.jp/shinsekaiyori/",
     "begin": "2012-09-28T15:30:00.000Z",
@@ -50,8 +52,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -60,23 +62,33 @@
         "begin": "2014-09-12T06:41:31.000Z",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "81938",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "37785"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shinsekaiyori",
+        "begin": "2012-10-04T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -87,6 +99,7 @@
         "拓麻歌子！ Yume Kira Dream"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/tamagotchi/",
     "begin": "2012-09-10T10:00:00.000Z",
@@ -106,6 +119,7 @@
         "绯色的欠片 第二章"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.hiironokakera.tv/",
     "begin": "2012-09-30T13:00:00.000Z",
@@ -118,18 +132,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "81939",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -145,6 +159,7 @@
         "加速世界 -银翼的觉醒-"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "http://accel-world-game.channel.or.jp/",
     "begin": "2012-09-13T16:00:00.000Z",
@@ -157,18 +172,18 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "letv",
         "id": "81965",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -184,6 +199,7 @@
         "阿修罗"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://asura-movie.com/",
     "begin": "2012-09-29T16:00:00.000Z",
@@ -194,15 +210,25 @@
         "site": "letv",
         "id": "87629",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "32817"
+      },
+      {
+        "site": "nicovideo",
+        "id": "asura-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -213,6 +239,7 @@
         "蟑螂娘"
       ]
     },
+    "type": "web",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-09-14T16:00:00.000Z",
@@ -225,13 +252,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "49057"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch60379",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -242,22 +279,13 @@
         "我的朋友很少 Add-on disk"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2012-09-26T16:00:00.000Z",
     "end": "2012-09-26T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "xToGhOxSwgBj4Uk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "39699"

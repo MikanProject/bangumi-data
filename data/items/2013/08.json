@@ -6,6 +6,7 @@
         "海贼王 梅利特别篇 另一位伙伴的故事"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-08-24T16:00:00.000Z",
@@ -16,10 +17,10 @@
         "site": "iqiyi",
         "id": "a_19rro4glmc",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       },
       {
@@ -35,7 +36,8 @@
         "齐木楠雄的灾难"
       ]
     },
-    "lang": "en",
+    "type": "web",
+    "lang": "ja",
     "officialSite": "",
     "begin": "2013-08-04T16:00:00.000Z",
     "end": "2016-05-07T16:25:00.000Z",
@@ -47,8 +49,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -64,7 +66,8 @@
         "KY系JC小空气"
       ]
     },
-    "lang": "en",
+    "type": "web",
+    "lang": "ja",
     "officialSite": "",
     "begin": "2013-08-05T16:00:00.000Z",
     "end": "2013-09-09T16:05:00.000Z",
@@ -76,8 +79,8 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -93,6 +96,7 @@
         "宇宙战舰大和号2199 第七章「战舰继续前进」"
       ]
     },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-08-24T16:00:00.000Z",
@@ -112,6 +116,7 @@
         "Little Busters! OVA"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-08-28T16:00:00.000Z",
@@ -124,13 +129,249 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "88438"
+      }
+    ]
+  },
+  {
+    "title": "ポンコツクエスト-魔王と派遣の魔物たち-",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.vap.co.jp/ponque/",
+    "begin": "2013-08-22T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238376"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ponque",
+        "begin": "2016-01-13T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "にじいろ☆プリズムガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虹色女孩☆钻石星路"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-03T16:00:00.000Z",
+    "end": "2013-11-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101474"
+      },
+      {
+        "site": "pptv",
+        "id": "9mtFwyuRATibiaIIg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 薄桜鬼 第一章 京都乱舞",
+    "titleTranslate": {
+      "zh-Hans": [
+        "薄樱鬼 第一章 京都乱舞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-24T16:00:00.000Z",
+    "end": "2013-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "71734"
+      },
+      {
+        "site": "pptv",
+        "id": "T8SwLpb8bKoNiaicM",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我们仍未知道那天所看见的花的名字。"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.anohana.jp/",
+    "begin": "2013-08-31T16:00:00.000Z",
+    "end": "2013-08-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46213"
+      },
+      {
+        "site": "pptv",
+        "id": "ZiczYVr4klNI1sxs",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "神様はじめました OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "元气少女缘结神 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.hanayume.com/kamisama/",
+    "begin": "2013-08-20T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80996"
+      },
+      {
+        "site": "pptv",
+        "id": "HhP9eibNJufda2EA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "波打際のむろみさん OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人鱼又上钩 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-16T16:00:00.000Z",
+    "end": "2013-08-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81386"
+      },
+      {
+        "site": "pptv",
+        "id": "EBnzcdkicrib1QzjY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "となりの怪物くん OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "邻座的怪同学 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tk-anime.info/",
+    "begin": "2013-08-12T16:00:00.000Z",
+    "end": "2013-08-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "59077"
+      },
+      {
+        "site": "pptv",
+        "id": "QMiakIorwYJ4Bfibc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "みなみけ 夏やすみ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "南家三姐妹 夏日假期"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-06T16:00:00.000Z",
+    "end": "2013-08-06T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80205"
+      },
+      {
+        "site": "pptv",
+        "id": "F2tV0zuhEUibyMJg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

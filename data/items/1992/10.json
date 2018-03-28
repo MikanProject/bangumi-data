@@ -6,6 +6,7 @@
         "蜜柑绘日记"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://s.mxtv.jp/mikan_enikki/",
     "begin": "1992-10-16T16:00:00.000Z",
@@ -21,6 +22,7 @@
   {
     "title": "コボちゃん",
     "titleTranslate": {},
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://s.mxtv.jp/kobochan/",
     "begin": "1992-10-19T16:00:00.000Z",
@@ -40,6 +42,7 @@
         "幽游白书"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://pierrot.jp/archives/tv_list_1990/tv_027.html",
     "begin": "1992-10-10T16:00:00.000Z",
@@ -52,13 +55,23 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "bangumi",
         "id": "8803"
+      },
+      {
+        "site": "nicovideo",
+        "id": "YuYuHakusho",
+        "begin": "2016-11-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -69,6 +82,7 @@
         "缎带魔法少女"
       ]
     },
+    "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "1992-10-02T16:00:00.000Z",
@@ -88,6 +102,7 @@
         "东京巴比伦"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1992-10-21T16:00:00.000Z",
@@ -98,10 +113,20 @@
         "site": "qq",
         "id": "5/5n2lnpamfl14923",
         "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "NBfycNgibruxPzTU",
+        "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -117,6 +142,7 @@
         "万能文化猫娘"
       ]
     },
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
     "begin": "1992-10-21T16:00:00.000Z",
@@ -129,18 +155,18 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "b/bv4ksstk6j91sbj",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
+        "exist": true,
         "comment": ""
       },
       {
