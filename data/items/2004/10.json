@@ -499,6 +499,16 @@
       {
         "site": "bangumi",
         "id": "1600"
+      },
+      {
+        "site": "netflix",
+        "id": "70204957",
+        "begin": "2016-12-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -850,7 +860,8 @@
         "Black Jack"
       ],
       "zh-Hans": [
-        "怪医黑杰克"
+        "怪医黑杰克",
+        "怪医黑杰克TV版"
       ]
     },
     "type": "tv",

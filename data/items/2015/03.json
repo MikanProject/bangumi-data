@@ -50,6 +50,26 @@
     ]
   },
   {
+    "title": "ツムツム",
+    "titleTranslate": {
+      "en": [
+        "TSUM TSUM"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.dlife.jp/lineup/disney/tsumtsum/",
+    "begin": "2015-03-22T09:00:00.000Z",
+    "end": "2015-11-01T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208344"
+      }
+    ]
+  },
+  {
     "title": "わしも-wasimo-(第3シリーズ)",
     "titleTranslate": {},
     "type": "tv",
@@ -202,7 +222,7 @@
     "lang": "ja",
     "officialSite": "",
     "begin": "2015-03-04T16:00:00.000Z",
-    "end": "",
+    "end": "2015-03-04T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

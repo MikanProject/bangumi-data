@@ -429,7 +429,8 @@
     "title": "アイカツ!2年目",
     "titleTranslate": {
       "zh-Hans": [
-        "偶像活动！第二年"
+        "偶像活动！第二年",
+        "偶活学园（偶像活动） 第2季"
       ]
     },
     "type": "tv",
@@ -674,6 +675,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70305217",
+        "begin": "2017-05-22T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -718,7 +729,8 @@
     "title": "ログ・ホライズン",
     "titleTranslate": {
       "zh-Hans": [
-        "记录的地平线"
+        "记录的地平线",
+        "记录的地平线 第1季"
       ],
       "en": [
         "Log Horizon"
@@ -930,7 +942,8 @@
     "title": "ファイ・ブレイン 神のパズル(第3シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
-        "Phi-Brain～神之谜题3"
+        "Phi-Brain～神之谜题3",
+        "天才黄金脑神之谜 第3季"
       ]
     },
     "type": "tv",
@@ -1014,7 +1027,8 @@
     "title": "WHITE ALBUM2",
     "titleTranslate": {
       "zh-Hans": [
-        "白色相簿2"
+        "白色相簿2",
+        "白色相簿 第2季"
       ]
     },
     "type": "tv",
@@ -1275,7 +1289,8 @@
     "title": "メガネブ！",
     "titleTranslate": {
       "zh-Hans": [
-        "眼镜部"
+        "眼镜部",
+        "眼镜部！"
       ],
       "en": [
         "MEGANEBU!"
@@ -1378,6 +1393,16 @@
       {
         "site": "saraba1st",
         "id": "865547"
+      },
+      {
+        "site": "netflix",
+        "id": "80028089",
+        "begin": "2017-11-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1385,7 +1410,8 @@
     "title": "黒子のバスケ(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "黑子的篮球 第二季"
+        "黑子的篮球 第二季",
+        "黑子的篮球 第2季"
       ]
     },
     "type": "tv",
@@ -2379,7 +2405,8 @@
     "title": "革命機ヴァルヴレイヴ 2ndシーズン",
     "titleTranslate": {
       "zh-Hans": [
-        "革命机Valvrave 第二季"
+        "革命机Valvrave 第二季",
+        "革命机valvrave 第2季"
       ]
     },
     "type": "tv",
@@ -2554,7 +2581,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "精灵宝可梦XY",
-        "口袋妖怪 XY"
+        "口袋妖怪 XY",
+        "精灵宝可梦XY1"
       ],
       "en": [
         "Pokemon XY"
@@ -2814,7 +2842,7 @@
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-10-16T16:00:00.000Z",
-    "end": "",
+    "end": "2013-10-16T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2829,6 +2857,39 @@
         "premuiumOnly": null,
         "censored": null,
         "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法少女小圆 剧场版 [新篇] 叛逆的物语"
+      ],
+      "en": [
+        "Puella Magi Madoka Magica the Movie: Rebellion"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.madoka-magica.com/",
+    "begin": "2013-10-25T16:00:00.000Z",
+    "end": "2013-10-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "44693"
+      },
+      {
+        "site": "netflix",
+        "id": "70296750",
+        "begin": "2015-06-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

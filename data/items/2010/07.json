@@ -6,7 +6,8 @@
         "SEITOKAIYAKUINDOMO"
       ],
       "zh-Hans": [
-        "妄想学生会"
+        "妄想学生会",
+        "妄想学生会 第1季"
       ]
     },
     "type": "tv",
@@ -204,6 +205,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "滑头鬼之孙"
+      ],
+      "en": [
+        "Nurarihyon's Grandson"
       ]
     },
     "type": "tv",
@@ -343,7 +347,8 @@
     "title": "戦国BASARA 弐",
     "titleTranslate": {
       "zh-Hans": [
-        "战国BASARA 贰"
+        "战国BASARA 贰",
+        "战国basara 第2季"
       ]
     },
     "type": "tv",
@@ -540,7 +545,8 @@
         "DIGIMON XROS WARS"
       ],
       "zh-Hans": [
-        "数码兽合体战争"
+        "数码兽合体战争",
+        "数码宝贝06 合体战争"
       ]
     },
     "type": "tv",
@@ -841,6 +847,39 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者疾风传 剧场版 失落之塔"
+      ],
+      "en": [
+        "Naruto Shippuden: The Movie: The Lost Tower"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.naruto-movie.com/",
+    "begin": "2010-07-30T16:00:00.000Z",
+    "end": "2010-07-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "16528"
+      },
+      {
+        "site": "netflix",
+        "id": "70275937",
+        "begin": "2017-09-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""

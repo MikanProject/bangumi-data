@@ -20,11 +20,21 @@
       {
         "site": "bilibili",
         "id": "23877",
-        "begin": "",
+        "begin": "2018-04-07T17:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hozukino-reitetsu2",
+        "begin": "2017-10-10T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -51,7 +61,17 @@
       {
         "site": "bilibili",
         "id": "23859",
-        "begin": "",
+        "begin": "2018-04-05T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tadakoi",
+        "begin": "2018-04-11T15:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -67,7 +87,8 @@
         "Aikatsu Friends!"
       ],
       "zh-Hans": [
-        "偶像活动Friends"
+        "偶像活动Friends",
+        "偶活学园（偶像活动）Friends!"
       ]
     },
     "type": "tv",
@@ -80,6 +101,16 @@
       {
         "site": "bangumi",
         "id": "234413"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh05ogd",
+        "begin": "2018-04-05T11:25:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -90,7 +121,8 @@
         "FULLMETAL PANIC! Invisible Victory"
       ],
       "zh-Hans": [
-        "全金属狂潮 Invisible Victory"
+        "全金属狂潮 Invisible Victory",
+        "全金属狂潮 第4季"
       ]
     },
     "type": "tv",
@@ -107,9 +139,29 @@
       {
         "site": "bilibili",
         "id": "23852",
-        "begin": "",
+        "begin": "2018-04-13T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1sayt",
+        "begin": "2018-04-13T13:35:54.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "fullmeta-iv",
+        "begin": "2018-04-20T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -120,7 +172,8 @@
     "title": "食戟のソーマ 餐ノ皿 遠月列車篇",
     "titleTranslate": {
       "zh-Hans": [
-        "食戟之灵 餐之皿 远月列车篇"
+        "食戟之灵 餐之皿 远月列车篇",
+        "食戟之灵 第3季"
       ]
     },
     "type": "tv",
@@ -133,12 +186,26 @@
       {
         "site": "bangumi",
         "id": "232646"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhcadk5",
+        "begin": "2017-10-03T16:25:14.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
   {
     "title": "Lostorage conflated WIXOSS",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "失忆融合WIXOSS"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://lostorage-wixoss.com/",
@@ -149,6 +216,26 @@
       {
         "site": "bangumi",
         "id": "203812"
+      },
+      {
+        "site": "bilibili",
+        "id": "23820",
+        "begin": "2018-04-06T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyopwl",
+        "begin": "2018-04-06T16:25:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -156,7 +243,8 @@
     "title": "こみっくがーるず",
     "titleTranslate": {
       "zh-Hans": [
-        "漫画女孩"
+        "漫画女孩",
+        "Comic Girls"
       ]
     },
     "type": "tv",
@@ -173,7 +261,7 @@
       {
         "site": "bilibili",
         "id": "23829",
-        "begin": "",
+        "begin": "2018-04-05T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -202,6 +290,16 @@
       {
         "site": "bangumi",
         "id": "225631"
+      },
+      {
+        "site": "bilibili",
+        "id": "23850",
+        "begin": "2018-04-06T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -225,6 +323,16 @@
       {
         "site": "bangumi",
         "id": "225021"
+      },
+      {
+        "site": "youku",
+        "id": "e0ba5ab762ab4561bafd",
+        "begin": "2018-04-06T17:58:00.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -236,7 +344,8 @@
       ],
       "zh-Hans": [
         "魔性之线DEVIL'S LINE",
-        "魔性之线"
+        "恶魔战线",
+        "DEVILSLINE 恶魔战线"
       ]
     },
     "type": "tv",
@@ -253,7 +362,17 @@
       {
         "site": "bilibili",
         "id": "23846",
-        "begin": "",
+        "begin": "2018-04-07T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh05nlh",
+        "begin": "2018-04-07T15:25:06.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -266,7 +385,8 @@
     "title": "Caligula -カリギュラ-",
     "titleTranslate": {
       "zh-Hans": [
-        "卡利古拉"
+        "卡利古拉",
+        "卡里古拉"
       ]
     },
     "type": "tv",
@@ -279,6 +399,26 @@
       {
         "site": "bangumi",
         "id": "230176"
+      },
+      {
+        "site": "bilibili",
+        "id": "23818",
+        "begin": "2018-04-08T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "caligula-anime",
+        "begin": "2018-04-09T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -306,7 +446,8 @@
     "title": "ラストピリオド -終わりなき螺旋の物語-",
     "titleTranslate": {
       "zh-Hans": [
-        "最后的终止符：没有终焉的螺旋物语"
+        "最后的终止符：没有终焉的螺旋物语",
+        "最后的休止符 无止境的螺旋物语"
       ]
     },
     "type": "tv",
@@ -319,6 +460,26 @@
       {
         "site": "bangumi",
         "id": "236947"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh05oat",
+        "begin": "2018-04-11T16:31:23.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "lastperiod",
+        "begin": "2018-04-12T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -342,6 +503,16 @@
       {
         "site": "bangumi",
         "id": "236790"
+      },
+      {
+        "site": "bilibili",
+        "id": "23595",
+        "begin": "2018-04-03T10:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -349,7 +520,9 @@
     "title": "信長の忍び～姉川・石山篇～",
     "titleTranslate": {
       "zh-Hans": [
-        "信长的忍者 姊川·石山篇"
+        "信长的忍者 姊川·石山篇",
+        "忍者少女千鸟 姐川·石山篇",
+        "忍者少女千鸟 第3季"
       ]
     },
     "type": "tv",
@@ -362,6 +535,36 @@
       {
         "site": "bangumi",
         "id": "235421"
+      },
+      {
+        "site": "bilibili",
+        "id": "23857",
+        "begin": "2018-04-06T17:35:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyopad",
+        "begin": "2018-04-06T17:30:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "nobunaga-no-shinobi03",
+        "begin": "2018-04-07T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -386,7 +589,7 @@
       {
         "site": "bilibili",
         "id": "23861",
-        "begin": "",
+        "begin": "2018-04-02T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -404,7 +607,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://ch.nicovideo.jp/tokyoghoul_re",
     "begin": "2018-04-03T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -412,6 +615,16 @@
       {
         "site": "bangumi",
         "id": "148481"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tokyoghoul_re",
+        "begin": "2018-04-11T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -419,7 +632,11 @@
     "title": "魔法少女 俺",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法少女☆俺"
+        "魔法少女☆俺",
+        "魔法少女 俺"
+      ],
+      "en": [
+        "Magical Girl Ore"
       ]
     },
     "type": "tv",
@@ -432,6 +649,46 @@
       {
         "site": "bangumi",
         "id": "109956"
+      },
+      {
+        "site": "bilibili",
+        "id": "23871",
+        "begin": "2018-04-02T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "魔法少女 俺",
+    "titleTranslate": {
+      "ja": [
+        "魔法少女 俺"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://magicalgirl-ore.com/",
+    "begin": "2018-04-02T13:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109956"
+      },
+      {
+        "site": "bilibili",
+        "id": "23942",
+        "begin": "2018-04-02T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -452,12 +709,27 @@
       {
         "site": "bangumi",
         "id": "220688"
+      },
+      {
+        "site": "bilibili",
+        "id": "23824",
+        "begin": "2018-04-04T13:25:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
   {
     "title": "LOST SONG",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "失落的歌谣",
+        "LOST SONG 失落的歌谣"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://lost-song.com/",
@@ -468,6 +740,36 @@
       {
         "site": "bangumi",
         "id": "205310"
+      },
+      {
+        "site": "bilibili",
+        "id": "23879",
+        "begin": "2018-03-31T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh06bmt",
+        "begin": "2018-03-31T06:55:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "df3fecb5465b40759289",
+        "begin": "2018-03-31T06:58:19.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -492,11 +794,41 @@
       {
         "site": "bilibili",
         "id": "23848",
-        "begin": "",
+        "begin": "2018-04-01T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tc0l",
+        "begin": "2018-04-01T12:55:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "322880",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "76efbfbd27efbfbdefbf",
+        "begin": "2018-04-01T12:58:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -504,6 +836,9 @@
   {
     "title": "シュタインズ・ゲート ゼロ",
     "titleTranslate": {
+      "zh-Hans": [
+        "命运石之门 0"
+      ],
       "en": [
         "STEINS;GATE 0"
       ]
@@ -518,6 +853,59 @@
       {
         "site": "bangumi",
         "id": "129807"
+      },
+      {
+        "site": "nicovideo",
+        "id": "steinsgate0",
+        "begin": "2018-04-26T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "g/gvz5bapszkkjbw8",
+        "begin": "2018-04-11T18:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "命运石之门 0",
+    "titleTranslate": {
+      "ja": [
+        "シュタインズ・ゲート ゼロ"
+      ],
+      "en": [
+        "STEINS;GATE 0"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://steinsgate0-anime.com/",
+    "begin": "2018-04-11T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129807"
+      },
+      {
+        "site": "qq",
+        "id": "q/qrerfaf3wjgrj1w",
+        "begin": "2018-04-11T18:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -543,7 +931,7 @@
       {
         "site": "bilibili",
         "id": "23856",
-        "begin": "",
+        "begin": "2018-04-12T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -557,6 +945,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "重神机潘多拉"
+      ],
+      "en": [
+        "LAST HOPE"
       ]
     },
     "type": "tv",
@@ -569,6 +960,96 @@
       {
         "site": "bangumi",
         "id": "186180"
+      },
+      {
+        "site": "bilibili",
+        "id": "23811",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tbu5",
+        "begin": "2018-03-28T14:55:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "e/e3yh815x8vf82oi",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80221272",
+        "begin": "2018-03-29T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "重神机潘多拉",
+    "titleTranslate": {
+      "ja": [
+        "重神機パンドーラ"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://www.project-pandora.jp/",
+    "begin": "2018-04-04T14:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186180"
+      },
+      {
+        "site": "bilibili",
+        "id": "23919",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyp57x",
+        "begin": "2018-03-28T14:55:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "2/225pc9y4ogg0pqq",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -576,7 +1057,8 @@
     "title": "3D彼女 リアルガール",
     "titleTranslate": {
       "zh-Hans": [
-        "3D彼女"
+        "3D彼女",
+        "三次元女友"
       ]
     },
     "type": "tv",
@@ -589,6 +1071,16 @@
       {
         "site": "bangumi",
         "id": "229805"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyjath",
+        "begin": "2018-04-03T17:55:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -599,7 +1091,8 @@
         "SWORD ART ONLINE ALTERNATIVE \"GUN GALE ONLINE\""
       ],
       "zh-Hans": [
-        "刀剑神域 Alternative GGO"
+        "刀剑神域 Alternative GGO",
+        "刀剑神域外传 Gun Gale Online"
       ]
     },
     "type": "tv",
@@ -612,6 +1105,26 @@
       {
         "site": "bangumi",
         "id": "226750"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh0kgvh",
+        "begin": "2018-04-07T16:25:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gungale-online",
+        "begin": "2018-04-21T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -619,7 +1132,8 @@
     "title": "PERSONA5 the Animation",
     "titleTranslate": {
       "zh-Hans": [
-        "女神异闻录5"
+        "女神异闻录5",
+        "女神异闻录5 动画版"
       ]
     },
     "type": "tv",
@@ -636,7 +1150,27 @@
       {
         "site": "bilibili",
         "id": "23878",
-        "begin": "",
+        "begin": "2018-04-07T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhf76lh",
+        "begin": "2018-04-07T16:55:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "p5a",
+        "begin": "2018-04-09T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -648,6 +1182,9 @@
   {
     "title": "メジャーセカンド",
     "titleTranslate": {
+      "zh-Hans": [
+        "棒球大联盟 2nd"
+      ],
       "en": [
         "MAJOR 2nd"
       ]
@@ -662,6 +1199,16 @@
       {
         "site": "bangumi",
         "id": "227739"
+      },
+      {
+        "site": "bilibili",
+        "id": "23821",
+        "begin": "2018-04-07T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -682,6 +1229,16 @@
       {
         "site": "bangumi",
         "id": "237046"
+      },
+      {
+        "site": "bilibili",
+        "id": "23825",
+        "begin": "2018-04-07T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -689,7 +1246,9 @@
     "title": "ゲゲゲの鬼太郎(2018)",
     "titleTranslate": {
       "zh-Hans": [
-        "鬼太郎第六季"
+        "鬼太郎第六季",
+        "鬼太郎 第六季",
+        "咯咯咯鬼太郎 第6季"
       ]
     },
     "type": "tv",
@@ -702,6 +1261,16 @@
       {
         "site": "bangumi",
         "id": "234531"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh0thmt",
+        "begin": "2018-04-01T03:24:25.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -709,7 +1278,7 @@
     "title": "銀河英雄伝説 Die Neue These 邂逅",
     "titleTranslate": {
       "zh-Hans": [
-        "银河英雄传说 Die Neue These"
+        "银河英雄传说 Die Neue These 邂逅"
       ]
     },
     "type": "tv",
@@ -726,11 +1295,31 @@
       {
         "site": "bilibili",
         "id": "23870",
-        "begin": "",
+        "begin": "2018-04-03T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-anime",
+        "begin": "2018-04-08T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "0WpGxCySAkCjIYk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -752,6 +1341,16 @@
       {
         "site": "bangumi",
         "id": "221127"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1gx6l",
+        "begin": "2018-04-09T15:25:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -776,11 +1375,51 @@
       {
         "site": "bilibili",
         "id": "23817",
-        "begin": "",
+        "begin": "2018-04-11T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1osfx",
+        "begin": "2018-04-11T16:30:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "323092",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "butlers",
+        "begin": "2018-04-20T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/uliokyyzrtrcl69",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -802,12 +1441,26 @@
       {
         "site": "bangumi",
         "id": "228380"
+      },
+      {
+        "site": "bilibili",
+        "id": "23851",
+        "begin": "2018-04-08T18:40:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
   {
     "title": "ひそねとまそたん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "桧曾根与间租谭"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://hisomaso.com/",
@@ -818,6 +1471,16 @@
       {
         "site": "bangumi",
         "id": "231474"
+      },
+      {
+        "site": "letv",
+        "id": "10039077",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -830,7 +1493,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.b-ch.com/ttl/index_html5.php?ttl_c=5991",
     "begin": "2018-04-07T23:30:00.000Z",
     "end": "",
     "comment": "",
@@ -838,6 +1501,26 @@
       {
         "site": "bangumi",
         "id": "226986"
+      },
+      {
+        "site": "bilibili",
+        "id": "23855",
+        "begin": "2018-04-07T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "VpFibicGTKOnjbWcE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -845,7 +1528,8 @@
     "title": "キラッとプリ☆チャン",
     "titleTranslate": {
       "zh-Hans": [
-        "闪亮美妙☆频道"
+        "闪亮美妙☆频道",
+        "美妙频道"
       ]
     },
     "type": "tv",
@@ -858,6 +1542,36 @@
       {
         "site": "bangumi",
         "id": "236074"
+      },
+      {
+        "site": "bilibili",
+        "id": "23841",
+        "begin": "2018-04-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgymz6t",
+        "begin": "2018-04-08T01:55:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "a104308a08934ec59742",
+        "begin": "2018-04-22T02:05:49.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -878,6 +1592,46 @@
       {
         "site": "bangumi",
         "id": "234378"
+      },
+      {
+        "site": "bilibili",
+        "id": "23866",
+        "begin": "2018-04-08T17:35:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgymykl",
+        "begin": "2018-04-08T17:30:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "boueibu_hk",
+        "begin": "2018-04-22T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "b1ea43d04db14269b2fe",
+        "begin": "2018-04-26T03:06:53.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -901,6 +1655,16 @@
       {
         "site": "bangumi",
         "id": "190254"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhca3al",
+        "begin": "2018-04-05T20:05:04.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -921,6 +1685,16 @@
       {
         "site": "bangumi",
         "id": "229393"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh0gytx",
+        "begin": "2018-04-02T14:55:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -941,6 +1715,16 @@
       {
         "site": "bangumi",
         "id": "232165"
+      },
+      {
+        "site": "bilibili",
+        "id": "23865",
+        "begin": "2018-04-02T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -964,6 +1748,16 @@
       {
         "site": "bangumi",
         "id": "237602"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanshu",
+        "begin": "2018-04-01T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -971,7 +1765,8 @@
     "title": "ウマ娘 プリティーダービー",
     "titleTranslate": {
       "zh-Hans": [
-        "马娘 PrettyDerby"
+        "马娘 PrettyDerby",
+        "赛马娘 PrettyDerby"
       ]
     },
     "type": "tv",
@@ -988,7 +1783,17 @@
       {
         "site": "bilibili",
         "id": "23834",
-        "begin": "",
+        "begin": "2018-04-01T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-umamusume",
+        "begin": "2018-04-07T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -998,22 +1803,999 @@
     ]
   },
   {
-    "title": "キャプテン翼",
+    "title": "キャプテン翼(2018)",
     "titleTranslate": {
+      "en": [
+        "CAPTAIN TSUBASA"
+      ],
       "zh-Hans": [
-        "足球小将"
+        "足球小将",
+        "队长小翼"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/captaintsubasa2018/",
-    "begin": "2018-04-01T17:35:00.000Z",
+    "begin": "2018-04-02T16:35:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "232072"
+      },
+      {
+        "site": "mgtv",
+        "id": "322974",
+        "begin": "2018-04-02T18:30:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "足球小将",
+    "titleTranslate": {
+      "en": [
+        "CAPTAIN TSUBASA"
+      ],
+      "ja": [
+        "キャプテン翼(2018)"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/captaintsubasa2018/",
+    "begin": "2018-04-02T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232072"
+      },
+      {
+        "site": "mgtv",
+        "id": "322751",
+        "begin": "2018-04-02T18:30:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "あっくんとカノジョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "敦君与女朋友"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://akkun-kanojo.jp/",
+    "begin": "2018-04-06T14:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "230940"
+      },
+      {
+        "site": "bilibili",
+        "id": "23838",
+        "begin": "2018-04-06T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyn0zh",
+        "begin": "2018-04-06T14:25:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "akkun-kanojo",
+        "begin": "2018-04-06T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "rezJR68VhcMmpAw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "鹿楓堂よついろ日和",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鹿枫堂四色日和",
+        "鹿枫堂"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://rokuhoudou-anime.jp/",
+    "begin": "2018-04-10T16:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227136"
+      },
+      {
+        "site": "bilibili",
+        "id": "23873",
+        "begin": "2018-04-10T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ベイブレードバースト 超ゼツ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗陀螺 爆烈 超绝"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/beyblade/",
+    "begin": "2018-04-02T08:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231971"
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 PART5",
+    "titleTranslate": {
+      "en": [
+        "LUPIN THE THIRD PART5"
+      ],
+      "zh-Hans": [
+        "鲁邦三世 PART5"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/lupin-pt5",
+    "begin": "2018-04-03T16:34:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219164"
+      },
+      {
+        "site": "pptv",
+        "id": "uPnWVLwiaktAzsRk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-pt5",
+        "begin": "2018-04-04T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "パズドラ",
+    "titleTranslate": {
+      "en": [
+        "PUZZLE & DRAGONS"
+      ],
+      "zh-Hans": [
+        "智龙迷城"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://anime-pad.com/",
+    "begin": "2018-04-02T09:25:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "235016"
+      },
+      {
+        "site": "bilibili",
+        "id": "23882",
+        "begin": "2018-04-02T10:25:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyp04l",
+        "begin": "2018-04-02T10:20:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "30c74046e30f487eb6a8",
+        "begin": "2018-04-22T13:31:26.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "わしも-wasimo-(第6シリーズ)",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
+    "begin": "2018-04-02T09:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241879"
+      }
+    ]
+  },
+  {
+    "title": "少年アシベ GO!GO!ゴマちゃん(第3シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年阿贝GO！GO！小芝麻 第3季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://gogo-gomachan.com/",
+    "begin": "2018-04-03T09:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240459"
+      },
+      {
+        "site": "bilibili",
+        "id": "23862",
+        "begin": "2018-04-03T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyj859",
+        "begin": "2018-04-03T11:55:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "若おかみは小学生！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "年轻老板娘是小学生！",
+        "温泉屋小女管家"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/waka-okami/",
+    "begin": "2018-04-07T22:14:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239839"
+      },
+      {
+        "site": "bilibili",
+        "id": "23867",
+        "begin": "2018-04-07T23:14:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgypo7h",
+        "begin": "2018-04-07T23:10:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "こねこのチー ポンポンらー大旅行",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://chissweethome.com/",
+    "begin": "2018-04-07T22:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219377"
+      }
+    ]
+  },
+  {
+    "title": "ねこねこ日本史(第3シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫猫日本史 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://neco-neco.jp/",
+    "begin": "2018-04-04T09:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240775"
+      }
+    ]
+  },
+  {
+    "title": "蒼天の拳 REGENESIS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍天之拳 REGENESIS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.souten-regenesis.com/",
+    "begin": "2018-04-09T15:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228259"
+      },
+      {
+        "site": "bilibili",
+        "id": "23868",
+        "begin": "2018-04-02T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "mdu0MpoAcK4Rjicc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "イナズマイレブン アレスの天秤",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电十一人 阿瑞斯的天平"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.inazuma.jp/ares/",
+    "begin": "2018-04-06T08:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "185789"
+      },
+      {
+        "site": "pptv",
+        "id": "vPbfXcUrm9k8uiaI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Cutie Honey Universe",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜心战士Universe"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://cutiehoney-u.com/",
+    "begin": "2018-04-08T12:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "233608"
+      }
+    ]
+  },
+  {
+    "title": "メガロボクス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Megalo Box"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://megalobox.com/",
+    "begin": "2018-04-05T16:28:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227718"
+      },
+      {
+        "site": "bilibili",
+        "id": "23880",
+        "begin": "2018-04-05T18:02:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "megalobox",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "テレビ野郎 ナナーナ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/nana-na/",
+    "begin": "2018-04-06T13:48:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240778"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア(第3期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 第三季",
+        "我的英雄学院 第3季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://heroaca.com/",
+    "begin": "2018-04-07T08:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226677"
+      },
+      {
+        "site": "bilibili",
+        "id": "23858",
+        "begin": "2018-04-07T09:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1t7kd",
+        "begin": "2018-04-07T09:25:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "gMGuLJT6aqgLiafE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "グラゼニ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钱进球场"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.bs-sptv.com/gurazeni/",
+    "begin": "2018-04-06T13:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211581"
+      },
+      {
+        "site": "bilibili",
+        "id": "23842",
+        "begin": "2018-04-06T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "异世界居酒屋～古都阿伊特力亚的居酒屋「阿信」"
+      ],
+      "en": [
+        "Isekai Izakaya ~Koto Aitheria no Izakaya Nobu~"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://r.gnavi.co.jp/nobu/",
+    "begin": "2018-04-13T03:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "198894"
+      },
+      {
+        "site": "bilibili",
+        "id": "21785",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "あまんちゅ！～あどばんす～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蓝海少女 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://amanchu-anime.com/",
+    "begin": "2018-04-07T14:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "229947"
+      },
+      {
+        "site": "bilibili",
+        "id": "23823",
+        "begin": "2018-04-07T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "amanchu2",
+        "begin": "2018-04-11T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "あはれ！名作くん 第3期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "做得很好！名作君 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://meisakukun.com/",
+    "begin": "2018-04-06T08:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239750"
+      }
+    ]
+  },
+  {
+    "title": "実験品家族",
+    "titleTranslate": {
+      "zh-Hans": [
+        "实验品家庭"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://jp.frankenstein-family.com/",
+    "begin": "2018-04-09T12:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "206700"
+      },
+      {
+        "site": "bilibili",
+        "id": "24174",
+        "begin": "2018-04-10T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "实验品家庭",
+    "titleTranslate": {
+      "ja": [
+        "実験品家族"
+      ]
+    },
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://jp.frankenstein-family.com/",
+    "begin": "2018-04-09T12:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "206700"
+      },
+      {
+        "site": "bilibili",
+        "id": "24173",
+        "begin": "2018-04-10T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "g/g6da8tj74x97ebk",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "奴隷区 The Animation",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奴隶区 我与23人的奴隶"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://doreiku-anime.com/",
+    "begin": "2018-04-12T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "23860",
+        "begin": "2018-04-12T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "227231"
+      }
+    ]
+  },
+  {
+    "title": "踏切時間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "踏切时间",
+        "道口时间"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fumikirijikan.com/",
+    "begin": "2018-04-09T16:15:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "236103"
+      },
+      {
+        "site": "bilibili",
+        "id": "23869",
+        "begin": "2018-04-08T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10039053",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "qibbPTbUbia8ksqhI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "フューチャーカード バディファイトX オールスターファイト",
+    "titleTranslate": {
+      "en": [
+        "FUTURE CARD BUDDYFIGHT X ALL STAR FIGHT"
+      ],
+      "zh-Hans": [
+        "未来卡搭档对战X 全明星对战"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tv-aichi.co.jp/fc-buddyfightX/",
+    "begin": "2018-04-06T23:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242454"
+      }
+    ]
+  },
+  {
+    "title": "レディスポ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Lady Sport"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://s.mxtv.jp/anime/ladysp/",
+    "begin": "2018-04-09T16:20:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239962"
+      }
+    ]
+  },
+  {
+    "title": "ふるさと 日本の昔ばなし セレクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "故乡 日本的古老传说 选集"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/",
+    "begin": "2018-04-08T01:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "247549"
+      }
+    ]
+  },
+  {
+    "title": "妖怪ウォッチ シャドウサイド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪手表 阴影面"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch-ss/",
+    "begin": "2018-04-13T22:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240592"
+      }
+    ]
+  },
+  {
+    "title": "黒猫モンロヲ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kuronekomonroe.net/",
+    "begin": "2018-04-16T17:46:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "237838"
+      }
+    ]
+  },
+  {
+    "title": "SNSポリス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SNS警察"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/sns-police",
+    "begin": "2018-04-08T02:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228148"
       }
     ]
   }

@@ -117,6 +117,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "钢之炼金术师 FULLMETAL ALCHEMIST"
+      ],
+      "en": [
+        "Fullmetal Alchemist: Brotherhood"
       ]
     },
     "type": "tv",
@@ -154,6 +157,16 @@
         "site": "nicovideo",
         "id": "hagaren-fa",
         "begin": "2015-04-10T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70204981",
+        "begin": "2018-01-01T08:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -463,7 +476,8 @@
         "Hayate the combat﻿ butler﻿ 2nd season"
       ],
       "zh-Hans": [
-        "旋风管家 第二季"
+        "旋风管家 第二季",
+        "旋风管家 第2季"
       ]
     },
     "type": "tv",
@@ -573,7 +587,8 @@
     "title": "戦国BASARA",
     "titleTranslate": {
       "zh-Hans": [
-        "战国BASARA"
+        "战国BASARA",
+        "战国basara 第1季"
       ]
     },
     "type": "tv",
@@ -719,7 +734,8 @@
     "title": "神曲奏界ポリフォニカ クリムゾンS",
     "titleTranslate": {
       "zh-Hans": [
-        "神曲奏界Polyphonica crimson S"
+        "神曲奏界Polyphonica crimson S",
+        "神曲奏界 第2季"
       ]
     },
     "type": "tv",

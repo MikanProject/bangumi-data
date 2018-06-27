@@ -3,7 +3,8 @@
     "title": "キングダム(第2シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
-        "王者天下 第二季"
+        "王者天下 第二季",
+        "王者天下 第2季"
       ],
       "en": [
         "KINGDOM2"
@@ -158,6 +159,39 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊ARISE border:1 Ghost Pain",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队ARISE border:1 Ghost Pain"
+      ],
+      "en": [
+        "Ghost in the Shell: Arise – Border 1: Ghost Pain"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kokaku-a.jp/arise/",
+    "begin": "2013-06-21T16:00:00.000Z",
+    "end": "2013-06-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61498"
+      },
+      {
+        "site": "netflix",
+        "id": "80002073",
+        "begin": "2017-01-31T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

@@ -354,6 +354,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "樱兰高校男公关部"
+      ],
+      "en": [
+        "Ouran High School Host Club"
       ]
     },
     "type": "tv",
@@ -391,6 +394,16 @@
         "site": "nicovideo",
         "id": "hostbu",
         "begin": "2014-04-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70205014",
+        "begin": "2017-04-01T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -463,7 +476,8 @@
     "title": "彩雲国物語",
     "titleTranslate": {
       "zh-Hans": [
-        "彩云国物语"
+        "彩云国物语",
+        "彩云国物语 第1季"
       ]
     },
     "type": "tv",
@@ -1070,7 +1084,8 @@
     "title": "デジモンセイバーズ",
     "titleTranslate": {
       "zh-Hans": [
-        "数码兽拯救者"
+        "数码兽拯救者",
+        "数码宝贝05 拯救者"
       ]
     },
     "type": "tv",

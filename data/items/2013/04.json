@@ -344,6 +344,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80006149",
+        "begin": "2017-01-31T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -600,6 +610,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70299043",
+        "begin": "2017-01-10T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -623,6 +643,16 @@
       {
         "site": "iqiyi",
         "id": "a_19rrjxrb1d",
+        "begin": "2013-04-11T20:36:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3307",
         "begin": "2013-04-11T20:36:59.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -882,7 +912,8 @@
     "title": "ゆゆ式",
     "titleTranslate": {
       "zh-Hans": [
-        "悠悠式"
+        "悠悠式",
+        "YUYU式"
       ]
     },
     "type": "tv",
@@ -972,7 +1003,8 @@
     "title": "DEVIL SURVIVOR 2 the ANIMATION",
     "titleTranslate": {
       "zh-Hans": [
-        "恶魔幸存者2"
+        "恶魔幸存者2",
+        "恶魔幸存者 第2部"
       ]
     },
     "type": "tv",
@@ -1023,6 +1055,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "翠星之加尔刚蒂亚"
+      ],
+      "en": [
+        "Gargantia on the Verdurous Planet"
       ]
     },
     "type": "tv",
@@ -1054,6 +1089,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80039789",
+        "begin": "2016-12-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1246,7 +1291,8 @@
     "title": "絶対防衛レヴィアタン",
     "titleTranslate": {
       "zh-Hans": [
-        "绝对防卫利维坦"
+        "绝对防卫利维坦",
+        "绝对防卫 利维坦"
       ]
     },
     "type": "tv",
@@ -1742,7 +1788,8 @@
     "title": "機動戦士ガンダムSEED DESTINY HDリマスター",
     "titleTranslate": {
       "zh-Hans": [
-        "机动战士高达SEED DESTINY HD重制版"
+        "机动战士高达SEED DESTINY HD重制版",
+        "机动战士敢达SEED DESTINY 重制版"
       ]
     },
     "type": "tv",

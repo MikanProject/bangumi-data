@@ -29,7 +29,7 @@
   },
   "iqiyi": {
     "title": "爱奇艺",
-    "urlTemplate": "http://www.iqiyi.com/{{id}}.html"
+    "urlTemplate": "https://www.iqiyi.com/{{id}}.html"
   },
   "letv": {
     "title": "乐视",
@@ -50,5 +50,9 @@
   "nicovideo": {
     "title": "Niconico",
     "urlTemplate": "http://ch.nicovideo.jp/{{id}}"
+  },
+  "netflix": {
+    "title": "Netflix",
+    "urlTemplate": "https://www.netflix.com/title/{{id}}"
   }
 }

@@ -30,6 +30,160 @@
     ]
   },
   {
+    "title": "Fate/Grand Order ‐First Order‐",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/Grand Order ‐First Order‐"
+      ],
+      "en": [
+        "Fate/Grand Order ‐First Order‐"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://anime.fate-go.jp/",
+    "begin": "2016-12-31T15:00:00.000Z",
+    "end": "2016-12-31T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5747",
+        "begin": "2016-12-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "196773"
+      }
+    ]
+  },
+  {
+    "title": "GRAVITY DAZE The Animation ～Ouverture～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "重力眩晕 序章"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-12-25T16:00:00.000Z",
+    "end": "2016-12-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10033860",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "187502"
+      }
+    ]
+  },
+  {
+    "title": "黒子のバスケ ウインターカップ総集編 ～扉の向こう～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑子的篮球 Winter Cup总集篇 ～大门的另一边～",
+        "黑子的篮球 总集篇 第3季 门的另一边"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie.kurobas.com/",
+    "begin": "2016-12-03T16:00:00.000Z",
+    "end": "2016-12-03T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "rZN9ib2PJOXfaWMA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9ar69",
+        "begin": "2017-02-28T16:00:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10035150",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "171122"
+      }
+    ]
+  },
+  {
+    "title": "おそ松さん おうまでこばなし",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿松 赛马轶事"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/osomatsusan/oumatsusan/",
+    "begin": "2016-12-12T16:00:00.000Z",
+    "end": "2016-12-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr9ym5rg",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10033176",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "195110"
+      }
+    ]
+  },
+  {
     "title": "神様はじめました「神様、幸せになる」",
     "titleTranslate": {
       "zh-Hans": [
@@ -66,6 +220,87 @@
       {
         "site": "bangumi",
         "id": "183394"
+      }
+    ]
+  },
+  {
+    "title": "チェインクロニクル ～ヘクセイタスの閃～ 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "锁链战记～赫克瑟塔斯之光～ 第1章",
+        "锁链战记 赫克瑟塔斯之光"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://chronicle-anime.com/",
+    "begin": "2016-12-03T16:00:00.000Z",
+    "end": "2016-12-03T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IhQAfuZMvPpd20M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha8tqp",
+        "begin": "2016-12-16T08:55:22.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "188064"
+      }
+    ]
+  },
+  {
+    "title": "ポッピンQ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "POPIN Q"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.popin-q.com/",
+    "begin": "2016-12-23T16:00:00.000Z",
+    "end": "2016-12-23T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9cn1h",
+        "begin": "2017-03-12T08:07:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "126185"
+      },
+      {
+        "site": "nicovideo",
+        "id": "popin-q",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },

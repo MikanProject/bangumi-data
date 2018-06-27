@@ -716,14 +716,14 @@
     ]
   },
   {
-    "title": "霊剣山 星屑たちの宴",
+    "title": "从前有座灵剑山",
     "titleTranslate": {
-      "zh-Hans": [
-        "从前有座灵剑山"
+      "ja": [
+        "霊剣山 星屑たちの宴"
       ]
     },
     "type": "tv",
-    "lang": "ja",
+    "lang": "zh-Hans",
     "officialSite": "http://reikenzan.net/",
     "begin": "2016-01-08T15:00:00.000Z",
     "end": "2016-03-25T15:30:00.000Z",
@@ -830,6 +830,97 @@
       {
         "site": "mgtv",
         "id": "168359",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "霊剣山 星屑たちの宴",
+    "titleTranslate": {
+      "zh-Hans": [
+        "从前有座灵剑山",
+        "从前有座灵剑山 日配版"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://reikenzan.net/",
+    "begin": "2016-01-08T15:00:00.000Z",
+    "end": "2016-03-25T15:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "146861"
+      },
+      {
+        "site": "bilibili",
+        "id": "3614",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1470428_2",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "672f94e0ba8411e59e2a",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "q5lz8VmicL23QTrY",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha987l",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/ubup3ru3ecypyw6",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "290970",
         "begin": "2016-01-08T02:00:00.000Z",
         "official": null,
         "premuiumOnly": false,
@@ -995,7 +1086,8 @@
     "title": "デュラララ!!×2 結",
     "titleTranslate": {
       "zh-Hans": [
-        "无头骑士异闻录×2 结"
+        "无头骑士异闻录×2 结",
+        "无头骑士异闻录 第2季 结"
       ]
     },
     "type": "tv",
@@ -1087,6 +1179,16 @@
         "site": "nicovideo",
         "id": "durarara04",
         "begin": "2016-01-14T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80040119",
+        "begin": "2015-10-09T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1218,7 +1320,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "GATE 奇幻自卫队 炎龙篇",
-        "GATE 奇幻自卫队 第二季"
+        "GATE 奇幻自卫队 第二季",
+        "GATE奇幻异世界 第2季"
       ]
     },
     "type": "tv",
@@ -2407,7 +2510,7 @@
         "亚人"
       ],
       "en": [
-        "AJIN"
+        "AJIN: Demi-Human"
       ]
     },
     "type": "tv",
@@ -2484,6 +2587,16 @@
       {
         "site": "saraba1st",
         "id": "1153236"
+      },
+      {
+        "site": "netflix",
+        "id": "80043576",
+        "begin": "2016-04-12T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

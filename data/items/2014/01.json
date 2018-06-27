@@ -340,6 +340,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80006397",
+        "begin": "2017-12-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "港区可见"
       }
     ]
   },
@@ -451,7 +461,8 @@
     "title": "生徒会役員共＊",
     "titleTranslate": {
       "zh-Hans": [
-        "妄想学生会＊"
+        "妄想学生会＊",
+        "妄想学生会 第2季"
       ],
       "en": [
         "SEITOKAIYAKUINDOMO*"
@@ -1175,13 +1186,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "妖怪手表"
+      ],
+      "en": [
+        "YO-KAI WATCH"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch/",
     "begin": "2014-01-08T10:00:00.000Z",
-    "end": "",
+    "end": "2018-03-30T10:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1221,6 +1235,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80087629",
+        "begin": "2016-07-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "港区可见"
       }
     ]
   },
@@ -1343,6 +1367,16 @@
       {
         "site": "saraba1st",
         "id": "988689"
+      },
+      {
+        "site": "netflix",
+        "id": "80041161",
+        "begin": "2015-08-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2814,6 +2848,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "虫师 蚀日之翳"
+      ],
+      "en": [
+        "Mushi-Shi -Next Passage-"
       ]
     },
     "type": "tv",
@@ -2835,6 +2872,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70205008",
+        "begin": "2015-08-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -2940,7 +2987,7 @@
     "lang": "ja",
     "officialSite": "",
     "begin": "2014-01-04T16:00:00.000Z",
-    "end": "",
+    "end": "2014-01-04T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

@@ -413,6 +413,16 @@
       {
         "site": "saraba1st",
         "id": "1188195"
+      },
+      {
+        "site": "qq",
+        "id": "q/qf4sw58dkmn70hz",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1285,7 +1295,8 @@
     "title": "美少女戦士セーラームーンCrystal SeasonIII",
     "titleTranslate": {
       "zh-Hans": [
-        "美少女战士 Crystal 3期"
+        "美少女战士 Crystal 3期",
+        "美少女战士Crystal 第3季"
       ],
       "en": [
         "Pretty Guardian Sailor Moon Crystal"
@@ -1687,7 +1698,8 @@
     "title": "聖戦ケルベロス 竜刻のファタリテ",
     "titleTranslate": {
       "zh-Hans": [
-        "龙心战纪"
+        "龙心战纪",
+        "龙心战纪 日文版"
       ]
     },
     "type": "tv",
@@ -1914,6 +1926,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "双星之阴阳师"
+      ],
+      "en": [
+        "Twin Star Exorcists"
       ]
     },
     "type": "tv",
@@ -2000,6 +2015,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80219261",
+        "begin": "2018-01-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "港区可见"
       }
     ]
   },
@@ -2138,7 +2163,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "Unhappy♪",
-        "Anne Happy♪"
+        "Anne Happy♪",
+        "AnneHappy♪"
       ],
       "en": [
         "unhappy go lucky!"
@@ -2386,7 +2412,8 @@
     "title": "クロムクロ",
     "titleTranslate": {
       "zh-Hans": [
-        "黑色残骸"
+        "黑色残骸",
+        "黑骸"
       ],
       "en": [
         "KUROMUKURO"
@@ -2456,6 +2483,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80103318",
+        "begin": "2016-07-04T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2504,7 +2541,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "偶像活动 Stars!",
-        "偶像活动Stars"
+        "偶像活动Stars",
+        "偶活学园（偶像活动）Stars!"
       ],
       "en": [
         "Aikatsu Stars!"
@@ -3250,6 +3288,16 @@
       {
         "site": "saraba1st",
         "id": "1158991"
+      },
+      {
+        "site": "netflix",
+        "id": "80103331",
+        "begin": "2016-07-14T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3454,7 +3502,7 @@
     ]
   },
   {
-    "title": "ぼのぼの(2016)",
+    "title": "ぼのぼの",
     "titleTranslate": {
       "en": [
         "BONOBONO"
@@ -3467,7 +3515,7 @@
     "lang": "ja",
     "officialSite": "http://www.bonoanime.jp/",
     "begin": "2016-04-01T19:52:00.000Z",
-    "end": "",
+    "end": "2016-04-01T19:52:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3518,7 +3566,11 @@
   },
   {
     "title": "戒魔人",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "戒魔人"
+      ]
+    },
     "type": "web",
     "lang": "zh-Hans",
     "officialSite": "http://v.qq.com/vplus/tongzhizhe",
@@ -3693,7 +3745,7 @@
     "lang": "ja",
     "officialSite": "https://twitter.com/datenikuru",
     "begin": "2016-04-24T16:00:00.000Z",
-    "end": "2016-04-24T16:00:00.000Z",
+    "end": "2017-02-10T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

@@ -4,7 +4,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "猎人",
-        "全职猎人"
+        "全职猎人",
+        "猎人×猎人"
       ],
       "en": [
         "HUNTER×HUNTER"
@@ -229,7 +230,8 @@
         "PHI-BRAIN PUZZLE OF GOD"
       ],
       "zh-Hans": [
-        "Phi-Brain～神之谜题"
+        "Phi-Brain～神之谜题",
+        "神之谜 第1季"
       ]
     },
     "type": "tv",
@@ -401,7 +403,8 @@
         "Shakugan no SHANA Final"
       ],
       "zh-Hans": [
-        "灼眼的夏娜 第三季"
+        "灼眼的夏娜 第三季",
+        "灼眼的夏娜 第3季"
       ]
     },
     "type": "tv",
@@ -888,7 +891,8 @@
     "title": "Fate/Zero",
     "titleTranslate": {
       "zh-Hans": [
-        "Fate/Zero"
+        "Fate/Zero",
+        "FATE ZERO"
       ],
       "en": [
         "Fate/Zero"
@@ -929,6 +933,16 @@
         "site": "nicovideo",
         "id": "fate-zero",
         "begin": "2011-10-07T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70304256",
+        "begin": "2017-04-15T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

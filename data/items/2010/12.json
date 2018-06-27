@@ -157,7 +157,8 @@
     "title": "蒼穹のファフナー HEAVEN AND EARTH",
     "titleTranslate": {
       "zh-Hans": [
-        "苍穹之法芙娜 HEAVEN AND EARTH"
+        "苍穹之法芙娜 HEAVEN AND EARTH",
+        "苍穹之战神 剧场版"
       ]
     },
     "type": "movie",
@@ -294,7 +295,7 @@
     "lang": "ja",
     "officialSite": "http://goulart.jp/",
     "begin": "2010-12-18T16:00:00.000Z",
-    "end": "",
+    "end": "2010-12-18T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -337,6 +338,36 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版BLEACH 地獄篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "死神剧场版 地狱篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/bleach/",
+    "begin": "2010-12-03T16:00:00.000Z",
+    "end": "2010-12-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18480"
+      },
+      {
+        "site": "netflix",
+        "id": "70260383",
+        "begin": "2016-10-15T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""

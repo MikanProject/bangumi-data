@@ -265,6 +265,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "宇宙海盗船长哈洛克"
+      ],
+      "en": [
+        "Harlock: Space Pirate"
       ]
     },
     "type": "movie",
@@ -297,6 +300,16 @@
       {
         "site": "bangumi",
         "id": "89594"
+      },
+      {
+        "site": "netflix",
+        "id": "80000768",
+        "begin": "2014-08-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -371,7 +384,7 @@
     "lang": "ja",
     "officialSite": "",
     "begin": "2013-09-13T16:00:00.000Z",
-    "end": "",
+    "end": "2013-09-13T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

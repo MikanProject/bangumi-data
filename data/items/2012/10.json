@@ -436,7 +436,8 @@
     "title": "K",
     "titleTranslate": {
       "zh-Hans": [
-        "「K」"
+        "「K」",
+        "K"
       ]
     },
     "type": "tv",
@@ -489,6 +490,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80040118",
+        "begin": "2016-12-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -526,7 +537,8 @@
     "title": "ハヤテのごとく！ CAN'T TAKE MY EYES OFF YOU",
     "titleTranslate": {
       "zh-Hans": [
-        "旋风管家 CAN'T TAKE MY EYES OFF YOU"
+        "旋风管家 CAN'T TAKE MY EYES OFF YOU",
+        "旋风管家 第3季"
       ]
     },
     "type": "tv",
@@ -556,7 +568,8 @@
     "title": "アイカツ！-アイドルカツドウ！-",
     "titleTranslate": {
       "zh-Hans": [
-        "偶像活动 第一年"
+        "偶像活动 第一年",
+        "偶活学园（偶像活动）"
       ]
     },
     "type": "tv",
@@ -606,7 +619,8 @@
     "title": "超速変形ジャイロゼッター",
     "titleTranslate": {
       "zh-Hans": [
-        "超速变形螺旋杰特"
+        "超速变形螺旋杰特",
+        "超速变形"
       ]
     },
     "type": "tv",
@@ -687,7 +701,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "能量兽之战",
-        "兽旋战斗"
+        "兽旋战斗",
+        "能量兽之战 普通话"
       ]
     },
     "type": "tv",
@@ -1341,6 +1356,16 @@
       {
         "site": "bangumi",
         "id": "42786"
+      },
+      {
+        "site": "netflix",
+        "id": "80009097",
+        "begin": "2017-11-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1600,6 +1625,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔法少女小圆 剧场版 [前篇] 起始的物语"
+      ],
+      "en": [
+        "Puella Magi Madoka Magica the Movie: Beginnings"
       ]
     },
     "type": "movie",
@@ -1621,6 +1649,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80041086",
+        "begin": "2015-06-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1651,6 +1689,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80041087",
+        "begin": "2015-06-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

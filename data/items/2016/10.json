@@ -685,7 +685,8 @@
         "March comes in like a lion"
       ],
       "zh-Hans": [
-        "3月的狮子"
+        "3月的狮子",
+        "三月的狮子"
       ]
     },
     "type": "tv",
@@ -921,7 +922,8 @@
     "title": "夏目友人帳 伍",
     "titleTranslate": {
       "zh-Hans": [
-        "夏目友人帐 伍"
+        "夏目友人帐 伍",
+        "夏目友人帐 第5季"
       ]
     },
     "type": "tv",
@@ -1979,7 +1981,8 @@
     "title": "うどんの国の金色毛鞠",
     "titleTranslate": {
       "zh-Hans": [
-        "乌冬面之国的金色毛毬"
+        "乌冬面之国的金色毛毬",
+        "乌冬国的金色毛球"
       ]
     },
     "type": "tv",
@@ -2431,7 +2434,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "甜甜私房猫 第三季",
-        "甜甜起司猫 吃饱饱大冒险"
+        "甜甜起司猫 吃饱饱大冒险",
+        "甜甜私房猫 第3季"
       ]
     },
     "type": "tv",
@@ -2541,7 +2545,7 @@
     "title": "亜人(第2クール)",
     "titleTranslate": {
       "en": [
-        "AJIN"
+        "Ajin: Season 2"
       ],
       "zh-Hans": [
         "亚人 第二季"
@@ -2607,6 +2611,16 @@
       {
         "site": "bangumi",
         "id": "181640"
+      },
+      {
+        "site": "netflix",
+        "id": "80043576",
+        "begin": "2016-04-12T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2740,7 +2754,7 @@
     "lang": "ja",
     "officialSite": "http://www.mh-stories-rideon.jp/",
     "begin": "2016-10-01T23:30:00.000Z",
-    "end": "",
+    "end": "2018-04-01T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3671,6 +3685,73 @@
     "sites": [
       {
         "site": "bilibili",
+        "id": "5595",
+        "begin": "2016-10-06T03:46:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "tH9Z1ziblFVO2NJw",
+        "begin": "2016-10-04T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10030284",
+        "begin": "2016-10-04T16:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "188050"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cheating-craft",
+        "begin": "2016-10-05T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "一课一练",
+    "titleTranslate": {
+      "en": [
+        "CHEATING CRAFT"
+      ],
+      "ja": [
+        "チーティングクラフト"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://cheating-craft.com/",
+    "begin": "2016-10-05T09:30:00.000Z",
+    "end": "2016-12-20T09:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188050"
+      },
+      {
+        "site": "bilibili",
         "id": "5570",
         "begin": "2016-10-06T03:46:28.000Z",
         "official": true,
@@ -3695,20 +3776,6 @@
         "begin": "2016-10-04T16:00:00.000Z",
         "official": null,
         "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "188050"
-      },
-      {
-        "site": "nicovideo",
-        "id": "cheating-craft",
-        "begin": "2016-10-05T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -4002,7 +4069,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "时空使徒",
-        "时空囚徒"
+        "时空囚徒",
+        "时空使徒 日文版"
       ]
     },
     "type": "tv",
@@ -4012,6 +4080,100 @@
     "end": "2016-12-16T12:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "bilibili",
+        "id": "5599",
+        "begin": "2016-09-30T02:59:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "pY5q6FC2JmTHRa0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/ugr1y9sr4qi4uea",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9stix",
+        "begin": "2016-10-09T03:11:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10030106",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "302531",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "191653"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bloodivores",
+        "begin": "2016-10-03T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "时空使徒",
+    "titleTranslate": {
+      "ja": [
+        "Bloodivores"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://bloodivores.com/",
+    "begin": "2016-10-01T12:00:00.000Z",
+    "end": "2016-12-16T12:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "191653"
+      },
       {
         "site": "bilibili",
         "id": "5572",
@@ -4071,26 +4233,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "191653"
-      },
-      {
-        "site": "nicovideo",
-        "id": "bloodivores",
-        "begin": "2016-10-03T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
   {
     "title": "生死回放",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "生死回放"
+      ]
+    },
     "type": "web",
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/5d5765b14b3ed2600efc5a6f59db7600.html",
@@ -4187,6 +4339,87 @@
       {
         "site": "bangumi",
         "id": "175456"
+      }
+    ]
+  },
+  {
+    "title": "黒子のバスケ ウインターカップ総集編 ～淚の先へ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑子的篮球 Winter Cup总集篇 ～朝着泪水的前方～",
+        "黑子的篮球 总集篇 第2季 眼泪的前方"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie.kurobas.com/",
+    "begin": "2016-10-08T16:00:00.000Z",
+    "end": "2016-10-08T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vIhk4kqwIF7BP6c",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9ar91",
+        "begin": "2017-02-28T16:00:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10035150",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "171121"
+      }
+    ]
+  },
+  {
+    "title": "映画 魔法つかいプリキュア! 奇跡の変身！キュアモフルン！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使光之美少女 奇迹的变身！Cure Mofurun！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2016-10-29T16:00:00.000Z",
+    "end": "2016-10-29T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr9rjuvs",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "185274"
       }
     ]
   },
@@ -4302,6 +4535,76 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "GANTZ:O",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀戮都市：O"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gantzo.jp/",
+    "begin": "2016-10-14T16:00:00.000Z",
+    "end": "2016-10-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "154971"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gantzo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80149259",
+        "begin": "2017-02-18T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ゼーガペイン ADP",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ZEGAPAIN ADP"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.zegapain.net/",
+    "begin": "2016-10-15T16:00:00.000Z",
+    "end": "2016-10-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175581"
+      },
+      {
+        "site": "pptv",
+        "id": "61E7uSGH9zWYFn4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

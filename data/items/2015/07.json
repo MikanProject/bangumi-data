@@ -267,7 +267,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "混沌之龙 赤龙战役",
-        "Chaos Dragon 赤龙战役"
+        "Chaos Dragon 赤龙战役",
+        "赤龙战役"
       ],
       "en": [
         "Chaos Dragon: Sekiryuu Seneki"
@@ -1397,6 +1398,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80040119",
+        "begin": "2015-10-09T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1593,6 +1604,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80142917",
+        "begin": "2017-12-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "港区可见"
       }
     ]
   },
@@ -2158,7 +2179,8 @@
     "title": "ドラゴンボール超",
     "titleTranslate": {
       "zh-Hans": [
-        "龙珠 超"
+        "龙珠 超",
+        "龙珠超"
       ],
       "en": [
         "DRAGON BALL SUPER"
@@ -2168,7 +2190,7 @@
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/dragon_s/",
     "begin": "2015-07-05T00:00:00.000Z",
-    "end": "",
+    "end": "2018-03-25T00:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3904,7 +3926,8 @@
     "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法少女☆伊莉雅 2wei Herz!"
+        "魔法少女☆伊莉雅 2wei Herz!",
+        "魔法少女伊莉雅 第3季"
       ],
       "en": [
         "Fate/kaleid liner PRISMA ILLYA 2wei Herz!"
@@ -4011,9 +4034,56 @@
     ]
   },
   {
-    "title": "金夜、安部礼司～平均的なサラリーマンの異常な日常～",
-    "titleTranslate": {},
-    "type": "tv",
+    "title": "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔女学园 魔法游行"
+      ],
+      "en": [
+        "Little Witch Academia: The Enchanted Parade"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://littlewitchacademia.jp/",
+    "begin": "2015-07-03T16:00:00.000Z",
+    "end": "2015-07-03T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010553",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "124646"
+      },
+      {
+        "site": "netflix",
+        "id": "80078599",
+        "begin": "2015-10-09T19:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 亡国のアキト 第4章「憎しみの記憶から」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 亡国的阿基德 第四章「憎恨记忆」"
+      ]
+    },
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.abekin.com/",
     "begin": "2015-07-04T16:00:00.000Z",

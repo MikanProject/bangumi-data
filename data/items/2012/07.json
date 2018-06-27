@@ -93,7 +93,8 @@
     "title": "輪廻のラグランジェ season2",
     "titleTranslate": {
       "zh-Hans": [
-        "轮回的拉格朗日 第二季"
+        "轮回的拉格朗日 第二季",
+        "轮回的拉格朗日 第2季"
       ]
     },
     "type": "tv",
@@ -458,6 +459,16 @@
         "site": "nicovideo",
         "id": "swordart-online",
         "begin": "2012-07-09T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70302573",
+        "begin": "2017-06-01T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -866,7 +877,8 @@
     "title": "境界線上のホライゾンII",
     "titleTranslate": {
       "zh-Hans": [
-        "境界线上的地平线 第二季"
+        "境界线上的地平线 第二季",
+        "境界线上的地平线 第2季"
       ]
     },
     "type": "tv",
