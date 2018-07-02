@@ -1,7 +1,11 @@
 [
   {
     "title": "ISLAND",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "ISLAND"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://never-island.com/",
@@ -12,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "175404"
+      },
+      {
+        "site": "bilibili",
+        "id": "24571",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -32,6 +46,26 @@
       {
         "site": "bangumi",
         "id": "236590"
+      },
+      {
+        "site": "bilibili",
+        "id": "24589",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "325020",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -39,7 +73,8 @@
     "title": "千銃士",
     "titleTranslate": {
       "zh-Hans": [
-        "千铳士"
+        "千铳士",
+        "千枪士"
       ]
     },
     "type": "tv",
@@ -52,6 +87,16 @@
       {
         "site": "bangumi",
         "id": "241093"
+      },
+      {
+        "site": "bilibili",
+        "id": "24618",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -72,6 +117,16 @@
       {
         "site": "bangumi",
         "id": "231278"
+      },
+      {
+        "site": "bilibili",
+        "id": "24567",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -79,7 +134,8 @@
     "title": "異世界魔王と召喚少女の奴隷魔術",
     "titleTranslate": {
       "zh-Hans": [
-        "异世界魔王与召唤少女的奴隶魔术"
+        "异世界魔王与召唤少女的奴隶魔术",
+        "异界少女召唤术"
       ]
     },
     "type": "tv",
@@ -92,6 +148,26 @@
       {
         "site": "bangumi",
         "id": "236224"
+      },
+      {
+        "site": "bilibili",
+        "id": "24627",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytgwd",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -99,7 +175,8 @@
     "title": "ちおちゃんの通学路",
     "titleTranslate": {
       "zh-Hans": [
-        "千绪的通学路"
+        "千绪的通学路",
+        "千绪的上学路"
       ]
     },
     "type": "tv",
@@ -112,6 +189,32 @@
       {
         "site": "bangumi",
         "id": "218226"
+      },
+      {
+        "site": "bilibili",
+        "id": "24584",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ゾイドワイルド",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-07-06T21:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238988"
       }
     ]
   },
@@ -132,6 +235,16 @@
       {
         "site": "bangumi",
         "id": "235612"
+      },
+      {
+        "site": "bilibili",
+        "id": "24588",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -139,7 +252,8 @@
     "title": "あそびあそばせ",
     "titleTranslate": {
       "zh-Hans": [
-        "来玩游戏吧"
+        "来玩游戏吧",
+        "游戏3人娘"
       ]
     },
     "type": "tv",
@@ -152,6 +266,16 @@
       {
         "site": "bangumi",
         "id": "236020"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6yfyh",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -172,6 +296,16 @@
       {
         "site": "bangumi",
         "id": "238087"
+      },
+      {
+        "site": "bilibili",
+        "id": "24594",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -182,7 +316,8 @@
         "Encouragement of Climb Third Season"
       ],
       "zh-Hans": [
-        "向山进发 第三季"
+        "向山进发 第三季",
+        "前进吧！登山少女 第三季"
       ]
     },
     "type": "tv",
@@ -195,6 +330,16 @@
       {
         "site": "bangumi",
         "id": "216310"
+      },
+      {
+        "site": "bilibili",
+        "id": "24605",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -215,6 +360,16 @@
       {
         "site": "bangumi",
         "id": "241133"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytgjp",
+        "begin": "2018-06-30T16:00:23.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -255,6 +410,16 @@
       {
         "site": "bangumi",
         "id": "235130"
+      },
+      {
+        "site": "bilibili",
+        "id": "24581",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -275,6 +440,16 @@
       {
         "site": "bangumi",
         "id": "91205"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyterx",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -295,6 +470,16 @@
       {
         "site": "bangumi",
         "id": "214265"
+      },
+      {
+        "site": "bilibili",
+        "id": "24622",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -315,6 +500,16 @@
       {
         "site": "bangumi",
         "id": "240198"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgxdbdp",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -335,6 +530,42 @@
       {
         "site": "bangumi",
         "id": "199373"
+      },
+      {
+        "site": "bilibili",
+        "id": "24602",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "悪偶 -天才人形-",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://aguu-anime.com/",
+    "begin": "2018-07-09T15:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242737"
+      },
+      {
+        "site": "mgtv",
+        "id": "324710",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -342,7 +573,8 @@
     "title": "ロード オブ ヴァーミリオン 紅蓮の王",
     "titleTranslate": {
       "zh-Hans": [
-        "LORD of VERMILION 红莲之王"
+        "LORD of VERMILION 红莲之王",
+        "红莲之王"
       ]
     },
     "type": "tv",
@@ -355,6 +587,26 @@
       {
         "site": "bangumi",
         "id": "241091"
+      },
+      {
+        "site": "bilibili",
+        "id": "24607",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6ubnd",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -375,6 +627,16 @@
       {
         "site": "bangumi",
         "id": "231722"
+      },
+      {
+        "site": "bilibili",
+        "id": "24630",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -415,6 +677,16 @@
       {
         "site": "bangumi",
         "id": "191323"
+      },
+      {
+        "site": "bilibili",
+        "id": "24619",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -422,7 +694,9 @@
     "title": "殺戮の天使",
     "titleTranslate": {
       "zh-Hans": [
-        "杀戮天使"
+        "杀戮天使",
+        "X的天使",
+        "Angels of Death"
       ]
     },
     "type": "tv",
@@ -435,6 +709,26 @@
       {
         "site": "bangumi",
         "id": "220566"
+      },
+      {
+        "site": "bilibili",
+        "id": "24625",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytf8l",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -442,7 +736,8 @@
     "title": "ゆらぎ荘の幽奈さん",
     "titleTranslate": {
       "zh-Hans": [
-        "汤摇庄的幽奈同学"
+        "汤摇庄的幽奈同学",
+        "摇曳庄的幽奈小姐"
       ]
     },
     "type": "tv",
@@ -455,6 +750,16 @@
       {
         "site": "bangumi",
         "id": "228969"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyth5x",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -465,7 +770,8 @@
         "Miss caretaker of Sunohara-sou"
       ],
       "zh-Hans": [
-        "春原庄的管理人"
+        "春原庄的管理人",
+        "春原庄的管理人小姐"
       ]
     },
     "type": "tv",
@@ -478,6 +784,16 @@
       {
         "site": "bangumi",
         "id": "230110"
+      },
+      {
+        "site": "bilibili",
+        "id": "24583",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -501,6 +817,16 @@
       {
         "site": "bangumi",
         "id": "240366"
+      },
+      {
+        "site": "bilibili",
+        "id": "24632",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -511,7 +837,8 @@
         "HARUKANA RECEIVE"
       ],
       "zh-Hans": [
-        "遥之彼方的接发球"
+        "遥之彼方的接发球",
+        "遥的接球"
       ]
     },
     "type": "tv",
@@ -524,6 +851,16 @@
       {
         "site": "bangumi",
         "id": "220375"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6y4sl",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -540,6 +877,16 @@
       {
         "site": "bangumi",
         "id": "228820"
+      },
+      {
+        "site": "bilibili",
+        "id": "24570",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -580,6 +927,56 @@
       {
         "site": "bangumi",
         "id": "237834"
+      },
+      {
+        "site": "bilibili",
+        "id": "24611",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "深夜！天才バカボン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "深夜！天才傻鹏"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://shinya-bakabon.com/",
+    "begin": "2018-07-10T16:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242082"
+      },
+      {
+        "site": "bilibili",
+        "id": "24626",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6ycz5",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -603,6 +1000,16 @@
       {
         "site": "bangumi",
         "id": "225843"
+      },
+      {
+        "site": "bilibili",
+        "id": "24609",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -623,6 +1030,16 @@
       {
         "site": "bangumi",
         "id": "239960"
+      },
+      {
+        "site": "bilibili",
+        "id": "24628",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -663,6 +1080,16 @@
       {
         "site": "bangumi",
         "id": "228382"
+      },
+      {
+        "site": "bilibili",
+        "id": "24586",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -686,6 +1113,16 @@
       {
         "site": "bangumi",
         "id": "241831"
+      },
+      {
+        "site": "bilibili",
+        "id": "24613",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -706,6 +1143,16 @@
       {
         "site": "bangumi",
         "id": "228350"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytq5h",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -726,6 +1173,16 @@
       {
         "site": "bangumi",
         "id": "226507"
+      },
+      {
+        "site": "bilibili",
+        "id": "24572",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -749,6 +1206,142 @@
       {
         "site": "bangumi",
         "id": "242170"
+      },
+      {
+        "site": "bilibili",
+        "id": "24596",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "じょしおちっ！～2階から女の子が…降ってきた!?～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天降少女！～从2层落下了少女！？～"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/joshiochi",
+    "begin": "2018-07-01T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "248206"
+      }
+    ]
+  },
+  {
+    "title": "闇芝居(第6期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗芝居 第六季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/yamishibai/",
+    "begin": "2018-07-06T19:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "250117"
+      },
+      {
+        "site": "bilibili",
+        "id": "24635",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "陰陽師・平安物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阴阳师·平安物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-07-03T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226615"
+      }
+    ]
+  },
+  {
+    "title": "うさぎのマシュー",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-07-12T17:42:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239853"
+      }
+    ]
+  },
+  {
+    "title": "天狼 Sirius the Jaeger",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天狼 Sirius the Jaeger"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sirius-the-jaeger.com/",
+    "begin": "2018-07-12T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241089"
+      },
+      {
+        "site": "bilibili",
+        "id": "24620",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytf5h",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }
