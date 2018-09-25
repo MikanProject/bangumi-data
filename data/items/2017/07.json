@@ -1671,6 +1671,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhdi46l",
+        "begin": "2018-04-30T16:00:10.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2013,6 +2023,16 @@
         "begin": "2017-07-12T13:45:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10037767",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -2365,7 +2385,7 @@
     "lang": "ja",
     "officialSite": "http://www.seizeiganbare.jp/",
     "begin": "2017-07-29T15:00:00.000Z",
-    "end": "2017-07-29T15:00:00.000Z",
+    "end": "2018-07-15T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2496,6 +2516,36 @@
         "site": "netflix",
         "id": "80095241",
         "begin": "2017-07-07T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Free!-Timeless Medley- 約束",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Free!-Timeless Medley- 约束"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tm.iwatobi-sc.com/",
+    "begin": "2017-07-01T16:00:00.000Z",
+    "end": "2017-07-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211617"
+      },
+      {
+        "site": "nicovideo",
+        "id": "free-tm-movie",
+        "begin": "2018-07-01T06:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

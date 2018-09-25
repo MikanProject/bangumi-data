@@ -14,8 +14,58 @@
     "comment": "",
     "sites": [
       {
+        "site": "bilibili",
+        "id": "22087",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "206924"
+      },
+      {
+        "site": "nicovideo",
+        "id": "TO_BE_HEROINE",
+        "begin": "2018-05-19T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー tri. 第6章「ぼくらの未来」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险 tri. 第六章「我们的未来」"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-05-05T16:00:00.000Z",
+    "end": "2018-05-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192204"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-adventure-tri06",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

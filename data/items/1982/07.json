@@ -16,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "82718"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb54vl",
+        "begin": "2015-08-04T01:02:58.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -36,6 +46,16 @@
       {
         "site": "bangumi",
         "id": "37197"
+      },
+      {
+        "site": "bilibili",
+        "id": "2441",
+        "begin": "1982-07-05T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

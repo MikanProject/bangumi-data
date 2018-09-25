@@ -1462,6 +1462,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "3lion-anime2",
+        "begin": "2018-04-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2361,6 +2371,16 @@
       {
         "site": "bangumi",
         "id": "223134"
+      },
+      {
+        "site": "bilibili",
+        "id": "20603",
+        "begin": "2017-10-05T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2524,6 +2544,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "robomasters",
+        "begin": "2018-04-14T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2551,6 +2581,16 @@
         "begin": "2017-12-21T15:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6501",
+        "begin": "2017-10-09T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -2605,6 +2645,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "0f0d786befbfbdefbfbd",
+        "begin": "2017-10-10T03:48:57.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2634,6 +2684,62 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "映画 キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "KiraKira☆光之美少女 A La Mode 清脆出炉！回忆的法式千层酥！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2017-10-28T16:00:00.000Z",
+    "end": "2017-10-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219482"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tzt",
+        "begin": "2015-08-07T08:45:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Fate/stay night [Heaven’s Feel] I.presage flower",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.fate-sn.com/",
+    "begin": "2017-10-14T16:00:00.000Z",
+    "end": "2017-10-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109375"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fate-sn1",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]

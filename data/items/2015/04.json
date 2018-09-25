@@ -233,6 +233,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1560",
+        "begin": "2015-04-01T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -300,6 +310,16 @@
       {
         "site": "saraba1st",
         "id": "1109622"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8hjed",
+        "begin": "2017-05-05T08:43:42.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -984,6 +1004,16 @@
         "begin": "2015-04-05T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhfl8wd",
+        "begin": "2018-04-30T16:00:17.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1867,6 +1897,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "o/o3ujve87s5wfxj1",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2054,6 +2094,16 @@
       {
         "site": "saraba1st",
         "id": "1013448"
+      },
+      {
+        "site": "bilibili",
+        "id": "1652",
+        "begin": "2015-04-04T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2456,6 +2506,16 @@
       {
         "site": "saraba1st",
         "id": "1062960"
+      },
+      {
+        "site": "bilibili",
+        "id": "1570",
+        "begin": "2015-04-05T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2564,16 +2624,6 @@
         "begin": "2015-04-06T14:00:00.000Z",
         "official": null,
         "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhb2w2t",
-        "begin": "2015-04-06T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -3774,6 +3824,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4170",
+        "begin": "2015-04-11T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3818,6 +3878,16 @@
       {
         "site": "bangumi",
         "id": "125624"
+      },
+      {
+        "site": "bilibili",
+        "id": "1738",
+        "begin": "2015-04-14T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -4270,6 +4340,97 @@
     ]
   },
   {
+    "title": "ドラゴンボールZ 復活のF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 复活的F",
+        "龙珠Z 复活的弗利萨"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.d2015gw.com/",
+    "begin": "2015-04-18T16:00:00.000Z",
+    "end": "2015-04-18T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr95thbo",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108438"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dbz-Revival-of-F",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 業火の向日葵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 业火的向日葵"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2015-04-18T16:00:00.000Z",
+    "end": "2015-04-18T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "119187"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bu8qr3h1vbia2kd",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
     "title": "Usavich ZERO",
     "titleTranslate": {
       "zh-Hans": [
@@ -4307,6 +4468,26 @@
       {
         "site": "bangumi",
         "id": "132725"
+      },
+      {
+        "site": "qq",
+        "id": "e/el3as30vkbcwepb",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2034",
+        "begin": "2015-04-09T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

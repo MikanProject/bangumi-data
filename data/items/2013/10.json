@@ -322,6 +322,16 @@
         "comment": ""
       },
       {
+        "site": "bilibili",
+        "id": "441",
+        "begin": "2013-10-03T16:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "47889"
       },
@@ -551,6 +561,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3489",
+        "begin": "2013-10-02T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -605,6 +625,16 @@
         "begin": "2013-10-08T13:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhgk0n1",
+        "begin": "2017-11-07T00:30:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -847,6 +877,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3570",
+        "begin": "2013-10-04T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1061,6 +1101,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3516",
+        "begin": "2013-10-04T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1205,6 +1255,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4375",
+        "begin": "2013-10-05T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1282,6 +1342,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8353p",
+        "begin": "2017-07-14T06:06:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1333,6 +1403,16 @@
         "begin": "2013-10-06T15:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4380",
+        "begin": "2013-10-05T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1905,6 +1985,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4388",
+        "begin": "2013-10-06T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2004,6 +2094,16 @@
       {
         "site": "bangumi",
         "id": "77171"
+      },
+      {
+        "site": "bilibili",
+        "id": "4374",
+        "begin": "2013-10-06T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2283,6 +2383,16 @@
         "begin": "2013-10-11T13:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4368",
+        "begin": "2013-10-07T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -2581,8 +2691,7 @@
     "titleTranslate": {
       "zh-Hans": [
         "精灵宝可梦XY",
-        "口袋妖怪 XY",
-        "精灵宝可梦XY1"
+        "口袋妖怪 XY"
       ],
       "en": [
         "Pokemon XY"
@@ -2646,16 +2755,6 @@
         "comment": ""
       },
       {
-        "site": "qq",
-        "id": "o/o6ftuwm1j0xfa62",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
         "site": "tudou",
         "id": "CIK0mT03n_M",
         "begin": "",
@@ -2698,6 +2797,16 @@
       {
         "site": "bangumi",
         "id": "78799"
+      },
+      {
+        "site": "bilibili",
+        "id": "5762",
+        "begin": "2013-10-16T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2758,6 +2867,16 @@
       {
         "site": "bangumi",
         "id": "101375"
+      },
+      {
+        "site": "bilibili",
+        "id": "3852",
+        "begin": "2013-10-24T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2776,8 +2895,12 @@
     "comment": "",
     "sites": [
       {
+        "site": "bangumi",
+        "id": "85561"
+      },
+      {
         "site": "pptv",
-        "id": "HwTwbtY8rOpNyzM",
+        "id": "duTQTrYcjMotqxM",
         "begin": "",
         "official": false,
         "premuiumOnly": false,
@@ -2786,13 +2909,9 @@
         "comment": ""
       },
       {
-        "site": "bangumi",
-        "id": "85561"
-      },
-      {
-        "site": "pptv",
-        "id": "duTQTrYcjMotqxM",
-        "begin": "",
+        "site": "bilibili",
+        "id": "4383",
+        "begin": "2013-10-08T16:00:01.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": null,

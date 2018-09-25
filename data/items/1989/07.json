@@ -46,12 +46,12 @@
     "sites": [
       {
         "site": "iqiyi",
-        "id": "a_19rro3njvw",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "exist": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -156,6 +156,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4016",
+        "begin": "1989-07-14T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

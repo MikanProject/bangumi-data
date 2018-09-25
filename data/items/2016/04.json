@@ -712,6 +712,26 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhevm65",
+        "begin": "2018-04-30T16:01:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5402",
+        "begin": "2016-04-02T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -753,11 +773,31 @@
         "comment": ""
       },
       {
+        "site": "iqiyi",
+        "id": "a_19rrh8h9at",
+        "begin": "2016-04-03T09:28:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "1470447",
         "begin": "2016-04-03T09:30:00.000Z",
         "official": null,
         "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5394",
+        "begin": "2016-04-03T09:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -776,6 +816,16 @@
         "begin": "2016-04-10T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/u8lo72y7utap84t",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1817,6 +1867,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4771",
+        "begin": "2016-04-04T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2155,6 +2215,16 @@
       {
         "site": "saraba1st",
         "id": "1180903"
+      },
+      {
+        "site": "bilibili",
+        "id": "3494",
+        "begin": "2016-04-07T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2986,6 +3056,26 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrheyz0d",
+        "begin": "2018-04-30T16:02:02.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5617",
+        "begin": "2016-04-08T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3701,6 +3791,16 @@
       {
         "site": "bangumi",
         "id": "177998"
+      },
+      {
+        "site": "bilibili",
+        "id": "4026",
+        "begin": "2016-04-07T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3821,6 +3921,66 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ずっと前から好きでした。～告白実行委員会～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "从很久以前就喜欢你了。～告白实行委员会～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.honeyworks-movie.jp/1st/",
+    "begin": "2016-04-23T16:00:00.000Z",
+    "end": "2016-04-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "140020"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zuttomaekarasukideshita",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5575",
+        "begin": "2016-04-22T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "猫も、オンダケ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "与猫同住的恩田家"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-04-01T16:00:00.000Z",
+    "end": "2016-06-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175254"
       }
     ]
   }

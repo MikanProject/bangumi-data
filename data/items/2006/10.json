@@ -26,6 +26,16 @@
       {
         "site": "bangumi",
         "id": "3828"
+      },
+      {
+        "site": "bilibili",
+        "id": "1377",
+        "begin": "2006-10-06T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -46,6 +56,16 @@
       {
         "site": "bangumi",
         "id": "116036"
+      },
+      {
+        "site": "bilibili",
+        "id": "4885",
+        "begin": "2006-10-02T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -116,6 +136,16 @@
       {
         "site": "bangumi",
         "id": "1804"
+      },
+      {
+        "site": "bilibili",
+        "id": "1410",
+        "begin": "2006-10-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -151,6 +181,16 @@
       {
         "site": "bangumi",
         "id": "274"
+      },
+      {
+        "site": "bilibili",
+        "id": "1374",
+        "begin": "2002-01-29T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -181,6 +221,16 @@
       {
         "site": "bangumi",
         "id": "2319"
+      },
+      {
+        "site": "bilibili",
+        "id": "1424",
+        "begin": "2006-10-03T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -264,6 +314,16 @@
       {
         "site": "bangumi",
         "id": "5490"
+      },
+      {
+        "site": "bilibili",
+        "id": "1409",
+        "begin": "2006-10-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -344,6 +404,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1425",
+        "begin": "2006-10-05T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -374,6 +444,16 @@
       {
         "site": "bangumi",
         "id": "1274"
+      },
+      {
+        "site": "bilibili",
+        "id": "1408",
+        "begin": "2006-10-03T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -424,6 +504,16 @@
       {
         "site": "bangumi",
         "id": "6848"
+      },
+      {
+        "site": "bilibili",
+        "id": "1811",
+        "begin": "2006-10-04T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -494,6 +584,26 @@
       {
         "site": "bangumi",
         "id": "19594"
+      },
+      {
+        "site": "letv",
+        "id": "23107",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1416",
+        "begin": "2006-10-04T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -577,12 +687,22 @@
       },
       {
         "site": "nicovideo",
-        "id": "ch2579027",
+        "id": "lovelyidol",
         "begin": "",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1429",
+        "begin": "2006-10-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -614,6 +734,16 @@
       {
         "site": "bangumi",
         "id": "1531"
+      },
+      {
+        "site": "bilibili",
+        "id": "1406",
+        "begin": "2006-10-02T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -644,6 +774,16 @@
       {
         "site": "bangumi",
         "id": "10704"
+      },
+      {
+        "site": "bilibili",
+        "id": "1728",
+        "begin": "2006-10-06T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -681,6 +821,26 @@
         "begin": "2014-12-25T06:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "15636",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1421",
+        "begin": "2006-10-03T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -744,6 +904,16 @@
       {
         "site": "bangumi",
         "id": "529"
+      },
+      {
+        "site": "bilibili",
+        "id": "1412",
+        "begin": "2006-10-11T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -814,6 +984,16 @@
       {
         "site": "bangumi",
         "id": "20865"
+      },
+      {
+        "site": "bilibili",
+        "id": "1427",
+        "begin": "2006-10-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -874,6 +1054,16 @@
       {
         "site": "bangumi",
         "id": "10099"
+      },
+      {
+        "site": "bilibili",
+        "id": "1417",
+        "begin": "2006-10-06T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -904,6 +1094,16 @@
       {
         "site": "bangumi",
         "id": "4240"
+      },
+      {
+        "site": "bilibili",
+        "id": "1423",
+        "begin": "2006-10-22T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -964,6 +1164,26 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "9858",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1426",
+        "begin": "2006-10-04T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -994,6 +1214,16 @@
       {
         "site": "bangumi",
         "id": "12970"
+      },
+      {
+        "site": "bilibili",
+        "id": "4882",
+        "begin": "2006-10-04T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1148,6 +1378,16 @@
       {
         "site": "bangumi",
         "id": "2281"
+      },
+      {
+        "site": "bilibili",
+        "id": "1422",
+        "begin": "2006-10-13T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1258,6 +1498,16 @@
       {
         "site": "bangumi",
         "id": "20002"
+      },
+      {
+        "site": "bilibili",
+        "id": "1430",
+        "begin": "2006-10-04T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1368,6 +1618,16 @@
       {
         "site": "bangumi",
         "id": "3156"
+      },
+      {
+        "site": "bilibili",
+        "id": "1405",
+        "begin": "2006-10-15T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1400,6 +1660,26 @@
       {
         "site": "bangumi",
         "id": "1373"
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/dhptwt",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "d/db4pt2rnwc7cd5o",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1426,6 +1706,16 @@
         "id": "ccOtK5P5aacKiaPA",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3827",
+        "begin": "2006-09-30T16:00:01.000Z",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

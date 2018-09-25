@@ -66,6 +66,16 @@
       {
         "site": "bangumi",
         "id": "1980"
+      },
+      {
+        "site": "bilibili",
+        "id": "1220",
+        "begin": "2008-10-06T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -96,6 +106,16 @@
       {
         "site": "bangumi",
         "id": "917"
+      },
+      {
+        "site": "bilibili",
+        "id": "1206",
+        "begin": "2008-09-23T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -126,6 +146,16 @@
       {
         "site": "bangumi",
         "id": "13557"
+      },
+      {
+        "site": "bilibili",
+        "id": "3548",
+        "begin": "2008-09-25T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -213,6 +243,56 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "18248",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5460",
+        "begin": "2008-09-11T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 天元突破グレンラガン 紅蓮篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天元突破红莲螺岩 红莲篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.gurren-lagann-movie.net/",
+    "begin": "2008-09-06T16:00:00.000Z",
+    "end": "2008-09-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3995"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gurren-lagann-movie-gurren",
+        "begin": "2018-05-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""

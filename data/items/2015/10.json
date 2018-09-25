@@ -37,6 +37,16 @@
         "comment": ""
       },
       {
+        "site": "bilibili",
+        "id": "3155",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "137894"
       },
@@ -442,6 +452,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9i3il",
+        "begin": "2017-04-14T16:02:49.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -570,6 +590,16 @@
         "begin": "2015-10-02T14:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2848",
+        "begin": "2015-10-01T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -778,6 +808,16 @@
         "begin": "2015-10-06T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83ph1",
+        "begin": "2017-06-30T16:02:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1538,6 +1578,16 @@
       {
         "site": "saraba1st",
         "id": "1131688"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh82u99",
+        "begin": "2017-06-30T16:02:42.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1693,6 +1743,16 @@
       {
         "site": "saraba1st",
         "id": "1130468"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh84jt1",
+        "begin": "2017-06-30T16:02:42.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2003,6 +2063,16 @@
         "begin": "2015-10-05T16:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh830n9",
+        "begin": "2017-06-30T16:02:37.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -2973,6 +3043,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh82xr9",
+        "begin": "2017-06-30T16:02:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3316,6 +3396,16 @@
         "begin": "2015-10-22T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6288",
+        "begin": "2015-10-08T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -3808,6 +3898,7 @@
     "title": "ポケットモンスター XY＆Z",
     "titleTranslate": {
       "zh-Hans": [
+        "精灵宝可梦XY&Z",
         "口袋妖怪 XY & Z"
       ],
       "en": [
@@ -3858,6 +3949,46 @@
       {
         "site": "saraba1st",
         "id": "964044"
+      },
+      {
+        "site": "mgtv",
+        "id": "316942",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "o/o638xbha5jz73ya",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1mkud",
+        "begin": "2017-11-06T10:05:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5692",
+        "begin": "2015-10-28T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3917,6 +4048,116 @@
       {
         "site": "bangumi",
         "id": "148072"
+      },
+      {
+        "site": "bilibili",
+        "id": "4106",
+        "begin": "2015-10-01T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍蓝钢铁的琶音 Cadenza"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aokihagane.com/",
+    "begin": "2015-10-03T16:00:00.000Z",
+    "end": "2015-10-03T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010542",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "107100"
+      }
+    ]
+  },
+  {
+    "title": "映画 Go! プリンセスプリキュア GO!GO!!豪華3本立て!!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Go! Princess 光之美少女：Go!Go!!豪华三合一!!!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2015-10-31T16:00:00.000Z",
+    "end": "2015-10-31T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tzt",
+        "begin": "2015-08-07T08:45:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "138844"
+      }
+    ]
+  },
+  {
+    "title": "屍者の帝国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "尸者的帝国"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-itoh.com/",
+    "begin": "2015-10-02T16:00:00.000Z",
+    "end": "2015-10-02T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TuHLSbEXh8Uopg4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "118784"
+      },
+      {
+        "site": "bilibili",
+        "id": "4098",
+        "begin": "2015-10-01T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3947,6 +4188,16 @@
       {
         "site": "bangumi",
         "id": "137063"
+      },
+      {
+        "site": "bilibili",
+        "id": "3421",
+        "begin": "2015-10-18T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -4003,6 +4254,42 @@
         "id": "dMKuLJT6aqgLiafE",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4093",
+        "begin": "2015-10-02T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "猫のダヤン　日本へ行く",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://anime-dayan.com/",
+    "begin": "2015-10-17T16:00:00.000Z",
+    "end": "2016-01-09T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258329"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh5n9sd",
+        "begin": "2018-08-24T09:59:15.000Z",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

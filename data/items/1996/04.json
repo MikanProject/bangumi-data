@@ -56,6 +56,26 @@
       {
         "site": "bangumi",
         "id": "1515"
+      },
+      {
+        "site": "letv",
+        "id": "20949",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2306",
+        "begin": "1996-04-04T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -76,6 +96,16 @@
       {
         "site": "bangumi",
         "id": "10378"
+      },
+      {
+        "site": "bilibili",
+        "id": "2300",
+        "begin": "1996-04-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -176,6 +206,16 @@
       {
         "site": "bangumi",
         "id": "37252"
+      },
+      {
+        "site": "bilibili",
+        "id": "2298",
+        "begin": "1996-04-03T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -216,6 +256,16 @@
       {
         "site": "bangumi",
         "id": "8970"
+      },
+      {
+        "site": "qq",
+        "id": "b/bymafsjpccgo4bw",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -230,7 +280,7 @@
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "1996-04-01T08:35:00.000Z",
-    "end": "1996-09-30T09:00:00.000Z",
+    "end": "1996-09-13T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -266,6 +316,26 @@
       {
         "site": "bangumi",
         "id": "2751"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8fzwl",
+        "begin": "2017-06-14T16:00:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2297",
+        "begin": "1996-04-05T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -296,6 +366,16 @@
       {
         "site": "bangumi",
         "id": "10965"
+      },
+      {
+        "site": "bilibili",
+        "id": "2296",
+        "begin": "1996-04-04T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -321,6 +401,16 @@
         "site": "pptv",
         "id": "ibZ32dNxCsvBT0Tk",
         "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3932",
+        "begin": "1996-04-19T16:00:01.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": null,

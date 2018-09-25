@@ -26,6 +26,26 @@
       {
         "site": "bangumi",
         "id": "7366"
+      },
+      {
+        "site": "letv",
+        "id": "10004746",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1975",
+        "begin": "2003-05-07T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -59,6 +79,16 @@
       {
         "site": "bangumi",
         "id": "26391"
+      },
+      {
+        "site": "letv",
+        "id": "19106",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

@@ -57,6 +57,16 @@
       {
         "site": "bangumi",
         "id": "6605"
+      },
+      {
+        "site": "bilibili",
+        "id": "2360",
+        "begin": "1990-10-17T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -87,6 +97,16 @@
       {
         "site": "bangumi",
         "id": "10934"
+      },
+      {
+        "site": "bilibili",
+        "id": "5453",
+        "begin": "1990-10-05T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

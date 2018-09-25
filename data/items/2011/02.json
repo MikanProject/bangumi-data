@@ -173,6 +173,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3486",
+        "begin": "2011-02-22T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -198,6 +208,16 @@
         "site": "pptv",
         "id": "Vdu1M5sBca8SkPg",
         "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3759",
+        "begin": "2011-02-22T16:00:01.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": null,

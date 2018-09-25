@@ -584,6 +584,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8772l",
+        "begin": "2017-09-30T01:56:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1353,8 +1363,8 @@
       },
       {
         "site": "iqiyi",
-        "id": "a_19rrhay53x",
-        "begin": "2015-07-04T15:30:00.000Z",
+        "id": "a_19rrhb5awh",
+        "begin": "2017-07-01T07:26:57.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1490,7 +1500,7 @@
       {
         "site": "mgtv",
         "id": "166311",
-        "begin": "2015-07-04",
+        "begin": "",
         "official": null,
         "premuiumOnly": false,
         "censored": null,
@@ -1765,6 +1775,16 @@
         "begin": "2015-07-05T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2612",
+        "begin": "2015-07-04T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -3456,6 +3476,16 @@
       {
         "site": "bangumi",
         "id": "109541"
+      },
+      {
+        "site": "bilibili",
+        "id": "2627",
+        "begin": "2015-07-07T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -4103,6 +4133,26 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "7/7ae7ryh30iv3gpm",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6480",
+        "begin": "2015-07-17T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -4137,6 +4187,46 @@
     ]
   },
   {
+    "title": "第三飛行少女隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "第三飞行少女队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://musani.jp/works/index-2.html",
+    "begin": "2015-07-29T16:00:00.000Z",
+    "end": "2015-07-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "5Ucxrxd97SuODHQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "126606"
+      },
+      {
+        "site": "bilibili",
+        "id": "4148",
+        "begin": "2015-07-28T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
     "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! OAD",
     "titleTranslate": {
       "zh-Hans": [
@@ -4167,6 +4257,75 @@
     ]
   },
   {
+<<<<<<< HEAD
+=======
+    "title": "Peeping Life×怪獣酒場 かいじゅうたちがいるところ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Peeping Life×怪兽酒场 怪兽们的所在之处"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-07-03T16:00:00.000Z",
+    "end": "2015-07-10T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "140015"
+      },
+      {
+        "site": "nicovideo",
+        "id": "peepingk",
+        "begin": "2015-07-10T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3912",
+        "begin": "2015-07-09T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "金夜、安部礼司～平均的なサラリーマンの異常な日常～",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.abekin.com/",
+    "begin": "2015-07-04T16:00:00.000Z",
+    "end": "2015-08-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238436"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinyoru-abereiji",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+>>>>>>> a0060bd68f10d0492c6e41a343aa96516053976b
     "title": "12歳。 第2期",
     "titleTranslate": {
       "zh-Hans": [
@@ -4188,6 +4347,36 @@
         "site": "pptv",
         "id": "Ig3nZc0zoibFEwiao",
         "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "告白実行委員会  今好きになる。ショートストーリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "告白实行委员会 我于此刻恋上你"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://honeyworks.jp/release/06.html",
+    "begin": "2015-07-15T16:00:00.000Z",
+    "end": "2015-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "142153"
+      },
+      {
+        "site": "bilibili",
+        "id": "4140",
+        "begin": "2015-07-14T16:00:01.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": null,

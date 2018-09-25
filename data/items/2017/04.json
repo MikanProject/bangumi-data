@@ -351,6 +351,26 @@
       {
         "site": "bangumi",
         "id": "205376"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrheijc5",
+        "begin": "2017-10-25T21:41:27.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6522",
+        "begin": "2017-04-15T01:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -933,6 +953,16 @@
         "comment": ""
       },
       {
+        "site": "bilibili",
+        "id": "5969",
+        "begin": "2017-04-01T09:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
         "site": "youku",
         "id": "af361582e59c11e5b32f",
         "begin": "2017-04-01T09:30:00.000Z",
@@ -955,6 +985,26 @@
       {
         "site": "bangumi",
         "id": "185761"
+      },
+      {
+        "site": "qq",
+        "id": "o/o1550gzahixfttn",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8h95x",
+        "begin": "2018-04-14T02:54:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1116,6 +1166,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "r/rzuinvatj34ekz7",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1237,6 +1297,16 @@
         "begin": "2017-04-13T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5982",
+        "begin": "2017-04-06T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1537,6 +1607,16 @@
         "begin": "2017-04-03T15:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83325",
+        "begin": "2017-06-30T16:02:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -2518,7 +2598,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "喧哗番长 乙女-Girl Beats Boys-",
-        "喧哗番长 乙女 Girl Beats Boys"
+        "喧哗番长 乙女 Girl Beats Boys",
+        "最强番长是少女"
       ]
     },
     "type": "tv",
@@ -2911,6 +2992,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6068",
+        "begin": "2017-04-02T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2991,6 +3082,16 @@
       {
         "site": "bangumi",
         "id": "212331"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrheh3kd",
+        "begin": "2018-01-07T00:55:04.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3169,6 +3270,16 @@
         "begin": "2017-04-20T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6004",
+        "begin": "2017-04-12T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -3379,6 +3490,126 @@
       {
         "site": "bangumi",
         "id": "238403"
+      }
+    ]
+  },
+  {
+    "title": "結城友奈は勇者である -鷲尾須美の章- 第2章 たましい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "结城友奈是勇者 -鹫尾须美之章- 第2章 魂"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yuyuyu.tv/washio/",
+    "begin": "2017-04-15T16:00:00.000Z",
+    "end": "2017-04-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207167"
+      },
+      {
+        "site": "pptv",
+        "id": "KAicpZ881peNGxCw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "阿拉德：宿命之门",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉德：宿命之门"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-04-28T16:00:00.000Z",
+    "end": "2017-09-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209955"
+      },
+      {
+        "site": "mgtv",
+        "id": "314318",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン から紅の恋歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 殷红的恋歌"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2017-04-15T16:00:00.000Z",
+    "end": "2017-04-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "198962"
+      },
+      {
+        "site": "qq",
+        "id": "5/5wg77t6vu3utemv",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Free!-Timeless Medley- 絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Free!-Timeless Medley- 绊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tm.iwatobi-sc.com/",
+    "begin": "2017-04-22T16:00:00.000Z",
+    "end": "2017-04-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211616"
+      },
+      {
+        "site": "nicovideo",
+        "id": "free-tm-movie",
+        "begin": "2018-07-01T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

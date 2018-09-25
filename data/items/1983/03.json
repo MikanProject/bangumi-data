@@ -16,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "82719"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb54vl",
+        "begin": "2015-08-04T01:02:58.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -46,6 +56,26 @@
       {
         "site": "bangumi",
         "id": "438"
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2552",
+        "begin": "1983-03-11T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

@@ -149,6 +149,186 @@
       {
         "site": "bangumi",
         "id": "212187"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhd0rb1",
+        "begin": "2017-08-29T08:37:22.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6070",
+        "begin": "2017-03-26T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版プリパラ み～んなでかがやけ！キラリン☆スターライブ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美妙天堂剧场版 大家一起闪耀！KIRARIN☆STARLIVE！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://pp-movie.com/",
+    "begin": "2017-03-04T16:00:00.000Z",
+    "end": "2017-03-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "196559"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pp-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ずんだホライずん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ZUNDA HORIZON"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animetamago.jp/title.php?id=4",
+    "begin": "2017-03-11T16:00:00.000Z",
+    "end": "2017-03-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184318"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zunko",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "結城友奈は勇者である -鷲尾須美の章- 第1章 ともだち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "结城友奈是勇者 -鹫尾须美之章- 第1章 朋友"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yuyuyu.tv/washio/",
+    "begin": "2017-03-18T16:00:00.000Z",
+    "end": "2017-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "196259"
+      },
+      {
+        "site": "pptv",
+        "id": "KAicpZ881peNGxCw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6075",
+        "begin": "2017-03-17T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュア ドリームスターズ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女 Dream Stars"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-dreamstars.com/",
+    "begin": "2017-03-18T16:00:00.000Z",
+    "end": "2017-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "196355"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tzt",
+        "begin": "2015-08-07T08:45:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ハイスクール・フリート OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高校舰队 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.hai-furi.com/",
+    "begin": "2017-03-31T16:00:00.000Z",
+    "end": "2017-05-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193509"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hai-furi-ova",
+        "begin": "2018-05-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

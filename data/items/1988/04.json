@@ -36,6 +36,36 @@
       {
         "site": "bangumi",
         "id": "3621"
+      },
+      {
+        "site": "letv",
+        "id": "29360",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgih7m9",
+        "begin": "2017-11-06T03:00:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2398",
+        "begin": "1988-04-29T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -76,6 +106,16 @@
       {
         "site": "bangumi",
         "id": "8696"
+      },
+      {
+        "site": "bilibili",
+        "id": "4013",
+        "begin": "1988-04-24T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -156,6 +196,26 @@
       {
         "site": "bangumi",
         "id": "1972"
+      },
+      {
+        "site": "qq",
+        "id": "y/yx7fu4yp9d0c445",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyan2d",
+        "begin": "2018-05-08T10:28:04.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -189,6 +249,16 @@
       {
         "site": "bangumi",
         "id": "7667"
+      },
+      {
+        "site": "bilibili",
+        "id": "2391",
+        "begin": "1988-12-31T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

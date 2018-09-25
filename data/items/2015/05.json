@@ -39,6 +39,238 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3802",
+        "begin": "2015-05-19T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 亡国的阿基德 第三章「辉芒陨落」"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/akito/",
+    "begin": "2015-05-02T16:00:00.000Z",
+    "end": "2015-05-02T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "otmjIYnvX50AfuY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9mhz9",
+        "begin": "2016-08-31T16:02:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "82177",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "86773"
+      }
+    ]
+  },
+  {
+    "title": "デュラララ!!×2 承 私の心は鍋模様",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无头骑士异闻录×2 承 我的心是火锅的形状"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.durarara.com/ova/",
+    "begin": "2015-05-30T16:00:00.000Z",
+    "end": "2015-05-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "PwnjYckvn91AviaY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "126581"
+      },
+      {
+        "site": "bilibili",
+        "id": "3538",
+        "begin": "2015-05-29T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "蟲師 特別編 鈴の雫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虫师 续章 铃之雫",
+        "虫师 特别篇 铃雨",
+        "虫师 铃之滴"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mushishi-anime.com/",
+    "begin": "2015-05-16T16:00:00.000Z",
+    "end": "2015-05-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Aia0Hhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "120700"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mushishi-tokubetsuhen02",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2648",
+        "begin": "2015-05-15T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "天才バカヴォン 蘇るフランダースの犬",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才傻瓜 复活的弗兰德之犬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://bakavon.com/",
+    "begin": "2015-05-23T16:00:00.000Z",
+    "end": "2015-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120240"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bakavon",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5866",
+        "begin": "2015-05-22T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "新劇場版 頭文字D Legend2 -闘走-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "头文字D Legend2 -斗走-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://initiald-movie.com/",
+    "begin": "2015-05-23T16:00:00.000Z",
+    "end": "2015-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "111760"
+      },
+      {
+        "site": "pptv",
+        "id": "cOzIRq4UhMIlows",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3839",
+        "begin": "2015-05-22T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -64,6 +296,16 @@
         "site": "pptv",
         "id": "QOjEQqoQgL4hnwc",
         "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2800",
+        "begin": "2015-05-07T16:00:00.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": null,
@@ -99,6 +341,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3423",
+        "begin": "2015-05-14T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -129,6 +381,46 @@
         "begin": "2017-10-01T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "這いよれ! ニャル子さんF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "潜行吧！奈亚子F"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nyaruko.com/",
+    "begin": "2015-05-30T16:00:00.000Z",
+    "end": "2015-05-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "111081"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nyaruko-f",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2941",
+        "begin": "2015-05-29T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""

@@ -109,6 +109,16 @@
       {
         "site": "bangumi",
         "id": "3170"
+      },
+      {
+        "site": "bilibili",
+        "id": "3566",
+        "begin": "2002-12-20T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -129,6 +139,16 @@
       {
         "site": "bangumi",
         "id": "20931"
+      },
+      {
+        "site": "bilibili",
+        "id": "3407",
+        "begin": "2002-12-17T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

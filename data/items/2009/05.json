@@ -97,6 +97,26 @@
       {
         "site": "bangumi",
         "id": "67748"
+      },
+      {
+        "site": "mgtv",
+        "id": "103523",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "23775",
+        "begin": "2009-05-26T12:09:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -127,6 +147,46 @@
       {
         "site": "bangumi",
         "id": "2430"
+      },
+      {
+        "site": "bilibili",
+        "id": "4705",
+        "begin": "2009-05-18T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "電波的な彼女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电波系彼女"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-05-01T16:00:00.000Z",
+    "end": "2009-12-04T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3424"
+      },
+      {
+        "site": "letv",
+        "id": "12878",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

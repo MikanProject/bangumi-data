@@ -27,6 +27,16 @@
       {
         "site": "bangumi",
         "id": "46079"
+      },
+      {
+        "site": "bilibili",
+        "id": "1678",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -127,6 +137,16 @@
       {
         "site": "bangumi",
         "id": "41428"
+      },
+      {
+        "site": "bilibili",
+        "id": "3812",
+        "begin": "2012-08-22T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -197,6 +217,16 @@
       {
         "site": "bangumi",
         "id": "42342"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4oit",
+        "begin": "2015-09-23T08:10:24.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -227,6 +257,16 @@
       {
         "site": "bangumi",
         "id": "46234"
+      },
+      {
+        "site": "bilibili",
+        "id": "3521",
+        "begin": "2012-08-10T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -256,6 +296,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4498",
+        "begin": "2012-08-17T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -312,6 +362,16 @@
         "site": "pptv",
         "id": "P9G7OaEHd7UYlv4",
         "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4508",
+        "begin": "2012-08-10T16:00:01.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": null,

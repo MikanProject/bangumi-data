@@ -86,6 +86,16 @@
       {
         "site": "bangumi",
         "id": "38965"
+      },
+      {
+        "site": "bilibili",
+        "id": "2142",
+        "begin": "2000-07-25T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -126,6 +136,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3948",
+        "begin": "2000-07-27T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -146,6 +166,16 @@
       {
         "site": "bangumi",
         "id": "65554"
+      },
+      {
+        "site": "bilibili",
+        "id": "2154",
+        "begin": "2000-07-11T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -176,6 +206,16 @@
       {
         "site": "bangumi",
         "id": "1942"
+      },
+      {
+        "site": "bilibili",
+        "id": "3860",
+        "begin": "2000-07-14T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -196,6 +236,16 @@
       {
         "site": "bangumi",
         "id": "3135"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tgp",
+        "begin": "2015-08-06T12:03:19.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -226,6 +276,16 @@
       {
         "site": "bangumi",
         "id": "3024"
+      },
+      {
+        "site": "bilibili",
+        "id": "5350",
+        "begin": "2000-07-07T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

@@ -56,6 +56,46 @@
       {
         "site": "bangumi",
         "id": "3686"
+      },
+      {
+        "site": "bilibili",
+        "id": "1179",
+        "begin": "2007-09-14T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ヱヴァンゲリヲン新劇場版:序",
+    "titleTranslate": {
+      "zh-Hans": [
+        "福音战士新剧场版：序"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.evangelion.co.jp/",
+    "begin": "2007-09-01T16:00:00.000Z",
+    "end": "2007-09-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "772"
+      },
+      {
+        "site": "qq",
+        "id": "t/tr5q6ohz06g4tzx",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

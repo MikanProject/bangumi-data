@@ -98,6 +98,16 @@
       {
         "site": "bangumi",
         "id": "19542"
+      },
+      {
+        "site": "bilibili",
+        "id": "1614",
+        "begin": "1997-03-31T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -137,6 +147,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2277",
+        "begin": "1997-04-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -252,6 +272,16 @@
       {
         "site": "bangumi",
         "id": "1934"
+      },
+      {
+        "site": "qq",
+        "id": "7/7jzjwwtpqo2hilu",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -282,6 +312,16 @@
       {
         "site": "bangumi",
         "id": "53939"
+      },
+      {
+        "site": "letv",
+        "id": "10004313",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -352,6 +392,26 @@
       {
         "site": "bangumi",
         "id": "8971"
+      },
+      {
+        "site": "qq",
+        "id": "b/bymafsjpccgo4bw",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3874",
+        "begin": "1997-04-18T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -388,6 +448,16 @@
         "id": "NQHradE3pibVIxia4",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bu8qr3h1vbia2kd",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
@@ -452,6 +522,16 @@
       {
         "site": "bangumi",
         "id": "8412"
+      },
+      {
+        "site": "bilibili",
+        "id": "2031",
+        "begin": "1997-04-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

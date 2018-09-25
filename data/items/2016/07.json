@@ -382,6 +382,16 @@
       {
         "site": "bangumi",
         "id": "160124"
+      },
+      {
+        "site": "mgtv",
+        "id": "294534",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -493,6 +503,16 @@
         "begin": "2016-06-25T12:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5019",
+        "begin": "2016-07-02T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -651,6 +671,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "312831",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1093,6 +1123,16 @@
         "begin": "2016-07-09T15:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5026",
+        "begin": "2016-07-03T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1852,6 +1892,26 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "294605",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhf5m79",
+        "begin": "2018-04-30T16:00:43.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1893,6 +1953,16 @@
         "begin": "2016-07-16T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5835",
+        "begin": "2016-07-05T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -3009,6 +3079,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhf5ndp",
+        "begin": "2018-08-16T16:00:35.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3089,6 +3169,16 @@
       {
         "site": "bangumi",
         "id": "158316"
+      },
+      {
+        "site": "qq",
+        "id": "j/j74t36ys0phnqqp",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -3359,6 +3449,26 @@
       {
         "site": "bangumi",
         "id": "175547"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh836f9",
+        "begin": "2017-06-30T16:02:50.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5469",
+        "begin": "2016-07-26T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3389,6 +3499,136 @@
       {
         "site": "bangumi",
         "id": "172957"
+      },
+      {
+        "site": "bilibili",
+        "id": "5424",
+        "begin": "2016-05-20T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "アクセル・ワールド INFINITE∞BURST",
+    "titleTranslate": {
+      "zh-Hans": [
+        "加速世界 Infinite Burst"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.accel-world.net/",
+    "begin": "2016-07-23T16:00:00.000Z",
+    "end": "2016-07-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148095"
+      },
+      {
+        "site": "nicovideo",
+        "id": "accel-world_IB",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "uYlj4UmvH13APqY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5076",
+        "begin": "2016-07-22T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "KINGSGLAIVE FINAL FANTASY XV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终幻想15 王者之剑"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kingsglaive-jp.com/",
+    "begin": "2016-07-09T16:00:00.000Z",
+    "end": "2016-07-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "176296"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kingsglaive-jp",
+        "begin": "2016-08-29T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ポケモン・ザ・ムービーXY＆Z ボルケニオンと機巧のマギアナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Pokémon the movie XY&Z 波尔凯尼恩与机巧的玛机雅娜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-sun-moon.cn/movie/m19/",
+    "begin": "2016-07-16T16:00:00.000Z",
+    "end": "2016-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "140307"
+      },
+      {
+        "site": "pptv",
+        "id": "a9ia0MpoAcK4Rjicc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "322203",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

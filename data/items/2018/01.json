@@ -624,6 +624,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbdefbfbd3340efbf",
+        "begin": "2018-01-05T02:09:11.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1274,6 +1284,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "1911efbfbd5fefbfbdef",
+        "begin": "2018-02-06T10:42:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1552,6 +1572,16 @@
       {
         "site": "bangumi",
         "id": "230764"
+      },
+      {
+        "site": "nicovideo",
+        "id": "7-virtues",
+        "begin": "2018-02-23T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1823,6 +1853,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "t/ta18i5s30dwnm3m",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1837,7 +1877,7 @@
     "lang": "ja",
     "officialSite": "http://fate-extra-lastencore.com/",
     "begin": "2018-01-27T15:00:00.000Z",
-    "end": "",
+    "end": "2018-07-29T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2009,6 +2049,16 @@
         "site": "qq",
         "id": "r/r38rckf1m8686vc",
         "begin": "2018-01-11T16:00:01.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "319170",
+        "begin": "",
         "official": null,
         "premuiumOnly": false,
         "censored": null,

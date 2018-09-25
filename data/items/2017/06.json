@@ -55,6 +55,31 @@
     "begin": "2017-06-13T09:25:00.000Z",
     "end": "2017-09-26T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "172494"
+      },
+      {
+        "site": "pptv",
+        "id": "Jh33dd1DsicFU0jo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahouka_movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

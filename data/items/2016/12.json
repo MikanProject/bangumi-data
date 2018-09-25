@@ -89,6 +89,16 @@
       {
         "site": "bangumi",
         "id": "187502"
+      },
+      {
+        "site": "bilibili",
+        "id": "5833",
+        "begin": "2016-12-24T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -180,6 +190,16 @@
       {
         "site": "bangumi",
         "id": "195110"
+      },
+      {
+        "site": "bilibili",
+        "id": "5763",
+        "begin": "2016-12-13T06:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -220,6 +240,16 @@
       {
         "site": "bangumi",
         "id": "183394"
+      },
+      {
+        "site": "bilibili",
+        "id": "5882",
+        "begin": "2016-12-19T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -261,6 +291,16 @@
       {
         "site": "bangumi",
         "id": "188064"
+      },
+      {
+        "site": "bilibili",
+        "id": "5769",
+        "begin": "2016-12-15T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -410,6 +450,56 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhcbahx",
+        "begin": "2017-09-30T11:00:05.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "好きになるその瞬間を。～告白実行委員会～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "喜欢上你的那个瞬间。～告白实行委员会～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.honeyworks-movie.jp/",
+    "begin": "2016-12-17T16:00:00.000Z",
+    "end": "2016-12-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175543"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sukininarusonoshunkanwo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5576",
+        "begin": "2016-12-16T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

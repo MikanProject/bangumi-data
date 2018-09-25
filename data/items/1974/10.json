@@ -16,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "107437"
+      },
+      {
+        "site": "bilibili",
+        "id": "6489",
+        "begin": "1974-09-30T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -56,6 +66,16 @@
       {
         "site": "bangumi",
         "id": "10393"
+      },
+      {
+        "site": "bilibili",
+        "id": "2451",
+        "begin": "1974-10-05T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

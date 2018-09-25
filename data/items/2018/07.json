@@ -18,13 +18,23 @@
         "id": "175404"
       },
       {
+        "site": "nicovideo",
+        "id": "never-island",
+        "begin": "2018-07-01T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "24571",
-        "begin": "",
+        "begin": "2018-07-01T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
-        "exist": false,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -50,7 +60,7 @@
       {
         "site": "bilibili",
         "id": "24589",
-        "begin": "",
+        "begin": "2018-07-01T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -66,6 +76,36 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyth2t",
+        "begin": "2018-07-01T15:55:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hanebad",
+        "begin": "2018-07-03T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "e91b287f7ca14d968ae2",
+        "begin": "2018-07-02T02:22:39.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -79,7 +119,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://ch.nicovideo.jp/senjyushi",
     "begin": "2018-07-03T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -91,9 +131,19 @@
       {
         "site": "bilibili",
         "id": "24618",
-        "begin": "",
+        "begin": "2018-07-03T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "senjyushi",
+        "begin": "2018-07-07T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -121,7 +171,7 @@
       {
         "site": "bilibili",
         "id": "24567",
-        "begin": "",
+        "begin": "2018-07-03T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -152,7 +202,7 @@
       {
         "site": "bilibili",
         "id": "24627",
-        "begin": "",
+        "begin": "2018-07-05T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -162,11 +212,31 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytgwd",
-        "begin": "",
+        "begin": "2018-07-05T13:55:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekaimaou-anime",
+        "begin": "2018-07-06T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bgf0avtujy3yciw",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -193,9 +263,19 @@
       {
         "site": "bilibili",
         "id": "24584",
-        "begin": "",
+        "begin": "2018-07-06T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "chiochan",
+        "begin": "2018-07-12T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -239,9 +319,19 @@
       {
         "site": "bilibili",
         "id": "24588",
-        "begin": "",
+        "begin": "2018-07-07T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hataraku-saibou",
+        "begin": "2018-07-09T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -270,11 +360,21 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6yfyh",
-        "begin": "",
+        "begin": "2018-07-08T13:25:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "asobiasobase",
+        "begin": "2018-07-15T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -300,9 +400,19 @@
       {
         "site": "bilibili",
         "id": "24594",
-        "begin": "",
+        "begin": "2018-07-03T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "cingeki-anime03",
+        "begin": "2018-07-04T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -334,11 +444,31 @@
       {
         "site": "bilibili",
         "id": "24605",
-        "begin": "",
+        "begin": "2018-07-02T18:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamanosusume3rd",
+        "begin": "2018-06-04T04:00:01.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "friaVE3vhUYicycNg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -364,11 +494,21 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytgjp",
-        "begin": "2018-06-30T16:00:23.000Z",
+        "begin": "2018-07-08T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "planet-with",
+        "begin": "2018-07-13T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -414,7 +554,7 @@
       {
         "site": "bilibili",
         "id": "24581",
-        "begin": "",
+        "begin": "2018-07-13T17:25:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -444,7 +584,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgyterx",
-        "begin": "",
+        "begin": "2018-07-13T18:25:10.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -474,11 +614,21 @@
       {
         "site": "bilibili",
         "id": "24622",
-        "begin": "",
+        "begin": "2018-07-13T06:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "revuestarlight",
+        "begin": "2018-07-12T21:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -504,9 +654,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgxdbdp",
-        "begin": "",
+        "begin": "2018-07-09T01:27:34.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kyototeramachi-holmes",
+        "begin": "2018-07-10T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -534,7 +694,7 @@
       {
         "site": "bilibili",
         "id": "24602",
-        "begin": "",
+        "begin": "2018-07-01T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -566,6 +726,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "aguu-anime",
+        "begin": "2018-07-11T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -591,7 +761,7 @@
       {
         "site": "bilibili",
         "id": "24607",
-        "begin": "",
+        "begin": "2018-07-13T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -601,11 +771,31 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6ubnd",
-        "begin": "",
+        "begin": "2018-07-13T17:30:08.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "2/2jje4zejg4yci94",
+        "begin": "2018-07-13T17:35:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "lord-of-vermilion",
+        "begin": "2018-07-21T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -631,9 +821,19 @@
       {
         "site": "bilibili",
         "id": "24630",
-        "begin": "",
+        "begin": "2018-07-09T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "jashin_anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -657,6 +857,26 @@
       {
         "site": "bangumi",
         "id": "218572"
+      },
+      {
+        "site": "bilibili",
+        "id": "24595",
+        "begin": "2018-07-10T17:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "angolmois",
+        "begin": "2018-07-18T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -681,9 +901,19 @@
       {
         "site": "bilibili",
         "id": "24619",
-        "begin": "",
+        "begin": "2018-07-05T13:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yume-100",
+        "begin": "2018-07-09T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -702,7 +932,7 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://satsuriku.com/",
-    "begin": "2018-07-06T13:30:00.000Z",
+    "begin": "2018-07-06T11:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -713,7 +943,7 @@
       {
         "site": "bilibili",
         "id": "24625",
-        "begin": "",
+        "begin": "2018-07-06T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -723,11 +953,31 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytf8l",
-        "begin": "",
+        "begin": "2018-07-06T12:55:12.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "satsuriku",
+        "begin": "2018-07-13T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/u8rljkriw7yeorg",
+        "begin": "2018-07-06T13:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -754,9 +1004,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgyth5x",
-        "begin": "",
+        "begin": "2018-07-14T15:55:10.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuragisou",
+        "begin": "2018-07-16T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -788,9 +1048,19 @@
       {
         "site": "bilibili",
         "id": "24583",
-        "begin": "",
+        "begin": "2018-07-05T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "sunoharasou",
+        "begin": "2018-07-08T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -821,9 +1091,19 @@
       {
         "site": "bilibili",
         "id": "24632",
-        "begin": "",
+        "begin": "2018-07-07T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ongaku-shoujo",
+        "begin": "2018-07-07T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -855,9 +1135,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6y4sl",
-        "begin": "",
+        "begin": "2018-07-06T13:25:12.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "harukana-receive",
+        "begin": "2018-07-12T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -881,9 +1171,19 @@
       {
         "site": "bilibili",
         "id": "24570",
-        "begin": "",
+        "begin": "2018-07-11T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "free-df",
+        "begin": "2018-07-14T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -907,6 +1207,16 @@
       {
         "site": "bangumi",
         "id": "217300"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_season3",
+        "begin": "2018-07-30T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -931,9 +1241,19 @@
       {
         "site": "bilibili",
         "id": "24611",
-        "begin": "",
+        "begin": "2018-07-03T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tonegawa-anime",
+        "begin": "2018-07-04T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -961,7 +1281,7 @@
       {
         "site": "bilibili",
         "id": "24626",
-        "begin": "",
+        "begin": "2018-07-10T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -971,9 +1291,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6ycz5",
-        "begin": "",
+        "begin": "2018-07-10T17:40:10.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "shinya-bakabon",
+        "begin": "2018-07-15T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1004,7 +1334,7 @@
       {
         "site": "bilibili",
         "id": "24609",
-        "begin": "",
+        "begin": "2018-07-06T06:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1034,9 +1364,19 @@
       {
         "site": "bilibili",
         "id": "24628",
-        "begin": "",
+        "begin": "2018-07-07T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hyakuren-anime",
+        "begin": "2018-07-10T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1060,6 +1400,66 @@
       {
         "site": "bangumi",
         "id": "241264"
+      },
+      {
+        "site": "bilibili",
+        "id": "24336",
+        "begin": "2018-07-05T04:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "phantowa",
+        "begin": "2018-07-10T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "暮光幻影",
+    "titleTranslate": {
+      "ja": [
+        "Phantom in the Twilight"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://phantowa.com/",
+    "begin": "2018-07-09T15:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241264"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6y6l9",
+        "begin": "2018-07-05T04:15:38.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "24333",
+        "begin": "2018-07-05T04:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1084,7 +1484,7 @@
       {
         "site": "bilibili",
         "id": "24586",
-        "begin": "",
+        "begin": "2018-07-22T17:10:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1117,9 +1517,19 @@
       {
         "site": "bilibili",
         "id": "24613",
-        "begin": "",
+        "begin": "2018-07-06T12:54:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hataoni2",
+        "begin": "2018-07-06T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1130,6 +1540,7 @@
     "title": "BANANA FISH",
     "titleTranslate": {
       "zh-Hans": [
+        "BANANA FISH",
         "战栗杀机"
       ]
     },
@@ -1147,7 +1558,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytq5h",
-        "begin": "",
+        "begin": "2018-07-06T00:13:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1177,9 +1588,19 @@
       {
         "site": "bilibili",
         "id": "24572",
-        "begin": "",
+        "begin": "2018-07-02T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "oneroom2nd",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1210,9 +1631,19 @@
       {
         "site": "bilibili",
         "id": "24596",
-        "begin": "",
+        "begin": "2018-07-10T14:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "overlord-anime3",
+        "begin": "2018-07-17T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1223,7 +1654,8 @@
     "title": "じょしおちっ！～2階から女の子が…降ってきた!?～",
     "titleTranslate": {
       "zh-Hans": [
-        "天降少女！～从2层落下了少女！？～"
+        "天降少女！～从2层落下了少女！？～",
+        "落女子！有女孩子从二楼掉下来了！？"
       ]
     },
     "type": "tv",
@@ -1236,6 +1668,16 @@
       {
         "site": "bangumi",
         "id": "248206"
+      },
+      {
+        "site": "nicovideo",
+        "id": "joshiochi",
+        "begin": "2018-07-01T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1260,11 +1702,41 @@
       {
         "site": "bilibili",
         "id": "24635",
-        "begin": "",
+        "begin": "2018-07-06T19:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamishibai6",
+        "begin": "2018-07-07T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6yfr1",
+        "begin": "2018-07-06T20:00:10.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "90a4a55ffbf547329da5",
+        "begin": "2018-07-06T19:58:01.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1315,7 +1787,7 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://sirius-the-jaeger.com/",
-    "begin": "2018-07-12T16:00:00.000Z",
+    "begin": "2018-07-12T15:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1326,7 +1798,7 @@
       {
         "site": "bilibili",
         "id": "24620",
-        "begin": "",
+        "begin": "2018-07-11T16:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1336,11 +1808,195 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytf5h",
-        "begin": "",
+        "begin": "2018-07-12T15:25:10.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "5/5tbi0vej2cqtofj",
+        "begin": "2018-07-12T15:30:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "銀魂. (銀ノ魂篇 後半戦)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂. 银之魂篇 后半战",
+        "银魂. 银之魂篇 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
+    "begin": "2018-07-08T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240811"
+      },
+      {
+        "site": "youku",
+        "id": "cc0026e0962411de83b1",
+        "begin": "2011-10-28T04:57:52.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "兄に付ける薬はない！2 -快把我哥帯走2-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "没有给我哥吃的药！2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fanworks.co.jp/news/20180625_ani/",
+    "begin": "2018-07-09T12:54:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219143"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke2",
+        "begin": "2018-07-09T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/maa2g8kqchabbgl",
+        "begin": "2017-07-02T04:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "BanG Dream! ガルパ☆ピコ",
+    "titleTranslate": {
+      "en": [
+        "BanG Dream! Girls Band Party!★PICO"
+      ],
+      "zh-Hans": [
+        "BanG Dream! 少女乐团派对！☆PICO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime.bang-dream.com/pico/",
+    "begin": "2018-07-06T13:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "246431"
+      },
+      {
+        "site": "pptv",
+        "id": "6ywJhib9VxQNm5Ew",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "girls-band-party-pico",
+        "begin": "2018-08-23T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "あるゾンビ少女の災難",
+    "titleTranslate": {
+      "zh-Hans": [
+        "某僵尸少女的灾难"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.zombie-girl.net/",
+    "begin": "2018-07-04T16:00:00.000Z",
+    "end": "2018-07-04T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101994"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aruzombie-sainan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ているず おぶ ざ れいず 劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场镜光传说"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://torays.tales-ch.jp/special/shortAnime/",
+    "begin": "2018-07-20T16:00:00.000Z",
+    "end": "2018-07-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232793"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tales-of-the-rays-theater",
+        "begin": "2018-07-21T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
