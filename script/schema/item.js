@@ -38,9 +38,9 @@ module.exports = Joi.object().keys({
     type: Joi.string().valid(validType).required(),
     lang: Joi.string().valid(validLang).required(),
     officialSite: Joi.string().uri().required().allow(''),
-    begin: ISOJoi.string().isoString().required().allow(''),
-    end: ISOJoi.string().isoString().required().allow(''),
-    bdReleaseDate: ISOJoi.string().isoString().allow(''),
+    begin: Joi.string().isoDate().required().allow(''),
+    end: Joi.string().isoDate().required().allow(''),
+    bdReleaseDate: Joi.string().isoDate().allow(''),
     comment: Joi.string().required().trim().allow(''),
     sites: Joi.array().items(Joi.object()
         .keys({

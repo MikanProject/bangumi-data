@@ -620,7 +620,8 @@
     "title": "CONCEPTION",
     "titleTranslate": {
       "zh-Hans": [
-        "为我而生 CONCEPTION"
+        "为我而生 CONCEPTION",
+        "为我而生"
       ]
     },
     "type": "tv",
@@ -742,7 +743,11 @@
   },
   {
     "title": "RErideD -刻越えのデリダ-",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "RErideD-穿越时空的德里达-"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://rerided.com/",
@@ -900,6 +905,46 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "人外さんの嫁",
+    "titleTranslate": {
+      "zh-Hans": [
+        "嫁给非人类"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-10-02T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "250802"
+      }
+    ]
+  },
+  {
+    "title": "風が強く吹いている",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强风吹拂"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kazetsuyo-anime.com/",
+    "begin": "2018-10-02T16:29:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "248154"
       }
     ]
   }
