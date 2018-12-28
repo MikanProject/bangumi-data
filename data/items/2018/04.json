@@ -2122,7 +2122,7 @@
     "lang": "ja",
     "officialSite": "http://ch.nicovideo.jp/lupin-pt5",
     "begin": "2018-04-03T16:34:00.000Z",
-    "end": "",
+    "end": "2018-09-18T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2235,6 +2235,107 @@
     ]
   },
   {
+    "title": "若おかみは小学生！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "年轻老板娘是小学生！",
+        "温泉屋小女管家"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/waka-okami/",
+    "begin": "2018-04-07T22:14:00.000Z",
+    "end": "2018-09-23T22:44:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239839"
+      },
+      {
+        "site": "bilibili",
+        "id": "23867",
+        "begin": "2018-04-07T23:14:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgypo7h",
+        "begin": "2018-04-07T23:10:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "346028a59c344cc78149",
+        "begin": "2018-04-21T14:44:27.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "waka-okami",
+        "begin": "2018-04-14T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "こねこのチー ポンポンらー大旅行",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜甜私房猫 吃饱啦大旅行"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://chissweethome.com/",
+    "begin": "2018-04-07T22:00:00.000Z",
+    "end": "2018-09-29T22:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219377"
+      },
+      {
+        "site": "mgtv",
+        "id": "325000",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgx8wv9",
+        "begin": "2018-08-10T07:00:04.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
     "title": "ねこねこ日本史(第3シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
@@ -2325,7 +2426,7 @@
     "lang": "ja",
     "officialSite": "http://www.inazuma.jp/ares/",
     "begin": "2018-04-06T08:55:00.000Z",
-    "end": "2018-06-22T08:55:00.000Z",
+    "end": "2018-09-28T09:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2549,7 +2650,7 @@
     "lang": "ja",
     "officialSite": "https://r.gnavi.co.jp/nobu/",
     "begin": "2018-04-13T03:00:00.000Z",
-    "end": "",
+    "end": "2018-09-14T03:30:00.000Z",
     "comment": "",
     "sites": [
       {

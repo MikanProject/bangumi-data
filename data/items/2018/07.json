@@ -50,7 +50,7 @@
     "lang": "ja",
     "officialSite": "http://hanebad.com/",
     "begin": "2018-07-01T15:00:00.000Z",
-    "end": "2018-09-23T15:30:00.000Z",
+    "end": "2018-09-30T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -400,7 +400,7 @@
     "lang": "ja",
     "officialSite": "http://cingeki-anime.com/",
     "begin": "2018-07-03T12:54:00.000Z",
-    "end": "2018-09-18T13:00:00.000Z",
+    "end": "2018-09-25T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -554,7 +554,7 @@
     "lang": "ja",
     "officialSite": "http://grandblue-anime.com/",
     "begin": "2018-07-13T17:25:00.000Z",
-    "end": "2018-09-21T17:55:00.000Z",
+    "end": "2018-09-28T18:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -584,7 +584,7 @@
     "lang": "ja",
     "officialSite": "http://hi-score-girl.com/",
     "begin": "2018-07-13T15:30:00.000Z",
-    "end": "2018-09-28T15:30:00.000Z",
+    "end": "2018-09-28T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -764,7 +764,7 @@
     "lang": "ja",
     "officialSite": "http://lord-of-vermilion.com/",
     "begin": "2018-07-13T16:05:00.000Z",
-    "end": "2018-09-28T16:05:00.000Z",
+    "end": "2018-09-28T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1177,7 +1177,7 @@
     "lang": "ja",
     "officialSite": "http://df.iwatobi-sc.com/",
     "begin": "2018-07-11T15:00:00.000Z",
-    "end": "2018-09-26T15:00:00.000Z",
+    "end": "2018-09-26T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1215,7 +1215,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=shingeki3",
+    "officialSite": "https://shingeki.tv/season3/",
     "begin": "2018-07-22T15:35:00.000Z",
     "end": "",
     "comment": "",
@@ -1453,7 +1453,7 @@
     "lang": "zh-Hans",
     "officialSite": "http://phantowa.com/",
     "begin": "2018-07-09T15:30:00.000Z",
-    "end": "2018-09-13T15:30:00.000Z",
+    "end": "2018-09-13T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1493,7 +1493,7 @@
     "lang": "ja",
     "officialSite": "http://tsukumogami.jp/",
     "begin": "2018-07-22T15:10:00.000Z",
-    "end": "2018-09-22T15:10:00.000Z",
+    "end": "2018-10-14T15:40:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1640,7 +1640,7 @@
     "lang": "ja",
     "officialSite": "http://overlord-anime.com/",
     "begin": "2018-07-10T15:30:00.000Z",
-    "end": "2018-09-30T15:30:00.000Z",
+    "end": "2018-10-02T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1711,7 +1711,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/yamishibai/",
     "begin": "2018-07-06T19:00:00.000Z",
-    "end": "2018-09-21T19:30:00.000Z",
+    "end": "2018-09-28T19:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1915,7 +1915,7 @@
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/pico/",
     "begin": "2018-07-06T13:45:00.000Z",
-    "end": "2018-09-21T13:50:00.000Z",
+    "end": "2018-09-28T13:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1938,6 +1938,16 @@
         "begin": "2018-08-23T11:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "24569",
+        "begin": "2018-07-06T13:45:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1966,6 +1976,66 @@
         "site": "nicovideo",
         "id": "aruzombie-sainan",
         "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ソードガイ The Animation PartⅡ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SWORD GAI 装刀凯  PartⅡ"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://swordgai-anime.com/",
+    "begin": "2018-07-31T16:00:00.000Z",
+    "end": "2018-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241865"
+      },
+      {
+        "site": "bilibili",
+        "id": "25002",
+        "begin": "2018-07-31T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "嫌な顔されながらおパンツ見せてもらいたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一脸嫌弃表情的妹子给你看胖次"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://iyapan-anime.com/",
+    "begin": "2018-07-14T09:30:00.000Z",
+    "end": "2018-08-18T09:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "234195"
+      },
+      {
+        "site": "nicovideo",
+        "id": "iyapan-anime",
+        "begin": "2018-07-21T09:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

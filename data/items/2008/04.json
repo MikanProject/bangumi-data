@@ -285,6 +285,16 @@
       {
         "site": "bangumi",
         "id": "1609"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yugioh-5ds",
+        "begin": "2018-09-30T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -329,6 +339,16 @@
       {
         "site": "bangumi",
         "id": "8"
+      },
+      {
+        "site": "netflix",
+        "id": "80065146",
+        "begin": "2017-12-13T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

@@ -1547,6 +1547,16 @@
       {
         "site": "bangumi",
         "id": "170191"
+      },
+      {
+        "site": "bilibili",
+        "id": "5535",
+        "begin": "2016-10-02T08:00:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2548,6 +2558,16 @@
       {
         "site": "bangumi",
         "id": "180710"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chissweethome",
+        "begin": "2018-09-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3070,6 +3090,16 @@
       {
         "site": "bangumi",
         "id": "185825"
+      },
+      {
+        "site": "qq",
+        "id": "z/zggrxgnh8mh65q9",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
