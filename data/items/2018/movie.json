@@ -239,7 +239,7 @@
     },
     "type": "movie",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://fullmeta-iv.com/movie/",
     "begin": "2017-11-25T00:00:00",
     "end": "",
     "bdReleaseDate": "2018-02-28T00:00:00",
@@ -428,7 +428,7 @@
     },
     "type": "movie",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://fullmeta-iv.com/movie/",
     "begin": "2018-01-13T00:00:00",
     "end": "",
     "bdReleaseDate": "2018-03-28T00:00:00",
@@ -533,7 +533,7 @@
     },
     "type": "movie",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://fullmeta-iv.com/movie/",
     "begin": "2018-01-20T00:00:00",
     "end": "",
     "bdReleaseDate": "2018-04-25T00:00:00",
@@ -801,7 +801,7 @@
     "title": "映画ドラえもん のび太の宝島",
     "titleTranslate": {
       "zh-Hans": [
-        "哆啦A梦 大雄的宝岛"
+        "哆啦A梦 大雄的金银岛"
       ]
     },
     "type": "movie",
@@ -1235,6 +1235,27 @@
       {
         "site": "bangumi",
         "id": "216371"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ポケットモンスター みんなの物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦 大家的故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2018-07-13T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2018-12-19T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231970"
       }
     ]
   }
