@@ -106,6 +106,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81037374",
+        "begin": "2018-12-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -155,6 +165,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "后街女孩"
+      ],
+      "en": [
+        "Back Street Girls -GOKUDOLS-"
       ]
     },
     "type": "tv",
@@ -176,6 +189,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80996957",
+        "begin": "2018-12-12T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -238,6 +261,26 @@
         "begin": "",
         "official": null,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "09b858009cc14850b246",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81004514",
+        "begin": "2018-12-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -528,6 +571,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Happy Sugar Life"
+      ],
+      "en": [
+        "Happy Sugar Life"
       ]
     },
     "type": "tv",
@@ -540,6 +586,16 @@
       {
         "site": "bangumi",
         "id": "240828"
+      },
+      {
+        "site": "nicovideo",
+        "id": "happysugarlife",
+        "begin": "2018-10-29T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -570,6 +626,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "grandblue-anime",
+        "begin": "2018-12-21T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -578,6 +644,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "高分少女"
+      ],
+      "en": [
+        "Hi Score Girl"
       ]
     },
     "type": "tv",
@@ -600,6 +669,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80997338",
+        "begin": "2018-12-24T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -607,7 +686,7 @@
     "title": "少女☆歌劇 レヴュースタァライト",
     "titleTranslate": {
       "zh-Hans": [
-        "少女☆歌剧 Revue・Starlight"
+        "少女☆歌剧 Revue Starlight"
       ],
       "en": [
         "Revue Starlight"
@@ -697,7 +776,7 @@
     "lang": "ja",
     "officialSite": "http://baki-anime.jp/",
     "begin": "2018-07-01T15:30:00.000Z",
-    "end": "",
+    "end": "2018-12-23T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -810,6 +889,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "ecc51c99e1be4a579ba4",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -893,6 +982,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "6d7c7cd82c1e46bdb213",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -949,7 +1048,7 @@
     "lang": "ja",
     "officialSite": "http://satsuriku.com/",
     "begin": "2018-07-06T11:30:00.000Z",
-    "end": "2018-09-30T11:30:00.000Z",
+    "end": "2018-10-26T12:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1004,6 +1103,9 @@
       "zh-Hans": [
         "汤摇庄的幽奈同学",
         "摇曳庄的幽奈小姐"
+      ],
+      "en": [
+        "Yuuna and the Haunted Hot Springs"
       ]
     },
     "type": "tv",
@@ -1035,6 +1137,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81037377",
+        "begin": "2018-12-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1217,7 +1329,7 @@
     "lang": "ja",
     "officialSite": "https://shingeki.tv/season3/",
     "begin": "2018-07-22T15:35:00.000Z",
-    "end": "",
+    "end": "2018-10-14T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1247,7 +1359,7 @@
     "lang": "ja",
     "officialSite": "http://www.tonegawa-anime.com/",
     "begin": "2018-07-03T17:04:00.000Z",
-    "end": "",
+    "end": "2018-12-25T17:09:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1322,6 +1434,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "01856a5271ed4474bfab",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       }
     ]
@@ -1438,6 +1560,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "1038efbfbd2fefbfbdef",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       }
     ]
@@ -1567,7 +1699,7 @@
     "lang": "ja",
     "officialSite": "http://bananafish.tv/",
     "begin": "2018-07-05T15:55:00.000Z",
-    "end": "",
+    "end": "2018-12-20T17:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1827,6 +1959,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "0028141ea8f64ac0970e",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -1842,7 +1984,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
     "begin": "2018-07-08T16:35:00.000Z",
-    "end": "2018-09-30T16:35:00.000Z",
+    "end": "2018-10-07T17:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1872,7 +2014,7 @@
     "lang": "ja",
     "officialSite": "http://fanworks.co.jp/news/20180625_ani/",
     "begin": "2018-07-09T12:54:00.000Z",
-    "end": "",
+    "end": "2018-12-17T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1894,6 +2036,56 @@
         "id": "m/maa2g8kqchabbgl",
         "begin": "2017-07-02T04:00:00.000Z",
         "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "おしえて魔法のペンデュラム～リルリルフェアリル～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "告诉我魔法之摆～莉露莉露妖精莉露～"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fairilu.jp/",
+    "begin": "2018-07-06T23:15:00.000Z",
+    "end": "2019-01-05T23:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "237762"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairilu",
+        "begin": "2018-07-28T22:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "24579",
+        "begin": "2018-07-06T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "WY9o5k60JGLFQ6s",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
@@ -1948,126 +2140,6 @@
         "begin": "2018-07-06T13:45:00.000Z",
         "official": null,
         "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "あるゾンビ少女の災難",
-    "titleTranslate": {
-      "zh-Hans": [
-        "某僵尸少女的灾难"
-      ]
-    },
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "http://www.zombie-girl.net/",
-    "begin": "2018-07-04T16:00:00.000Z",
-    "end": "2018-07-04T18:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "101994"
-      },
-      {
-        "site": "nicovideo",
-        "id": "aruzombie-sainan",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "ソードガイ The Animation PartⅡ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "SWORD GAI 装刀凯  PartⅡ"
-      ]
-    },
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "http://swordgai-anime.com/",
-    "begin": "2018-07-31T16:00:00.000Z",
-    "end": "2018-07-31T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "241865"
-      },
-      {
-        "site": "bilibili",
-        "id": "25002",
-        "begin": "2018-07-31T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "嫌な顔されながらおパンツ見せてもらいたい",
-    "titleTranslate": {
-      "zh-Hans": [
-        "一脸嫌弃表情的妹子给你看胖次"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "http://iyapan-anime.com/",
-    "begin": "2018-07-14T09:30:00.000Z",
-    "end": "2018-08-18T09:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "234195"
-      },
-      {
-        "site": "nicovideo",
-        "id": "iyapan-anime",
-        "begin": "2018-07-21T09:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "ているず おぶ ざ れいず 劇場",
-    "titleTranslate": {
-      "zh-Hans": [
-        "剧场镜光传说"
-      ]
-    },
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "https://torays.tales-ch.jp/special/shortAnime/",
-    "begin": "2018-07-20T16:00:00.000Z",
-    "end": "2018-07-21T16:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "232793"
-      },
-      {
-        "site": "nicovideo",
-        "id": "tales-of-the-rays-theater",
-        "begin": "2018-07-21T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""

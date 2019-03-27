@@ -2697,6 +2697,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8imfx",
+        "begin": "2018-11-28T07:50:43.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3349,6 +3359,16 @@
       {
         "site": "saraba1st",
         "id": "1014549"
+      },
+      {
+        "site": "nicovideo",
+        "id": "date-a-live2",
+        "begin": "2019-01-06T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

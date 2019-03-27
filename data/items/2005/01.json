@@ -99,6 +99,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "air_anime",
+        "begin": "2018-12-27T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -195,6 +205,16 @@
         "id": "1448",
         "begin": "2005-01-05T16:00:00.000Z",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh7pjk5",
+        "begin": "2019-01-25T03:47:29.000Z",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

@@ -36,6 +36,16 @@
       {
         "site": "bangumi",
         "id": "4190"
+      },
+      {
+        "site": "nicovideo",
+        "id": "skg",
+        "begin": "2018-11-30T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -453,6 +463,16 @@
         "id": "5296",
         "begin": "2001-07-29T16:00:01.000Z",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "29568",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

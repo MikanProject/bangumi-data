@@ -516,8 +516,7 @@
     "title": "ラストピリオド -終わりなき螺旋の物語-",
     "titleTranslate": {
       "zh-Hans": [
-        "最后的终止符：没有终焉的螺旋物语",
-        "最后的休止符 无止境的螺旋物语"
+        "最终休止符～无止境的螺旋物语～"
       ]
     },
     "type": "tv",
@@ -653,6 +652,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "宇宙战舰提拉米斯"
+      ],
+      "en": [
+        "SPACE BATTLESHIP TIRAMISU"
       ]
     },
     "type": "tv",
@@ -674,6 +676,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tiramisu-anime",
+        "begin": "2018-11-04T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1227,6 +1239,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "3acea77735904b2296ad",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -1508,6 +1530,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80986797",
+        "begin": "2018-09-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1863,8 +1895,11 @@
     "title": "ウマ娘 プリティーダービー",
     "titleTranslate": {
       "zh-Hans": [
-        "马娘 PrettyDerby",
-        "赛马娘 PrettyDerby"
+        "赛马娘 Pretty Derby",
+        "马娘 PrettyDerby"
+      ],
+      "en": [
+        "Umamusume: Pretty Derby"
       ]
     },
     "type": "tv",
@@ -1896,6 +1931,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81025716",
+        "begin": "2018-10-14T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -2452,6 +2497,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd1b3aefbfbdefbf",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -2989,6 +3044,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "328224",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       }
     ]

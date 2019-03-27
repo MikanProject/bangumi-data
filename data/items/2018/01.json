@@ -296,6 +296,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81029050",
+        "begin": "2018-11-30T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -378,6 +388,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "原书·原书使"
+      ],
+      "en": [
+        "Märchen Mädchen"
       ]
     },
     "type": "tv",
@@ -405,6 +418,16 @@
         "site": "nicovideo",
         "id": "maerchen-anime",
         "begin": "2018-01-12T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80995941",
+        "begin": "2018-11-14T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -468,6 +491,26 @@
         "site": "nicovideo",
         "id": "slow-start",
         "begin": "2018-01-09T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "ceb92cefbfbdefbfbdef",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80995927",
+        "begin": "2018-07-14T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -978,6 +1021,16 @@
         "site": "nicovideo",
         "id": "yorimoi",
         "begin": "2018-01-02T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80995912",
+        "begin": "2018-07-14T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1863,6 +1916,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd751f66efbfbd01",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -1892,6 +1955,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80185145",
+        "begin": "2018-06-30T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -2229,6 +2302,56 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 進撃の巨人 Season2〜覚醒の咆哮〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 进击的巨人 Season2～觉醒的咆哮～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://shingeki.tv/movie_season2/",
+    "begin": "2018-01-13T16:00:00.000Z",
+    "end": "2018-01-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228407"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_movie_season2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第四章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2202 爱的战士们 第四章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yamato2202.net/",
+    "begin": "2018-01-27T16:00:00.000Z",
+    "end": "2018-01-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192153"
       }
     ]
   }
