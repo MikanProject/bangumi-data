@@ -1,5 +1,26 @@
 [
   {
+    "title": "ストライクウィッチーズ Operation Victory Arrow",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强袭魔女 胜利之箭行动"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://w-witch.jp/sw_ova/",
+    "begin": "2015-01-10T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-03-13T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85339"
+      }
+    ]
+  },
+  {
     "title": "機動戦士ガンダム THE ORIGIN",
     "titleTranslate": {
       "zh-Hans": [
@@ -59,6 +80,27 @@
       {
         "site": "bangumi",
         "id": "111081"
+      }
+    ]
+  },
+  {
+    "title": "ストライクウィッチーズ Operation Victory Arrow",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强袭魔女 胜利之箭行动"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://w-witch.jp/sw_ova/",
+    "begin": "2015-05-02T00:00:00",
+    "end": "",
+    "bdReleaseDate": "2015-07-31T00:00:00",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85339"
       }
     ]
   },
