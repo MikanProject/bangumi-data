@@ -100,22 +100,28 @@
     ]
   },
   {
-    "title": "おしりたんてい",
-    "titleTranslate": {
-      "zh-Hans": [
-        "屁屁侦探"
-      ]
-    },
-    "type": "tv",
+    "title": "プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～",
+    "titleTranslate": {},
+    "type": "movie",
     "lang": "ja",
-    "officialSite": "http://www.oshiri-tantei.com/",
-    "begin": "2018-05-03T00:00:00.000Z",
-    "end": "2018-08-25T00:20:00.000Z",
+    "officialSite": "http://pp-movie.com/",
+    "begin": "2018-05-05T16:00:00.000Z",
+    "end": "2018-05-05T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "239180"
+        "id": "238995"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pp-movie-pretty-rhythm",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

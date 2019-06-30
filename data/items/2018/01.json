@@ -1079,6 +1079,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21680",
+        "begin": "2018-01-13T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2302,56 +2312,6 @@
         "censored": null,
         "exist": true,
         "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "劇場版 進撃の巨人 Season2〜覚醒の咆哮〜",
-    "titleTranslate": {
-      "zh-Hans": [
-        "剧场版 进击的巨人 Season2～觉醒的咆哮～"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://shingeki.tv/movie_season2/",
-    "begin": "2018-01-13T16:00:00.000Z",
-    "end": "2018-01-13T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "228407"
-      },
-      {
-        "site": "nicovideo",
-        "id": "shingeki_movie_season2",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第四章",
-    "titleTranslate": {
-      "zh-Hans": [
-        "宇宙战舰大和号2202 爱的战士们 第四章"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://yamato2202.net/",
-    "begin": "2018-01-27T16:00:00.000Z",
-    "end": "2018-01-27T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "192153"
       }
     ]
   }

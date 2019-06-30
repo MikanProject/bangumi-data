@@ -333,6 +333,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "索斯机械兽WILD"
+      ],
+      "en": [
+        "ZOIDS WILD"
       ]
     },
     "type": "tv",
@@ -1148,6 +1151,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "24593",
+        "begin": "2018-07-13T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1342,6 +1355,16 @@
         "begin": "2018-07-30T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "24629",
+        "begin": "2018-07-22T18:05:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1640,6 +1663,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tsukumogami",
+        "begin": "2019-01-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -2140,6 +2173,216 @@
         "begin": "2018-07-06T13:45:00.000Z",
         "official": null,
         "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "あるゾンビ少女の災難",
+    "titleTranslate": {
+      "zh-Hans": [
+        "某僵尸少女的灾难"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.zombie-girl.net/",
+    "begin": "2018-07-04T16:00:00.000Z",
+    "end": "2018-07-04T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101994"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aruzombie-sainan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ソードガイ The Animation PartⅡ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SWORD GAI 装刀凯  PartⅡ"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://swordgai-anime.com/",
+    "begin": "2018-07-31T16:00:00.000Z",
+    "end": "2018-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241865"
+      },
+      {
+        "site": "bilibili",
+        "id": "25002",
+        "begin": "2018-07-31T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "スペースバグ",
+    "titleTranslate": {
+      "en": [
+        "Space Bug"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.spacebug-special.com/",
+    "begin": "2018-07-08T01:30:00.000Z",
+    "end": "2019-01-06T01:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258390"
+      },
+      {
+        "site": "nicovideo",
+        "id": "space-bug",
+        "begin": "2018-07-09T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ているず おぶ ざ れいず 劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场镜光传说"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://torays.tales-ch.jp/special/shortAnime/",
+    "begin": "2018-07-20T16:00:00.000Z",
+    "end": "2018-07-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232793"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tales-of-the-rays-theater",
+        "begin": "2018-07-21T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "スーパードラゴンボールヒーローズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级龙珠英雄"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-07-01T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "246914"
+      },
+      {
+        "site": "youku",
+        "id": "6e7ec73857014aca8d26",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ポケットモンスター みんなの物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦 大家的故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2018-07-13T16:00:00.000Z",
+    "end": "2018-07-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231970"
+      },
+      {
+        "site": "youku",
+        "id": "34d5a5beda334772994f",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ネコぱら OVA Extra 仔ネコの日の約束",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NEKOPARA OVA Extra 小猫之日的约定"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nekoparaova.com/ex/index.html",
+    "begin": "2018-07-27T16:00:00.000Z",
+    "end": "2018-07-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "254374"
+      },
+      {
+        "site": "bilibili",
+        "id": "25152",
+        "begin": "2018-07-26T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""

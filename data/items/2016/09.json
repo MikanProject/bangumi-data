@@ -161,6 +161,32 @@
     ]
   },
   {
+    "title": "タマ＆フレンズ　～うちのタマ知りませんか？～",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.scp.co.jp/Tama/",
+    "begin": "2016-09-30T22:00:00.000Z",
+    "end": "2018-11-17T18:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187704"
+      },
+      {
+        "site": "nicovideo",
+        "id": "Tama-anime",
+        "begin": "2017-01-26T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
     "title": "ドリフェス！",
     "titleTranslate": {
       "zh-Hans": [
