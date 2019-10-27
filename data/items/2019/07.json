@@ -11,11 +11,15 @@
     "officialSite": "http://uchinoko-anime.com/",
     "begin": "2019-07-04T14:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "275352"
+      },
+      {
+        "site": "qq",
+        "id": "e/er0k7wjhbw8f4vj",
+        "begin": ""
       }
     ]
   },
@@ -31,11 +35,25 @@
     "officialSite": "http://danmachi.com/danmachi2/",
     "begin": "2019-07-05T15:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "238004"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221395",
+        "begin": "2019-07-06T16:00:01.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "danmachi2",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhshzg5",
+        "begin": ""
       }
     ]
   },
@@ -54,11 +72,15 @@
     "officialSite": "http://www.symphogear-xv.com/",
     "begin": "2019-07-06T16:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "170689"
+      },
+      {
+        "site": "nicovideo",
+        "id": "symphogear-xv",
+        "begin": ""
       }
     ]
   },
@@ -74,12 +96,22 @@
     "officialSite": "",
     "begin": "2019-07-12T13:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "262939"
-      }]
+      },
+      {
+        "site": "bilibili",
+        "id": "28221399",
+        "begin": "2019-07-11T16:00:01.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "toaru-accelerator",
+        "begin": ""
+      }
+    ]
   },
   {
     "title": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
@@ -93,11 +125,25 @@
     "officialSite": "",
     "begin": "2019-07-12T15:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "264355"
+      },
+      {
+        "site": "acfun",
+        "id": "5024869",
+        "begin": "2019-07-12T15:59:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "okaasan-online",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221400",
+        "begin": ""
       }
     ]
   },
@@ -113,11 +159,20 @@
     "officialSite": "http://takagi3.me/",
     "begin": "2019-07-07T14:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "271151"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221403",
+        "begin": "2019-07-06T16:00:01.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "takagi3_me2",
+        "begin": ""
       }
     ]
   },
@@ -136,11 +191,20 @@
     "officialSite": "http://jyoshimuda.com/",
     "begin": "2019-07-05T12:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "265708"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jyoshimuda",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221415",
+        "begin": "2019-07-05T14:00:00.000Z"
       }
     ]
   },
@@ -156,11 +220,20 @@
     "officialSite": "",
     "begin": "2019-07-08T11:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "275371"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hensuki",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221414",
+        "begin": ""
       }
     ]
   },
@@ -176,11 +249,20 @@
     "officialSite": "",
     "begin": "2019-07-08T14:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "231414"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221390",
+        "begin": "2019-07-08T15:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "arifureta",
+        "begin": ""
       }
     ]
   },
@@ -196,11 +278,20 @@
     "officialSite": "http://isekai-cheat-magician.com/",
     "begin": "2019-07-10T13:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "242962"
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekai-cheat-magician",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "5/5inc5xigj39zzgq",
+        "begin": ""
       }
     ]
   },
@@ -216,11 +307,20 @@
     "officialSite": "http://maousama-anime.com/",
     "begin": "2019-07-03T15:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "260407"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221401",
+        "begin": "2019-07-03T16:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maousama-anime",
+        "begin": ""
       }
     ]
   },
@@ -239,11 +339,20 @@
     "officialSite": "",
     "begin": "2019-07-03T13:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "271724"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dumbbell-anime",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221412",
+        "begin": "2019-07-03T14:30:00.000Z"
       }
     ]
   },
@@ -251,7 +360,8 @@
     "title": "ナカノヒトゲノム【実況中】",
     "titleTranslate": {
       "zh-Hans": [
-        "中之人基因组【实况中】"
+        "中之人基因组【实况中】",
+        "实况主的逃脱游戏【直播中】"
       ]
     },
     "type": "tv",
@@ -259,11 +369,30 @@
     "officialSite": "http://www.nhg-anime.com/",
     "begin": "2019-07-07T13:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "247548"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221396",
+        "begin": "2019-07-06T16:00:01.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nhg-anime",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/uvb5v1z056az20y",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rri0l9d5",
+        "begin": ""
       }
     ]
   },
@@ -279,11 +408,15 @@
     "officialSite": "http://tejina-senpai.jp/",
     "begin": "2019-07-02T14:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "265614"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221418",
+        "begin": "2019-07-02T14:30:00.000Z"
       }
     ]
   },
@@ -299,11 +432,20 @@
     "officialSite": "http://sounandesuka.jp/",
     "begin": "2019-07-02T14:15:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "276187"
+      },
+      {
+        "site": "acfun",
+        "id": "5024886",
+        "begin": "2019-07-02T15:15:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221411",
+        "begin": "2019-07-02T14:30:00.000Z"
       }
     ]
   },
@@ -322,11 +464,20 @@
     "officialSite": "",
     "begin": "2019-07-05T16:55:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "276412"
+      },
+      {
+        "site": "acfun",
+        "id": "5024870",
+        "begin": "2019-07-05T17:25:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "granbelm",
+        "begin": ""
       }
     ]
   },
@@ -342,11 +493,20 @@
     "officialSite": "http://araoto-anime.com/",
     "begin": "2019-07-05T17:25:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "268070"
+      },
+      {
+        "site": "nicovideo",
+        "id": "araoto-anime",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221421",
+        "begin": ""
       }
     ]
   },
@@ -362,11 +522,20 @@
     "officialSite": "http://fireforce-anime.jp/",
     "begin": "2019-07-05T16:25:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "266372"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221335",
+        "begin": "2019-07-05T17:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fireforce-anime",
+        "begin": ""
       }
     ]
   },
@@ -377,7 +546,8 @@
         "TO THE ABANDONED SACRED BEASTS"
       ],
       "zh-Hans": [
-        "致曾为神之众兽"
+        "致曾为神之众兽",
+        "猎兽神兵"
       ]
     },
     "type": "tv",
@@ -385,11 +555,20 @@
     "officialSite": "http://katsu-kami.com/",
     "begin": "2019-07-01T14:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "273879"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221402",
+        "begin": "2019-07-01T15:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "v/v06da82h1gv4kfy",
+        "begin": ""
       }
     ]
   },
@@ -405,11 +584,30 @@
     "officialSite": "",
     "begin": "2019-07-05T13:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "266794"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dr-stone",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhsfl9t",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bqv9nc6qhdqd8xg",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221387",
+        "begin": "2019-07-05T14:30:00.000Z"
       }
     ]
   },
@@ -425,11 +623,15 @@
     "officialSite": "",
     "begin": "2019-07-07T13:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "252321"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rst-anime",
+        "begin": ""
       }
     ]
   },
@@ -448,11 +650,25 @@
     "officialSite": "",
     "begin": "2019-07-07T13:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "159159"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221392",
+        "begin": "2019-07-06T16:00:01.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/ma1qf0ko6p095l9",
+        "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ensemblestars-anime",
+        "begin": ""
       }
     ]
   },
@@ -468,11 +684,20 @@
     "officialSite": "http://www.tbs.co.jp/anime/machikado/",
     "begin": "2019-07-11T16:28:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "272510"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221404",
+        "begin": "2019-07-11T17:28:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "machikado",
+        "begin": ""
       }
     ]
   },
@@ -491,11 +716,20 @@
     "officialSite": "http://astra-anime.com/",
     "begin": "2019-07-03T12:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "273877"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221416",
+        "begin": "2019-07-03T13:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "astra-anime",
+        "begin": ""
       }
     ]
   },
@@ -514,11 +748,20 @@
     "officialSite": "http://copcraft.tv/",
     "begin": "2019-07-08T15:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "270422"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221410",
+        "begin": "2019-07-07T16:00:01.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "copcraft",
+        "begin": ""
       }
     ]
   },
@@ -534,11 +777,15 @@
     "officialSite": "",
     "begin": "2019-07-07T16:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "283272"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yubinetsu",
+        "begin": ""
       }
     ]
   },
@@ -552,13 +799,17 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2019-07-01T14:30:00.000Z",
+    "begin": "2019-07-01T13:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "227390"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221479",
+        "begin": "2019-07-01T14:00:00.000Z"
       }
     ]
   },
@@ -574,27 +825,44 @@
     "officialSite": "http://given-anime.com/",
     "begin": "2019-07-11T16:10:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "277518"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221405",
+        "begin": ""
       }
     ]
   },
   {
     "title": "BEM",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "BEM"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "",
     "begin": "2019-07-14T16:35:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "274133"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221385",
+        "begin": "2019-07-14T17:35:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rri0k0st",
+        "begin": ""
       }
     ]
   },
@@ -610,11 +878,15 @@
     "officialSite": "http://wakanobu.com/",
     "begin": "2019-07-08T12:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "270229"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wakanobu",
+        "begin": ""
       }
     ]
   },
@@ -630,11 +902,40 @@
     "officialSite": "",
     "begin": "2019-07-07T18:13:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "283480"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221422",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "dacf06c693894b869384",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "博多明太！ぴりからこちゃん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://pirikarakochan.com/",
+    "begin": "2019-07-06T21:15:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285513"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pirikarakochan",
+        "begin": ""
       }
     ]
   },
@@ -648,13 +949,153 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://anime.elmelloi.com/",
-    "begin": "2019-07-04T15:00:00.000Z",
+    "begin": "2019-07-06T15:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "267732"
+      },
+      {
+        "site": "bilibili",
+        "id": "5912238",
+        "begin": "2019-07-05T16:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime_elmelloi",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "ヴィンランド・サガ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海盗战记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://vinlandsaga.jp/",
+    "begin": "2019-07-07T15:10:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240386"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220475",
+        "begin": "2019-07-07T16:10:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "われしょ!～我ら!小動物愛護委員会～",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.waresyo.com/",
+    "begin": "2019-07-01T16:00:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285670"
+      }
+    ]
+  },
+  {
+    "title": "聖闘士星矢: Knights of the Zodiac",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢：黄道十二宫战士"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-07-19T16:00:00.000Z",
+    "end": "2019-07-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221295"
+      },
+      {
+        "site": "netflix",
+        "id": "80186926",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhvm9ul",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "ケンガンアシュラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拳愿阿修罗"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://kengan.net/",
+    "begin": "2019-07-31T16:00:00.000Z",
+    "end": "2019-07-31T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "132817"
+      },
+      {
+        "site": "netflix",
+        "id": "80992228",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "トライナイツ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.ntv.co.jp/tryknights/",
+    "begin": "2019-07-30T16:29:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277423"
+      }
+    ]
+  },
+  {
+    "title": "超次元ゲイム ネプテューヌ ～ねぷのなつやすみ2019～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超次元游戏 海王星 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nep-anime.tv/",
+    "begin": "2019-07-08T16:00:00.000Z",
+    "end": "2019-07-08T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279365"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nep-anime-ova",
+        "begin": ""
       }
     ]
   }
