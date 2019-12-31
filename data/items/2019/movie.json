@@ -651,6 +651,27 @@
     ]
   },
   {
+    "title": "グリザイア：ファントムトリガー THE ANIMATIION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灰色幻影扳机"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://grisaia-pt.com/gptanime/",
+    "begin": "2019-03-15T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2019-07-31T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219263"
+      }
+    ]
+  },
+  {
     "title": "LAIDBACKERS-レイドバッカーズ-",
     "titleTranslate": {
       "zh-Hans": [
@@ -1067,6 +1088,90 @@
       {
         "site": "bangumi",
         "id": "241270"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ポケットモンスター ミュウツーの逆襲Evolution",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦：超梦的逆袭Evolution"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2019-07-12T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2019-12-18T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "256283"
+      }
+    ]
+  },
+  {
+    "title": "BLACKFOX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BLACKFOX"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-blackfox.jp/",
+    "begin": "2019-10-05T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2019-12-18T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240559"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 歌之王子殿下 真爱王国"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://utapri-movie.com",
+    "begin": "2019-06-14T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2019-12-25T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "203863"
+      }
+    ]
+  },
+  {
+    "title": "ストライクウィッチーズ 劇場版 501部隊発進しますっ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强袭魔女 剧场版 501部队起飞！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://w-witch.jp/501_takeoff/",
+    "begin": "2019-10-04T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2019-12-25T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285410"
       }
     ]
   }

@@ -1,5 +1,26 @@
 [
   {
+    "title": "二ノ国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "二之国"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/ninokunijp/",
+    "begin": "2019-08-23T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-01-08T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "274239"
+      }
+    ]
+  },
+  {
     "title": "劇場版 ガンダム Gのレコンギスタ",
     "titleTranslate": {
       "zh-Hans": [
@@ -9,7 +30,7 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2019-01-01T00:00:00Z",
+    "begin": "2019-11-29T00:00:00Z",
     "end": "",
     "bdReleaseDate": "2020-01-28T00:00:00Z",
     "comment": "",
@@ -17,6 +38,195 @@
       {
         "site": "bangumi",
         "id": "152365"
+      }
+    ]
+  },
+  {
+    "title": "海獣の子供",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海兽之子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kaijunokodomo.com/",
+    "begin": "2019-06-07T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-01-29T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "253997"
+      }
+    ]
+  },
+  {
+    "title": "プロメア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Promare"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-05-24T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-02-05T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218713"
+      }
+    ]
+  },
+  {
+    "title": "映画 スター トゥインクルプリキュア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "映画 スター トゥインクルプリキュア"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-10-19T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-02-19T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282759"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 響け！ユーフォニアム～誓いのフィナーレ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 吹响！悠风号～誓言的终章～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime-eupho.com/",
+    "begin": "2019-04-19T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-02-26T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "216372"
+      }
+    ]
+  },
+  {
+    "title": "キミだけにモテたいんだ。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "只想受你欢迎"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kimimote.com/",
+    "begin": "2019-10-25T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-02-26T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243168"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&amp;パンツァー 最終章 第2話",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 最终章 第2话"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer.jp/",
+    "begin": "2019-06-15T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-02-27T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208825"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST YOUR STORY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DRAGON QUEST YOUR STORY"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-08-02T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-03-04T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "274524"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE STAMPEDE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ONE PIECE STAMPEDE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.onepiece-movie.jp/",
+    "begin": "2019-08-09T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-03-18T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258349"
+      }
+    ]
+  },
+  {
+    "title": "この素晴らしい世界に祝福を！紅伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "为美好的世界献上祝福！红传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://konosuba.com/",
+    "begin": "2019-08-30T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-03-25T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220631"
       }
     ]
   }
