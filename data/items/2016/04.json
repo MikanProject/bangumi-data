@@ -353,6 +353,11 @@
         "site": "nicovideo",
         "id": "macrossdelta",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fb2f77c4e59911e5b522",
+        "begin": "2016-04-04T06:31:21.000Z"
       }
     ]
   },
@@ -481,6 +486,11 @@
         "site": "netflix",
         "id": "80135674",
         "begin": "2017-08-31T16:00:00.000Z"
+      },
+      {
+        "site": "acfun",
+        "id": "6000687",
+        "begin": "2019-12-19T12:13:57.000Z"
       }
     ]
   },
@@ -541,6 +551,11 @@
       {
         "site": "bangumi",
         "id": "169917"
+      },
+      {
+        "site": "youku",
+        "id": "969a4f6ce5a011e5b522",
+        "begin": "2017-12-11T08:49:40.000Z"
       }
     ]
   },
@@ -1172,6 +1187,11 @@
       {
         "site": "bangumi",
         "id": "168468"
+      },
+      {
+        "site": "youku",
+        "id": "fe0dc6f2e66211e59e2a",
+        "begin": "2016-04-07T11:45:26.000Z"
       }
     ]
   },
@@ -1353,6 +1373,11 @@
         "site": "nicovideo",
         "id": "netogenoyome",
         "begin": "2016-04-16T16:30:00.000Z"
+      },
+      {
+        "site": "acfun",
+        "id": "6000335",
+        "begin": "2019-10-14T13:20:52.000Z"
       }
     ]
   },
@@ -1433,6 +1458,11 @@
         "site": "netflix",
         "id": "80103318",
         "begin": "2016-07-04T07:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "1aebfc9ae36511e5b522",
+        "begin": "2016-04-08T08:31:44.000Z"
       }
     ]
   },
@@ -1491,6 +1521,11 @@
       {
         "site": "bangumi",
         "id": "169274"
+      },
+      {
+        "site": "mgtv",
+        "id": "332436",
+        "begin": ""
       }
     ]
   },
@@ -1835,6 +1870,11 @@
         "site": "nicovideo",
         "id": "sekainotomodachi",
         "begin": "2017-02-14T03:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "ac4ace1af54d11e59e2a",
+        "begin": "2016-04-27T01:50:57.000Z"
       }
     ]
   },
@@ -2063,6 +2103,11 @@
       {
         "site": "bangumi",
         "id": "170044"
+      },
+      {
+        "site": "youku",
+        "id": "59401154e66011e5b522",
+        "begin": "2016-04-07T17:44:06.000Z"
       }
     ]
   },
@@ -2225,6 +2270,11 @@
       {
         "site": "bangumi",
         "id": "131427"
+      },
+      {
+        "site": "qq",
+        "id": "8/8s2vkbiokr5lnc2",
+        "begin": ""
       }
     ]
   },
@@ -2375,6 +2425,64 @@
     ]
   },
   {
+    "title": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "游戏王 The Dark Side of Dimensions"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.yugioh20th.com/",
+    "begin": "2016-04-23T16:00:00.000Z",
+    "end": "2016-04-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "106329"
+      },
+      {
+        "site": "pptv",
+        "id": "mZ56ibGDGNnTXVb0",
+        "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yugioh_movie",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吹响！悠风号～欢迎来到北宇治高中吹奏乐部～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie.anime-eupho.com",
+    "begin": "2016-04-23T16:00:00.000Z",
+    "end": "2016-04-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "152092"
+      },
+      {
+        "site": "pptv",
+        "id": "SfbiaYMguntwicvSU",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "006e1befbfbdefbfbd7b",
+        "begin": ""
+      }
+    ]
+  },
+  {
     "title": "田中くんは今日もけだるげ",
     "titleTranslate": {
       "zh-Hans": [
@@ -2395,6 +2503,11 @@
         "site": "pptv",
         "id": "BDQgngZs3Bp9ib2M",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "73a01a02e4d611e5b32f",
+        "begin": "2016-04-10T14:17:35.000Z"
       }
     ]
   },

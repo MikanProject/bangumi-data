@@ -1,43 +1,5 @@
 [
   {
-    "title": "旗揚！けものみち",
-    "titleTranslate": {
-      "zh-Hans": [
-        "兽道"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://hataage-kemonomichi.com/",
-    "begin": "2019-10-02T13:00:00.000Z",
-    "end": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "272034"
-      }
-    ]
-  },
-  {
-    "title": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
-    "titleTranslate": {
-      "zh-Hans": [
-        "Fate/Grand Order 绝对魔兽战线 巴比伦尼亚"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2019-10-05T12:30:00.000Z",
-    "end": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "255526"
-      }
-    ]
-  },
-  {
     "title": "ハイスコアガールII",
     "titleTranslate": {
       "en": [
@@ -57,6 +19,11 @@
       {
         "site": "bangumi",
         "id": "278569"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222728",
+        "begin": "2019-10-25T18:55:00.000Z"
       }
     ]
   },
@@ -72,7 +39,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://sao-alicization.net/",
     "begin": "2019-10-12T15:00:00.000Z",
     "end": "",
     "comment": "",
@@ -80,6 +47,16 @@
       {
         "site": "bangumi",
         "id": "279457"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222723",
+        "begin": "2019-10-12T16:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sao-alicization-wou",
+        "begin": "2019-10-05T15:00:00.000Z"
       }
     ]
   },
@@ -100,6 +77,26 @@
       {
         "site": "bangumi",
         "id": "266157"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222736",
+        "begin": "2019-10-02T15:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhz6yah",
+        "begin": "2019-10-02T14:55:07.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200djxpvjn",
+        "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "shincho-yusha",
+        "begin": "2019-10-09T15:00:00.000Z"
       }
     ]
   },
@@ -112,7 +109,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://oresuki-anime.com/",
     "begin": "2019-10-02T15:30:00.000Z",
     "end": "",
     "comment": "",
@@ -120,6 +117,16 @@
       {
         "site": "bangumi",
         "id": "262943"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222693",
+        "begin": "2019-10-02T17:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ore_ski",
+        "begin": "2019-10-09T16:00:00.000Z"
       }
     ]
   },
@@ -127,12 +134,15 @@
     "title": "ぼくたちは勉強ができない！",
     "titleTranslate": {
       "zh-Hans": [
-        "我们真的学不来 第二季"
+        "我们真的学不来 第二季",
+        "我们真的学不来！",
+        "我们无法一起学习 第二季",
+        "我们无法一起学习！"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://boku-ben.com",
     "begin": "2019-10-05T15:30:00.000Z",
     "end": "",
     "comment": "",
@@ -140,6 +150,11 @@
       {
         "site": "bangumi",
         "id": "285130"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222688",
+        "begin": "2019-10-05T17:00:00.000Z"
       }
     ]
   },
@@ -147,12 +162,12 @@
     "title": "私、能力は平均値でって言ったよね！",
     "titleTranslate": {
       "zh-Hans": [
-        "我不是说了能力要平均值么"
+        "我，不是说了能力要平均值么！"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://noukin-anime.com/",
     "begin": "2019-10-07T14:30:00.000Z",
     "end": "",
     "comment": "",
@@ -160,6 +175,16 @@
       {
         "site": "bangumi",
         "id": "238962"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222622",
+        "begin": "2019-10-07T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "noukin-anime",
+        "begin": "2019-10-21T15:00:00.000Z"
       }
     ]
   },
@@ -190,12 +215,13 @@
         "Rifle is Beautiful"
       ],
       "zh-Hans": [
-        "美妙的步枪"
+        "美妙的步枪",
+        "美妙射击部"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://chidori-high-school.com/",
     "begin": "2019-10-13T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -203,6 +229,16 @@
       {
         "site": "bangumi",
         "id": "263771"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222731",
+        "begin": "2019-10-13T15:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chidori-high-school",
+        "begin": "2019-10-17T03:00:00.000Z"
       }
     ]
   },
@@ -210,7 +246,8 @@
     "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
     "titleTranslate": {
       "zh-Hans": [
-        "书虫的下克上～为了成为图书管理员而不择手段～"
+        "书虫的下克上～为了成为图书管理员而不择手段～",
+        "爱书的下克上：为了成为图书管理员不择手段！"
       ]
     },
     "type": "tv",
@@ -223,6 +260,26 @@
       {
         "site": "bangumi",
         "id": "276788"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222624",
+        "begin": "2019-10-02T16:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "booklove",
+        "begin": "2019-10-09T15:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rri0rsk5",
+        "begin": "2019-10-02T16:25:05.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "cfcf7caaef8b4eab991f",
+        "begin": "2019-10-02T16:28:05.000Z"
       }
     ]
   },
@@ -230,7 +287,8 @@
     "title": "放課後さいころ倶楽部",
     "titleTranslate": {
       "zh-Hans": [
-        "放学后骰子俱乐部"
+        "放学后骰子俱乐部",
+        "放学后桌游俱乐部"
       ]
     },
     "type": "tv",
@@ -243,6 +301,26 @@
       {
         "site": "bangumi",
         "id": "259790"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222625",
+        "begin": "2019-10-02T18:11:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saikoro-club",
+        "begin": "2019-10-06T15:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhyyont",
+        "begin": "2019-10-02T18:10:06.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "feddb8b330944aff896f",
+        "begin": "2019-10-02T18:09:03.000Z"
       }
     ]
   },
@@ -250,7 +328,8 @@
     "title": "超人高校生たちは異世界でも余裕で生き抜くようです！",
     "titleTranslate": {
       "zh-Hans": [
-        "超人高校生在异世界也可以活的风生水起！"
+        "超人高校生在异世界也可以活的风生水起！",
+        "超人高中生们即便在异世界也能从容生存！"
       ]
     },
     "type": "tv",
@@ -263,6 +342,26 @@
       {
         "site": "bangumi",
         "id": "277399"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222745",
+        "begin": "2019-10-03T14:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "choujin",
+        "begin": "2019-10-10T14:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rri0ru2p",
+        "begin": "2019-10-03T13:55:05.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200s105gal",
+        "begin": ""
       }
     ]
   },
@@ -275,7 +374,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://val-love.com/",
     "begin": "2019-10-05T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -283,6 +382,11 @@
       {
         "site": "bangumi",
         "id": "282564"
+      },
+      {
+        "site": "nicovideo",
+        "id": "val-love",
+        "begin": "2019-10-08T15:00:00.000Z"
       }
     ]
   },
@@ -298,7 +402,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://assassinspride-anime.com/",
     "begin": "2019-10-10T14:30:00.000Z",
     "end": "",
     "comment": "",
@@ -306,6 +410,32 @@
       {
         "site": "bangumi",
         "id": "264356"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222619",
+        "begin": "2019-10-10T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "XL上司。",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://xljoushi.cf-anime.com/",
+    "begin": "2019-10-06T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "288940"
+      },
+      {
+        "site": "nicovideo",
+        "id": "xljoushi",
+        "begin": "2019-10-06T16:00:00.000Z"
       }
     ]
   },
@@ -326,6 +456,46 @@
       {
         "site": "bangumi",
         "id": "239125"
+      },
+      {
+        "site": "youku",
+        "id": "abddedbc2df84271b13e",
+        "begin": "2019-10-02T10:23:05.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ahirunosora",
+        "begin": "2019-10-30T09:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "浦島坂田船の日常",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浦岛坂田船的日常"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://nbcuni-music.com/urashimasakatasen/anime/",
+    "begin": "2019-10-02T12:54:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "287615"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222740",
+        "begin": "2019-10-02T14:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "urashimasakatasen",
+        "begin": "2019-10-02T12:54:00.000Z"
       }
     ]
   },
@@ -338,7 +508,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://anime.granbluefantasy.jp/",
     "begin": "2019-10-04T15:00:00.000Z",
     "end": "",
     "comment": "",
@@ -346,6 +516,16 @@
       {
         "site": "bangumi",
         "id": "227980"
+      },
+      {
+        "site": "acfun",
+        "id": "6000221",
+        "begin": "2019-10-04T16:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "granbluefantasy2",
+        "begin": "2019-10-07T03:00:00.000Z"
       }
     ]
   },
@@ -366,6 +546,16 @@
       {
         "site": "bangumi",
         "id": "278440"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tokunana",
+        "begin": "2019-10-13T13:00:00.000Z"
+      },
+      {
+        "site": "acfun",
+        "id": "6000220",
+        "begin": "2019-10-06T13:30:00.000Z"
       }
     ]
   },
@@ -378,7 +568,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://actors-anime.jp/",
     "begin": "2019-10-06T14:30:00.000Z",
     "end": "",
     "comment": "",
@@ -386,6 +576,21 @@
       {
         "site": "bangumi",
         "id": "266348"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222659",
+        "begin": "2019-10-06T14:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "actors-anime",
+        "begin": "2019-10-07T03:00:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "332351",
+        "begin": ""
       }
     ]
   },
@@ -398,7 +603,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://babylon-anime.com/",
     "begin": "2019-10-07T13:00:00.000Z",
     "end": "",
     "comment": "",
@@ -411,10 +616,14 @@
   },
   {
     "title": "Z/X Code reunion",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Z/X Code reunion"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.zxtcg.com/reunion/",
     "begin": "2019-10-08T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -422,6 +631,16 @@
       {
         "site": "bangumi",
         "id": "225941"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222672",
+        "begin": "2019-10-08T14:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zxtcg_reunion",
+        "begin": "2019-10-12T15:00:00.000Z"
       }
     ]
   },
@@ -442,6 +661,16 @@
       {
         "site": "bangumi",
         "id": "278828"
+      },
+      {
+        "site": "acfun",
+        "id": "6000217",
+        "begin": "2019-10-06T16:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "afusara",
+        "begin": "2019-10-13T16:00:00.000Z"
       }
     ]
   },
@@ -449,7 +678,8 @@
     "title": "厨病激発ボーイ",
     "titleTranslate": {
       "zh-Hans": [
-        "厨病激发BOY"
+        "厨病激发BOY",
+        "厨病激发男孩"
       ]
     },
     "type": "tv",
@@ -462,22 +692,32 @@
       {
         "site": "bangumi",
         "id": "278220"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222735",
+        "begin": "2019-10-04T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chubyou",
+        "begin": "2019-10-11T14:00:00.000Z"
       }
     ]
   },
   {
     "title": "ラディアン(第2シリーズ)",
     "titleTranslate": {
-      "zh-Hans": [
-        "虚空魔境 第二季"
-      ],
       "en": [
         "RADIANT"
+      ],
+      "zh-Hans": [
+        "虚空魔境 第二季"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://www.nhk.or.jp/anime/radiant/",
     "begin": "2019-10-02T10:25:00.000Z",
     "end": "",
     "comment": "",
@@ -485,6 +725,16 @@
       {
         "site": "bangumi",
         "id": "276051"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222732",
+        "begin": "2019-10-02T11:30:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "l/l9g8xglsgi97ajj",
+        "begin": ""
       }
     ]
   },
@@ -497,7 +747,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=iruma",
+    "officialSite": "https://www6.nhk.or.jp/anime/program/detail.html?i=iruma",
     "begin": "2019-10-05T08:35:00.000Z",
     "end": "",
     "comment": "",
@@ -505,6 +755,16 @@
       {
         "site": "bangumi",
         "id": "273844"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222749",
+        "begin": "2019-10-05T11:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200t7d5jfb",
+        "begin": ""
       }
     ]
   },
@@ -525,6 +785,11 @@
       {
         "site": "bangumi",
         "id": "289119"
+      },
+      {
+        "site": "mgtv",
+        "id": "332462",
+        "begin": ""
       }
     ]
   },
@@ -548,6 +813,16 @@
       {
         "site": "bangumi",
         "id": "256649"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222739",
+        "begin": "2019-10-11T17:55:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pipecat-kabukicho",
+        "begin": "2019-10-19T04:00:00.000Z"
       }
     ]
   },
@@ -571,22 +846,37 @@
       {
         "site": "bangumi",
         "id": "285109"
+      },
+      {
+        "site": "mgtv",
+        "id": "332444",
+        "begin": ""
+      },
+      {
+        "site": "acfun",
+        "id": "6000307",
+        "begin": "2019-10-04T10:01:39.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zoidswild-zero",
+        "begin": "2019-10-05T03:00:00.000Z"
       }
     ]
   },
   {
     "title": "アズールレーン",
     "titleTranslate": {
-      "en": [
-        "AZUR LANE THE ANIMATION"
-      ],
       "zh-Hans": [
         "碧蓝航线"
+      ],
+      "en": [
+        "AZUR LANE THE ANIMATION"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://azurlane-anime.jp/",
     "begin": "2019-10-03T14:30:00.000Z",
     "end": "",
     "comment": "",
@@ -594,6 +884,37 @@
       {
         "site": "bangumi",
         "id": "260677"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222522",
+        "begin": "2019-10-03T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "azurlane",
+        "begin": "2019-10-07T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "どるふろ -癒し編-",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.jvcmusic.co.jp/dollsfrontline/minianime/",
+    "begin": "2019-10-04T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291841"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dollsfrontline_minianime",
+        "begin": "2019-12-07T12:00:00.000Z"
       }
     ]
   },
@@ -609,7 +930,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://pso2.jp/anime_eporacle/",
     "begin": "2019-10-07T13:30:00.000Z",
     "end": "",
     "comment": "",
@@ -617,15 +938,30 @@
       {
         "site": "bangumi",
         "id": "277217"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222752",
+        "begin": "2019-10-07T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pso2_eporacle",
+        "begin": "2019-10-13T13:30:00.000Z"
       }
     ]
   },
   {
     "title": "BEASTARS",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "动物狂想曲",
+        "野兽巨星"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://bst-anime.com/",
     "begin": "2019-10-09T16:15:00.000Z",
     "end": "",
     "comment": "",
@@ -633,6 +969,11 @@
       {
         "site": "bangumi",
         "id": "273843"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222618",
+        "begin": "2019-10-09T21:05:00.000Z"
       }
     ]
   },
@@ -648,7 +989,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://www.7-taizai.net/",
     "begin": "2019-10-09T08:55:00.000Z",
     "end": "",
     "comment": "",
@@ -656,6 +997,16 @@
       {
         "site": "bangumi",
         "id": "280380"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222700",
+        "begin": "2019-10-09T10:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "7-taizai-kamigaminogekirin",
+        "begin": "2019-10-09T13:00:00.000Z"
       }
     ]
   },
@@ -672,6 +1023,16 @@
       {
         "site": "bangumi",
         "id": "288010"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kjganime",
+        "begin": "2019-10-15T16:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222743",
+        "begin": "2019-10-08T16:00:03.000Z"
       }
     ]
   },
@@ -692,6 +1053,21 @@
       {
         "site": "bangumi",
         "id": "273834"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222742",
+        "begin": "2019-10-11T17:25:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cookingmaster-anime",
+        "begin": "2019-10-14T17:55:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200lk1abvk",
+        "begin": ""
       }
     ]
   },
@@ -704,7 +1080,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://www.standmyheroes.tv/",
     "begin": "2019-10-07T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -712,6 +1088,16 @@
       {
         "site": "bangumi",
         "id": "260729"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222722",
+        "begin": "2019-10-07T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "standmyheroes",
+        "begin": "2019-10-09T03:00:00.000Z"
       }
     ]
   },
@@ -719,12 +1105,14 @@
     "title": "ちはやふる３",
     "titleTranslate": {
       "zh-Hans": [
-        "歌牌情缘3"
+        "歌牌情缘3",
+        "歌牌情缘 第三季",
+        "花牌情缘 第三季"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.ntv.co.jp/chihayafuru/",
     "begin": "2019-10-22T16:29:00.000Z",
     "end": "",
     "comment": "",
@@ -732,6 +1120,16 @@
       {
         "site": "bangumi",
         "id": "238815"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222678",
+        "begin": "2019-10-04T10:44:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chihayafuru3",
+        "begin": "2019-10-23T03:00:00.000Z"
       }
     ]
   },
@@ -744,7 +1142,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://tenkahyakken.jp/special/anime/",
     "begin": "2019-10-13T13:54:00.000Z",
     "end": "",
     "comment": "",
@@ -759,10 +1157,10 @@
     "title": "ぬるぺた",
     "titleTranslate": {
       "zh-Hans": [
-        "NULL & PETA"
+        "Nullpeta"
       ]
     },
-    "type": "web",
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://nullpeta.com/",
     "begin": "2019-10-04T13:40:00.000Z",
@@ -772,6 +1170,11 @@
       {
         "site": "bangumi",
         "id": "289145"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nullpeta",
+        "begin": "2019-10-04T03:00:00.000Z"
       }
     ]
   },
@@ -792,6 +1195,11 @@
       {
         "site": "bangumi",
         "id": "277627"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222727",
+        "begin": "2019-10-10T18:00:00.000Z"
       }
     ]
   },
@@ -812,6 +1220,16 @@
       {
         "site": "bangumi",
         "id": "248665"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222738",
+        "begin": "2019-10-11T07:01:15.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hoshiai",
+        "begin": "2019-10-10T21:00:00.000Z"
       }
     ]
   },
@@ -824,7 +1242,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://heroaca.com/",
     "begin": "2019-10-12T08:30:00.000Z",
     "end": "",
     "comment": "",
@@ -832,6 +1250,254 @@
       {
         "site": "bangumi",
         "id": "262162"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222734",
+        "begin": "2019-10-12T10:00:00.000Z"
+      },
+      {
+        "site": "acfun",
+        "id": "6000424",
+        "begin": "2019-10-19T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "耐え子の日常",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sorosoro-tani.blog.jp/",
+    "begin": "2019-10-05T16:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291842"
+      }
+    ]
+  },
+  {
+    "title": "Fairy gone フェアリーゴーン(第2クール)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fairy gone 2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.fairygone.com/",
+    "begin": "2019-10-06T15:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "283053"
+      }
+    ]
+  },
+  {
+    "title": "この音とまれ！(第2クール)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一弦定音！2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.konooto-anime.jp/",
+    "begin": "2019-10-05T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270060"
+      }
+    ]
+  },
+  {
+    "title": "SUPER SHIRO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级小白"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-app.jp/super-shiro/",
+    "begin": "2019-10-14T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "273510"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222671",
+        "begin": "2019-10-13T16:03:03.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "332258",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "旗揚！けものみち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "兽道",
+        "旗扬！兽道"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hataage-kemonomichi.com/",
+    "begin": "2019-10-02T13:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "272034"
+      },
+      {
+        "site": "acfun",
+        "id": "6000218",
+        "begin": "2019-10-02T14:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hataage-kemonomichi",
+        "begin": "2019-10-09T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/Grand Order 绝对魔兽战线 巴比伦尼亚",
+        "命运-冠位指定 绝对魔兽战线 巴比伦尼亚"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime.fate-go.jp/ep7-tv/",
+    "begin": "2019-10-05T14:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255526"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222061",
+        "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ep7-tv",
+        "begin": "2019-08-12T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ガンダムビルドダイバーズRe:RISE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高达创形者 Re:RISE"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://gundam-bd.net/",
+    "begin": "2019-10-10T11:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286123"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222691",
+        "begin": "2019-10-02T09:57:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "無限の住人-IMMORTAL-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无限之住人"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://mugen-immortal.com/",
+    "begin": "2019-10-10T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282637"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mugen-immortal",
+        "begin": "2019-10-10T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス 3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/3rd/",
+    "begin": "2019-10-16T15:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277105"
+      }
+    ]
+  },
+  {
+    "title": "ケンガンアシュラ Part 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拳愿阿修罗 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://kengan.net/",
+    "begin": "2019-10-31T16:00:00.000Z",
+    "end": "2019-10-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289031"
       }
     ]
   }
