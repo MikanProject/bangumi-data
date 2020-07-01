@@ -62,6 +62,11 @@
         "site": "iqiyi",
         "id": "a_19rrhzrr7d",
         "begin": "2019-10-12T16:30:07.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "bcfc6061890f4c9aad79",
+        "begin": "2019-10-12T09:15:19.000Z"
       }
     ]
   },
@@ -102,6 +107,11 @@
         "site": "nicovideo",
         "id": "shincho-yusha",
         "begin": "2019-10-09T15:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "aedae208197e424ea223",
+        "begin": "2019-10-08T09:53:02.000Z"
       }
     ]
   },
@@ -243,7 +253,7 @@
     "lang": "ja",
     "officialSite": "https://chidori-high-school.com/",
     "begin": "2019-10-13T14:00:00.000Z",
-    "end": "2019-12-31T14:00:00.000Z",
+    "end": "2020-01-18T12:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -382,6 +392,11 @@
         "site": "qq",
         "id": "m/mzc00200s105gal",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fddc8686d06048dc964f",
+        "begin": "2019-10-08T10:01:25.000Z"
       }
     ]
   },
@@ -435,6 +450,11 @@
         "site": "bilibili",
         "id": "28222619",
         "begin": "2019-10-10T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "assassinspride-anime",
+        "begin": "2020-03-27T06:00:00.000Z"
       }
     ]
   },
@@ -610,6 +630,11 @@
       {
         "site": "mgtv",
         "id": "332351",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc002005x573j5",
         "begin": ""
       }
     ]
@@ -891,6 +916,11 @@
         "site": "nicovideo",
         "id": "zoidswild-zero",
         "begin": "2019-10-05T03:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "edcb461a9ab54a769f6e",
+        "begin": "2019-11-19T15:59:12.000Z"
       }
     ]
   },
@@ -924,31 +954,6 @@
         "site": "nicovideo",
         "id": "azurlane",
         "begin": "2019-10-07T03:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "title": "どるふろ -癒し編-",
-    "titleTranslate": {
-      "zh-Hans": [
-        "少女前线治愈篇"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.jvcmusic.co.jp/dollsfrontline/minianime/",
-    "begin": "2019-10-04T16:00:00.000Z",
-    "end": "2019-12-20T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "217405"
-      },
-      {
-        "site": "nicovideo",
-        "id": "dollsfrontline_minianime",
-        "begin": "2019-12-07T12:00:00.000Z"
       }
     ]
   },
@@ -1244,6 +1249,11 @@
         "site": "bilibili",
         "id": "28222727",
         "begin": "2019-10-10T18:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nogunslife",
+        "begin": "2020-01-22T03:00:00.000Z"
       }
     ]
   },
@@ -1288,7 +1298,7 @@
     "lang": "ja",
     "officialSite": "http://heroaca.com/",
     "begin": "2019-10-12T08:30:00.000Z",
-    "end": "2020-03-31T08:30:00.000Z",
+    "end": "2020-04-04T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1319,7 +1329,7 @@
     "lang": "ja",
     "officialSite": "http://sorosoro-tani.blog.jp/",
     "begin": "2019-10-05T16:40:00.000Z",
-    "end": "2019-10-05T16:40:00.000Z",
+    "end": "2020-02-08T16:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1395,6 +1405,16 @@
       {
         "site": "mgtv",
         "id": "332258",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhz6y8d",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200jxv3lnt",
         "begin": ""
       }
     ]
@@ -1553,6 +1573,61 @@
       {
         "site": "bangumi",
         "id": "289031"
+      },
+      {
+        "site": "youku",
+        "id": "bbbdc629cf854869be52",
+        "begin": "2019-11-07T09:51:33.000Z"
+      }
+    ]
+  },
+  {
+    "title": "GO!GO!アトム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GO!GO!阿童木"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://gogo-atom.jp/",
+    "begin": "2019-10-03T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302137"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gogo-atom",
+        "begin": "2020-03-26T09:25:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ストライクウィッチーズ 劇場版 501部隊発進しますっ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强袭魔女 剧场版 501部队起飞！"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://w-witch.jp/501_takeoff/",
+    "begin": "2019-10-04T16:00:00.000Z",
+    "end": "2019-10-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285410"
+      },
+      {
+        "site": "nicovideo",
+        "id": "501_takeoff_movie",
+        "begin": ""
       }
     ]
   }

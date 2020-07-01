@@ -21,21 +21,6 @@
     ]
   },
   {
-    "title": "どるふろ -狂乱篇-",
-    "titleTranslate": {
-      "zh-Hans": [
-        "少女前线狂乱篇"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.jvcmusic.co.jp/dollsfrontline/minianime/kyouran/",
-    "begin": "2019-12-27T16:00:00.000Z",
-    "end": "2020-03-20T16:00:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "OBSOLETE",
     "titleTranslate": {},
     "type": "web",
@@ -98,6 +83,11 @@
         "site": "iqiyi",
         "id": "a_19rrhxg4v5",
         "begin": "2019-12-31T08:00:06.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "aaca7616f8894efba8f5",
+        "begin": "2019-12-31T07:59:36.000Z"
       }
     ]
   }

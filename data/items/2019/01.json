@@ -126,6 +126,11 @@
         "site": "youku",
         "id": "97f79670941340c48361",
         "begin": "2019-01-14T10:37:55.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "q/qv9ys02cntx9pig",
+        "begin": ""
       }
     ]
   },
@@ -168,6 +173,11 @@
         "site": "youku",
         "id": "eb848624e3bc4eaebb78",
         "begin": "2019-01-14T10:37:54.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "2/2mn7w1x22n3udwt",
+        "begin": ""
       }
     ]
   },
@@ -231,6 +241,11 @@
         "site": "nicovideo",
         "id": "mononokean2",
         "begin": "2019-01-11T03:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "2fe8a9c3f30c4045b6f9",
+        "begin": "2019-01-08T09:49:36.000Z"
       }
     ]
   },
@@ -820,6 +835,11 @@
         "site": "youku",
         "id": "f201e43522b74686bcbd",
         "begin": "2019-01-21T10:19:36.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "u/uk66j9lxpchv1cc",
+        "begin": ""
       }
     ]
   },
@@ -1260,6 +1280,56 @@
       {
         "site": "bangumi",
         "id": "267481"
+      }
+    ]
+  },
+  {
+    "title": "劇場版総集編メイドインアビス【前編】旅立ちの夜明け",
+    "titleTranslate": {
+      "zh-Hans": [
+        "来自深渊 启程的黎明"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://miabyss.com/",
+    "begin": "2019-01-04T16:00:00.000Z",
+    "end": "2019-01-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240798"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miabyss-movie",
+        "begin": "2020-03-20T06:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "劇場版総集編メイドインアビス【後編】放浪する黄昏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "来自深渊 漂泊的黄昏"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://miabyss.com/",
+    "begin": "2019-01-18T16:00:00.000Z",
+    "end": "2019-01-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240799"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miabyss-movie",
+        "begin": "2020-03-20T06:00:00.000Z"
       }
     ]
   }

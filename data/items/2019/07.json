@@ -54,6 +54,11 @@
         "site": "iqiyi",
         "id": "a_19rrhshzg5",
         "begin": "2019-07-12T16:55:05.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "bdde920ff9ec42c7899c",
+        "begin": "2019-07-18T07:38:21.000Z"
       }
     ]
   },
@@ -404,6 +409,11 @@
         "site": "iqiyi",
         "id": "a_19rri0l9d5",
         "begin": "2019-07-07T13:55:07.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "aaefad43df614355a726",
+        "begin": "2019-07-10T03:57:23.000Z"
       }
     ]
   },
@@ -596,6 +606,11 @@
         "site": "nicovideo",
         "id": "katsu-kami",
         "begin": "2019-11-01T03:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "cdea45b0c7454b91abff",
+        "begin": "2019-07-10T03:57:21.000Z"
       }
     ]
   },
@@ -635,6 +650,11 @@
         "site": "bilibili",
         "id": "28221387",
         "begin": "2019-07-05T14:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "eaaeacf0b05d47dab8f2",
+        "begin": "2019-07-18T07:38:20.000Z"
       }
     ]
   },
@@ -1131,6 +1151,11 @@
         "site": "netflix",
         "id": "80992228",
         "begin": "2019-07-31T07:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "ad0ab8fc97de4abbb0d3",
+        "begin": "2019-11-01T09:27:43.000Z"
       }
     ]
   },
@@ -1200,6 +1225,93 @@
         "site": "nicovideo",
         "id": "businessfish",
         "begin": "2019-08-18T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "まじもじるるも 完結編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "修业魔女璐璐萌 完结篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-07-09T16:00:00.000Z",
+    "end": "2019-07-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "261493"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-rurumo-kanketsuhen",
+        "begin": "2020-01-08T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "SDガンダムワールド 三国創傑伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SD高达世界 三国创杰传"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://sd-gundam-world.net/soketsuden/",
+    "begin": "2019-07-26T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "267432"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwq4wp",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200j3h7al0",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "どるふろ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女前线 人型小剧场",
+        "少女前线 治愈篇",
+        "少女前线 狂乱篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.jvcmusic.co.jp/dollsfrontline/minianime/",
+    "begin": "2019-07-28T16:00:00.000Z",
+    "end": "2020-01-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217405"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221282",
+        "begin": "2019-10-04T16:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dollsfrontline_minianime",
+        "begin": "2019-12-07T12:00:00.000Z"
       }
     ]
   }
