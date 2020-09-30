@@ -219,6 +219,11 @@
         "site": "bilibili",
         "id": "516",
         "begin": "2013-07-03T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "e9dc9ec6cf5211e2b16f",
+        "begin": "2013-07-05T04:01:32.000Z"
       }
     ]
   },
@@ -401,6 +406,11 @@
         "site": "nicovideo",
         "id": "te-kyu2",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "18",
+        "begin": "2013-07-06T16:00:00.000Z"
       }
     ]
   },
@@ -464,6 +474,11 @@
         "site": "nicovideo",
         "id": "kaminomi3",
         "begin": "2013-07-13T14:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "fce4a04acfe311e2be40",
+        "begin": "2013-07-06T07:54:07.000Z"
       }
     ]
   },
@@ -569,6 +584,11 @@
         "site": "nicovideo",
         "id": "fantasistadoll",
         "begin": "2013-07-07T15:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "9935117",
+        "begin": "2013-07-05T16:00:00.000Z"
       }
     ]
   },
@@ -663,6 +683,16 @@
         "site": "qq",
         "id": "p/p0iwkt7rtvbrg4k",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "84122f7ccfe611e2b16f",
+        "begin": "2013-07-08T02:40:33.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "4404",
+        "begin": "2013-07-06T16:00:00.000Z"
       }
     ]
   },
@@ -695,6 +725,11 @@
         "site": "bilibili",
         "id": "594",
         "begin": "2013-07-05T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "792a53bacfdb11e2b2ac",
+        "begin": "2013-07-06T22:05:51.000Z"
       }
     ]
   },
@@ -985,6 +1020,11 @@
       {
         "site": "bangumi",
         "id": "59664"
+      },
+      {
+        "site": "bilibili",
+        "id": "239",
+        "begin": "2013-07-10T16:00:00.000Z"
       }
     ]
   },
@@ -1046,6 +1086,11 @@
         "site": "nicovideo",
         "id": "makai-ouji",
         "begin": "2013-07-08T14:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "f0ab2acccfe011e296ac",
+        "begin": "2013-07-05T10:39:22.000Z"
       }
     ]
   },
@@ -1074,8 +1119,8 @@
       },
       {
         "site": "bilibili",
-        "id": "529",
-        "begin": "2013-07-06T16:00:00.000Z"
+        "id": "528",
+        "begin": "2013-01-04T16:00:00.000Z"
       }
     ]
   },
@@ -1106,6 +1151,11 @@
         "site": "nicovideo",
         "id": "bc-anime",
         "begin": "2013-07-04T13:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "131112",
+        "begin": "2013-07-01T16:00:00.000Z"
       }
     ]
   },
@@ -1125,6 +1175,11 @@
       {
         "site": "bangumi",
         "id": "74640"
+      },
+      {
+        "site": "youku",
+        "id": "efe2cb68cf4a11e2a19e",
+        "begin": "2013-06-28T12:00:08.000Z"
       }
     ]
   },
@@ -1333,6 +1388,11 @@
         "site": "youku",
         "id": "f1356bd2182a11e3a705",
         "begin": "2013-10-09T06:48:13.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3229",
+        "begin": "2013-06-30T16:00:00.000Z"
       }
     ]
   },
@@ -1603,6 +1663,31 @@
         "site": "letv",
         "id": "10002046",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "RWBY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "http://roosterteeth.com/home.php",
+    "begin": "2013-07-18T16:00:00.000Z",
+    "end": "2013-11-07T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "75055"
+      },
+      {
+        "site": "bilibili",
+        "id": "333",
+        "begin": "2013-07-17T16:00:00.000Z"
       }
     ]
   }

@@ -1420,6 +1420,9 @@
   {
     "title": "ドリフェス！R",
     "titleTranslate": {
+      "zh-Hans": [
+        "梦之祭！R"
+      ],
       "en": [
         "DREAM FESTIVAL"
       ]
@@ -1433,6 +1436,11 @@
       {
         "site": "bangumi",
         "id": "202597"
+      },
+      {
+        "site": "bilibili",
+        "id": "6344",
+        "begin": "2017-08-22T16:00:00.000Z"
       }
     ]
   },
@@ -1966,6 +1974,11 @@
         "site": "youku",
         "id": "7d03efbfbd50efbfbd0c",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "73092",
+        "begin": "2017-02-24T16:00:00.000Z"
       }
     ]
   },
@@ -1986,6 +1999,156 @@
         "site": "bilibili",
         "id": "114452",
         "begin": "2018-04-17T16:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "title": "弱虫ペダル Re:GENERATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飙速宅男 Re:GENERATION"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yowapeda.com/",
+    "begin": "2017-10-13T16:00:00.000Z",
+    "end": "2017-10-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219485"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd1b37efbfbdefbf",
+        "begin": "2018-02-12T14:58:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "82772",
+        "begin": "2017-10-12T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ヤマノススメ おもいでプレゼント",
+    "titleTranslate": {
+      "zh-Hans": [
+        "向山进发 回忆的礼物"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.yamanosusume.com/",
+    "begin": "2017-10-28T16:00:00.000Z",
+    "end": "2017-10-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "216311"
+      },
+      {
+        "site": "bilibili",
+        "id": "4314782",
+        "begin": "2018-01-25T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 5",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "http://roosterteeth.com/show/rwby",
+    "begin": "2017-10-14T16:00:00.000Z",
+    "end": "2018-01-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "224720"
+      },
+      {
+        "site": "bilibili",
+        "id": "7552",
+        "begin": "2017-10-13T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ひとり暮らしの小学生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "独自生活的小学生"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.tateanime.com/",
+    "begin": "2017-10-10T16:00:00.000Z",
+    "end": "2017-12-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226004"
+      },
+      {
+        "site": "bilibili",
+        "id": "28152",
+        "begin": "2017-10-09T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "○○さえいればいい。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "如果有○○就好了。"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://imoutosae.com/",
+    "begin": "2017-10-09T16:00:00.000Z",
+    "end": "2017-12-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228848"
+      },
+      {
+        "site": "bilibili",
+        "id": "10892",
+        "begin": "2017-10-08T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 反逆のルルーシュ I 興道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 反叛的鲁路修 I 兴道"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/L-geass/",
+    "begin": "2017-10-21T16:00:00.000Z",
+    "end": "2017-10-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "199229"
       }
     ]
   }

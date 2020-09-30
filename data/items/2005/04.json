@@ -104,6 +104,11 @@
         "site": "letv",
         "id": "10385",
         "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgik7bp",
+        "begin": ""
       }
     ]
   },
@@ -508,6 +513,11 @@
       {
         "site": "bangumi",
         "id": "2776"
+      },
+      {
+        "site": "youku",
+        "id": "cc0011a0962411de83b1",
+        "begin": "2013-01-19T18:20:33.000Z"
       }
     ]
   },
@@ -850,32 +860,13 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-asahi.co.jp/doraemon/",
-    "begin": "2005-04-22T10:00:00.000Z",
+    "begin": "2005-04-15T10:00:00.000Z",
+    "broadcast": "R/2019-10-05T08:00:00.000Z/P7D",
     "end": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "jJeBic2fNPXveXMQ",
-        "begin": ""
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrk25kq9",
-        "begin": "2014-04-10T01:14:15.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "24008",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "18692"
-      },
-      {
-        "site": "sohu",
-        "id": "s2015/doraemonqj",
-        "begin": ""
       }
     ]
   },
@@ -915,6 +906,11 @@
         "site": "bilibili",
         "id": "46092",
         "begin": "2005-04-15T16:00:01.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "f10ce05861ad11e0bea1",
+        "begin": "2012-11-27T13:21:57.000Z"
       }
     ]
   },
@@ -949,6 +945,16 @@
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fa22de5461ad11e0bea1",
+        "begin": "2013-03-19T13:19:12.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228950",
+        "begin": "2020-05-21T16:00:00.000Z"
       }
     ]
   },

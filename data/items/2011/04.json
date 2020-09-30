@@ -20,6 +20,11 @@
       {
         "site": "bangumi",
         "id": "9472"
+      },
+      {
+        "site": "bilibili",
+        "id": "2989",
+        "begin": "2011-04-24T16:00:00.000Z"
       }
     ]
   },
@@ -289,6 +294,11 @@
         "site": "bilibili",
         "id": "861",
         "begin": "2011-04-16T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "ff4d5b9861ad11e0bea1",
+        "begin": "2012-11-07T14:27:14.000Z"
       }
     ]
   },
@@ -345,6 +355,11 @@
         "site": "nicovideo",
         "id": "prettyrhythm_n",
         "begin": "2012-09-28T11:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "0135845889d111e0a046",
+        "begin": "2013-01-04T08:21:55.000Z"
       }
     ]
   },
@@ -499,6 +514,11 @@
       {
         "site": "bangumi",
         "id": "11726"
+      },
+      {
+        "site": "youku",
+        "id": "b521179c877511e0a046",
+        "begin": "2013-03-29T06:16:55.000Z"
       }
     ]
   },
@@ -523,6 +543,11 @@
         "site": "nicovideo",
         "id": "kaminomi2",
         "begin": "2013-07-12T06:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "785910189b1511e0a046",
+        "begin": "2012-11-07T16:18:02.000Z"
       }
     ]
   },
@@ -678,6 +703,11 @@
       {
         "site": "bangumi",
         "id": "10338"
+      },
+      {
+        "site": "youku",
+        "id": "ec493cdc877911e0a046",
+        "begin": "2012-05-09T07:57:00.000Z"
       }
     ]
   },
@@ -720,6 +750,11 @@
         "site": "bilibili",
         "id": "1631",
         "begin": "2011-04-01T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "3f9a2eb49b1611e0a046",
+        "begin": "2012-07-18T05:13:40.000Z"
       }
     ]
   },
@@ -784,6 +819,11 @@
         "site": "bilibili",
         "id": "3332",
         "begin": "2011-04-01T16:00:01.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tigerandbunny",
+        "begin": "2020-05-16T03:00:00.000Z"
       }
     ]
   },
@@ -874,6 +914,11 @@
         "site": "bilibili",
         "id": "835",
         "begin": "2011-04-13T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "f5336bb689d511e0a046",
+        "begin": "2012-05-08T08:35:55.000Z"
       }
     ]
   },
@@ -934,6 +979,11 @@
       {
         "site": "bangumi",
         "id": "10844"
+      },
+      {
+        "site": "bilibili",
+        "id": "863",
+        "begin": "2011-04-13T16:00:00.000Z"
       }
     ]
   },
@@ -1214,6 +1264,11 @@
       {
         "site": "bangumi",
         "id": "209687"
+      },
+      {
+        "site": "bilibili",
+        "id": "128052",
+        "begin": "2011-04-01T16:00:00.000Z"
       }
     ]
   },
@@ -1315,6 +1370,11 @@
         "site": "bilibili",
         "id": "14532",
         "begin": "2011-04-15T16:00:01.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "e09244a8927611e0a046",
+        "begin": "2011-12-08T10:27:44.000Z"
       }
     ]
   },
@@ -1349,6 +1409,16 @@
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "3d446f96b34211e0a046",
+        "begin": "2018-04-03T02:55:17.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228957",
+        "begin": "2020-05-21T16:00:00.000Z"
       }
     ]
   },
@@ -1431,6 +1501,27 @@
         "site": "nicovideo",
         "id": "seitokai_banngaihen",
         "begin": "2017-06-14T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Xi AVANT",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://studio-xi.jp/xi-project/project03/#",
+    "begin": "2011-04-09T16:00:00.000Z",
+    "end": "2011-04-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "15494"
+      },
+      {
+        "site": "bilibili",
+        "id": "4488",
+        "begin": "2011-04-08T16:00:00.000Z"
       }
     ]
   }

@@ -162,6 +162,11 @@
         "site": "bilibili",
         "id": "1661",
         "begin": "2009-01-04T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "cc006b96962411de83b1",
+        "begin": "2012-08-16T06:18:58.000Z"
       }
     ]
   },
@@ -251,8 +256,8 @@
       },
       {
         "site": "iqiyi",
-        "id": "a_19rrjzm3qd",
-        "begin": "2012-07-01T06:24:55.000Z"
+        "id": "a_19rrhm2e09",
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -262,6 +267,16 @@
         "site": "bilibili",
         "id": "1092",
         "begin": "2009-01-09T16:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "regios",
+        "begin": "2020-06-15T06:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc002005qviolb",
+        "begin": ""
       }
     ]
   },
@@ -615,6 +630,11 @@
       {
         "site": "bangumi",
         "id": "3641"
+      },
+      {
+        "site": "qq",
+        "id": "w/wu3msne90ocec3b",
+        "begin": ""
       }
     ]
   },
@@ -721,6 +741,26 @@
       {
         "site": "bangumi",
         "id": "1530"
+      }
+    ]
+  },
+  {
+    "title": "装甲騎兵ボトムズ ペールゼン・ファイルズ 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵 佩鲁森档案 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.votoms.net/movie",
+    "begin": "2009-01-17T16:00:00.000Z",
+    "end": "2009-01-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "30223"
       }
     ]
   }

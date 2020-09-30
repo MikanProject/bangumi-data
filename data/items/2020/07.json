@@ -16,6 +16,21 @@
       {
         "site": "bangumi",
         "id": "277954"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228386",
+        "begin": "2020-07-10T07:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "dbda61011e74459286be",
+        "begin": "2020-07-10T07:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200ntj3ii2",
+        "begin": ""
       }
     ]
   },
@@ -39,6 +54,11 @@
       {
         "site": "bangumi",
         "id": "292238"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228119",
+        "begin": "2020-07-04T16:30:00.000Z"
       }
     ]
   },
@@ -59,6 +79,11 @@
       {
         "site": "bangumi",
         "id": "291479"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228409",
+        "begin": "2020-04-09T18:00:00.000Z"
       }
     ]
   },
@@ -66,7 +91,8 @@
     "title": "宇崎ちゃんは遊びたい！",
     "titleTranslate": {
       "zh-Hans": [
-        "宇崎酱想要玩耍！"
+        "宇崎酱想要玩耍！",
+        "宇崎学妹想要玩！"
       ]
     },
     "type": "tv",
@@ -79,6 +105,16 @@
       {
         "site": "bangumi",
         "id": "299498"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229231",
+        "begin": "2020-07-10T12:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "uzakichan",
+        "begin": "2020-07-15T13:00:00.000Z"
       }
     ]
   },
@@ -99,6 +135,16 @@
       {
         "site": "bangumi",
         "id": "296076"
+      },
+      {
+        "site": "acfun",
+        "id": "6002917",
+        "begin": "2020-07-10T18:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanokari",
+        "begin": "2020-07-15T17:00:00.000Z"
       }
     ]
   },
@@ -119,6 +165,16 @@
       {
         "site": "bangumi",
         "id": "292222"
+      },
+      {
+        "site": "youku",
+        "id": "cdec9dd7bfdf4204bf45",
+        "begin": "2020-07-04T16:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maohgakuin",
+        "begin": "2020-07-09T14:30:00.000Z"
       }
     ]
   },
@@ -142,6 +198,26 @@
       {
         "site": "bangumi",
         "id": "278826"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229233",
+        "begin": "2020-07-08T15:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "bceaf354595b496ca969",
+        "begin": "2020-07-08T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "re-zero2-anime",
+        "begin": "2020-07-13T14:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200c8k0lz1",
+        "begin": ""
       }
     ]
   },
@@ -155,13 +231,23 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://mon-isha-anime.com/",
-    "begin": "2020-07-12T14:00:00.000Z",
+    "begin": "2020-07-04T11:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "294654"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229235",
+        "begin": "2020-07-04T11:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mon-isha",
+        "begin": "2020-07-17T03:00:00.000Z"
       }
     ]
   },
@@ -182,12 +268,20 @@
       {
         "site": "bangumi",
         "id": "293648"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hxeros",
+        "begin": "2020-07-06T03:00:00.000Z"
       }
     ]
   },
   {
     "title": "デカダンス",
     "titleTranslate": {
+      "en": [
+        "DECA DENCE"
+      ],
       "zh-Hans": [
         "没落要塞"
       ]
@@ -202,6 +296,21 @@
       {
         "site": "bangumi",
         "id": "285879"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229234",
+        "begin": "2020-06-28T11:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "decadence-anime",
+        "begin": "2020-07-13T15:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlpm9p",
+        "begin": ""
       }
     ]
   },
@@ -232,7 +341,8 @@
         "Lapis Re:LiGHTs"
       ],
       "zh-Hans": [
-        "Lapis Re:LiGHTs"
+        "Lapis Re:LiGHTs",
+        "宝石幻想 光芒重现"
       ]
     },
     "type": "tv",
@@ -245,6 +355,11 @@
       {
         "site": "bangumi",
         "id": "241185"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229238",
+        "begin": "2020-07-04T13:00:00.000Z"
       }
     ]
   },
@@ -265,6 +380,11 @@
       {
         "site": "bangumi",
         "id": "291195"
+      },
+      {
+        "site": "nicovideo",
+        "id": "petergrill-anime",
+        "begin": "2020-07-15T15:00:00.000Z"
       }
     ]
   },
@@ -285,28 +405,80 @@
       {
         "site": "bangumi",
         "id": "305511"
+      },
+      {
+        "site": "youku",
+        "id": "afdc3828a6cd4c36ad5b",
+        "begin": "2020-04-06T16:00:00.000Z"
       }
     ]
   },
   {
     "title": "うまよん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "赛马娘四格"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://umamusume.jp/umayon/",
-    "begin": "2020-07-07T12:54:00.000Z",
+    "begin": "2020-07-07T13:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "269389"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229237",
+        "begin": "2020-07-07T13:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "umayon",
+        "begin": "2020-07-10T12:54:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "忍者コレクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者收藏"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/nin_colle/",
+    "begin": "2020-07-14T12:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "308997"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229300",
+        "begin": "2020-07-12T19:05:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "aabfb55e50634aafb9ba",
+        "begin": "2020-07-12T19:05:00.000Z"
       }
     ]
   },
   {
     "title": "ジビエート",
     "titleTranslate": {
+      "zh-Hans": [
+        "驱魔者/GIBIATE"
+      ],
       "en": [
         "GIBIATE"
       ]
@@ -321,6 +493,11 @@
       {
         "site": "bangumi",
         "id": "286109"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229239",
+        "begin": "2020-07-15T14:00:00.000Z"
       }
     ]
   },
@@ -341,6 +518,27 @@
       {
         "site": "bangumi",
         "id": "306993"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kyojinzoku_hana",
+        "begin": "2020-07-05T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "GET UP! GET LIVE! #げらげら",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://getup-getlive.com/",
+    "begin": "2020-07-10T16:50:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303173"
       }
     ]
   },
@@ -361,6 +559,16 @@
       {
         "site": "bangumi",
         "id": "297342"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229236",
+        "begin": "2020-07-03T16:55:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fireforce-anime02",
+        "begin": "2020-07-10T17:30:00.000Z"
       }
     ]
   },
@@ -384,33 +592,22 @@
       {
         "site": "bangumi",
         "id": "285813"
-      }
-    ]
-  },
-  {
-    "title": "アラド：逆転の輪",
-    "titleTranslate": {
-      "en": [
-        "ARAD REVERSAL OF FATE"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.tv-tokyo.co.jp/anime/arad_gia/",
-    "begin": "2020-07-03T16:53:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": [
+      },
       {
-        "site": "bangumi",
-        "id": "270139"
+        "site": "acfun",
+        "id": "6002662",
+        "begin": ""
       }
     ]
   },
   {
     "title": "バキ 大擂台賽編",
-    "titleTranslate": {},
-    "type": "tv",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刃牙 大擂台赛篇"
+      ]
+    },
+    "type": "web",
     "lang": "ja",
     "officialSite": "https://baki-anime.jp/",
     "begin": "2020-07-06T15:30:00.000Z",
@@ -420,13 +617,22 @@
       {
         "site": "bangumi",
         "id": "278202"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229398",
+        "begin": "2020-07-05T16:00:00.000Z"
       }
     ]
   },
   {
     "title": "BanG Dream! ガルパ☆ピコ～大盛り～",
-    "titleTranslate": {},
-    "type": "tv",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BanG Dream! 少女乐团派对！☆PICO～大份～"
+      ]
+    },
+    "type": "web",
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/pico/",
     "begin": "2020-07-06T16:00:00.000Z",
@@ -436,6 +642,69 @@
       {
         "site": "bangumi",
         "id": "296295"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bang-dream-pico-oomori",
+        "begin": "2020-05-14T14:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228566",
+        "begin": "2020-05-06T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ムヒョとロージーの魔法律相談事務所 第2期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法律事务所 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://mahouritsu.com/index.php",
+    "begin": "2020-07-07T11:30:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "284838"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229240",
+        "begin": "2020-07-07T11:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahouritsu2-anime",
+        "begin": "2020-07-10T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "日本沈没2020",
+    "titleTranslate": {
+      "zh-Hans": [
+        "日本沉没2020"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://japansinks2020.com",
+    "begin": "2020-07-08T15:00:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "292382"
+      },
+      {
+        "site": "acfun",
+        "id": "6002684",
+        "begin": ""
       }
     ]
   }

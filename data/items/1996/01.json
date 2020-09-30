@@ -13,38 +13,33 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.ytv.co.jp/conan/",
-    "begin": "1996-01-08T10:00:00.000Z",
+    "begin": "1996-01-08T10:30:00.000Z",
+    "broadcast": "R/2009-04-04T09:00:00.000Z/P7D",
     "end": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhc0gyd",
-        "begin": "2016-09-28T12:45:45.000Z"
+        "begin": "2009-04-18T11:30:00.000Z",
+        "broadcast": "R/2009-04-18T11:30:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "5/53q0eh78q97e4d1",
-        "begin": "1996-01-13T11:30:00.000Z"
-      },
-      {
-        "site": "sohu",
-        "id": "s2012/mztkn",
-        "begin": "1996-01-13T11:30:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "5938",
-        "begin": "1996-01-13T11:30:00.000Z"
+        "begin": "2009-04-18T11:30:00.000Z",
+        "broadcast": "R/2009-04-18T11:30:00.000Z/P7D"
       },
       {
         "site": "pptv",
         "id": "ac24Np4EdLIVkics",
-        "begin": "1996-01-13T11:30:00.000Z"
+        "begin": "2009-04-18T11:30:00.000Z",
+        "broadcast": "R/2009-04-18T11:30:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "cc003400962411de83b1",
-        "begin": "2012-05-10T10:15:24.000Z"
+        "begin": "2009-04-18T11:30:00.000Z",
+        "broadcast": "R/2009-04-18T11:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -54,6 +49,11 @@
         "site": "netflix",
         "id": "80090370",
         "begin": "2016-01-01T08:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228775",
+        "begin": "2009-04-18T11:30:00.000Z"
       }
     ]
   },

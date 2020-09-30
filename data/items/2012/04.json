@@ -188,6 +188,11 @@
         "site": "nicovideo",
         "id": "saki-sidea",
         "begin": "2012-04-23T16:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "d778354c77e211e196ac",
+        "begin": "2012-04-12T09:27:37.000Z"
       }
     ]
   },
@@ -329,8 +334,8 @@
       },
       {
         "site": "bilibili",
-        "id": "775",
-        "begin": "2012-04-02T16:00:00.000Z"
+        "id": "776",
+        "begin": "2012-07-02T16:00:00.000Z"
       }
     ]
   },
@@ -421,6 +426,11 @@
         "site": "nicovideo",
         "id": "prettyrhythm_dear_n",
         "begin": "2012-09-28T11:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "829ee608803711e1a19e",
+        "begin": "2012-04-14T17:59:33.000Z"
       }
     ]
   },
@@ -695,6 +705,11 @@
       {
         "site": "bangumi",
         "id": "37136"
+      },
+      {
+        "site": "bilibili",
+        "id": "125",
+        "begin": "2012-04-07T16:00:00.000Z"
       }
     ]
   },
@@ -816,6 +831,11 @@
         "site": "nicovideo",
         "id": "kimiboku2",
         "begin": "2012-04-06T14:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "fb8ae1fe0cd111e1a046",
+        "begin": "2012-04-04T14:23:50.000Z"
       }
     ]
   },
@@ -918,6 +938,11 @@
       {
         "site": "bangumi",
         "id": "28496"
+      },
+      {
+        "site": "youku",
+        "id": "3b285e307fb511e19194",
+        "begin": "2012-04-05T15:32:47.000Z"
       }
     ]
   },
@@ -1072,6 +1097,11 @@
       {
         "site": "bangumi",
         "id": "32318"
+      },
+      {
+        "site": "youku",
+        "id": "22c8f4047fa511e18195",
+        "begin": "2012-04-09T13:38:48.000Z"
       }
     ]
   },
@@ -1143,6 +1173,11 @@
       {
         "site": "bangumi",
         "id": "31414"
+      },
+      {
+        "site": "bilibili",
+        "id": "488",
+        "begin": "2012-04-07T16:00:00.000Z"
       }
     ]
   },
@@ -1173,6 +1208,11 @@
       {
         "site": "bangumi",
         "id": "38758"
+      },
+      {
+        "site": "bilibili",
+        "id": "4204858",
+        "begin": "2012-04-17T16:00:00.000Z"
       }
     ]
   },
@@ -1310,6 +1350,11 @@
         "site": "bilibili",
         "id": "1624",
         "begin": "2012-04-06T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "deefd7280a7b11e1a046",
+        "begin": "2019-08-08T02:49:23.000Z"
       }
     ]
   },
@@ -1354,6 +1399,11 @@
       {
         "site": "bangumi",
         "id": "40249"
+      },
+      {
+        "site": "bilibili",
+        "id": "4312882",
+        "begin": "2012-04-19T16:00:00.000Z"
       }
     ]
   },
@@ -1422,6 +1472,11 @@
         "site": "qq",
         "id": "b/bymafsjpccgo4bw",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "84eabd787a3e11e1b16f",
+        "begin": "2012-12-04T16:26:55.000Z"
       }
     ]
   },
@@ -1456,6 +1511,16 @@
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "a7a977ea596f11e19498",
+        "begin": "2018-04-03T03:02:19.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228958",
+        "begin": "2020-05-21T16:00:00.000Z"
       }
     ]
   },
@@ -1547,6 +1612,56 @@
         "site": "nicovideo",
         "id": "seitokai_banngaihen",
         "begin": "2017-06-14T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "爆TECH!爆丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆TECH！爆丸"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/bakugan-bp/",
+    "begin": "2012-04-07T16:00:00.000Z",
+    "end": "2013-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37859"
+      },
+      {
+        "site": "bilibili",
+        "id": "131732",
+        "begin": "2012-04-06T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ ビクトリーV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师 Victory V"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/duelmastersv/",
+    "begin": "2012-04-07T16:00:00.000Z",
+    "end": "2013-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293620"
+      },
+      {
+        "site": "bilibili",
+        "id": "131792",
+        "begin": "2012-04-05T16:00:00.000Z"
       }
     ]
   }

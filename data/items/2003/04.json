@@ -289,6 +289,11 @@
       {
         "site": "bangumi",
         "id": "8415"
+      },
+      {
+        "site": "youku",
+        "id": "cc0058d6962411de83b1",
+        "begin": "2013-02-08T05:19:45.000Z"
       }
     ]
   },
@@ -777,6 +782,11 @@
         "site": "bilibili",
         "id": "11632",
         "begin": "2003-04-18T16:00:01.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "f073366a61ad11e0bea1",
+        "begin": "2013-03-15T11:49:49.000Z"
       }
     ]
   },
@@ -811,6 +821,16 @@
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fa21f8cc61ad11e0bea1",
+        "begin": "2013-03-19T13:14:40.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228948",
+        "begin": "2020-05-21T16:00:00.000Z"
       }
     ]
   },
@@ -878,6 +898,27 @@
         "site": "pptv",
         "id": "pEUvrRV76ymMCnI",
         "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "w/wn72554nzwyr688",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": ".hack//GIFT",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-04-10T16:00:00.000Z",
+    "end": "2003-04-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68973"
       }
     ]
   }

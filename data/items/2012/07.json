@@ -68,6 +68,11 @@
         "site": "nicovideo",
         "id": "odanobuna",
         "begin": "2012-07-15T15:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "05024d3e10ca11e1a046",
+        "begin": "2018-01-22T07:46:47.000Z"
       }
     ]
   },
@@ -286,6 +291,11 @@
         "site": "nicovideo",
         "id": "total-eclipse",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "07b977be0b5c11e1a046",
+        "begin": "2018-01-22T07:51:52.000Z"
       }
     ]
   },
@@ -362,6 +372,11 @@
         "site": "netflix",
         "id": "70302573",
         "begin": "2017-06-01T07:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "24755609",
+        "begin": "2012-07-06T16:00:00.000Z"
       }
     ]
   },
@@ -381,6 +396,11 @@
       {
         "site": "bangumi",
         "id": "37722"
+      },
+      {
+        "site": "youku",
+        "id": "dd772dc6baaa11e196ac",
+        "begin": "2012-07-02T20:41:16.000Z"
       }
     ]
   },
@@ -550,6 +570,11 @@
         "site": "bilibili",
         "id": "10292",
         "begin": "2012-07-07T14:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "158a8e4abb4811e196ac",
+        "begin": "2013-01-10T05:37:47.000Z"
       }
     ]
   },
@@ -703,6 +728,11 @@
         "site": "nicovideo",
         "id": "utakoi",
         "begin": "2012-07-24T14:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "c9f533c6baa811e1b52a",
+        "begin": "2012-06-29T21:05:20.000Z"
       }
     ]
   },
@@ -936,6 +966,131 @@
         "site": "bilibili",
         "id": "3781",
         "begin": "2012-07-25T16:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 反逆のルルーシュ ナナリーinワンダーランド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 反叛的鲁路修 娜娜莉梦游仙境"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/nunnally/",
+    "begin": "2012-07-27T16:00:00.000Z",
+    "end": "2012-07-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35866"
+      },
+      {
+        "site": "bilibili",
+        "id": "4446",
+        "begin": "2012-07-26T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "あくちぇる・わーるど。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "加素世界"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-07-25T16:00:00.000Z",
+    "end": "2013-02-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67229"
+      },
+      {
+        "site": "bilibili",
+        "id": "4447",
+        "begin": "2012-07-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "おおかみこどもの雨と雪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "狼的孩子雨和雪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://ookamikodomo.jp/index.html",
+    "begin": "2012-07-21T16:00:00.000Z",
+    "end": "2012-07-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "28440"
+      },
+      {
+        "site": "bilibili",
+        "id": "2923",
+        "begin": "2012-07-20T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "リコーダーとランドセル OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "竖笛与双肩书包 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.takeshobo.co.jp/sp/tv_rikoran/",
+    "begin": "2012-07-17T16:00:00.000Z",
+    "end": "2012-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45414"
+      },
+      {
+        "site": "bilibili",
+        "id": "1676",
+        "begin": "2012-07-16T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "魔法少女リリカルなのは The MOVIE 2nd A's",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法少女奈叶 The MOVIE 2nd A’s"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.nanoha.com/archive5/",
+    "begin": "2012-07-14T16:00:00.000Z",
+    "end": "2012-07-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35679"
+      },
+      {
+        "site": "bilibili",
+        "id": "3795",
+        "begin": "2012-07-13T16:00:00.000Z"
       }
     ]
   }

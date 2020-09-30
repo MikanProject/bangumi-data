@@ -126,6 +126,11 @@
       {
         "site": "bangumi",
         "id": "52485"
+      },
+      {
+        "site": "bilibili",
+        "id": "572",
+        "begin": "2013-04-02T16:00:00.000Z"
       }
     ]
   },
@@ -616,6 +621,11 @@
         "site": "nicovideo",
         "id": "mushibugyo",
         "begin": "2013-04-14T16:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "4e8d0932857a11e29498",
+        "begin": "2013-04-07T11:17:41.000Z"
       }
     ]
   },
@@ -854,6 +864,11 @@
         "site": "qq",
         "id": "a/add16u479bl38qb",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "7042f73e7bd511e296ac",
+        "begin": "2019-08-08T02:02:12.000Z"
       }
     ]
   },
@@ -879,6 +894,11 @@
       {
         "site": "bangumi",
         "id": "61118"
+      },
+      {
+        "site": "bilibili",
+        "id": "1730",
+        "begin": "2013-04-06T16:00:00.000Z"
       }
     ]
   },
@@ -930,6 +950,11 @@
       {
         "site": "bangumi",
         "id": "22100"
+      },
+      {
+        "site": "youku",
+        "id": "1fbfddda80bd11e296ac",
+        "begin": "2015-05-19T07:34:04.000Z"
       }
     ]
   },
@@ -949,6 +974,11 @@
       {
         "site": "bangumi",
         "id": "62946"
+      },
+      {
+        "site": "youku",
+        "id": "511e6db8857911e2a19e",
+        "begin": "2013-04-04T15:12:15.000Z"
       }
     ]
   },
@@ -1250,6 +1280,11 @@
       {
         "site": "bangumi",
         "id": "69596"
+      },
+      {
+        "site": "bilibili",
+        "id": "132192",
+        "begin": "2013-04-05T16:00:00.000Z"
       }
     ]
   },
@@ -1376,6 +1411,11 @@
         "site": "nicovideo",
         "id": "steinsgate-movie",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "56f7d8b4b60311e1b356",
+        "begin": "2016-03-03T08:41:09.000Z"
       }
     ]
   },
@@ -1513,6 +1553,16 @@
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "c69f7426427911e29013",
+        "begin": "2013-10-12T04:57:31.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228959",
+        "begin": "2020-05-21T16:00:00.000Z"
       }
     ]
   },
@@ -1691,6 +1741,61 @@
         "site": "nicovideo",
         "id": "ch2583350",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28224170",
+        "begin": "2013-04-12T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ぷちっとがるがんてぃあ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷你加尔刚蒂亚"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://gargantia.jp/#petit",
+    "begin": "2013-04-10T16:00:00.000Z",
+    "end": "2013-07-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73920"
+      },
+      {
+        "site": "bilibili",
+        "id": "4427",
+        "begin": "2013-04-09T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "爆TECH!爆丸 ガチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆TECH!爆丸 激撞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/bakugan-bp/",
+    "begin": "2013-04-06T16:00:00.000Z",
+    "end": "2013-12-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309868"
+      },
+      {
+        "site": "bilibili",
+        "id": "132172",
+        "begin": "2013-04-05T16:00:00.000Z"
       }
     ]
   }

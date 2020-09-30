@@ -114,5 +114,180 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "Re:ゼロから始める異世界生活 氷結の絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Re：从零开始的异世界生活 冰结之绊"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://re-zero-anime.jp/hyoketsu/",
+    "begin": "2019-11-08T16:00:00.000Z",
+    "end": "2019-11-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "261805"
+      },
+      {
+        "site": "nicovideo",
+        "id": "re-zero-hyoketsu",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200slw5drm",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28226009",
+        "begin": "2020-04-30T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "サンタ・カンパニー ～クリスマスの秘密～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣诞老人公司～圣诞节的秘密～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://santa-company.net/",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "end": "2019-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "284474"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228384",
+        "begin": "2020-03-18T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "虚構推理 のミニアニメ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虚构推理 迷你动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-11-15T16:00:00.000Z",
+    "end": "2020-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "297088"
+      },
+      {
+        "site": "youku",
+        "id": "bece748d71274c018d0b",
+        "begin": "2020-02-29T15:58:05.000Z"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 星乱 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 星乱 第3章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "end": "2019-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226224"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222724",
+        "begin": "2019-09-26T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Levius -レビウス-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "列比乌斯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://levius.net/",
+    "begin": "2019-11-28T16:00:00.000Z",
+    "end": "2019-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278658"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229026",
+        "begin": "2020-05-27T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 7",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第七季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2019-11-02T16:00:00.000Z",
+    "end": "2020-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285936"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 コルボッコロ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Coluboccoro"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.coluboccoro.net/",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "end": "2019-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291175"
+      }
+    ]
   }
 ]

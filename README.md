@@ -1,4 +1,4 @@
-# Bangumi Data
+# Bangumi Data [![Awesome](https://badgen.net/badge/icon/awesome/fc60a8?icon=awesome&label)](https://github.com/bangumi-data/awesome)
 
 动画番组及其放送、资讯站点数据集合
 

@@ -131,6 +131,11 @@
         "site": "qq",
         "id": "q/qv9ys02cntx9pig",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28227618",
+        "begin": "2019-01-12T16:00:00.000Z"
       }
     ]
   },
@@ -178,6 +183,11 @@
         "site": "qq",
         "id": "2/2mn7w1x22n3udwt",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228699",
+        "begin": "2019-01-06T16:00:00.000Z"
       }
     ]
   },
@@ -840,6 +850,11 @@
         "site": "qq",
         "id": "u/uk66j9lxpchv1cc",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228720",
+        "begin": "2019-01-11T16:00:00.000Z"
       }
     ]
   },
@@ -1280,6 +1295,11 @@
       {
         "site": "bangumi",
         "id": "267481"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200i0467y9",
+        "begin": ""
       }
     ]
   },
@@ -1330,6 +1350,31 @@
         "site": "nicovideo",
         "id": "miabyss-movie",
         "begin": "2020-03-20T06:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ラブライブ!サンシャイン!! The School Idol Movie Over the Rainbow",
+    "titleTranslate": {
+      "zh-Hans": [
+        "LoveLive! Sunshine!! 剧场版 彩虹之上"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.lovelive-anime.jp/uranohoshi/sp_movie_theater.php",
+    "begin": "2019-01-04T16:00:00.000Z",
+    "end": "2019-01-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "234295"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228631",
+        "begin": "2020-04-16T16:00:00.000Z"
       }
     ]
   }

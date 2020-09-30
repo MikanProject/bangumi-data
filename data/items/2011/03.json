@@ -195,6 +195,11 @@
         "site": "iqiyi",
         "id": "a_19rrh6mmzt",
         "begin": "2018-05-31T16:12:44.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3900",
+        "begin": "2011-03-04T16:00:00.000Z"
       }
     ]
   },
@@ -297,6 +302,11 @@
       {
         "site": "bangumi",
         "id": "10553"
+      },
+      {
+        "site": "bilibili",
+        "id": "5871",
+        "begin": "2011-03-25T16:00:00.000Z"
       }
     ]
   },
@@ -379,6 +389,81 @@
         "site": "bilibili",
         "id": "5067",
         "begin": "2011-03-02T16:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "title": "森田さんは無口 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "森田同学很沉默 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.takeshobo.co.jp/sp/moritasan/",
+    "begin": "2011-03-25T16:00:00.000Z",
+    "end": "2011-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9821"
+      },
+      {
+        "site": "bilibili",
+        "id": "2861",
+        "begin": "2011-03-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊 S.A.C. SOLID STATE SOCIETY 3D",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队 S.A.C. SSS 3D"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kokaku-s.com/",
+    "begin": "2011-03-26T16:00:00.000Z",
+    "end": "2011-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12885"
+      },
+      {
+        "site": "bilibili",
+        "id": "1566",
+        "begin": "2011-03-25T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "×××HOLiC・籠 あだゆめ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "×××HOLiC・笼 徒梦"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-03-09T16:00:00.000Z",
+    "end": "2011-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11598"
+      },
+      {
+        "site": "bilibili",
+        "id": "3395",
+        "begin": "2011-03-08T16:00:00.000Z"
       }
     ]
   }
