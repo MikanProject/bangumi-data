@@ -31,6 +31,16 @@
         "site": "qq",
         "id": "m/mzc00200ntj3ii2",
         "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "oregairu3",
+        "begin": "2020-07-24T03:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlk4v9",
+        "begin": ""
       }
     ]
   },
@@ -218,6 +228,11 @@
         "site": "qq",
         "id": "m/mzc00200c8k0lz1",
         "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhx0jw5",
+        "begin": ""
       }
     ]
   },
@@ -331,6 +346,11 @@
       {
         "site": "bangumi",
         "id": "260736"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koipro-anime",
+        "begin": "2020-07-18T03:00:00.000Z"
       }
     ]
   },
@@ -360,6 +380,11 @@
         "site": "bilibili",
         "id": "28229238",
         "begin": "2020-07-04T13:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lapisrelights",
+        "begin": "2020-07-11T13:00:00.000Z"
       }
     ]
   },
@@ -454,7 +479,7 @@
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/nin_colle/",
     "begin": "2020-07-14T12:35:00.000Z",
-    "end": "2020-09-27T12:35:00.000Z",
+    "end": "2020-10-25T18:46:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -470,6 +495,11 @@
         "site": "youku",
         "id": "aabfb55e50634aafb9ba",
         "begin": "2020-07-12T19:05:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nin_colle",
+        "begin": "2020-07-13T03:00:00.000Z"
       }
     ]
   },
@@ -498,6 +528,11 @@
         "site": "bilibili",
         "id": "28229239",
         "begin": "2020-07-15T14:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "GIBIATE",
+        "begin": "2020-07-16T03:00:00.000Z"
       }
     ]
   },
@@ -553,7 +588,7 @@
     "lang": "ja",
     "officialSite": "https://fireforce-anime.jp/",
     "begin": "2020-07-03T16:55:00.000Z",
-    "end": "",
+    "end": "2020-12-11T17:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -622,6 +657,11 @@
         "site": "bilibili",
         "id": "28229398",
         "begin": "2020-07-05T16:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200hoxig81",
+        "begin": ""
       }
     ]
   },
@@ -636,7 +676,7 @@
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/pico/",
     "begin": "2020-07-06T16:00:00.000Z",
-    "end": "",
+    "end": "2020-12-28T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -705,6 +745,22 @@
         "site": "acfun",
         "id": "6002684",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "耐え子の日常(第二期)",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-07-01T08:59:00.000Z",
+    "end": "2020-12-31T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316108"
       }
     ]
   }

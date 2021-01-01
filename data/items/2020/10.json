@@ -14,12 +14,24 @@
     "officialSite": "https://gochiusa.com/bloom/",
     "begin": "2020-10-10T12:30:00.000Z",
     "broadcast": "R/2020-10-10T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-26T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "260770"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gochiusa-bloom",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229884",
+        "begin": "2020-10-10T14:00:00.000Z",
+        "broadcast": "R/2020-10-10T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -38,12 +50,24 @@
     "officialSite": "https://www.tbs.co.jp/anime/adashima/",
     "begin": "2020-10-08T16:58:00.000Z",
     "broadcast": "R/2020-10-08T16:58:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-24T17:08:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "282372"
+      },
+      {
+        "site": "nicovideo",
+        "id": "adashima",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229878",
+        "begin": "2020-10-09T07:00:00.000Z",
+        "broadcast": "R/2020-10-09T07:00:00.000Z/P7D"
       }
     ]
   },
@@ -59,12 +83,30 @@
     "officialSite": "http://danmachi.com/danmachi3/",
     "begin": "2020-10-02T15:30:00.000Z",
     "broadcast": "R/2020-10-02T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-18T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "291412"
+      },
+      {
+        "site": "nicovideo",
+        "id": "danmachi3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200aiuq8s4",
+        "begin": "2020-10-02T17:00:01.000Z",
+        "broadcast": "R/2020-10-02T17:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229869",
+        "begin": "2020-10-02T17:00:01.000Z",
+        "broadcast": "R/2020-10-02T17:00:01.000Z/P7D"
       }
     ]
   },
@@ -80,12 +122,18 @@
     "officialSite": "http://tonikawa.com/",
     "begin": "2020-10-02T16:05:00.000Z",
     "broadcast": "R/2020-10-02T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-18T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "301541"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229676",
+        "begin": "2020-10-02T16:05:00.000Z",
+        "broadcast": "R/2020-10-02T16:05:00.000Z/P7D"
       }
     ]
   },
@@ -101,12 +149,18 @@
     "officialSite": "https://www.kamuy-anime.com/",
     "begin": "2020-10-05T14:00:00.000Z",
     "broadcast": "R/2020-10-05T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-21T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "285901"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229888",
+        "begin": "2020-10-05T15:30:00.000Z",
+        "broadcast": "R/2020-10-05T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -122,12 +176,18 @@
     "officialSite": "https://mahouka.jp/",
     "begin": "2020-10-03T15:30:00.000Z",
     "broadcast": "R/2020-10-03T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-26T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "292233"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahouka2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -143,12 +203,24 @@
     "officialSite": "https://kumakumakumabear.com/",
     "begin": "2020-10-07T12:00:00.000Z",
     "broadcast": "R/2020-10-07T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-23T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "297624"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kumakumakumabear",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229879",
+        "begin": "2020-10-07T13:30:00.000Z",
+        "broadcast": "R/2020-10-07T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -170,6 +242,12 @@
       {
         "site": "bangumi",
         "id": "297969"
+      },
+      {
+        "site": "nicovideo",
+        "id": "higurashianime_202010",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -188,12 +266,24 @@
     "officialSite": "http://1000000-lives.com/",
     "begin": "2020-10-02T13:00:00.000Z",
     "broadcast": "R/2020-10-02T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-18T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "301469"
+      },
+      {
+        "site": "nicovideo",
+        "id": "1000000-lives",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229902",
+        "begin": "2020-10-02T14:00:01.000Z",
+        "broadcast": "R/2020-10-02T14:00:01.000Z/P7D"
       }
     ]
   },
@@ -212,12 +302,24 @@
     "officialSite": "https://sigururi.com/",
     "begin": "2020-10-03T14:30:00.000Z",
     "broadcast": "R/2020-10-03T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-26T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "301369"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sigururi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229903",
+        "begin": "2020-10-03T16:00:01.000Z",
+        "broadcast": "R/2020-10-03T16:00:01.000Z/P7D"
       }
     ]
   },
@@ -233,12 +335,24 @@
     "officialSite": "http://iwakakeru-anime.com/",
     "begin": "2020-10-03T17:00:00.000Z",
     "broadcast": "R/2020-10-03T17:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-19T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "305114"
+      },
+      {
+        "site": "nicovideo",
+        "id": "iwakakeru-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229893",
+        "begin": "2020-10-03T18:00:01.000Z",
+        "broadcast": "R/2020-10-03T18:00:01.000Z/P7D"
       }
     ]
   },
@@ -246,6 +360,10 @@
     "title": "アサルトリリィ BOUQUET",
     "titleTranslate": {
       "zh-Hans": [
+        "突击莉莉 BOUQUET",
+        "Assault Lily BOUQUET"
+      ],
+      "en": [
         "Assault Lily BOUQUET"
       ]
     },
@@ -254,12 +372,24 @@
     "officialSite": "https://anime.assaultlily-pj.com/",
     "begin": "2020-10-01T16:28:00.000Z",
     "broadcast": "R/2020-10-01T16:28:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-24T16:38:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "292712"
+      },
+      {
+        "site": "nicovideo",
+        "id": "assaultlily-pj",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229882",
+        "begin": "2020-10-02T07:00:01.000Z",
+        "broadcast": "R/2020-10-02T07:00:01.000Z/P7D"
       }
     ]
   },
@@ -275,12 +405,24 @@
     "officialSite": "https://majotabi.jp/",
     "begin": "2020-10-02T12:00:00.000Z",
     "broadcast": "R/2020-10-02T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-18T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "292970"
+      },
+      {
+        "site": "nicovideo",
+        "id": "majotabi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229881",
+        "begin": "2020-10-02T13:30:01.000Z",
+        "broadcast": "R/2020-10-02T13:30:01.000Z/P7D"
       }
     ]
   },
@@ -296,7 +438,7 @@
     "officialSite": "https://dog-and-cat.com/",
     "begin": "2020-10-02T16:52:00.000Z",
     "broadcast": "R/2020-10-02T16:52:00.000Z/P7D",
-    "end": "",
+    "end": "2020-10-02T16:52:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -323,6 +465,18 @@
       {
         "site": "bangumi",
         "id": "294993"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229899",
+        "begin": "2020-10-02T17:25:01.000Z",
+        "broadcast": "R/2020-10-02T17:25:01.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "dfaa9262a41b49a9a7bb",
+        "begin": "2020-10-02T17:25:00.000Z",
+        "broadcast": "R/2020-10-02T17:25:00.000Z/P7D"
       }
     ]
   },
@@ -338,12 +492,24 @@
     "officialSite": "https://hypnosismic-anime.com/",
     "begin": "2020-10-02T15:00:00.000Z",
     "broadcast": "R/2020-10-02T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-25T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "295862"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hypnosismic-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229906",
+        "begin": "2020-10-02T16:30:01.000Z",
+        "broadcast": "R/2020-10-02T16:30:01.000Z/P7D"
       }
     ]
   },
@@ -351,7 +517,8 @@
     "title": "無能なナナ",
     "titleTranslate": {
       "zh-Hans": [
-        "无能的奈奈"
+        "无能的奈奈",
+        "无能力者娜娜"
       ]
     },
     "type": "tv",
@@ -359,12 +526,30 @@
     "officialSite": "https://munounanana.com/",
     "begin": "2020-10-04T12:30:00.000Z",
     "broadcast": "R/2020-10-04T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-27T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "302418"
+      },
+      {
+        "site": "nicovideo",
+        "id": "munounanana",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200s8m6yti",
+        "begin": "2020-09-26T12:00:00.000Z",
+        "broadcast": "R/2020-10-04T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229885",
+        "begin": "2020-09-26T12:00:00.000Z",
+        "broadcast": "R/2020-10-04T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -380,12 +565,18 @@
     "officialSite": "https://maesetsu.jp/",
     "begin": "2020-10-11T14:30:00.000Z",
     "broadcast": "R/2020-10-11T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-27T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "285899"
+      },
+      {
+        "site": "acfun",
+        "id": "6003906",
+        "begin": "2020-10-04T15:30:00.000Z",
+        "broadcast": "R/2020-10-04T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -401,12 +592,18 @@
     "officialSite": "https://iwgp-anime.com/",
     "begin": "2020-10-06T12:00:00.000Z",
     "broadcast": "R/2020-10-06T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-22T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "289915"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229883",
+        "begin": "2020-10-06T13:00:00.000Z",
+        "broadcast": "R/2020-10-06T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -422,12 +619,24 @@
     "officialSite": "https://kimisentv.com/",
     "begin": "2020-10-07T14:30:00.000Z",
     "broadcast": "R/2020-10-07T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-23T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "292273"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kimisentv",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229872",
+        "begin": "2020-10-07T15:30:00.000Z",
+        "broadcast": "R/2020-10-07T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -443,12 +652,18 @@
     "officialSite": "https://akudama-drive.com/",
     "begin": "2020-10-08T12:30:00.000Z",
     "broadcast": "R/2020-10-08T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-24T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "302076"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229880",
+        "begin": "2020-10-08T13:00:00.000Z",
+        "broadcast": "R/2020-10-08T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -464,12 +679,36 @@
     "officialSite": "https://maoujo-anime.com/",
     "begin": "2020-10-05T17:00:00.000Z",
     "broadcast": "R/2020-10-05T17:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-22T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "290426"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maoujo-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229876",
+        "begin": "2020-10-05T18:00:00.000Z",
+        "broadcast": "R/2020-10-05T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_qbsfyocvjl",
+        "begin": "2020-10-05T18:00:00.000Z",
+        "broadcast": "R/2020-10-05T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "addf86a4ee54402ca000",
+        "begin": "2020-10-05T18:00:00.000Z",
+        "broadcast": "R/2020-10-05T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -491,6 +730,18 @@
       {
         "site": "bangumi",
         "id": "309910"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229892",
+        "begin": "2020-10-12T17:30:00.000Z",
+        "broadcast": "R/2020-10-12T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "ababa8ceddce4aa785cd",
+        "begin": "2020-10-12T17:30:00.000Z",
+        "broadcast": "R/2020-10-12T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -509,12 +760,24 @@
     "officialSite": "https://moriarty-anime.com/",
     "begin": "2020-10-11T13:30:00.000Z",
     "broadcast": "R/2020-10-11T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-20T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "297022"
+      },
+      {
+        "site": "nicovideo",
+        "id": "moriarty-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229877",
+        "begin": "2020-10-11T15:00:01.000Z",
+        "broadcast": "R/2020-10-11T15:00:01.000Z/P7D"
       }
     ]
   },
@@ -530,12 +793,36 @@
     "officialSite": "https://kamihiro-anime.com/",
     "begin": "2020-10-04T14:30:00.000Z",
     "broadcast": "R/2020-10-04T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-20T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "300685"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kamihiro-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200656t4ir",
+        "begin": "2020-10-04T15:30:00.000Z",
+        "broadcast": "R/2020-10-04T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229905",
+        "begin": "2020-10-04T15:30:00.000Z",
+        "broadcast": "R/2020-10-04T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_1nhw04ybwul",
+        "begin": "2020-10-04T15:30:00.000Z",
+        "broadcast": "R/2020-10-04T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -554,12 +841,24 @@
     "officialSite": "http://w-witch.jp/strike_witches-rtb/",
     "begin": "2020-10-07T16:05:00.000Z",
     "broadcast": "R/2020-10-07T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-23T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "253046"
+      },
+      {
+        "site": "nicovideo",
+        "id": "strike_witches-rtb",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acfun",
+        "id": "6003908",
+        "begin": "2020-10-07T17:05:00.000Z",
+        "broadcast": "R/2020-10-07T17:05:00.000Z/P7D"
       }
     ]
   },
@@ -578,12 +877,24 @@
     "officialSite": "https://kamisama-day.jp/",
     "begin": "2020-10-10T15:00:00.000Z",
     "broadcast": "R/2020-10-10T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-26T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "306429"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kamisama-day",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229870",
+        "begin": "2020-10-10T16:30:00.000Z",
+        "broadcast": "R/2020-10-10T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -591,7 +902,8 @@
     "title": "ドラゴンクエスト ダイの大冒険(2020)",
     "titleTranslate": {
       "zh-Hans": [
-        "神龙之谜 -达尔大冒险-"
+        "神龙之谜 -达尔大冒险-",
+        "勇者斗恶龙 达伊的大冒险"
       ]
     },
     "type": "tv",
@@ -605,6 +917,24 @@
       {
         "site": "bangumi",
         "id": "296980"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229894",
+        "begin": "2020-10-03T01:30:01.000Z",
+        "broadcast": "R/2020-10-03T01:30:01.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "fcdca66a34874e9288f4",
+        "begin": "2020-10-03T01:30:00.000Z",
+        "broadcast": "R/2020-10-03T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_18481af6vfd",
+        "begin": "2020-10-03T01:30:00.000Z",
+        "broadcast": "R/2020-10-03T01:30:00.000Z/P7D"
       }
     ]
   },
@@ -620,12 +950,24 @@
     "officialSite": "http://www.lovelive-anime.jp/nijigasaki/",
     "begin": "2020-10-03T13:30:00.000Z",
     "broadcast": "R/2020-10-03T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-26T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "296659"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nijigasaki",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229887",
+        "begin": "2020-10-03T15:00:01.000Z",
+        "broadcast": "R/2020-10-03T15:00:01.000Z/P7D"
       }
     ]
   },
@@ -641,12 +983,18 @@
     "officialSite": "https://haikyu.jp/",
     "begin": "2020-10-02T17:25:00.000Z",
     "broadcast": "R/2020-10-02T17:25:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-18T18:05:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "295421"
+      },
+      {
+        "site": "youku",
+        "id": "bafa149a350a4e9a8b68",
+        "begin": "2020-10-02T18:25:00.000Z",
+        "broadcast": "R/2020-10-02T18:25:00.000Z/P7D"
       }
     ]
   },
@@ -668,6 +1016,24 @@
       {
         "site": "bangumi",
         "id": "306193"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc002009b3n1il",
+        "begin": "2020-10-03T10:00:01.000Z",
+        "broadcast": "R/2020-10-03T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229900",
+        "begin": "2020-10-03T10:00:01.000Z",
+        "broadcast": "R/2020-10-03T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_xnuvg1xks1",
+        "begin": "2020-10-03T10:00:00.000Z",
+        "broadcast": "R/2020-10-03T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -675,6 +1041,7 @@
     "title": "禍つヴァールハイト -ZUERST-",
     "titleTranslate": {
       "zh-Hans": [
+        "光之战记－ZUERST－",
         "灾祸的真理 -ZUERST-"
       ]
     },
@@ -683,12 +1050,18 @@
     "officialSite": "https://magatsu-wahrheit-zuerst.com/",
     "begin": "2020-10-13T14:00:00.000Z",
     "broadcast": "R/2020-10-13T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-29T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "241267"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229886",
+        "begin": "2020-10-13T15:30:00.000Z",
+        "broadcast": "R/2020-10-13T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -704,12 +1077,35 @@
     "officialSite": "https://otokoi.cf-anime.com/",
     "begin": "2020-10-04T16:00:00.000Z",
     "broadcast": "R/2020-10-04T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-11-22T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "314312"
+      },
+      {
+        "site": "nicovideo",
+        "id": "otokoi_cf_anime",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "エタニティ ～深夜の濡恋ちゃんねる♡～",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://eternity-nurechan.com/",
+    "begin": "2020-10-04T16:05:00.000Z",
+    "broadcast": "R/2020-10-04T16:05:00.000Z/P7D",
+    "end": "2020-12-20T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316106"
       }
     ]
   },
@@ -725,7 +1121,7 @@
     "officialSite": "https://railromanesque.jp/",
     "begin": "2020-10-02T16:00:00.000Z",
     "broadcast": "R/2020-10-02T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-18T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -749,12 +1145,48 @@
     "officialSite": "https://www.tsukiani.com/",
     "begin": "2020-10-07T13:30:00.000Z",
     "broadcast": "R/2020-10-07T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-30T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "266349"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tsukiani2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229296",
+        "begin": "2020-10-07T13:30:00.000Z",
+        "broadcast": "R/2020-10-07T13:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "かえるのピクルス -きもちのいろ-",
+    "titleTranslate": {
+      "en": [
+        "pickles the frog"
+      ],
+      "zh-Hans": [
+        "pickles the frog -心情的颜色-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://pickles-anime.com/",
+    "begin": "2020-10-04T12:55:00.000Z",
+    "broadcast": "R/2020-10-04T12:55:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315773"
       }
     ]
   },
@@ -770,12 +1202,45 @@
     "officialSite": "https://noblesse-anime.com/",
     "begin": "2020-10-07T15:00:00.000Z",
     "broadcast": "R/2020-10-07T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-30T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "312966"
+      },
+      {
+        "site": "acfun",
+        "id": "6003907",
+        "begin": "2020-10-07T14:00:00.000Z",
+        "broadcast": "R/2020-10-07T14:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "秘密結社 鷹の爪 ～ゴールデン・スペル～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秘密结社 鹰之爪 ~Golden Spell~"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://xn--u9j429qiq1a.jp/gs/",
+    "begin": "2020-10-04T16:00:00.000Z",
+    "broadcast": "R/2020-10-04T16:00:00.000Z/P7D",
+    "end": "2020-12-20T16:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316103"
+      },
+      {
+        "site": "nicovideo",
+        "id": "takanotsume-gs",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -808,12 +1273,18 @@
     "officialSite": "https://dogeza-anime.com/",
     "begin": "2020-10-14T14:05:00.000Z",
     "broadcast": "R/2020-10-14T14:05:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-30T14:10:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "311600"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dogeza-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -821,6 +1292,7 @@
     "title": "キングスレイド 意志を継ぐものたち",
     "titleTranslate": {
       "zh-Hans": [
+        "王之逆袭：意志的继承者",
         "King's Raid"
       ]
     },
@@ -835,6 +1307,30 @@
       {
         "site": "bangumi",
         "id": "305621"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-kings-raid",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229889",
+        "begin": "2020-10-02T17:23:01.000Z",
+        "broadcast": "R/2020-10-02T17:23:01.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "fbde1d02f143484baac5",
+        "begin": "2020-10-02T17:23:00.000Z",
+        "broadcast": "R/2020-10-02T17:23:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_1rfl8eqv7bx",
+        "begin": "2020-10-02T17:23:00.000Z",
+        "broadcast": "R/2020-10-02T17:23:00.000Z/P7D"
       }
     ]
   },
@@ -850,12 +1346,24 @@
     "officialSite": "https://taiso-samurai.com/",
     "begin": "2020-10-10T16:30:00.000Z",
     "broadcast": "R/2020-10-10T16:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-19T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "312979"
+      },
+      {
+        "site": "nicovideo",
+        "id": "taiso-samurai",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229904",
+        "begin": "2020-10-10T18:00:00.000Z",
+        "broadcast": "R/2020-10-10T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -871,12 +1379,24 @@
     "officialSite": "https://oneroom-anime.com/",
     "begin": "2020-10-05T16:05:00.000Z",
     "broadcast": "R/2020-10-05T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-21T16:10:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "301233"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oneroom3rd",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28230234",
+        "begin": "2020-10-05T16:05:00.000Z",
+        "broadcast": "R/2020-10-05T16:05:00.000Z/P7D"
       }
     ]
   },
@@ -892,12 +1412,18 @@
     "officialSite": "https://www.a3-animation.jp/",
     "begin": "2020-10-12T15:00:00.000Z",
     "broadcast": "R/2020-10-12T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "289131"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229867",
+        "begin": "2020-10-12T16:30:00.000Z",
+        "broadcast": "R/2020-10-12T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -913,12 +1439,73 @@
     "officialSite": "https://guraburu.granbluefantasy.jp/",
     "begin": "2020-10-08T12:54:00.000Z",
     "broadcast": "R/2020-10-08T12:54:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-24T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "303157"
+      },
+      {
+        "site": "bilibili",
+        "id": "28230233",
+        "begin": "2020-10-08T12:54:00.000Z",
+        "broadcast": "R/2020-10-08T12:54:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "最響カミズモード！",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kamizmode-anime.com/",
+    "begin": "2020-10-09T10:30:00.000Z",
+    "broadcast": "R/2020-10-09T10:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316107"
+      }
+    ]
+  },
+  {
+    "title": "せいぜいがんばれ！魔法少女くるみ (第3期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "尽量加油吧！魔法少女胡桃 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.seizeiganbare.jp/",
+    "begin": "2020-10-07T14:54:00.000Z",
+    "broadcast": "R/2020-10-07T14:54:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310899"
+      }
+    ]
+  },
+  {
+    "title": "それだけがネック",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://soredakega-neck.com/",
+    "begin": "2020-10-12T17:30:00.000Z",
+    "broadcast": "R/2020-10-12T17:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315133"
       }
     ]
   },
@@ -937,12 +1524,118 @@
     "officialSite": "http://ochifuru-anime.com/",
     "begin": "2020-10-12T12:30:00.000Z",
     "broadcast": "R/2020-10-12T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-28T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "279059"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ochifuru-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229890",
+        "begin": "2020-10-12T13:30:00.000Z",
+        "broadcast": "R/2020-10-12T13:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "兄に付ける薬はない！4-快把我哥帯走4-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "没有给我哥吃的药！4"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anitsuke.com/",
+    "begin": "2020-10-02T12:54:00.000Z",
+    "end": "2020-12-18T12:58:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "311978"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke4",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "あはれ！名作くん(第5期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "做得很好！名作君 第五季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://meisakukun.com/",
+    "begin": "2020-10-02T09:20:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "301700"
+      }
+    ]
+  },
+  {
+    "title": "超次元ゲイム ネプテューヌ Hi☆Light",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超次元游戏 海王星 Hi☆Light"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nep-anime.tv/news.html#nid554",
+    "begin": "2020-10-28T16:00:00.000Z",
+    "end": "2020-11-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299934"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nep-anime-special",
+        "begin": "2020-07-31T15:00:00.000Z",
+        "broadcast": "R/2020-07-31T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "BURN THE WITCH",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://burn-the-witch-anime.com",
+    "begin": "2020-10-02T16:00:00.000Z",
+    "end": "2020-10-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302293"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229901",
+        "begin": "2020-10-02T00:00:01.000Z",
+        "broadcast": "R/2020-10-02T00:00:01.000Z/P0D"
       }
     ]
   }

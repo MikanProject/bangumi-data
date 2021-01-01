@@ -1198,6 +1198,11 @@
         "site": "qq",
         "id": "l/lm2gbly4pcycdnh",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "aebee63137c44667a25f",
+        "begin": "2020-07-07T03:34:06.000Z"
       }
     ]
   },
@@ -1259,6 +1264,11 @@
       {
         "site": "bangumi",
         "id": "230914"
+      },
+      {
+        "site": "bilibili",
+        "id": "28230042",
+        "begin": ""
       }
     ]
   },
@@ -1334,6 +1344,22 @@
         "site": "nicovideo",
         "id": "danmachi2-ova",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kinpri-allstars.com/",
+    "begin": "2020-01-10T16:00:00.000Z",
+    "end": "2020-01-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "292764"
       }
     ]
   }

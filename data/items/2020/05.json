@@ -10,7 +10,7 @@
     "lang": "ja",
     "officialSite": "https://anime.cf-vanguard.com/",
     "begin": "2020-05-29T23:00:00.000Z",
-    "end": "",
+    "end": "2020-11-27T23:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -21,6 +21,11 @@
         "site": "nicovideo",
         "id": "cf-vanguard-if-",
         "begin": "2020-05-30T14:30:00.000Z"
+      },
+      {
+        "site": "acfun",
+        "id": "6002672",
+        "begin": ""
       }
     ]
   }

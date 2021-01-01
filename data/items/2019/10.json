@@ -895,7 +895,7 @@
     "lang": "ja",
     "officialSite": "http://anime-zoidswild-zero.jp/",
     "begin": "2019-10-04T08:55:00.000Z",
-    "end": "2019-10-04T08:55:00.000Z",
+    "end": "2020-10-16T09:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1597,7 +1597,7 @@
     "lang": "ja",
     "officialSite": "https://gogo-atom.jp/",
     "begin": "2019-10-03T16:00:00.000Z",
-    "end": "",
+    "end": "2020-10-01T09:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1657,6 +1657,11 @@
       {
         "site": "nicovideo",
         "id": "soraaoproject",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229655",
         "begin": ""
       }
     ]
@@ -1738,6 +1743,31 @@
         "site": "bilibili",
         "id": "28228701",
         "begin": "2019-10-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "冴えない彼女の育てかた Fine",
+    "titleTranslate": {
+      "zh-Hans": [
+        "路人女主的养成方法 Fine"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://saenai-movie.com/",
+    "begin": "2019-10-26T16:00:00.000Z",
+    "end": "2019-10-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231497"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229860",
+        "begin": ""
       }
     ]
   }
