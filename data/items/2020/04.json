@@ -741,6 +741,12 @@
       {
         "site": "bangumi",
         "id": "286650"
+      },
+      {
+        "site": "nicovideo",
+        "id": "arte-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1508,6 +1514,32 @@
         "site": "bilibili",
         "id": "28228268",
         "begin": "2020-04-22T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ゾゾゾ ゾンビーくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "佐佐桑比"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.youtube.com/channel/UCvaCHS2VRgOJJKWwXuxcJOA",
+    "begin": "2020-04-15T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "304153"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_2bzis94fbt9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
