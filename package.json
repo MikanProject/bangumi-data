@@ -1,6 +1,6 @@
 {
   "name": "bangumi-data",
-  "version": "0.3.57",
+  "version": "0.3.62",
   "description": "Raw data for Anime",
   "main": "dist/data.json",
   "files": [
@@ -13,7 +13,9 @@
     "test": "npm run lint && npm run validate",
     "preversion": "npm run test",
     "version": "npm run build && git add -A dist",
-    "postversion": "git push && git push --tags && npm publish"
+    "postversion": "git push && git push --tags && npm publish",
+    "create": "bdh create",
+    "end": "bdh end"
   },
   "repository": {
     "type": "git",
@@ -35,6 +37,7 @@
     "fs-extra": "^7.0.1",
     "joi": "^13.7.0",
     "klaw": "^3.0.0",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.19",
+    "bangumi-data-helper": "^0.2.9"
   }
 }
