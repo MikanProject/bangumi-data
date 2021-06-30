@@ -786,7 +786,7 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "2021-05-14T00:00:00Z",
+    "begin": "2021-07-16T00:00:00Z",
     "end": "",
     "bdReleaseDate": "2020-11-07T00:00:00Z",
     "comment": "",
@@ -836,6 +836,27 @@
       {
         "site": "bangumi",
         "id": "292264"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の新恐竜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄的新恐龙"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-08-07T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2020-12-16T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285759"
       }
     ]
   }
