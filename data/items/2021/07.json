@@ -464,7 +464,7 @@
     "officialSite": "https://tsushima-anime.com/",
     "begin": "2021-07-02T16:52:00.000Z",
     "broadcast": "R/2021-07-02T16:52:00.000Z/P7D",
-    "end": "",
+    "end": "2021-09-17T16:52:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -488,7 +488,7 @@
     "officialSite": "https://re-main.net/",
     "begin": "2021-07-03T16:30:00.000Z",
     "broadcast": "R/2021-07-03T16:30:00.000Z/P7D",
-    "end": "",
+    "end": "2021-09-30T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -714,7 +714,7 @@
     "officialSite": "https://www.lovelive-anime.jp/yuigaoka/",
     "begin": "2021-07-11T10:00:00.000Z",
     "broadcast": "R/2021-07-11T10:00:00.000Z/P7D",
-    "end": "",
+    "end": "2021-09-30T10:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -850,7 +850,7 @@
     "officialSite": "https://dea5-anime.com/",
     "begin": "2021-07-12T15:00:00.000Z",
     "broadcast": "R/2021-07-12T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2021-09-27T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -986,7 +986,7 @@
     "officialSite": "https://dctm-pj.com/",
     "begin": "2021-07-10T13:30:00.000Z",
     "broadcast": "R/2021-07-10T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2021-09-30T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1159,28 +1159,6 @@
       {
         "site": "bangumi",
         "id": "302523"
-      }
-    ]
-  },
-  {
-    "title": "Obey Me!",
-    "titleTranslate": {},
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "https://shallwedate.jp/obeyme/",
-    "begin": "2021-07-16T16:00:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "341513"
-      },
-      {
-        "site": "nicovideo",
-        "id": "obeyme",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
