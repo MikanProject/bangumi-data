@@ -86,6 +86,12 @@
         "id": "PLuxqoToY7UchZ-FgfIawwu0qyC5T1sh9A",
         "begin": "2021-04-08T15:45:00.000Z",
         "broadcast": "R/2021-04-08T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zombielandsaga-r",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -371,6 +377,12 @@
         "id": "28233603",
         "begin": "2021-03-31T10:30:01.000Z",
         "broadcast": "R/2021-03-31T10:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koikimo",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -396,6 +408,12 @@
       {
         "site": "bilibili",
         "id": "28232007",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "bishonen-tanteidan",
         "begin": "",
         "broadcast": ""
       }
@@ -434,6 +452,18 @@
         "id": "PLuxqoToY7Uch24ToiTn-Yl1UyX7r-RFzB",
         "begin": "2021-04-10T18:38:00.000Z",
         "broadcast": "R/2021-04-10T18:38:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tokyo-revengers-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200rrtzb8h",
+        "begin": "2021-04-10T18:08:00.000Z",
+        "broadcast": "R/2021-04-10T18:08:00.000Z/P7D"
       }
     ]
   },
@@ -590,6 +620,12 @@
         "id": "28233919",
         "begin": "2021-04-11T14:00:00.000Z",
         "broadcast": "R/2021-04-11T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "doraie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -623,6 +659,12 @@
         "id": "114853",
         "begin": "2021-04-07T14:30:00.000Z",
         "broadcast": "R/2021-04-07T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fulldive-rpg",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -665,6 +707,12 @@
         "id": "PLuxqoToY7UcjbUiGCAoS1N8NCaOoIFqLS",
         "begin": "2021-04-04T13:30:00.000Z",
         "broadcast": "R/2021-04-04T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kisaragi_anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -847,7 +895,7 @@
     "officialSite": "https://anime-fumetsunoanatae.com/",
     "begin": "2021-04-12T13:50:00.000Z",
     "broadcast": "R/2021-04-12T13:50:00.000Z/P7D",
-    "end": "",
+    "end": "2021-08-30T14:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -961,6 +1009,33 @@
         "id": "112786",
         "begin": "2021-04-05T15:30:00.000Z",
         "broadcast": "R/2021-04-05T15:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "iiiあいすくりん",
+    "titleTranslate": {
+      "en": [
+        "iii icecrin"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://iii-icecrin.com/",
+    "begin": "2021-04-05T22:30:00.000Z",
+    "broadcast": "R/2021-04-05T22:30:00.000Z/P7D",
+    "end": "2021-06-28T22:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "327771"
+      },
+      {
+        "site": "gamer",
+        "id": "115000",
+        "begin": "2021-04-05T23:00:00.000Z",
+        "broadcast": "R/2021-04-05T23:00:00.000Z/P7D"
       }
     ]
   },
@@ -1150,6 +1225,22 @@
     ]
   },
   {
+    "title": "レゴ モンキーキッド",
+    "titleTranslate": {
+      "en": [
+        "LEGO  MONKIEKID"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/lego_monkiekid/",
+    "begin": "2021-04-02T22:30:00.000Z",
+    "broadcast": "R/2021-04-02T22:30:00.000Z/P7D",
+    "end": "2021-05-28T23:00:00.000Z",
+    "comment": "",
+    "sites": []
+  },
+  {
     "title": "シャドーハウス",
     "titleTranslate": {
       "en": [
@@ -1164,7 +1255,7 @@
     "officialSite": "https://shadowshouse-anime.com/",
     "begin": "2021-04-10T15:30:00.000Z",
     "broadcast": "R/2021-04-10T15:30:00.000Z/P7D",
-    "end": "2021-06-30T15:30:00.000Z",
+    "end": "2021-07-03T15:57:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1257,6 +1348,12 @@
         "id": "28233159",
         "begin": "2021-04-11T13:00:00.000Z",
         "broadcast": "R/2021-04-11T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "daiundoukai-restart",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1278,6 +1375,12 @@
       {
         "site": "bangumi",
         "id": "299709"
+      },
+      {
+        "site": "nicovideo",
+        "id": "marsred",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1428,6 +1531,12 @@
         "id": "6005279",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "edens-zero",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1460,7 +1569,7 @@
     "officialSite": "https://anime.d4dj-pj.com/petit-mix/",
     "begin": "2021-04-02T16:00:00.000Z",
     "broadcast": "R/2021-04-02T16:00:00.000Z/P7D",
-    "end": "2021-04-02T16:00:00.000Z",
+    "end": "2021-09-24T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1588,6 +1697,12 @@
       {
         "site": "bangumi",
         "id": "326644"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuyuyu_churutto",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1761,6 +1876,32 @@
         "id": "28233902",
         "begin": "2021-04-08T11:00:01.000Z",
         "broadcast": "R/2021-04-08T11:00:01.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Thunderbolt Fantasy 東離劍遊紀 3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Thunderbolt Fantasy 东离剑游纪 3"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.thunderboltfantasy.com/season3/",
+    "begin": "2021-04-03T16:00:00.000Z",
+    "end": "2021-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "251674"
+      },
+      {
+        "site": "nicovideo",
+        "id": "thunderboltfantasy3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
