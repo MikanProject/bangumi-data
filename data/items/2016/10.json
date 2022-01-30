@@ -752,6 +752,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "歌之王子殿下 真爱LEGEND STAR"
+      ],
+      "zh-Hant": [
+        "歌之王子殿下 真愛 LEGEND STAR"
       ]
     },
     "type": "tv",
@@ -773,6 +776,12 @@
         "site": "nicovideo",
         "id": "UTAPRI-LS",
         "begin": "2016-10-09T03:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgiPBchlRn3LgdDfZMfQ10b",
+        "begin": "2019-11-10T16:00:00.000Z",
+        "broadcast": "R/2019-11-10T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -818,6 +827,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "装神少女小缠"
+      ],
+      "zh-Hant": [
+        "神裝少女小纏"
       ]
     },
     "type": "tv",
@@ -854,6 +866,12 @@
         "site": "qq",
         "id": "m/mdp5slz8yh5nk4e",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgLdE6znVjefzpQ72G0ZNhL",
+        "begin": "2020-08-19T16:00:00.000Z",
+        "broadcast": "R/2020-08-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1000,6 +1018,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "排球少年 乌野高校 VS 白鸟泽学园高校"
+      ],
+      "zh-Hant": [
+        "排球少年!!烏野高中VS白鳥澤學園高中"
       ]
     },
     "type": "tv",
@@ -1021,6 +1042,12 @@
         "site": "nicovideo",
         "id": "j-haikyu",
         "begin": "2016-10-09T03:00:00.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "370822",
+        "begin": "2021-06-30T16:00:00.000Z",
+        "broadcast": "R/2021-06-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1074,6 +1101,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "长骑美眉"
+      ],
+      "zh-Hant": [
+        "長騎美眉"
       ]
     },
     "type": "tv",
@@ -1115,6 +1145,12 @@
         "site": "qq",
         "id": "m/mzc00200s4mm5q5",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchPC2fP7xrA7z3LxnFSscFE",
+        "begin": "2020-03-15T16:00:00.000Z",
+        "broadcast": "R/2020-03-15T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1565,6 +1601,9 @@
       ],
       "zh-Hans": [
         "竞女"
+      ],
+      "zh-Hant": [
+        "競女!!!!!!!!"
       ]
     },
     "type": "tv",
@@ -1581,6 +1620,11 @@
       {
         "site": "bangumi",
         "id": "168634"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JihoHAg6oR0cN5Fm9U1vNxa",
+        "begin": ""
       }
     ]
   },
@@ -2197,7 +2241,13 @@
   },
   {
     "title": "猫のダヤン ふしぎ劇場",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "達洋貓 不可思議劇場",
+        "達洋貓S3 不可思議劇場",
+        "達洋貓第三季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://anime-dayan.com/",
@@ -2217,6 +2267,13 @@
         "site": "iqiyi",
         "id": "a_19rrh5nc6d",
         "begin": "2018-08-24T09:59:48.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj1SBF1569ae2ysB5Z1gPvF",
+        "begin": "2019-06-10T16:00:00.000Z",
+        "broadcast": "R/2019-06-10T16:00:00.000Z/P7D",
+        "comment": "中文: PLuxqoToY7UcheEQ-96r6QKyFy4Oiy2Iwb"
       }
     ]
   },
@@ -2356,6 +2413,9 @@
         "星期一的丰满",
         "星期一的硕果",
         "周一的硕果"
+      ],
+      "zh-Hant": [
+        "星期一的豐滿"
       ]
     },
     "type": "web",
@@ -2382,6 +2442,12 @@
         "site": "nicovideo",
         "id": "PBM",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjL5gbB-F-XL6SdM3IMVf4Z",
+        "begin": "2021-09-19T16:00:00.000Z",
+        "broadcast": "R/2021-09-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2799,8 +2865,7 @@
     "lang": "ja",
     "officialSite": "http://gj8man.com/",
     "begin": "2016-10-08T16:00:00.000Z",
-    "end": "2016-10-08T16:00:00.000Z",
-    "comment": "",
+    "end": "2021-08-08T16:00:00.000Z",
     "sites": [
       {
         "site": "bangumi",

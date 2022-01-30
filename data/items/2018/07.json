@@ -687,6 +687,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Angolmois 元寇合战记"
+      ],
+      "zh-Hant": [
+        "元寇合戰記"
       ]
     },
     "type": "tv",
@@ -713,6 +716,12 @@
         "site": "youku",
         "id": "6d7c7cd82c1e46bdb213",
         "begin": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jh4PnnM6ue8PV5OwsDIynhs",
+        "begin": "2020-03-29T16:00:00.000Z",
+        "broadcast": "R/2020-03-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1142,6 +1151,9 @@
     "titleTranslate": {
       "ja": [
         "Phantom in the Twilight"
+      ],
+      "zh-Hant": [
+        "暮光幻影"
       ]
     },
     "type": "tv",
@@ -1163,6 +1175,12 @@
         "site": "bilibili",
         "id": "95292",
         "begin": "2018-07-05T04:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgOs6MidwR0fKv6F4g9ZXCE",
+        "begin": "2021-01-07T16:00:00.000Z",
+        "broadcast": "R/2021-01-07T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1289,6 +1307,9 @@
       ],
       "zh-Hans": [
         "OVERLORD III"
+      ],
+      "zh-Hant": [
+        "OVERLORD III"
       ]
     },
     "type": "tv",
@@ -1310,6 +1331,11 @@
         "site": "nicovideo",
         "id": "overlord-anime3",
         "begin": "2018-07-17T15:30:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj-qPvH9bUUeEKo26qicFm_",
+        "begin": ""
       }
     ]
   },

@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "潮与虎 3期"
+      ],
+      "zh-Hant": [
+        "潮與虎"
       ]
     },
     "type": "tv",
@@ -20,6 +23,12 @@
       {
         "site": "bangumi",
         "id": "143740"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgAOiMCdN3ne3RUCEOrBQJE",
+        "begin": "2019-11-28T16:00:00.000Z",
+        "broadcast": "R/2019-11-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -31,6 +40,9 @@
       ],
       "en": [
         "JOJO'S BIZARRE ADVENTURE"
+      ],
+      "zh-Hant": [
+        "JOJO的奇妙冒險S3(不滅鑽石)"
       ]
     },
     "type": "tv",
@@ -52,6 +64,11 @@
         "site": "bilibili",
         "id": "140552",
         "begin": "2016-04-01T15:30:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchKWuj91hWDx7Bngip5Xy9J",
+        "begin": ""
       }
     ]
   },
@@ -398,6 +415,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "当女孩遇到熊"
+      ],
+      "zh-Hant": [
+        "當女孩遇到熊"
       ]
     },
     "type": "tv",
@@ -429,6 +449,12 @@
         "site": "bilibili",
         "id": "98612",
         "begin": "2016-04-02T16:00:01.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchQeJqIQzPxNIPx5M8w5nr1",
+        "begin": "2019-08-28T16:00:00.000Z",
+        "broadcast": "R/2019-08-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -440,6 +466,10 @@
       ],
       "en": [
         "MY HERO ACADEMIA"
+      ],
+      "zh-Hant": [
+        "我的英雄學院",
+        "我的英雄學院 第1季"
       ]
     },
     "type": "tv",
@@ -491,6 +521,12 @@
         "site": "acfun",
         "id": "6000687",
         "begin": "2019-12-19T12:13:57.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "356295",
+        "begin": "2021-03-31T16:00:00.000Z",
+        "broadcast": "R/2021-03-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -822,6 +858,13 @@
         "site": "nicovideo",
         "id": "sailormoon-Crystal3",
         "begin": "2016-04-15T08:00:00.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "379979",
+        "begin": "2021-07-31T16:00:00.000Z",
+        "broadcast": "R/2021-07-31T16:00:00.000Z/P7D",
+        "comment": "粵語版:379916"
       }
     ]
   },
@@ -1085,6 +1128,9 @@
       "zh-Hans": [
         "SUPER LOVERS",
         "超级恋人"
+      ],
+      "zh-Hant": [
+        "超級戀人"
       ]
     },
     "type": "tv",
@@ -1126,6 +1172,12 @@
         "site": "nicovideo",
         "id": "superlovers",
         "begin": "2017-01-09T06:00:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JglWiR0yhW9tGY-dt5XVAqX",
+        "begin": "2019-10-29T16:00:00.000Z",
+        "broadcast": "R/2019-10-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1304,6 +1356,9 @@
       ],
       "en": [
         "unhappy go lucky!"
+      ],
+      "zh-Hant": [
+        "Anne Happy"
       ]
     },
     "type": "tv",
@@ -1340,6 +1395,12 @@
         "site": "nicovideo",
         "id": "anne-happy",
         "begin": "2016-04-10T03:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchtesPXiCv7U6YvLmFq9ZB4",
+        "begin": "2019-07-24T16:00:00.000Z",
+        "broadcast": "R/2019-07-24T16:00:00.000Z/P7D"
       }
     ]
   },

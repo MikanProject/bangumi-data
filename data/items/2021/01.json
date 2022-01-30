@@ -79,7 +79,11 @@
   },
   {
     "title": "エビシー修業日記",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "ABC修業日記"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://abciee.abc-anime.co.jp/",
@@ -87,13 +91,23 @@
     "broadcast": "R/2021-01-06T16:57:00.000Z/P7D",
     "end": "2021-03-24T16:42:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhnjCV8G6KU3crrzcVVpHpI",
+        "begin": "2021-01-04T16:00:00.000Z",
+        "broadcast": "R/2021-01-04T16:00:00.000Z/P7D"
+      }
+    ]
   },
   {
     "title": "たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語",
     "titleTranslate": {
       "zh-Hans": [
         "好比是最终迷宫前的少年到新手村生活一般的故事"
+      ],
+      "zh-Hant": [
+        "比方說，這是個出身魔王關附近的少年在新手村生活的故事"
       ]
     },
     "type": "tv",
@@ -131,6 +145,12 @@
         "id": "lasdan",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchDu8J4JnEW4hBLiVtcTU9_",
+        "begin": "2020-12-30T16:00:00.000Z",
+        "broadcast": "R/2020-12-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -139,6 +159,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "摇曳露营△ 第二季"
+      ],
+      "zh-Hant": [
+        "搖曳露營△ 第二季"
       ]
     },
     "type": "tv",
@@ -146,7 +169,7 @@
     "officialSite": "https://yurucamp.jp/second/",
     "begin": "2021-01-07T14:00:00.000Z",
     "broadcast": "R/2021-01-07T14:00:00.000Z/P7D",
-    "end": "2021-03-31T14:00:00.000Z",
+    "end": "2021-04-01T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -163,6 +186,12 @@
         "id": "yurucamp_second",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhsFhLkiHzyfMeO5unNiOEc",
+        "begin": "2021-01-06T16:00:00.000Z",
+        "broadcast": "R/2021-01-06T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -175,6 +204,9 @@
       "zh-Hans": [
         "转生成蜘蛛又怎样！",
         "不过是蜘蛛什么的"
+      ],
+      "zh-Hant": [
+        "轉生成蜘蛛又怎樣！"
       ]
     },
     "type": "tv",
@@ -200,6 +232,12 @@
         "id": "kumo-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jh0Urq4XJv3SkmYTq-goyCo",
+        "begin": "2021-01-07T16:00:00.000Z",
+        "broadcast": "R/2021-01-07T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -241,6 +279,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "里世界郊游"
+      ],
+      "zh-Hant": [
+        "裏世界遠足！"
       ]
     },
     "type": "tv",
@@ -265,6 +306,12 @@
         "id": "othersidepicnic",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhuqqXxuJ3FjDyQ0ISzzBZ7",
+        "begin": "2021-01-03T16:00:00.000Z",
+        "broadcast": "R/2021-01-03T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -333,6 +380,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "关于我转生变成史莱姆这档事 第二季"
+      ],
+      "zh-Hant": [
+        "關於我轉生變成史萊姆這檔事 第2季前半"
       ]
     },
     "type": "tv",
@@ -364,6 +414,12 @@
         "id": "ten-sura2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "326150",
+        "begin": "2021-01-04T16:00:00.000Z",
+        "broadcast": "R/2021-01-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -417,6 +473,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "天地创造设计部"
+      ],
+      "zh-Hant": [
+        "天地創造設計部"
       ]
     },
     "type": "tv",
@@ -448,6 +507,12 @@
         "id": "tendebu",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucgq0vFuXPczkpUQubnlCnKG",
+        "begin": "2021-01-13T16:00:00.000Z",
+        "broadcast": "R/2021-01-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -529,6 +594,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "SHOW BY ROCK!! STARS!!"
+      ],
+      "zh-Hant": [
+        "搖滾少女!! STARS!!"
       ]
     },
     "type": "tv",
@@ -553,6 +621,12 @@
         "id": "showbyrock-anime-s",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jg-H3LCLflZvXPqNzBBcgPe",
+        "begin": "2021-01-06T16:00:00.000Z",
+        "broadcast": "R/2021-01-06T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -562,6 +636,9 @@
       "zh-Hans": [
         "无职转生～到了异世界就拿出真本事～",
         "无职转生～在异世界认真地活下去～"
+      ],
+      "zh-Hant": [
+        "無職轉生～到了異世界就拿出真本事～"
       ]
     },
     "type": "tv",
@@ -587,6 +664,18 @@
         "id": "mushokutensei",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchqUd-1T62aLI2Ea44DMnQD",
+        "begin": "2021-09-23T16:00:00.000Z",
+        "broadcast": "R/2021-09-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "326915",
+        "begin": "2021-01-09T16:00:00.000Z",
+        "broadcast": "R/2021-01-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -730,6 +819,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Re：从零开始的异世界生活 第二季 后半部分"
+      ],
+      "zh-Hant": [
+        "Re：從零開始的異世界生活 第二季"
       ]
     },
     "type": "tv",
@@ -749,6 +841,12 @@
         "id": "28232073",
         "begin": "2021-01-06T15:00:00.000Z",
         "broadcast": "R/2021-01-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "280718",
+        "begin": "2020-07-06T16:00:00.000Z",
+        "broadcast": "R/2020-07-06T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -837,6 +935,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Praeter之伤"
+      ],
+      "zh-Hant": [
+        "Praeter之傷"
       ]
     },
     "type": "tv",
@@ -868,6 +969,12 @@
         "id": "project-scard",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjBBCj4wBdCNSUSHC_mP1vU",
+        "begin": "2021-01-03T16:00:00.000Z",
+        "broadcast": "R/2021-01-03T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -909,6 +1016,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "逆回之矢"
+      ],
+      "zh-Hant": [
+        "BACK ARROW"
       ]
     },
     "type": "tv",
@@ -934,6 +1044,12 @@
         "id": "back-arrow",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "326928",
+        "begin": "2021-01-08T16:00:00.000Z",
+        "broadcast": "R/2021-01-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1005,6 +1121,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪病医拉姆尼"
+      ],
+      "zh-Hant": [
+        "怪病醫拉姆尼"
       ]
     },
     "type": "tv",
@@ -1036,6 +1155,12 @@
         "id": "ramune-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchVjLOiCYh8s5EC1-Ic0jOl",
+        "begin": "2020-10-15T16:00:00.000Z",
+        "broadcast": "R/2020-10-15T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1071,6 +1196,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "大人的防具店 第二季"
+      ],
+      "zh-Hant": [
+        "大人的防具店 第二季"
       ]
     },
     "type": "tv",
@@ -1090,6 +1218,12 @@
         "id": "otonabougu_l",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj7x5STu19zDhp4MWFZ1oa2",
+        "begin": "2020-12-31T16:00:00.000Z",
+        "broadcast": "R/2020-12-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1098,6 +1232,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔术士奥芬的无赖之旅 基姆拉克篇"
+      ],
+      "zh-Hant": [
+        "魔術士歐菲流浪之旅 基姆拉克篇"
       ]
     },
     "type": "tv",
@@ -1123,6 +1260,12 @@
         "id": "ssorphen-anime_02",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjRWjpydulq6sytW7djJXwY",
+        "begin": "2021-01-19T16:00:00.000Z",
+        "broadcast": "R/2021-01-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1271,6 +1414,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "ICHU偶像进行曲"
+      ],
+      "zh-Hant": [
+        "ICHU偶像進行曲"
       ]
     },
     "type": "tv",
@@ -1290,6 +1436,12 @@
         "id": "i-chu",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchDbyB76-7nIUJGkzPQp4Jg",
+        "begin": "2021-01-12T16:00:00.000Z",
+        "broadcast": "R/2021-01-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1429,6 +1581,9 @@
       ],
       "zh-Hans": [
         "花样滑冰stars"
+      ],
+      "zh-Hant": [
+        "花樣滑冰Stars"
       ]
     },
     "type": "tv",
@@ -1454,6 +1609,12 @@
         "id": "a_19rrhlplux",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhI_jQt9Ivtl_N_rDOaSQyU",
+        "begin": "2020-12-26T16:00:00.000Z",
+        "broadcast": "R/2020-12-26T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1461,6 +1622,9 @@
     "title": "EX-ARM エクスアーム",
     "titleTranslate": {
       "zh-Hans": [
+        "EX-ARM"
+      ],
+      "zh-Hant": [
         "EX-ARM"
       ]
     },
@@ -1475,6 +1639,12 @@
       {
         "site": "bangumi",
         "id": "269565"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjRJO5uP7qEKv2NoErzw0wJ",
+        "begin": "2021-01-09T16:00:00.000Z",
+        "broadcast": "R/2021-01-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1495,6 +1665,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪物事变"
+      ],
+      "zh-Hant": [
+        "怪物事變"
       ]
     },
     "type": "tv",
@@ -1538,6 +1711,12 @@
         "id": "kemonojihen-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucjy2NpxOdkGR2q4xhTjBxrs",
+        "begin": "2021-01-09T16:00:00.000Z",
+        "broadcast": "R/2021-01-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1603,6 +1782,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "幼女社长"
+      ],
+      "zh-Hant": [
+        "幼女社長"
       ]
     },
     "type": "web",
@@ -1621,6 +1803,12 @@
         "id": "28232033",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjSiVggG7D0bM6tyadqA6oN",
+        "begin": "2020-12-30T16:00:00.000Z",
+        "broadcast": "R/2020-12-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1655,6 +1843,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "PUI PUI 天竺鼠车车"
+      ],
+      "zh-Hant": [
+        "PUI PUI 天竺鼠車車"
       ]
     },
     "type": "web",
@@ -1667,6 +1858,18 @@
       {
         "site": "bangumi",
         "id": "325178"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjZNOMONkXpHrYS0gjbiY5c",
+        "begin": "2021-01-03T16:00:00.000Z",
+        "broadcast": "R/2021-01-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "339273",
+        "begin": "2021-02-28T16:00:00.000Z",
+        "broadcast": "R/2021-02-28T16:00:00.000Z/P7D"
       }
     ]
   }
