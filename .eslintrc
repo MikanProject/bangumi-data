@@ -1,21 +1,33 @@
 {
   "rules": {
-    "indent": [2, 4, {
-      "SwitchCase": 1,
-      "VariableDeclarator": 1
-    }],
+    "indent": [
+      2,
+      4,
+      {
+        "SwitchCase": 1,
+        "VariableDeclarator": 1
+      }
+    ],
     "import/no-extraneous-dependencies": 0,
-    "arrow-body-style": [2, "always"],
-    "comma-dangle": [2, "never"],
+    "arrow-body-style": [
+      2,
+      "always"
+    ],
+    "comma-dangle": [
+      2,
+      "never"
+    ],
     "no-console": 0,
     "func-names": 0,
-    "space-before-function-paren": [2, "never"],
+    "space-before-function-paren": [
+      2,
+      "never"
+    ],
     "linebreak-style": "off"
   },
   "env": {
     "node": true
   },
   "extends": "airbnb-base",
-  "globals": {
-  }
+  "globals": {}
 }
