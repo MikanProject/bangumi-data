@@ -365,7 +365,7 @@
     "officialSite": "https://tokyo24project.com/",
     "begin": "2022-01-05T15:00:00.000Z",
     "broadcast": "R/2022-01-05T15:00:00.000Z/P7D",
-    "end": "2022-03-31T15:00:00.000Z",
+    "end": "2022-04-06T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -431,7 +431,7 @@
     "officialSite": "https://kuroitsusan-anime.com/",
     "begin": "2022-01-08T17:00:00.000Z",
     "broadcast": "R/2022-01-08T17:00:00.000Z/P7D",
-    "end": "2022-03-21T17:54:00.000Z",
+    "end": "2022-03-28T17:54:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -943,6 +943,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "白领羽球部"
+      ],
+      "zh-Hant": [
+        "白領羽球部"
       ]
     },
     "type": "tv",
@@ -950,12 +953,18 @@
     "officialSite": "https://rymansclub.com/",
     "begin": "2022-01-22T16:30:00.000Z",
     "broadcast": "R/2022-01-22T16:30:00.000Z/P7D",
-    "end": "2022-03-27T03:24:00.000Z",
+    "end": "2022-04-10T03:24:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "353805"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgvkxyz-QVER9yvp_8KZrIP",
+        "begin": "2022-01-27T16:00:00.000Z",
+        "broadcast": "R/2022-01-27T16:00:00.000Z/P7D"
       }
     ]
   },
