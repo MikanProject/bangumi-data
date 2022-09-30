@@ -122,8 +122,10 @@
     "title": "えんどろ～！",
     "titleTranslate": {
       "zh-Hans": [
-        "Endro~!",
-        "Endro~！"
+        "Endro~!"
+      ],
+      "zh-Hant": [
+        "ENDRO!"
       ]
     },
     "type": "tv",
@@ -160,6 +162,12 @@
         "site": "bilibili",
         "id": "28227618",
         "begin": "2019-01-12T16:00:00.000Z"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTqp_iUhT0T-Au1h8TCLPam",
+        "begin": "2022-08-15T16:00:00.000Z",
+        "broadcast": "R/2022-08-15T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -475,6 +483,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "盾之勇者成名录"
+      ],
+      "zh-Hant": [
+        "盾之勇者成名錄"
       ]
     },
     "type": "tv",
@@ -496,6 +507,12 @@
         "site": "nicovideo",
         "id": "shieldhero-anime",
         "begin": "2019-01-16T15:00:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjUjfr2UrjZKrFVcLXLZFrE",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -825,6 +842,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "约定的梦幻岛"
+      ],
+      "zh-Hant": [
+        "約定的夢幻島"
       ]
     },
     "type": "tv",
@@ -846,6 +866,13 @@
         "site": "nicovideo",
         "id": "neverland-anime",
         "begin": "2019-01-11T03:00:00.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "447277",
+        "begin": "2022-05-26T16:00:00.000Z",
+        "broadcast": "R/2022-05-26T16:00:00.000Z/P7D",
+        "comment": "粵語版: 447294"
       }
     ]
   },
@@ -914,6 +941,12 @@
         "site": "youku",
         "id": "c2442ed22d944c79969f",
         "begin": "2019-01-14T10:37:54.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhPPPyf6E0hCBE_9bbywjZ",
+        "begin": "2022-05-13T16:00:00.000Z",
+        "broadcast": "R/2022-05-13T16:00:00.000Z/P7D"
       }
     ]
   },

@@ -463,6 +463,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "来自深渊"
+      ],
+      "zh-Hant": [
+        "來自深淵"
       ]
     },
     "type": "tv",
@@ -484,6 +487,12 @@
         "site": "nicovideo",
         "id": "miabyss",
         "begin": "2017-07-14T15:00:00.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "443775",
+        "begin": "2022-07-01T16:00:00.000Z",
+        "broadcast": "R/2022-07-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1057,7 +1066,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
-        "begin": ""
+        "begin": "2022-01-06T16:00:00.000Z",
+        "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1266,6 +1276,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "独占我的英雄"
+      ],
+      "zh-Hant": [
+        "獨佔我的英雄"
       ]
     },
     "type": "tv",
@@ -1292,6 +1305,12 @@
         "site": "nicovideo",
         "id": "hitorijime-myhero",
         "begin": "2017-07-14T16:00:00.000Z"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQN5OndafpPfXL80GY-hwRi",
+        "begin": "2022-08-09T16:00:00.000Z",
+        "broadcast": "R/2022-08-09T16:00:00.000Z/P7D"
       }
     ]
   },

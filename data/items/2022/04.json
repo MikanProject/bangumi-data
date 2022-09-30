@@ -145,7 +145,7 @@
     "officialSite": "https://shikimori-anime.com/",
     "begin": "2022-04-09T17:00:00.000Z",
     "broadcast": "R/2022-04-09T17:00:00.000Z/P7D",
-    "end": "2022-06-25T17:00:00.000Z",
+    "end": "2022-07-09T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -331,6 +331,12 @@
         "id": "431397",
         "begin": "2022-04-04T16:00:00.000Z",
         "broadcast": "R/2022-04-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQ_5d-HQokIZBsnnsoQ-yVD",
+        "begin": "2022-07-28T16:00:00.000Z",
+        "broadcast": "R/2022-07-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -420,6 +426,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "相合之物"
+      ],
+      "zh-Hant": [
+        "相合之物"
       ]
     },
     "type": "tv",
@@ -445,6 +454,12 @@
         "id": "119756",
         "begin": "2022-04-06T15:30:00.000Z",
         "broadcast": "R/2022-04-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj0YsJ7qatPuq_qp-eofuxo",
+        "begin": "2022-04-11T16:00:00.000Z",
+        "broadcast": "R/2022-04-11T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -754,7 +769,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/dm_kingmax/",
     "begin": "2022-04-02T23:30:00.000Z",
     "broadcast": "R/2022-04-02T23:30:00.000Z/P7D",
-    "end": "2022-06-25T17:00:00.000Z",
+    "end": "2022-08-28T00:00:00.000Z",
     "comment": "",
     "sites": []
   },
@@ -928,6 +943,9 @@
       ],
       "zh-Hans": [
         "间谍过家家"
+      ],
+      "zh-Hant": [
+        "間諜家家酒"
       ]
     },
     "type": "tv",
@@ -959,6 +977,12 @@
         "id": "28237178",
         "begin": "2022-04-09T15:00:00.000Z",
         "broadcast": "R/2022-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uci5zu1j1yepRZKLSGN_4zQn",
+        "begin": "2022-08-14T16:00:00.000Z",
+        "broadcast": "R/2022-08-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1156,7 +1180,7 @@
     "officialSite": "https://kunoichi-tsubaki.com/",
     "begin": "2022-04-09T15:00:00.000Z",
     "broadcast": "R/2022-04-09T15:00:00.000Z/P7D",
-    "end": "2022-06-25T15:00:00.000Z",
+    "end": "2022-07-02T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1248,7 +1272,8 @@
         "site": "viu",
         "id": "431901",
         "begin": "2022-04-06T16:00:00.000Z",
-        "broadcast": "R/2022-04-06T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-04-06T16:00:00.000Z/P7D",
+        "comment": "粵語版: 438810"
       }
     ]
   },
@@ -1402,6 +1427,27 @@
         "id": "PLuxqoToY7UcgsAH4CbibXza4Iup44_5t2",
         "begin": "2022-04-06T04:05:00.000Z",
         "broadcast": "R/2022-04-06T04:05:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "3秒後、野獣。～合コンで隅にいた彼は肉食でした",
+    "titleTranslate": {
+      "zh-Hans": [
+        "3秒后，野兽。～坐在联谊会角落的他是个肉食系"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://3byogoyaju.af-original.com/",
+    "begin": "2022-04-03T16:00:00.000Z",
+    "broadcast": "R/2022-04-03T16:00:00.000Z/P7D",
+    "end": "2022-06-05T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "354246"
       }
     ]
   },

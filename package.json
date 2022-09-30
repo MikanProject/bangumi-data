@@ -1,10 +1,12 @@
 {
   "name": "bangumi-data",
-  "version": "0.3.91",
+  "version": "0.3.99",
   "description": "Raw data for Anime",
   "main": "dist/data.json",
+  "types": "data.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "*.d.ts"
   ],
   "scripts": {
     "build": "node script/build.js",

@@ -192,6 +192,12 @@
         "id": "PLxSscENEp7JhsFhLkiHzyfMeO5unNiOEc",
         "begin": "2021-01-06T16:00:00.000Z",
         "broadcast": "R/2021-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQa9h9oyOVgk0Q_KBsKnOW5",
+        "begin": "2022-07-20T16:00:00.000Z",
+        "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -312,6 +318,12 @@
         "id": "PLxSscENEp7JhuqqXxuJ3FjDyQ0ISzzBZ7",
         "begin": "2021-01-03T16:00:00.000Z",
         "broadcast": "R/2021-01-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSBLtcR7OnXlMa-a8H32-Y_",
+        "begin": "2022-07-21T16:00:00.000Z",
+        "broadcast": "R/2022-07-21T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -419,7 +431,8 @@
         "site": "viu",
         "id": "326150",
         "begin": "2021-01-04T16:00:00.000Z",
-        "broadcast": "R/2021-01-04T16:00:00.000Z/P7D"
+        "broadcast": "R/2021-01-04T16:00:00.000Z/P7D",
+        "comment": "粵語版: 435024"
       }
     ]
   },
@@ -430,7 +443,8 @@
         "新石纪 STONE WARS"
       ],
       "zh-Hant": [
-        "Dr. STONE 第二季"
+        "Dr. STONE 第二季",
+        "Dr.STONE 新石紀 (第二季)"
       ]
     },
     "type": "tv",
@@ -473,7 +487,14 @@
         "site": "viu",
         "id": "426047",
         "begin": "2022-02-28T16:00:00.000Z",
-        "broadcast": "R/2022-02-28T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-02-28T16:00:00.000Z/P7D",
+        "comment": "粵語版: 441111"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjd9DclPvIJd8fmLnYFiA-c",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -676,7 +697,7 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UchqUd-1T62aLI2Ea44DMnQD",
+        "id": "PLuxqoToY7UchnkiDhDLkzSnQ5VQzLvIr2",
         "begin": "2021-09-23T16:00:00.000Z",
         "broadcast": "R/2021-09-23T16:00:00.000Z/P7D"
       },
@@ -856,6 +877,12 @@
         "id": "280718",
         "begin": "2020-07-06T16:00:00.000Z",
         "broadcast": "R/2020-07-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgAYf3IG6hFYEDlmbLeCv-1",
+        "begin": "2022-05-25T16:00:00.000Z",
+        "broadcast": "R/2022-05-25T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1097,6 +1124,9 @@
       ],
       "zh-Hans": [
         "约定的梦幻岛 第二季"
+      ],
+      "zh-Hant": [
+        "約定的夢幻島 第二季"
       ]
     },
     "type": "tv",
@@ -1122,6 +1152,13 @@
         "id": "neverland-anime2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "447192",
+        "begin": "2022-05-26T16:00:00.000Z",
+        "broadcast": "R/2022-05-26T16:00:00.000Z/P7D",
+        "comment": "粵語版: 447202"
       }
     ]
   },

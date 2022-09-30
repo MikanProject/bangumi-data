@@ -293,6 +293,12 @@
         "id": "PLxSscENEp7Jj1KDCcoLBqT6tpeSjzbFN9",
         "begin": "2020-09-30T16:00:00.000Z",
         "broadcast": "R/2020-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSZtTZA6VoFuiXRMYzxPb_e",
+        "begin": "2022-08-02T16:00:00.000Z",
+        "broadcast": "R/2022-08-02T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -524,6 +530,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "咒术回战"
+      ],
+      "zh-Hant": [
+        "咒術迴戰"
       ]
     },
     "type": "tv",
@@ -555,6 +564,13 @@
         "id": "jujutsukaisen",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "449265",
+        "begin": "2022-07-31T16:00:00.000Z",
+        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D",
+        "comment": "粵語版: 449822"
       }
     ]
   },
@@ -909,6 +925,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "被神捡到的男人"
+      ],
+      "zh-Hant": [
+        "眾神眷顧的男人"
       ]
     },
     "type": "tv",
@@ -946,6 +965,18 @@
         "id": "a_1nhw04ybwul",
         "begin": "2020-10-04T15:30:00.000Z",
         "broadcast": "R/2020-10-04T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjRhcXt3hp52zWsIcJL6ecv",
+        "begin": "2020-10-03T16:00:00.000Z",
+        "broadcast": "R/2020-10-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSzpjYnWXO29OohwcCzp2_R",
+        "begin": "2022-07-25T16:00:00.000Z",
+        "broadcast": "R/2022-07-25T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1918,6 +1949,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "刀使巫女 刻印一闪的灯火 OVA"
+      ],
+      "zh-Hant": [
+        "刀使巫女 刻印一閃的燈火"
       ]
     },
     "type": "ova",
@@ -1936,6 +1970,12 @@
         "id": "tojinomiko-ova",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JioprkBzEHB07anRHHirvox",
+        "begin": "2022-08-01T16:00:00.000Z",
+        "broadcast": "R/2022-08-01T16:00:00.000Z/P7D"
       }
     ]
   },

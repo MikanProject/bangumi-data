@@ -251,6 +251,12 @@
         "id": "371756",
         "begin": "2021-07-03T16:00:00.000Z",
         "broadcast": "R/2021-07-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchEoeVKVw5mvHfuazuvC9P0",
+        "begin": "2022-06-13T16:00:00.000Z",
+        "broadcast": "R/2022-06-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -292,6 +298,12 @@
         "id": "PLxSscENEp7JjgkhOb47BoCqBL3-HkjLEM",
         "begin": "2021-07-02T16:00:00.000Z",
         "broadcast": "R/2021-07-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRwRnGV8N4joWmJ0_r5fZV0",
+        "begin": "2022-06-21T16:00:00.000Z",
+        "broadcast": "R/2022-06-21T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -379,7 +391,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UciceC14F8-9VyfN1xuSJt_d",
-        "begin": ""
+        "begin": "2021-10-31T16:00:00.000Z",
+        "broadcast": "R/2021-10-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -453,6 +466,12 @@
         "id": "PLxSscENEp7Jh7yn1GT-SfcTUqt5B_A7wf",
         "begin": "2021-06-21T16:00:00.000Z",
         "broadcast": "R/2021-06-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTfqUyx6aMLtrwa3vkrC_qD",
+        "begin": "2022-08-04T16:00:00.000Z",
+        "broadcast": "R/2022-08-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -837,6 +856,12 @@
         "id": "PLxSscENEp7Jh5cTYOJ44AOGwWLAap7dCU",
         "begin": "2021-07-13T16:00:00.000Z",
         "broadcast": "R/2021-07-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "451297",
+        "begin": "2022-09-08T16:00:00.000Z",
+        "broadcast": "R/2022-09-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1329,7 +1354,8 @@
         "site": "viu",
         "id": "370898",
         "begin": "2021-06-23T16:00:00.000Z",
-        "broadcast": "R/2021-06-23T16:00:00.000Z/P7D"
+        "broadcast": "R/2021-06-23T16:00:00.000Z/P7D",
+        "comment": "粵語版: 434349"
       }
     ]
   },

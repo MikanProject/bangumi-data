@@ -642,6 +642,9 @@
       ],
       "en": [
         "AKAME GA KILL!"
+      ],
+      "zh-Hant": [
+        "斬！赤紅之瞳"
       ]
     },
     "type": "tv",
@@ -668,6 +671,12 @@
         "site": "nicovideo",
         "id": "akame-tv",
         "begin": "2014-07-08T15:30:00.000Z"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSL5qQkemuo8Gey2FDTy6Vh",
+        "begin": "2022-08-28T16:00:00.000Z",
+        "broadcast": "R/2022-08-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -949,7 +958,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
-        "begin": ""
+        "begin": "2022-01-06T16:00:00.000Z",
+        "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1328,7 +1338,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjsjPs89xphZwisLfHCkAny",
-        "begin": ""
+        "begin": "2019-12-27T16:00:00.000Z",
+        "broadcast": "R/2019-12-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1529,6 +1540,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "三坪房间的侵略者！"
+      ],
+      "zh-Hant": [
+        "三坪房間的侵略者!?"
       ]
     },
     "type": "tv",
@@ -1570,6 +1584,12 @@
         "site": "acfun",
         "id": "6003891",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjL1W4onUOwLTX4soRhy2no",
+        "begin": "2022-07-24T16:00:00.000Z",
+        "broadcast": "R/2022-07-24T16:00:00.000Z/P1D"
       }
     ]
   },
@@ -1620,6 +1640,9 @@
       ],
       "en": [
         "BLADE DANCE OF ELEMENTALERS"
+      ],
+      "zh-Hant": [
+        "精靈使的劍舞"
       ]
     },
     "type": "tv",
@@ -1661,6 +1684,12 @@
         "site": "acfun",
         "id": "6003890",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchnYdwz0tJLCrHyHcmCqWO3",
+        "begin": "2022-05-21T16:00:00.000Z",
+        "broadcast": "R/2022-05-21T16:00:00.000Z/P7D"
       }
     ]
   },

@@ -206,8 +206,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JhBK5yhltkjm1Y2Ha5KwcQs",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-02-09T16:00:00.000Z",
+        "broadcast": "R/2022-02-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -301,6 +301,9 @@
       "zh-Hans": [
         "来玩游戏吧",
         "游戏3人娘"
+      ],
+      "zh-Hant": [
+        "遊戲3人娘"
       ]
     },
     "type": "tv",
@@ -322,6 +325,12 @@
         "site": "nicovideo",
         "id": "asobiasobase",
         "begin": "2018-07-15T15:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjS312YgNty0-qbKChsWZVN",
+        "begin": "2022-06-01T16:00:00.000Z",
+        "broadcast": "R/2022-06-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -739,6 +748,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "梦王国与沉睡的100名王子"
+      ],
+      "zh-Hant": [
+        "夢王國與沉睡中的100位王子殿下"
       ]
     },
     "type": "tv",
@@ -760,6 +772,12 @@
         "site": "nicovideo",
         "id": "yume-100",
         "begin": "2018-07-09T03:00:00.000Z"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQXqfEDyDnMwIGzUZvdfJnV",
+        "begin": "2022-08-08T16:00:00.000Z",
+        "broadcast": "R/2022-08-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1344,7 +1362,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj-qPvH9bUUeEKo26qicFm_",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
