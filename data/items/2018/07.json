@@ -33,6 +33,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "轻羽飞扬"
+      ],
+      "zh-Hant": [
+        "輕羽飛揚!"
+      ],
+      "en": [
+        "HANEBADO!"
       ]
     },
     "type": "tv",
@@ -73,12 +79,19 @@
       {
         "site": "netflix",
         "id": "81037374",
-        "begin": "2018-12-31T16:00:00.000Z"
+        "begin": "2018-12-31T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
         "id": "x/xs2quyb82vw4uqg",
         "begin": ""
+      },
+      {
+        "site": "mytv",
+        "id": "hanebad_117503",
+        "begin": "2018-07-01T16:00:00.000Z",
+        "broadcast": "R/2018-07-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -140,7 +153,8 @@
       {
         "site": "netflix",
         "id": "80996957",
-        "begin": "2018-12-12T08:00:00.000Z"
+        "begin": "2018-12-12T08:00:00.000Z",
+        "broadcast": "R/2018-12-12T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -196,7 +210,8 @@
       {
         "site": "netflix",
         "id": "81004514",
-        "begin": "2018-12-31T16:00:00.000Z"
+        "begin": "2018-12-31T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "acfun",
@@ -253,7 +268,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://anime-zoidswild.jp/",
     "begin": "2018-07-06T21:30:00.000Z",
     "end": "2019-06-29T22:00:00.000Z",
     "sites": [
@@ -304,6 +319,9 @@
       ],
       "zh-Hant": [
         "遊戲3人娘"
+      ],
+      "en": [
+        "Asobi Asobase: Workshop Of Fun"
       ]
     },
     "type": "tv",
@@ -331,6 +349,12 @@
         "id": "PLuxqoToY7UcjS312YgNty0-qbKChsWZVN",
         "begin": "2022-06-01T16:00:00.000Z",
         "broadcast": "R/2022-06-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81264508",
+        "begin": "2022-02-27T16:00:00.000Z",
+        "broadcast": "R/2022-02-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -514,7 +538,8 @@
       {
         "site": "netflix",
         "id": "80997338",
-        "begin": "2018-12-24T08:00:00.000Z"
+        "begin": "2018-12-24T08:00:00.000Z",
+        "broadcast": "R/2018-12-24T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -584,6 +609,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "刃牙"
+      ],
+      "en": [
+        "BAKI"
+      ],
+      "zh-Hant": [
+        "刃牙"
       ]
     },
     "type": "web",
@@ -595,6 +626,12 @@
       {
         "site": "bangumi",
         "id": "199373"
+      },
+      {
+        "site": "netflix",
+        "id": "80204451",
+        "begin": "2018-12-18T00:00:00.000Z",
+        "broadcast": "R/2018-12-18T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -751,6 +788,9 @@
       ],
       "zh-Hant": [
         "夢王國與沉睡中的100位王子殿下"
+      ],
+      "en": [
+        "100 Sleeping Princes & The Kingdom of Dreams"
       ]
     },
     "type": "tv",
@@ -778,6 +818,12 @@
         "id": "PLC18xlbCdwtQXqfEDyDnMwIGzUZvdfJnV",
         "begin": "2022-08-08T16:00:00.000Z",
         "broadcast": "R/2022-08-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "100sleepingprincesthekingdomofdreams_117505",
+        "begin": "2018-07-05T15:00:00.000Z",
+        "broadcast": "R/2018-07-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -856,7 +902,8 @@
       {
         "site": "netflix",
         "id": "81037377",
-        "begin": "2018-12-31T16:00:00.000Z"
+        "begin": "2018-12-31T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -934,6 +981,9 @@
       "zh-Hans": [
         "遥之彼方的接发球",
         "遥的接球"
+      ],
+      "zh-Hant": [
+        "遙的接球"
       ]
     },
     "type": "tv",
@@ -955,6 +1005,12 @@
         "site": "nicovideo",
         "id": "harukana-receive",
         "begin": "2018-07-12T15:30:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj2pUmKfKdr2QYqFQntzfzK",
+        "begin": "2022-09-24T16:00:00.000Z",
+        "broadcast": "R/2022-09-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1364,6 +1420,24 @@
         "id": "PLxSscENEp7Jj-qPvH9bUUeEKo26qicFm_",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSHMMuketAA0NW7unfaBbMk",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "overlord3_135915",
+        "begin": "2022-06-30T16:00:00.000Z",
+        "broadcast": "R/2022-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5CNwVLpigBya",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1449,7 +1523,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://s.mxtv.jp/anime/onmyoji/",
     "begin": "2018-07-03T16:35:00.000Z",
     "end": "2018-09-18T16:40:00.000Z",
     "sites": [
@@ -1469,7 +1543,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://twitter.com/usamashu3",
     "begin": "2018-07-12T17:42:00.000Z",
     "end": "2019-07-18T17:40:00.000Z",
     "sites": [
@@ -1499,6 +1573,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "天狼 Sirius the Jaeger"
+      ],
+      "zh-Hant": [
+        "天狼 Sirius the Jaeger"
+      ],
+      "en": [
+        "Sirius the Jaeger"
       ]
     },
     "type": "tv",
@@ -1530,6 +1610,12 @@
         "site": "youku",
         "id": "0028141ea8f64ac0970e",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80997339",
+        "begin": "2018-12-21T00:00:00.000Z",
+        "broadcast": "R/2018-12-21T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1754,7 +1840,8 @@
     "title": "スペースバグ",
     "titleTranslate": {
       "en": [
-        "Space Bug"
+        "Space Bug",
+        "Space bug"
       ]
     },
     "type": "tv",
@@ -1872,6 +1959,38 @@
         "site": "bilibili",
         "id": "119312",
         "begin": "2018-07-26T16:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "title": "岸辺露伴は動かない「六壁坂」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "岸边露伴一动不动 六壁坂"
+      ],
+      "zh-Hant": [
+        "岸邊露伴一動也不動 六壁阪"
+      ],
+      "en": [
+        "Thus Spoke Kishibe Rohan"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-07-18T16:00:00.000Z",
+    "end": "2018-07-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "252537"
+      },
+      {
+        "site": "netflix",
+        "id": "81280998",
+        "begin": "2021-02-17T16:00:00.000Z",
+        "broadcast": "R/2021-02-17T16:00:00.000Z/P7D"
       }
     ]
   }

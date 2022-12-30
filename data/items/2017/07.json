@@ -322,6 +322,9 @@
       ],
       "zh-Hant": [
         "歡迎來到實力至上主義的教室"
+      ],
+      "en": [
+        "Classroom of the Elite"
       ]
     },
     "type": "tv",
@@ -349,6 +352,12 @@
         "id": "PLuxqoToY7Uci-lr0rpTkQPv7Cirwe8wDz",
         "begin": "2020-10-09T16:00:00.000Z",
         "broadcast": "R/2020-10-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6tGY0LGgFeWE",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -416,7 +425,8 @@
       {
         "site": "netflix",
         "id": "80180849",
-        "begin": "2017-11-07T08:00:00.000Z"
+        "begin": "2017-11-07T08:00:00.000Z",
+        "broadcast": "R/2017-12-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -466,6 +476,9 @@
       ],
       "zh-Hant": [
         "來自深淵"
+      ],
+      "en": [
+        "Made in Abyss"
       ]
     },
     "type": "tv",
@@ -493,6 +506,24 @@
         "id": "443775",
         "begin": "2022-07-01T16:00:00.000Z",
         "broadcast": "R/2022-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80193163",
+        "begin": "2022-10-30T00:00:00.000Z",
+        "broadcast": "R/2022-10-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "madeinabyss_135905",
+        "begin": "2022-07-05T16:00:00.000Z",
+        "broadcast": "R/2022-07-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "prqNPEdSeooI",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -706,7 +737,8 @@
       {
         "site": "netflix",
         "id": "80175351",
-        "begin": "2018-02-01T08:00:00.000Z"
+        "begin": "2018-02-01T08:00:00.000Z",
+        "broadcast": "R/2018-01-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1109,7 +1141,8 @@
     "title": "捏造トラップ-NTR-",
     "titleTranslate": {
       "zh-Hans": [
-        "捏造陷阱"
+        "捏造陷阱",
+        "捏造陷阱 -NTR-"
       ]
     },
     "type": "tv",
@@ -1279,6 +1312,9 @@
       ],
       "zh-Hant": [
         "獨佔我的英雄"
+      ],
+      "en": [
+        "Hitorijime My Hero"
       ]
     },
     "type": "tv",
@@ -1311,6 +1347,12 @@
         "id": "PLC18xlbCdwtQN5OndafpPfXL80GY-hwRi",
         "begin": "2022-08-09T16:00:00.000Z",
         "broadcast": "R/2022-08-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "hitorijimemyhero_112423",
+        "begin": "2017-07-09T05:00:00.000Z",
+        "broadcast": "R/2017-07-09T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1425,7 +1467,8 @@
     "title": "縁結びの妖狐ちゃん",
     "titleTranslate": {
       "zh-Hans": [
-        "狐妖小红娘"
+        "狐妖小红娘",
+        "狐妖小红娘（TV动画）"
       ]
     },
     "type": "tv",
@@ -1592,6 +1635,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "反照者"
+      ],
+      "zh-Hant": [
+        "THE REFLECTION"
+      ],
+      "en": [
+        "THE REFLECTION"
       ]
     },
     "type": "tv",
@@ -1623,6 +1672,18 @@
         "site": "acfun",
         "id": "5020286",
         "begin": "2017-11-13T09:29:38.000Z"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTfhIMPrxWfhJylIs8ygsVv",
+        "begin": "2022-09-12T16:00:00.000Z",
+        "broadcast": "R/2022-09-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "thereflection_113752",
+        "begin": "2017-11-15T05:00:00.000Z",
+        "broadcast": "R/2017-11-15T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1650,7 +1711,8 @@
     "title": "てーきゅう(第9期)",
     "titleTranslate": {
       "zh-Hans": [
-        "网球少女 9期"
+        "网球少女 9期",
+        "网球并不可笑嘛 9期"
       ]
     },
     "type": "tv",
@@ -1704,6 +1766,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "PIKO太郎的摇篮曲"
+      ],
+      "zh-Hant": [
+        "Piko太郎的搖阿搖籃曲"
+      ],
+      "en": [
+        "Pikotaro's lullaby lala by"
       ]
     },
     "type": "tv",
@@ -1730,6 +1798,12 @@
         "site": "nicovideo",
         "id": "piko-lullaby",
         "begin": "2017-07-16T15:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "pikotaroslullabylalabypiko_112826",
+        "begin": "2017-08-03T05:00:00.000Z",
+        "broadcast": "R/2017-08-03T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1824,6 +1898,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "玛丽与魔女之花"
+      ],
+      "zh-Hant": [
+        "瑪麗與魔女之花",
+        "瑪莉與魔女之花"
+      ],
+      "en": [
+        "Mary and The Witch's Flower"
       ]
     },
     "type": "movie",
@@ -1840,6 +1921,12 @@
         "site": "nicovideo",
         "id": "maryflower",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80217130",
+        "begin": "2021-12-30T00:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1887,7 +1974,8 @@
       {
         "site": "netflix",
         "id": "80095241",
-        "begin": "2017-07-07T07:00:00.000Z"
+        "begin": "2017-07-07T07:00:00.000Z",
+        "broadcast": "R/2017-07-06T16:00:00.000Z/P7D"
       }
     ]
   },

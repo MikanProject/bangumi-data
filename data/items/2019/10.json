@@ -74,10 +74,14 @@
     "title": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
     "titleTranslate": {
       "zh-Hans": [
-        "慎重勇者 ～这个勇者明明超强却过分慎重～"
+        "慎重勇者 ～这个勇者明明超强却过分慎重～",
+        "这个勇者明明超强却过分慎重"
       ],
       "zh-Hant": [
-        "慎重勇者 ~這個勇者明明超TUEEE卻過度謹慎~"
+        "慎重勇者 ~這個勇者明明超TUEEE卻過度謹慎~",
+        "這個勇者明明超TUEEE卻過度謹慎！",
+        "這個勇者明明超 TUEEE 卻過度謹慎",
+        "慎重勇者：這個勇者明明超 TUEEE 卻過度謹慎"
       ]
     },
     "type": "tv",
@@ -121,6 +125,18 @@
         "id": "215749",
         "begin": "2019-10-01T16:00:00.000Z",
         "broadcast": "R/2019-10-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjkZC_KYK7b18R3FynwSPBO",
+        "begin": "2022-10-08T16:00:00.000Z",
+        "broadcast": "R/2022-10-08T16:00:00.000Z/P1D"
+      },
+      {
+        "site": "netflix",
+        "id": "81196818",
+        "begin": "2022-09-29T16:00:00.000Z",
+        "broadcast": "R/2022-09-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -227,6 +243,9 @@
       ],
       "zh-Hant": [
         "食戟之靈 神之皿"
+      ],
+      "en": [
+        "SHOKUGEKI NO SOMA 4th PLATE"
       ]
     },
     "type": "tv",
@@ -308,7 +327,14 @@
     "titleTranslate": {
       "zh-Hans": [
         "书虫的下克上～为了成为图书管理员而不择手段～",
-        "爱书的下克上：为了成为图书管理员不择手段！"
+        "爱书的下克上：为了成为图书管理员不择手段！",
+        "小书痴的下克上：为了成为图书管理员而不择手段"
+      ],
+      "zh-Hant": [
+        "小書痴的下剋上：為了成為圖書管理員不擇手段！"
+      ],
+      "en": [
+        "Ascendance of a Bookworm"
       ]
     },
     "type": "tv",
@@ -341,6 +367,13 @@
         "site": "youku",
         "id": "cfcf7caaef8b4eab991f",
         "begin": "2019-10-02T16:28:05.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "ascendanceofabookworm0001_135452",
+        "begin": "2022-06-16T16:00:00.000Z",
+        "broadcast": "R/2022-06-16T16:00:00.000Z/P7D",
+        "comment": "粵日雙語"
       }
     ]
   },
@@ -509,7 +542,11 @@
   },
   {
     "title": "XL上司。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "XL上司。"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://xljoushi.cf-anime.com/",
@@ -533,6 +570,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "鸭子的天空"
+      ],
+      "zh-Hant": [
+        "籃球少年王"
+      ],
+      "en": [
+        "AHIRU NO SORA"
       ]
     },
     "type": "tv",
@@ -555,6 +598,12 @@
         "site": "nicovideo",
         "id": "ahirunosora",
         "begin": "2019-10-30T09:30:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80245713",
+        "begin": "2022-09-30T16:00:00.000Z",
+        "broadcast": "R/2022-09-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -881,7 +930,11 @@
         "入间同学入魔了"
       ],
       "zh-Hant": [
-        "入間同學入魔了"
+        "入間同學入魔了",
+        "入間同學入魔了！"
+      ],
+      "en": [
+        "Welcome to Demon School!  Iruma-kun"
       ]
     },
     "type": "tv",
@@ -910,6 +963,12 @@
         "id": "PLuxqoToY7UciCMzJCNgXZ1dgLKQ7MlJEW",
         "begin": "2019-10-23T16:00:00.000Z",
         "broadcast": "R/2019-10-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81194192",
+        "begin": "2022-09-26T16:00:00.000Z",
+        "broadcast": "R/2022-09-26T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1058,7 +1117,8 @@
         "PHANTASY STAR ONLINE2 EPISODE ORACLE"
       ],
       "zh-Hans": [
-        "梦幻之星online2 EPISODE ORACLE"
+        "梦幻之星online2 EPISODE ORACLE",
+        "梦幻之星 神谕篇"
       ],
       "zh-Hant": [
         "夢幻之星Online 2 Episode Oracle"
@@ -1116,6 +1176,12 @@
         "site": "bilibili",
         "id": "28222618",
         "begin": "2019-10-09T21:05:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81054847",
+        "begin": "2020-03-12T16:00:00.000Z",
+        "broadcast": "R/2020-03-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1328,7 +1394,8 @@
     "title": "ぬるぺた",
     "titleTranslate": {
       "zh-Hans": [
-        "Nullpeta"
+        "Nullpeta",
+        "NULL & PETA"
       ],
       "zh-Hant": [
         "Null & Peta"
@@ -1434,7 +1501,11 @@
         "我的英雄学院 第四季"
       ],
       "zh-Hant": [
+        "我的英雄學院 (第四季)",
         "我的英雄學院 第4季"
+      ],
+      "en": [
+        "My Hero Academia (Season 4)"
       ]
     },
     "type": "tv",
@@ -1468,6 +1539,18 @@
         "id": "358194",
         "begin": "2021-05-20T16:00:00.000Z",
         "broadcast": "R/2021-05-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "myheroacademiaseason4_124022",
+        "begin": "2019-10-14T05:00:00.000Z",
+        "broadcast": "R/2019-10-14T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1511,10 +1594,14 @@
     "title": "この音とまれ！(第2クール)",
     "titleTranslate": {
       "zh-Hans": [
-        "一弦定音！2"
+        "一弦定音！2",
+        "一弦定音！第二季"
       ],
       "zh-Hant": [
         "一弦定音！(第二季)"
+      ],
+      "en": [
+        "Kono Oto Tomare! Sounds of Life (Season 2)"
       ]
     },
     "type": "tv",
@@ -1539,6 +1626,18 @@
         "id": "PLxSscENEp7JgPrG-3dCO9UbXnD7NJek1-",
         "begin": "2022-06-29T16:00:00.000Z",
         "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81328604",
+        "begin": "2020-11-19T00:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "konoototomaresoundsoflifeseason2_123969",
+        "begin": "2019-10-05T17:30:00.000Z",
+        "broadcast": "R/2019-10-05T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -1758,6 +1857,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "GO!GO!阿童木"
+      ],
+      "en": [
+        "GO GO ATOM"
       ]
     },
     "type": "tv",

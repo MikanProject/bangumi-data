@@ -80,7 +80,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://boku-ben.com/",
     "begin": "2019-04-06T15:30:00.000Z",
     "end": "2019-06-29T16:00:00.000Z",
     "sites": [
@@ -295,8 +295,12 @@
         "水果篮子"
       ],
       "zh-Hant": [
+        "魔法水果籃",
         "生肖奇緣",
         "生肖奇緣 第一季"
+      ],
+      "en": [
+        "Fruits Basket"
       ]
     },
     "type": "tv",
@@ -334,6 +338,12 @@
         "id": "396713",
         "begin": "2021-10-12T16:00:00.000Z",
         "broadcast": "R/2021-10-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80987063",
+        "begin": "2021-01-28T16:00:00.000Z",
+        "broadcast": "R/2021-01-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -416,7 +426,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://shoumetsutoshi-anime.com/",
     "begin": "2019-04-07T14:30:00.000Z",
     "end": "2019-06-23T15:00:00.000Z",
     "sites": [
@@ -476,6 +486,18 @@
         "begin": "2019-04-05T16:00:00.000Z",
         "broadcast": "R/2019-04-05T16:00:00.000Z/P7D",
         "comment": "粵語版:331444"
+      },
+      {
+        "site": "netflix",
+        "id": "81091393",
+        "begin": "2021-10-24T00:00:00.000Z",
+        "broadcast": "R/2021-10-24T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6JukzUyfNAUq",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -590,6 +612,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Fairy gone"
+      ],
+      "zh-Hant": [
+        "Fairy Gone"
       ]
     },
     "type": "tv",
@@ -606,6 +631,12 @@
         "site": "nicovideo",
         "id": "fairygone",
         "begin": ""
+      },
+      {
+        "site": "viu",
+        "id": "454265",
+        "begin": "2022-09-01T16:00:00.000Z",
+        "broadcast": "R/2022-09-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -778,6 +809,13 @@
         "id": "PLuxqoToY7UchDbGo2TvlrSeB2oFvlx6VU",
         "begin": "2022-01-14T16:00:00.000Z",
         "broadcast": "R/2022-01-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "462761",
+        "begin": "2022-11-17T16:00:00.000Z",
+        "broadcast": "R/2022-11-17T16:00:00.000Z/P7D",
+        "comment": "粵語版: 462757"
       }
     ]
   },
@@ -828,6 +866,9 @@
       "zh-Hans": [
         "拾又之国"
       ],
+      "zh-Hant": [
+        "拾又之國"
+      ],
       "en": [
         "MAGMELL OF THE SEA BLUE"
       ]
@@ -841,6 +882,12 @@
       {
         "site": "bangumi",
         "id": "244900"
+      },
+      {
+        "site": "netflix",
+        "id": "81019771",
+        "begin": "2019-10-10T00:00:00.000Z",
+        "broadcast": "R/2019-10-10T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -850,11 +897,17 @@
       "zh-Hans": [
         "八月的棒球甜心",
         "八月的灰姑娘棒球队"
+      ],
+      "zh-Hant": [
+        "八月的棒球甜心"
+      ],
+      "en": [
+        "Cinderella Nine"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://anime-hachinai.com/",
     "begin": "2019-04-07T16:35:00.000Z",
     "end": "2019-07-07T17:05:00.000Z",
     "sites": [
@@ -881,6 +934,13 @@
         "site": "youku",
         "id": "ffea8e86e41d49448e39",
         "begin": "2019-04-07T17:33:01.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "hachigatsunocinderellanine_121366",
+        "begin": "2019-04-07T17:35:00.000Z",
+        "broadcast": "R/2019-04-07T17:35:00.000Z/P7D",
+        "comment": "OVA: cinderellanineova_133445"
       }
     ]
   },
@@ -924,7 +984,11 @@
   },
   {
     "title": "けだまのゴンじろー",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "毛球权次郎"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gonjiro.jp/",
@@ -973,7 +1037,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://araiya.cf-anime.com/",
     "begin": "2019-04-07T16:00:00.000Z",
     "end": "2019-05-26T16:05:00.000Z",
     "sites": [
@@ -1022,7 +1086,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://www.ytv.co.jp/mix/",
     "begin": "2019-04-06T08:30:00.000Z",
     "end": "2019-09-14T09:00:00.000Z",
     "sites": [
@@ -1039,7 +1103,11 @@
   },
   {
     "title": "わしも-wasimo-(第7シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第七季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
@@ -1139,6 +1207,9 @@
       ],
       "zh-Hant": [
         "一弦定音！"
+      ],
+      "en": [
+        "Kono Oto Tomare! Sounds of Life"
       ]
     },
     "type": "tv",
@@ -1172,6 +1243,24 @@
         "id": "PLxSscENEp7JgPrG-3dCO9UbXnD7NJek1-",
         "begin": "2022-06-29T16:00:00.000Z",
         "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTKN2OmdYC0L6_tRPrbPy0g",
+        "begin": "2022-09-16T16:00:00.000Z",
+        "broadcast": "R/2022-09-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81328604",
+        "begin": "2020-11-19T00:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "konoototomare_121365",
+        "begin": "2019-04-06T17:30:00.000Z",
+        "broadcast": "R/2019-04-06T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -1251,6 +1340,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "卡罗尔与星期二",
+        "卡萝尔和特斯黛",
+        "CAROLE & TUESDAY"
+      ],
+      "zh-Hant": [
+        "凱洛與塔斯黛",
         "CAROLE & TUESDAY"
       ],
       "en": [
@@ -1271,6 +1365,12 @@
         "site": "bilibili",
         "id": "24097891",
         "begin": "2019-04-10T20:30:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80992137",
+        "begin": "2019-08-29T16:00:00.000Z",
+        "broadcast": "R/2019-08-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1378,6 +1478,12 @@
         "site": "youku",
         "id": "3df0638b94344805a758",
         "begin": "2019-04-02T06:58:02.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80231373",
+        "begin": "2019-03-31T16:00:00.000Z",
+        "broadcast": "R/2019-03-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1414,7 +1520,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://shingeki.tv/season3/",
     "begin": "2019-04-28T15:10:00.000Z",
     "end": "2019-06-30T15:35:00.000Z",
     "sites": [
@@ -1631,6 +1737,39 @@
         "site": "nicovideo",
         "id": "kinpri-movie-sss",
         "begin": "2020-07-13T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "リラックマとカオルさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轻松小熊和小薰"
+      ],
+      "zh-Hant": [
+        "拉拉熊與小薰",
+        "輕鬆小熊與小薰"
+      ],
+      "en": [
+        "Rilakkuma and Kaoru"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.san-x.co.jp/rilakkuma/rilakkuma_and_kaoru/",
+    "begin": "2019-04-18T16:00:00.000Z",
+    "end": "2019-04-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217573"
+      },
+      {
+        "site": "netflix",
+        "id": "80196883",
+        "begin": "2019-04-18T16:00:00.000Z",
+        "broadcast": "R/2019-04-18T16:00:00.000Z/P7D"
       }
     ]
   }

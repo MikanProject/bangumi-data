@@ -25,7 +25,11 @@
   },
   {
     "title": "ざんねんないきもの事典(第4シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "殘念生物事典"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.nhk.jp/p/zannenikimono/ts/EPMZWJ9XKG/",
@@ -33,6 +37,45 @@
     "broadcast": "R/2022-02-13T10:25:00.000Z/P7D",
     "end": "2022-03-13T10:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchMCwvzDMzfmzYjq68q7Q5J",
+        "begin": "2022-05-19T16:00:00.000Z",
+        "broadcast": "R/2022-05-19T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "地球外少年少女 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球外少年少女 后篇"
+      ],
+      "zh-Hant": [
+        "地球外少年少女"
+      ],
+      "en": [
+        "The Orbital Children"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://chikyugai.com/",
+    "begin": "2022-02-10T16:00:00.000Z",
+    "end": "2022-02-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "363309"
+      },
+      {
+        "site": "netflix",
+        "id": "81340914",
+        "begin": "2022-01-27T16:00:00.000Z",
+        "broadcast": "R/2022-01-27T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

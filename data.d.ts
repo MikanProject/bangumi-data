@@ -190,8 +190,11 @@ type SiteList =
     | "netflix"
     | "gamer"
     | "muse_hk"
+    | "ani_one"
     | "ani_one_asia"
     | "viu"
+    | "mytv"
+    | "disneyplus"
     | "dmhy";
 
 export const siteMeta: Record<SiteList, SiteMeta>;

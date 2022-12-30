@@ -180,6 +180,9 @@
       "zh-Hans": [
         "Lostorage incited WIXOSS",
         "失忆煽动WIXOSS"
+      ],
+      "zh-Hant": [
+        "失憶煽動WIXOSS"
       ]
     },
     "type": "tv",
@@ -206,6 +209,12 @@
       {
         "site": "bangumi",
         "id": "179097"
+      },
+      {
+        "site": "mytv",
+        "id": "lostorageincitedwixoss_108901",
+        "begin": "2016-10-08T05:00:00.000Z",
+        "broadcast": "R/2016-10-08T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -910,6 +919,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动战士高达 铁血的孤儿 第二季"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈：鐵血孤兒 第二季",
+        "機動戰士高達 鐵血的孤兒 第二季"
       ]
     },
     "type": "tv",
@@ -931,6 +944,12 @@
         "site": "bilibili",
         "id": "4310082",
         "begin": "2016-10-02T08:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80150290",
+        "begin": "2019-10-31T00:00:00.000Z",
+        "broadcast": "R/2019-10-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1053,6 +1072,18 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JhJSL_Vr_RAi9iQyPk-gHAO",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRpiIaU4hzwZ39nquH8I9Ms",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "7iGL15MOs7hZ",
         "begin": "",
         "broadcast": ""
       }
@@ -1564,7 +1595,8 @@
       {
         "site": "netflix",
         "id": "80043576",
-        "begin": "2016-04-12T07:00:00.000Z"
+        "begin": "2016-04-12T07:00:00.000Z",
+        "broadcast": "R/2016-04-11T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1631,7 +1663,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JihoHAg6oR0cN5Fm9U1vNxa",
-        "begin": ""
+        "begin": "2021-12-15T16:00:00.000Z",
+        "broadcast": "R/2021-12-15T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2709,10 +2742,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "黑子的篮球 Winter Cup总集篇 ～朝着泪水的前方～",
-        "黑子的篮球 总集篇 第2季 眼泪的前方"
+        "黑子的篮球 总集篇 第2季 眼泪的前方",
+        "黑子的篮球 冬季杯总集篇 ～泪水的前方～"
       ],
       "zh-Hant": [
-        "影子籃球員 冬季選拔賽總集篇 淚之所向"
+        "影子籃球員 冬季選拔賽總集篇 淚之所向",
+        "影子籃球員：冬季選拔賽總集篇：淚之所向",
+        "幻影籃球王：冬季盃選拔賽總集篇：淚之所向"
+      ],
+      "en": [
+        "Kuroko’s Basketball: Winter Cup Highlights  ~Beyond the Tears~"
       ]
     },
     "type": "movie",
@@ -2758,7 +2797,14 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgGW7SQC-DYAY6zZWVnZZu2",
-        "begin": "2022-07-11T16:00:00.000Z"
+        "begin": "2022-07-11T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81054819",
+        "begin": "2022-09-14T16:00:00.000Z",
+        "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2918,7 +2964,8 @@
       {
         "site": "netflix",
         "id": "80149259",
-        "begin": "2017-02-18T08:00:00.000Z"
+        "begin": "2017-02-18T08:00:00.000Z",
+        "broadcast": "R/2021-04-13T16:00:00.000Z/P7D"
       }
     ]
   },

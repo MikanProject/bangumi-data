@@ -3,7 +3,8 @@
     "title": "弱虫ペダル LIMIT BREAK",
     "titleTranslate": {
       "zh-Hans": [
-        "飙速宅男 LIMIT BREAK"
+        "飙速宅男 LIMIT BREAK",
+        "飙速宅男 突破极限"
       ]
     },
     "type": "tv",
@@ -17,6 +18,12 @@
       {
         "site": "bangumi",
         "id": "361110"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339722",
+        "begin": "2022-10-10T11:00:00.000Z",
+        "broadcast": "R/2022-10-10T11:00:00.000Z/P7D"
       }
     ]
   },
@@ -38,6 +45,18 @@
       {
         "site": "bangumi",
         "id": "290980"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339719",
+        "begin": "2022-10-04T16:00:00.000Z",
+        "broadcast": "R/2022-10-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339744",
+        "begin": "2022-10-04T16:00:00.000Z",
+        "broadcast": "R/2022-10-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -62,6 +81,12 @@
       {
         "site": "bangumi",
         "id": "363600"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339726",
+        "begin": "2022-10-01T17:00:00.000Z",
+        "broadcast": "R/2022-10-01T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -83,6 +108,12 @@
       {
         "site": "bangumi",
         "id": "315744"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339743",
+        "begin": "2022-10-01T14:00:00.000Z",
+        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -109,7 +140,14 @@
   },
   {
     "title": "モブサイコ100III",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "灵能百分百 第三季"
+      ],
+      "zh-Hant": [
+        "路人超能100 (第三季)"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://mobpsycho100.com/",
@@ -121,6 +159,36 @@
       {
         "site": "bangumi",
         "id": "353605"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339668",
+        "begin": "2022-10-05T16:00:00.000Z",
+        "broadcast": "R/2022-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339709",
+        "begin": "2022-10-05T16:00:00.000Z",
+        "broadcast": "R/2022-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "120203",
+        "begin": "2022-10-05T16:00:00.000Z",
+        "broadcast": "R/2022-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "455388",
+        "begin": "2022-10-05T16:00:00.000Z",
+        "broadcast": "R/2022-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80179798",
+        "begin": "2021-12-08T16:00:00.000Z",
+        "broadcast": "R/2021-12-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -129,6 +197,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "被勇者队伍开除的驯兽师，邂逅最强种猫耳少女"
+      ],
+      "zh-Hant": [
+        "被勇者隊伍開除的馭獸使，邂逅了最強種的貓耳少女"
+      ],
+      "en": [
+        "BEAST TAMER"
       ]
     },
     "type": "tv",
@@ -142,6 +216,35 @@
       {
         "site": "bangumi",
         "id": "383631"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339666",
+        "begin": "2022-10-02T14:00:00.000Z",
+        "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339712",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "124956",
+        "begin": "2022-10-02T14:00:00.000Z",
+        "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjATceMbYHsvVzj8F7JpYw4",
+        "begin": "2022-10-02T14:00:00.000Z",
+        "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "beasttamer0002_136673",
+        "begin": "2022-10-31T16:00:00.000Z",
+        "broadcast": "R/2022-10-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -150,6 +253,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "夫妇以上，恋人未满。"
+      ],
+      "zh-Hant": [
+        "夫婦以上，戀人未滿。"
       ]
     },
     "type": "tv",
@@ -163,6 +269,30 @@
       {
         "site": "bangumi",
         "id": "359177"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339840",
+        "begin": "2022-10-09T14:00:00.000Z",
+        "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "120724",
+        "begin": "2022-10-09T14:00:00.000Z",
+        "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjat3PagSY2J_Z2QvqQBANH",
+        "begin": "2022-10-09T14:00:00.000Z",
+        "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtStjt2-GriwPCoL2b0_lQ_B",
+        "begin": "2022-10-09T14:00:00.000Z",
+        "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -171,6 +301,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "新人炼金术师的店铺经营"
+      ],
+      "zh-Hant": [
+        "菜鳥鍊金術師開店營業中"
       ]
     },
     "type": "tv",
@@ -184,6 +317,24 @@
       {
         "site": "bangumi",
         "id": "349317"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339721",
+        "begin": "2022-10-03T13:00:00.000Z",
+        "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339742",
+        "begin": "2022-10-03T13:00:00.000Z",
+        "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucg4VTcge6pCCAOxzm5bmria",
+        "begin": "2022-10-03T13:00:00.000Z",
+        "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -194,7 +345,8 @@
         "Akiba Maid War"
       ],
       "zh-Hans": [
-        "秋叶原女仆战争"
+        "秋叶原女仆战争",
+        "秋叶原冥途战争"
       ]
     },
     "type": "tv",
@@ -208,6 +360,12 @@
       {
         "site": "bangumi",
         "id": "389450"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339624",
+        "begin": "2022-10-06T15:00:00.000Z",
+        "broadcast": "R/2022-10-06T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -226,7 +384,7 @@
     "officialSite": "https://jojo-portal.com/anime/so/",
     "begin": "2022-10-07T15:30:00.000Z",
     "broadcast": "R/2022-10-07T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2022-12-23T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -239,10 +397,17 @@
     "title": "SPY×FAMILY(第2クール)",
     "titleTranslate": {
       "en": [
-        "SPY FAMILY"
+        "SPY FAMILY",
+        "SPY x FAMILY"
       ],
       "zh-Hans": [
-        "间谍过家家 第二部分"
+        "间谍过家家 第二部分",
+        "SPY x FAMILY"
+      ],
+      "zh-Hant": [
+        "間諜家家酒",
+        "SPY×FAMILY間諜家家酒",
+        "SPY x FAMILY"
       ]
     },
     "type": "tv",
@@ -256,6 +421,37 @@
       {
         "site": "bangumi",
         "id": "373267"
+      },
+      {
+        "site": "gamer",
+        "id": "120396",
+        "begin": "2022-10-01T15:00:00.000Z",
+        "broadcast": "R/2022-10-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "454032",
+        "begin": "2022-09-27T16:00:00.000Z",
+        "broadcast": "R/2022-09-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81511410",
+        "begin": "2022-10-01T15:00:00.000Z",
+        "broadcast": "R/2022-10-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "spyfamilypart2_136634",
+        "begin": "2022-10-01T15:00:00.000Z",
+        "broadcast": "R/2022-10-01T15:00:00.000Z/P7D",
+        "comment": "粵日雙語: spyfamilypart20001_137114"
+      },
+      {
+        "site": "disneyplus",
+        "id": "fet1h9jqmrAM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -264,6 +460,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "想要成为影之实力者！"
+      ],
+      "zh-Hant": [
+        "我想成為影之強者！"
       ]
     },
     "type": "tv",
@@ -277,6 +476,18 @@
       {
         "site": "bangumi",
         "id": "329114"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339747",
+        "begin": "2022-10-05T14:30:00.000Z",
+        "broadcast": "R/2022-10-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQAAxp_iMJteLfUNjjWbSpG",
+        "begin": "2022-11-03T16:00:00.000Z",
+        "broadcast": "R/2022-11-03T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -288,6 +499,9 @@
       ],
       "zh-Hans": [
         "链锯人"
+      ],
+      "zh-Hant": [
+        "鏈鋸人"
       ]
     },
     "type": "tv",
@@ -301,6 +515,32 @@
       {
         "site": "bangumi",
         "id": "321885"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339623",
+        "begin": "2022-10-11T16:00:00.000Z",
+        "broadcast": "R/2022-10-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "110764",
+        "begin": "2022-10-18T16:00:00.000Z",
+        "broadcast": "R/2022-10-18T16:00:00.000Z/P7D",
+        "comment": "因代理授權限制，晚一週更新、限付費會員觀賞"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhfvHiWN-djJjCOjW8rxA6p",
+        "begin": "2022-10-11T16:00:00.000Z",
+        "broadcast": "R/2022-10-11T16:00:00.000Z/P7D",
+        "comment": "下列地區晚一週更新：孟加拉國、不丹、香港、印度、印度尼西亞、澳門、馬來西亞、馬爾代夫、尼泊爾、巴基斯坦、菲律賓、新加坡、台灣、泰國、越南"
+      },
+      {
+        "site": "netflix",
+        "id": "81215627",
+        "begin": "2022-10-18T00:00:00.000Z",
+        "broadcast": "R/2022-10-18T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -360,6 +600,24 @@
       {
         "site": "bangumi",
         "id": "371842"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339711",
+        "begin": "2022-10-01T13:00:00.000Z",
+        "broadcast": "R/2022-10-01T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339718",
+        "begin": "2022-10-01T13:00:00.000Z",
+        "broadcast": "R/2022-10-01T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "124639",
+        "begin": "2022-10-01T14:00:00.000Z",
+        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -381,6 +639,12 @@
       {
         "site": "bangumi",
         "id": "375735"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339746",
+        "begin": "2022-10-12T16:05:00.000Z",
+        "broadcast": "R/2022-10-12T16:05:00.000Z/P7D"
       }
     ]
   },
@@ -402,6 +666,18 @@
       {
         "site": "bangumi",
         "id": "366695"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339720",
+        "begin": "2022-10-06T14:30:00.000Z",
+        "broadcast": "R/2022-10-06T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339745",
+        "begin": "2022-10-06T14:30:00.000Z",
+        "broadcast": "R/2022-10-06T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -423,6 +699,18 @@
       {
         "site": "bangumi",
         "id": "368829"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339628",
+        "begin": "2022-10-04T12:00:00.000Z",
+        "broadcast": "R/2022-10-04T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339738",
+        "begin": "2022-10-04T12:00:00.000Z",
+        "broadcast": "R/2022-10-04T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -444,6 +732,12 @@
       {
         "site": "bangumi",
         "id": "373712"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339748",
+        "begin": "2022-10-05T16:00:00.000Z",
+        "broadcast": "R/2022-10-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -455,6 +749,10 @@
       ],
       "zh-Hans": [
         "机动战士高达 水星的魔女"
+      ],
+      "zh-Hant": [
+        "機動戰士高達：水星的魔女",
+        "機動戰士鋼彈 水星的魔女"
       ]
     },
     "type": "tv",
@@ -468,6 +766,47 @@
       {
         "site": "bangumi",
         "id": "349441"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339736",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339749",
+        "begin": "2022-10-02T09:00:00.000Z",
+        "broadcast": "R/2022-10-02T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "119702",
+        "begin": "2022-10-02T09:00:00.000Z",
+        "broadcast": "R/2022-10-02T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Ji3wXrdHWgPqyTB4q1ukMH-",
+        "begin": "2022-10-02T09:00:00.000Z",
+        "broadcast": "R/2022-10-02T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtR-xfP90UmKdba2IeM3-6sm",
+        "begin": "2022-10-02T09:00:00.000Z",
+        "broadcast": "R/2022-10-02T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "458939",
+        "begin": "2022-10-01T16:00:00.000Z",
+        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81643097",
+        "begin": "2022-10-08T16:00:00.000Z",
+        "broadcast": "R/2022-10-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -476,6 +815,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "后宫之乌"
+      ],
+      "zh-Hant": [
+        "後宮之烏"
+      ],
+      "en": [
+        "Raven in the Inner Palace"
       ]
     },
     "type": "tv",
@@ -489,6 +834,24 @@
       {
         "site": "bangumi",
         "id": "362479"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339851",
+        "begin": "2022-10-01T16:00:00.000Z",
+        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "121043",
+        "begin": "2022-10-01T16:00:00.000Z",
+        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "ravenintheinnerpalace_136792",
+        "begin": "2022-10-01T16:00:00.000Z",
+        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -510,6 +873,54 @@
       {
         "site": "bangumi",
         "id": "378860"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339724",
+        "begin": "2022-10-10T17:30:00.000Z",
+        "broadcast": "R/2022-10-10T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "125606",
+        "begin": "2022-10-10T17:30:00.000Z",
+        "broadcast": "R/2022-10-10T17:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ヒューマンバグ大学 -不死学部不幸学科-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人类毛病大学 -不死学部不幸学科-"
+      ],
+      "zh-Hant": [
+        "人類毛病大學"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://humanbug-anime.com/",
+    "begin": "2022-10-05T13:00:00.000Z",
+    "broadcast": "R/2022-10-05T13:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "386469"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jid3nlFTN73VlO6UDFPIr4_",
+        "begin": "2022-10-05T14:00:00.000Z",
+        "broadcast": "R/2022-10-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSnmJRDz1VYmU-Oi6Yk_sOi",
+        "begin": "2022-10-05T14:00:00.000Z",
+        "broadcast": "R/2022-10-05T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -517,10 +928,14 @@
     "title": "僕のヒーローアカデミア(第6期)",
     "titleTranslate": {
       "en": [
+        "My Hero Academia (Season 6)",
         "MY HERO ACADEMIA"
       ],
       "zh-Hans": [
         "我的英雄学院 第六季"
+      ],
+      "zh-Hant": [
+        "我的英雄學院 (第六季)"
       ]
     },
     "type": "tv",
@@ -534,6 +949,24 @@
       {
         "site": "bangumi",
         "id": "236657"
+      },
+      {
+        "site": "gamer",
+        "id": "121103",
+        "begin": "2022-10-01T09:30:00.000Z",
+        "broadcast": "R/2022-10-01T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "myheroacademiaseason6_136790",
+        "begin": "2022-10-01T09:30:00.000Z",
+        "broadcast": "R/2022-10-01T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -558,6 +991,17 @@
       {
         "site": "bangumi",
         "id": "328609"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339735",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115950",
+        "begin": "2022-10-08T16:30:00.000Z",
+        "broadcast": "R/2022-10-08T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -587,6 +1031,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "蓝色监狱"
+      ],
+      "zh-Hant": [
+        "藍色監獄"
+      ],
+      "en": [
+        "Blue Lock"
       ]
     },
     "type": "tv",
@@ -600,6 +1050,35 @@
       {
         "site": "bangumi",
         "id": "341163"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339713",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "119140",
+        "begin": "2022-10-08T17:00:00.000Z",
+        "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj17JiCvrOBjnjPjb930O2g",
+        "begin": "2022-10-08T17:00:00.000Z",
+        "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81640753",
+        "begin": "2022-10-07T16:00:00.000Z",
+        "broadcast": "R/2022-10-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "bluelock_136628",
+        "begin": "2022-10-30T16:00:00.000Z",
+        "broadcast": "R/2022-10-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -608,6 +1087,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "圣剑传说 玛娜传奇 -泪珠水晶-"
+      ],
+      "zh-Hant": [
+        "聖劍傳說Legend of Mana -The Teardrop Crystal-"
       ]
     },
     "type": "tv",
@@ -621,6 +1103,12 @@
       {
         "site": "bangumi",
         "id": "340188"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjIBf3O9h37OeOV7neRGvwE",
+        "begin": "2022-10-08T17:25:00.000Z",
+        "broadcast": "R/2022-10-08T17:25:00.000Z/P7D"
       }
     ]
   },
@@ -650,6 +1138,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "福星小子"
+      ],
+      "zh-Hant": [
+        "她來自煩星"
+      ],
+      "en": [
+        "URUSEI YATSURA"
       ]
     },
     "type": "tv",
@@ -663,6 +1157,12 @@
       {
         "site": "bangumi",
         "id": "364468"
+      },
+      {
+        "site": "mytv",
+        "id": "uruseiyatsura_137010",
+        "begin": "2022-10-20T18:20:00.000Z",
+        "broadcast": "R/2022-10-20T18:20:00.000Z/P7D"
       }
     ]
   },
@@ -688,10 +1188,55 @@
     ]
   },
   {
+    "title": "ハーレムきゃんぷっ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "后宫露营！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://harecam.af-original.com/",
+    "begin": "2022-10-02T16:00:00.000Z",
+    "broadcast": "R/2022-10-02T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "395537"
+      }
+    ]
+  },
+  {
+    "title": "シルバニアファミリー フレアのハッピーダイアリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "森林家族小故事 芙蕾雅的快乐日记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
+    "begin": "2022-10-06T10:22:00.000Z",
+    "broadcast": "R/2022-10-06T10:22:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "400601"
+      }
+    ]
+  },
+  {
     "title": "不滅のあなたへ Season2",
     "titleTranslate": {
       "zh-Hans": [
         "致不灭的你 Season2"
+      ],
+      "zh-Hant": [
+        "給不滅的你 (第二季)"
       ]
     },
     "type": "tv",
@@ -705,6 +1250,28 @@
       {
         "site": "bangumi",
         "id": "348128"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339716",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "119447",
+        "begin": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRtNNaDxSAwnfpJit_19WGf",
+        "begin": "2022-10-23T10:00:00.000Z",
+        "broadcast": "R/2022-10-23T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JglYLsUPMeExu8Yjn5hGYyn",
+        "begin": "2022-10-23T10:00:00.000Z",
+        "broadcast": "R/2022-10-23T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -713,6 +1280,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "死神 千年血战篇"
+      ],
+      "zh-Hant": [
+        "BLEACH 千年血戰篇"
       ]
     },
     "type": "tv",
@@ -726,6 +1296,17 @@
       {
         "site": "bangumi",
         "id": "302286"
+      },
+      {
+        "site": "gamer",
+        "id": "110487",
+        "begin": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jg3pUga3XbHeMfWLXRMGVQY",
+        "begin": "2021-10-10T16:30:00.000Z",
+        "broadcast": "R/2021-10-10T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -755,6 +1336,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "入间同学入魔了 第三季"
+      ],
+      "zh-Hant": [
+        "入間同學入魔了! 第三季"
       ]
     },
     "type": "tv",
@@ -768,6 +1352,29 @@
       {
         "site": "bangumi",
         "id": "348699"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339667",
+        "begin": "2022-10-08T12:25:00.000Z",
+        "broadcast": "R/2022-10-08T12:25:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339710",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "119657",
+        "begin": "2022-10-08T12:25:00.000Z",
+        "broadcast": "R/2022-10-08T12:25:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciGSWyAFqSHqO1Kdf1dTQnz",
+        "begin": "2022-10-08T12:25:00.000Z",
+        "broadcast": "R/2022-10-08T12:25:00.000Z/P7D"
       }
     ]
   },
@@ -776,6 +1383,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Muv-Luv Alternative 第二季"
+      ],
+      "zh-Hant": [
+        "MUV-LUV ALTERNATIVE 第2季"
       ]
     },
     "type": "tv",
@@ -789,6 +1399,18 @@
       {
         "site": "bangumi",
         "id": "363263"
+      },
+      {
+        "site": "gamer",
+        "id": "126658",
+        "begin": "2022-10-05T17:25:00.000Z",
+        "broadcast": "R/2022-10-05T17:25:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgDdv8_vevLwhkrEMb2JHPt",
+        "begin": "2022-10-05T17:25:00.000Z",
+        "broadcast": "R/2022-10-05T17:25:00.000Z/P7D"
       }
     ]
   },
@@ -797,6 +1419,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 犯人犯泽先生"
+      ],
+      "en": [
+        "Detective Conan The Culprit Hanzawa"
       ]
     },
     "type": "tv",
@@ -852,6 +1477,52 @@
       {
         "site": "bangumi",
         "id": "356793"
+      },
+      {
+        "site": "gamer",
+        "id": "127445",
+        "begin": "2022-10-09T16:30:00.000Z",
+        "broadcast": "R/2022-10-09T16:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アニメ ボス・ベイビー シーズン2",
+    "titleTranslate": {
+      "en": [
+        "THE BOSS BABY BACK IN BUSINESS SEASON 2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/ts/5ML6ZPRPPQ/",
+    "begin": "2022-10-05T10:00:00.000Z",
+    "broadcast": "R/2022-10-05T10:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "ぷにるんず",
+    "titleTranslate": {
+      "en": [
+        "punirunes"
+      ],
+      "zh-Hans": [
+        "噗尼轮轮"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.punirunes.com/",
+    "begin": "2022-10-02T00:45:00.000Z",
+    "broadcast": "R/2022-10-02T00:45:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "398762"
       }
     ]
   },
@@ -877,74 +1548,91 @@
     ]
   },
   {
-    "title": "転生したら剣でした",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://tenken-anime.com/",
-    "begin": "2022-09-28T14:30:00.000Z",
-    "broadcast": "R/2022-09-28T14:30:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "350224"
-      }
-    ]
-  },
-  {
-    "title": "悪役令嬢なのでラスボスを飼ってみました",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://akulas-pr.com/",
-    "begin": "2022-09-24T13:30:00.000Z",
-    "broadcast": "R/2022-09-24T13:30:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "351375"
-      }
-    ]
-  },
-  {
-    "title": "うちの師匠はしっぽがない",
+    "title": "令和のデ・ジ・キャラット",
     "titleTranslate": {
       "zh-Hans": [
-        "我家师傅没有尾巴"
+        "令和のデ・ジ・キャラット"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://shippona-anime.com/",
-    "begin": "2022-09-30T13:30:00.000Z",
-    "broadcast": "R/2022-09-30T13:30:00.000Z/P7D",
+    "officialSite": "https://digicharat-reiwa.com/",
+    "begin": "2022-10-09T14:40:00.000Z",
+    "broadcast": "R/2022-10-09T14:40:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "344874"
+        "id": "338802"
       }
     ]
   },
   {
-    "title": "アイドリッシュセブン Third BEAT!(第2クール)",
-    "titleTranslate": {},
+    "title": "PUI PUI モルカー DRIVING SCHOOL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "PUI PUI 天竺鼠车车 DRIVING SCHOOL"
+      ],
+      "zh-Hant": [
+        "PUI PUI 天竺鼠車車 學車篇"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://idolish7.com/aninana/",
-    "begin": "2022-10-02T13:30:00.000Z",
-    "broadcast": "",
+    "officialSite": "https://molcar-anime.com/",
+    "begin": "2022-10-06T23:00:00.000Z",
+    "broadcast": "R/2022-10-06T23:00:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "331751"
+        "id": "385541"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchdR42E4k42wn6q1rnu8fve",
+        "begin": "2022-10-06T16:00:00.000Z",
+        "broadcast": "R/2022-10-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "456106",
+        "begin": "2022-10-06T16:00:00.000Z",
+        "broadcast": "R/2022-10-06T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ロマンティック・キラー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浪漫杀手"
+      ],
+      "zh-Hant": [
+        "浪漫殺手"
+      ],
+      "en": [
+        "Romantic Killer"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://idolish7.com/aninana/",
+    "begin": "2022-10-26T16:00:00.000Z",
+    "end": "2022-10-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "395489"
+      },
+      {
+        "site": "netflix",
+        "id": "81318888",
+        "begin": "2022-10-27T00:00:00.000Z",
+        "broadcast": "R/2022-10-27T00:00:00.000Z/P7D"
       }
     ]
   }

@@ -100,6 +100,18 @@
         "id": "PLuxqoToY7UcjXN8OhmbLJ7EA01LHGi1fA",
         "begin": "2021-12-08T16:00:00.000Z",
         "broadcast": "R/2021-12-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80179831",
+        "begin": "2021-03-29T16:00:00.000Z",
+        "broadcast": "R/2021-03-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7SycqmydEEnp",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -314,6 +326,12 @@
         "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
         "begin": "2022-08-05T16:00:00.000Z",
         "broadcast": "R/2022-08-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81028712",
+        "begin": "2021-09-29T16:00:00.000Z",
+        "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -441,6 +459,9 @@
       ],
       "zh-Hans": [
         "哥布林杀手"
+      ],
+      "zh-Hant": [
+        "哥布林殺手"
       ]
     },
     "type": "tv",
@@ -462,6 +483,18 @@
         "site": "iqiyi",
         "id": "a_19rrh709x1",
         "begin": "2018-10-06T16:30:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81021570",
+        "begin": "2021-09-29T16:00:00.000Z",
+        "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uci0RG2CTD8rvazY0Iv241YX",
+        "begin": "2022-11-24T16:00:00.000Z",
+        "broadcast": "R/2022-11-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -469,7 +502,8 @@
     "title": "青春ブタ野郎はバニーガール先輩の夢を見ない",
     "titleTranslate": {
       "zh-Hans": [
-        "青春期笨蛋不做兔女郎学姐的梦"
+        "青春期笨蛋不做兔女郎学姐的梦",
+        "青春笨蛋少年不做兔女郎学姐的梦"
       ]
     },
     "type": "tv",
@@ -610,6 +644,9 @@
         "佐贺偶像是传奇",
         "僵尸乐园佐贺"
       ],
+      "zh-Hant": [
+        "佐賀偶像是傳奇"
+      ],
       "en": [
         "ZOMBIE LAND SAGA"
       ]
@@ -638,6 +675,12 @@
         "site": "nicovideo",
         "id": "zombielandsaga",
         "begin": "2018-10-07T13:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "zombielandsaga_118751",
+        "begin": "2018-10-04T16:00:00.000Z",
+        "broadcast": "R/2018-10-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -782,6 +825,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "Anima Yell!"
+      ],
+      "zh-Hant": [
+        "ANIMAYELL!"
+      ],
+      "en": [
+        "ANIMAYELL!"
       ]
     },
     "type": "tv",
@@ -818,6 +867,12 @@
         "site": "qq",
         "id": "i/iyh6pn84io8zh8x",
         "begin": ""
+      },
+      {
+        "site": "mytv",
+        "id": "animayell_118757",
+        "begin": "2018-10-07T16:00:00.000Z",
+        "broadcast": "R/2018-10-07T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1022,6 +1077,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "东京喰种:re 第二季"
+      ],
+      "zh-Hant": [
+        "東京喰種:re (Part 2)"
+      ],
+      "en": [
+        "Tokyo Ghoul:re (Part 2)"
       ]
     },
     "type": "tv",
@@ -1038,6 +1099,18 @@
         "site": "bilibili",
         "id": "140692",
         "begin": "2018-10-09T15:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80023687",
+        "begin": "2018-10-19T00:00:00.000Z",
+        "broadcast": "R/2018-10-19T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "tokyoghoulrepart2_118758",
+        "begin": "2018-10-09T15:00:00.000Z",
+        "broadcast": "R/2018-10-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1478,7 +1551,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://karakuri-anime.com/",
     "begin": "2018-10-11T13:30:00.000Z",
     "end": "2019-06-27T13:30:00.000Z",
     "sites": [
@@ -1503,7 +1576,15 @@
     "title": "INGRESS THE ANIMATION",
     "titleTranslate": {
       "zh-Hans": [
-        "Ingress"
+        "Ingress",
+        "浸视界"
+      ],
+      "zh-Hant": [
+        "虛擬入口",
+        "虛擬入口：動畫版"
+      ],
+      "en": [
+        "Ingress: The Animation"
       ]
     },
     "type": "tv",
@@ -1525,6 +1606,12 @@
         "site": "youku",
         "id": "e4e6b437e16746fa82f8",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80992853",
+        "begin": "2019-04-29T16:00:00.000Z",
+        "broadcast": "R/2019-04-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1532,7 +1619,8 @@
     "title": "軒轅剣・蒼き曜",
     "titleTranslate": {
       "zh-Hans": [
-        "轩辕剑‧苍之曜"
+        "轩辕剑‧苍之曜",
+        "轩辕剑·苍之曜"
       ]
     },
     "type": "tv",
@@ -1711,7 +1799,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://hoshinyan.net/",
     "begin": "2018-10-05T22:55:00.000Z",
     "end": "2019-03-29T22:55:00.000Z",
     "sites": [
@@ -1772,6 +1860,10 @@
       ],
       "zh-Hans": [
         "妖精的尾巴 最终季"
+      ],
+      "zh-Hant": [
+        "魔導少年-最終章",
+        "妖精的尾巴-最終章"
       ]
     },
     "type": "tv",
@@ -1793,6 +1885,12 @@
         "site": "nicovideo",
         "id": "fairytail_final",
         "begin": "2018-10-08T03:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj3aGA6y9cpn2AhERototbo",
+        "begin": "2022-09-12T16:00:00.000Z",
+        "broadcast": "R/2022-09-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1800,7 +1898,8 @@
     "title": "終電後、カプセルホテルで、上司に微熱伝わる夜。",
     "titleTranslate": {
       "zh-Hans": [
-        "末班车后､在胶囊旅馆里､向上司传递微热的夜晚"
+        "末班车后､在胶囊旅馆里､向上司传递微热的夜晚",
+        "末班车后、在胶囊旅馆里、向上司传递微热的夜晚"
       ]
     },
     "type": "tv",
@@ -1864,7 +1963,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://ganma.jp/g/anime/otonabougu/",
     "begin": "2018-10-08T16:25:00.000Z",
     "end": "2018-12-24T16:30:00.000Z",
     "sites": [

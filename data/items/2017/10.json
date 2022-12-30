@@ -169,10 +169,12 @@
         "网络胜利组"
       ],
       "en": [
-        "RECOMMENDATION OF THE WONDERFUL VIRTUAL LIFE"
+        "RECOMMENDATION OF THE WONDERFUL VIRTUAL LIFE",
+        "Recovery of a MMO Junkie"
       ],
       "zh-Hant": [
-        "網路勝利組"
+        "網路勝利組",
+        "網絡勝利組"
       ]
     },
     "type": "tv",
@@ -200,6 +202,12 @@
         "id": "PLC18xlbCdwtS2RtVI6iGK7D-MtIxB3lWJ",
         "begin": "2022-09-04T16:00:00.000Z",
         "broadcast": "R/2022-09-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "recoveryofammojunkie_113742",
+        "begin": "2017-10-07T05:00:00.000Z",
+        "broadcast": "R/2017-10-07T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -241,7 +249,8 @@
     "title": "UQ HOLDER!～魔法先生ネギま！2～",
     "titleTranslate": {
       "zh-Hans": [
-        "悠久持有者！～魔法老师! 2～"
+        "悠久持有者！～魔法老师! 2～",
+        "悠久持有者！"
       ]
     },
     "type": "tv",
@@ -384,6 +393,9 @@
       ],
       "zh-Hant": [
         "十二大戰"
+      ],
+      "en": [
+        "JUNI TAISEN: ZODIAC WAR"
       ]
     },
     "type": "tv",
@@ -411,6 +423,12 @@
         "id": "PLC18xlbCdwtTNtd65zcspmumNOcGLBUPa",
         "begin": "2022-09-11T16:00:00.000Z",
         "broadcast": "R/2022-09-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "junitaisenzodiacwar_113749",
+        "begin": "2017-10-04T05:00:00.000Z",
+        "broadcast": "R/2017-10-04T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -538,7 +556,8 @@
         "Love Live ! Sunshine!!"
       ],
       "zh-Hans": [
-        "Love Live! Sunshine!! 第二季"
+        "Love Live! Sunshine!! 第二季",
+        "LoveLive! Sunshine!! 第二季"
       ]
     },
     "type": "tv",
@@ -787,7 +806,8 @@
       {
         "site": "netflix",
         "id": "80174917",
-        "begin": "2018-03-13T07:00:00.000Z"
+        "begin": "2018-03-13T07:00:00.000Z",
+        "broadcast": "R/2018-03-12T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -959,6 +979,13 @@
         "site": "youku",
         "id": "51efbfbd2cd58b1411ef",
         "begin": ""
+      },
+      {
+        "site": "mytv",
+        "id": "infinitforce0002_118404",
+        "begin": "2018-10-12T16:00:00.000Z",
+        "broadcast": "R/2018-10-12T16:00:00.000Z/P7D",
+        "comment": "粵日雙語"
       }
     ]
   },
@@ -1061,7 +1088,7 @@
       "zh-Hans": [
         "结城友奈是勇者 鹫尾须美之章&勇者之章",
         "结城友奈是勇者 第二季",
-        "结城友奈是勇者 鹫尾须美之章&amp;勇者之章"
+        "结城友奈是勇者 -鹫尾须美之章-/-勇者之章-"
       ]
     },
     "type": "tv",
@@ -1367,6 +1394,12 @@
         "id": "PLxSscENEp7JhUcNUJC6NNywV0J5bnQ9Ew",
         "begin": "2022-04-22T16:00:00.000Z",
         "broadcast": "R/2022-04-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80182054",
+        "begin": "2020-12-01T16:00:00.000Z",
+        "broadcast": "R/2020-12-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2044,6 +2077,12 @@
         "site": "nicovideo",
         "id": "fate-sn1",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81021838",
+        "begin": "2021-08-04T16:00:00.000Z",
+        "broadcast": "R/2021-08-04T16:00:00.000Z/P7D"
       }
     ]
   },

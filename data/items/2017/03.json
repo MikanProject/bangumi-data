@@ -277,6 +277,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版总集篇 OVERLORD 漆黑的英雄"
+      ],
+      "zh-Hant": [
+        "《OVERLORD 漆黑的英雄》劇場版總集篇 後編"
       ]
     },
     "type": "movie",
@@ -299,6 +302,44 @@
         "site": "bilibili",
         "id": "113152",
         "begin": "2017-03-10T16:00:00.000Z"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTlZBjf5O1KdHzvBkq6bWph",
+        "begin": "2022-10-17T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 黒子のバスケ LAST GAME",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑子的篮球·终极一战"
+      ],
+      "zh-Hant": [
+        "電影版影子籃球員：LAST GAME",
+        "幻影籃球王 ─ Last Game"
+      ],
+      "en": [
+        "Kuroko's Basketball: Last Game"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kurobas-lg.com/",
+    "begin": "2017-03-17T16:00:00.000Z",
+    "end": "2017-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147147"
+      },
+      {
+        "site": "netflix",
+        "id": "80991755",
+        "begin": "2022-09-14T16:00:00.000Z",
+        "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
       }
     ]
   }
