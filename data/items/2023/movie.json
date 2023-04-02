@@ -208,5 +208,131 @@
         "id": "334203"
       }
     ]
+  },
+  {
+    "title": "映画 ゆるキャン△",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 摇曳露营△"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-07-01T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2023-04-26T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262898"
+      }
+    ]
+  },
+  {
+    "title": "ぼくらのよあけ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我们的黎明"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-10-21T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2023-04-28T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "374947"
+      }
+    ]
+  },
+  {
+    "title": "蒼穹のファフナー BEHIND THE LINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍穹之法芙娜 BEHIND THE LINE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-01-20T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2023-05-17T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "363801"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 刀剑神域 进击篇 阴沉薄暮的诙谐曲"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-10-22T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2023-05-24T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "355004"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE FILM RED",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 FILM RED"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-08-06T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2023-06-14T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358803"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 关于我转生变成史莱姆这档事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-11-25T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2023-07-28T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350185"
+      }
+    ]
   }
 ]
