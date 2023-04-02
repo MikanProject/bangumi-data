@@ -1085,6 +1085,12 @@
         "id": "81333467",
         "begin": "2021-12-05T16:00:00.000Z",
         "broadcast": "R/2021-12-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtT-7Wqrklk75n-w5cxqCOfB",
+        "begin": "2023-01-23T16:00:00.000Z",
+        "broadcast": "R/2023-01-23T16:00:00.000Z/P1D"
       }
     ]
   },
@@ -1254,6 +1260,33 @@
         "id": "PLxSscENEp7Jj_vQ1YG75iGHsFxUbrEYfS",
         "begin": "2021-04-04T16:00:00.000Z",
         "broadcast": "R/2021-04-04T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙なんちゃら こてつくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙奇妙生物小铁君"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://space--academy.com/",
+    "begin": "2021-04-07T09:45:00.000Z",
+    "broadcast": "R/2021-04-07T09:45:00.000Z/P7D",
+    "end": "2023-02-23T09:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316893"
+      },
+      {
+        "site": "nicovideo",
+        "id": "space--academy",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1531,6 +1564,9 @@
       ],
       "zh-Hans": [
         "影宅"
+      ],
+      "zh-Hant": [
+        "影宅"
       ]
     },
     "type": "tv",
@@ -1562,6 +1598,12 @@
         "id": "114177",
         "begin": "2021-04-10T17:00:00.000Z",
         "broadcast": "R/2021-04-10T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "shadowshousesvod_137313",
+        "begin": "2022-12-31T16:00:00.000Z",
+        "broadcast": "R/2022-12-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2278,7 +2320,7 @@
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/youkai-watch2021/",
     "begin": "2021-04-09T16:00:00.000Z",
-    "end": "2021-04-09T16:00:00.000Z",
+    "end": "2023-03-31T09:55:00.000Z",
     "comment": "",
     "sites": [
       {

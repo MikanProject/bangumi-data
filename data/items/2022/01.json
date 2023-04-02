@@ -69,8 +69,8 @@
       {
         "site": "netflix",
         "id": "80179831",
-        "begin": "2021-03-29T16:00:00.000Z",
-        "broadcast": "R/2021-03-29T16:00:00.000Z/P7D"
+        "begin": "2021-11-30T16:00:00.000Z",
+        "broadcast": "R/2021-11-30T16:00:00.000Z/P0D"
       }
     ]
   },
@@ -1011,6 +1011,27 @@
     ]
   },
   {
+    "title": "お昼のショッカーさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "白天的修卡先生"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://twitter.com/Shocker_SAN1111",
+    "begin": "2022-01-20T17:34:00.000Z",
+    "broadcast": "R/2022-01-20T17:34:00.000Z/P7D",
+    "end": "2023-01-06T10:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "363809"
+      }
+    ]
+  },
+  {
     "title": "リーマンズクラブ",
     "titleTranslate": {
       "zh-Hans": [
@@ -1102,7 +1123,7 @@
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai10/",
     "begin": "2022-01-09T17:35:00.000Z",
-    "end": "2022-03-31T17:35:00.000Z",
+    "end": "2022-04-03T17:35:00.000Z",
     "sites": [
       {
         "site": "bangumi",

@@ -657,7 +657,7 @@
     "officialSite": "https://anime.shadowverse.jp/",
     "begin": "2022-04-02T01:00:00.000Z",
     "broadcast": "R/2022-04-02T01:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T01:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -877,7 +877,7 @@
     "officialSite": "https://www.bottleman.net/",
     "begin": "2022-04-03T00:30:00.000Z",
     "broadcast": "R/2022-04-03T00:30:00.000Z/P7D",
-    "end": "2022-06-25T17:00:00.000Z",
+    "end": "2023-03-26T00:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -907,7 +907,7 @@
     "officialSite": "https://insect-land.com/anime/",
     "begin": "2022-04-03T23:45:00.000Z",
     "broadcast": "R/2022-04-03T23:45:00.000Z/P7D",
-    "end": "2022-06-25T17:00:00.000Z",
+    "end": "2022-08-28T23:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1683,7 +1683,7 @@
     "officialSite": "https://mahjongsoul-pong.jp/",
     "begin": "2022-04-01T16:52:00.000Z",
     "broadcast": "R/2022-04-01T16:52:00.000Z/P7D",
-    "end": "2022-06-17T16:52:00.000Z",
+    "end": "2022-06-16T16:52:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1746,6 +1746,39 @@
         "id": "PLuxqoToY7UcjNkIQKVsmSuz4iGnM2TCME",
         "begin": "2022-04-11T16:00:00.000Z",
         "broadcast": "R/2022-04-11T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン ゼロの日常",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 零的日常"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：零的日常"
+      ],
+      "en": [
+        "Detective Conan: Zero’s Tea Time"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://zerotea-file.com/",
+    "begin": "2022-04-04T16:20:00.000Z",
+    "broadcast": "R/2022-04-04T16:20:00.000Z/P7D",
+    "end": "2022-05-09T16:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "351714"
+      },
+      {
+        "site": "netflix",
+        "id": "81313289",
+        "begin": "2022-07-28T16:00:00.000Z",
+        "broadcast": "R/2022-07-28T16:00:00.000Z/P7D"
       }
     ]
   }

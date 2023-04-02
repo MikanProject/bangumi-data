@@ -4,6 +4,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "妖幻三重奏"
+      ],
+      "zh-Hant": [
+        "妖幻三重奏"
+      ],
+      "en": [
+        "Ayakashi Triangle"
       ]
     },
     "type": "tv",
@@ -17,6 +23,18 @@
       {
         "site": "bangumi",
         "id": "363026"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480932",
+        "begin": "2023-01-09T17:30:00.000Z",
+        "broadcast": "R/2023-01-09T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "ayakashitriangle_137606",
+        "begin": "2023-01-09T17:30:00.000Z",
+        "broadcast": "R/2023-01-09T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -25,6 +43,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "不要欺负我，长瀞同学 二次攻击"
+      ],
+      "zh-Hant": [
+        "不要欺負我，長瀞同學 2nd Attack"
       ]
     },
     "type": "tv",
@@ -32,12 +53,18 @@
     "officialSite": "https://www.nagatorosan.jp/",
     "begin": "2023-01-07T16:00:00.000Z",
     "broadcast": "R/2023-01-07T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-18T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "354042"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhkr9k44Isa7FVdZ0UTZOL-",
+        "begin": "2023-01-07T17:00:00.000Z",
+        "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -53,7 +80,7 @@
     "officialSite": "https://danmachi.com/",
     "begin": "2023-01-05T14:00:00.000Z",
     "broadcast": "R/2023-01-05T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-16T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -74,12 +101,24 @@
     "officialSite": "https://tsunlise-pr.com/",
     "begin": "2023-01-06T17:25:00.000Z",
     "broadcast": "R/2023-01-06T17:25:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-24T17:25:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "363308"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28435384",
+        "begin": "2023-01-06T18:25:00.000Z",
+        "broadcast": "R/2023-01-06T18:25:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28386016",
+        "begin": "2023-01-06T18:25:00.000Z",
+        "broadcast": "R/2023-01-06T18:25:00.000Z/P7D"
       }
     ]
   },
@@ -98,7 +137,7 @@
     "officialSite": "https://sugushinu-anime.jp/",
     "begin": "2023-01-09T13:30:00.000Z",
     "broadcast": "R/2023-01-09T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-27T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -112,6 +151,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "虚构推理 Season2"
+      ],
+      "zh-Hant": [
+        "虛構推理 第二季"
       ]
     },
     "type": "tv",
@@ -119,29 +161,66 @@
     "officialSite": "https://kyokousuiri.jp/",
     "begin": "2023-01-08T16:05:00.000Z",
     "broadcast": "R/2023-01-08T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-26T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "320839"
+      },
+      {
+        "site": "bilibili",
+        "id": "28412512",
+        "begin": "2023-01-08T15:05:00.000Z",
+        "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480895",
+        "begin": "2023-01-08T15:05:00.000Z",
+        "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchP0fbTXVBUqG8VN75iSPic",
+        "begin": "2023-01-08T15:05:00.000Z",
+        "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "人間不信の冒険者たちが世界を救うようです",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "不相信人类的冒险者们好像要去拯救世界"
+      ],
+      "zh-Hant": [
+        "不相信人類的冒險者們好像要去拯救世界"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.ningenfushin-anime.jp/",
-    "begin": "2023-01-03T14:30:00.000Z",
-    "broadcast": "R/2023-01-03T14:30:00.000Z/P7D",
-    "end": "",
+    "begin": "2023-01-10T14:00:00.000Z",
+    "broadcast": "R/2023-01-10T14:00:00.000Z/P7D",
+    "end": "2023-03-21T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "346425"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480894",
+        "begin": "2023-01-03T14:35:00.000Z",
+        "broadcast": "R/2023-01-03T14:35:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgeciTOQUvn36Ij8nQ9AX35",
+        "begin": "2023-01-03T14:35:00.000Z",
+        "broadcast": "R/2023-01-03T14:35:00.000Z/P7D"
       }
     ]
   },
@@ -150,6 +229,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "转生王女与天才千金的魔法革命"
+      ],
+      "zh-Hant": [
+        "轉生公主與天才千金的魔法革命"
       ]
     },
     "type": "tv",
@@ -157,12 +239,24 @@
     "officialSite": "https://tenten-kakumei.com/",
     "begin": "2023-01-04T12:00:00.000Z",
     "broadcast": "R/2023-01-04T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-22T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "395714"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480896",
+        "begin": "2023-01-04T13:00:00.000Z",
+        "broadcast": "R/2023-01-04T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchdbDq6Djkv6t1hnwQTKjKh",
+        "begin": "2023-01-04T13:00:00.000Z",
+        "broadcast": "R/2023-01-04T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -171,6 +265,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "异世界悠闲农家"
+      ],
+      "zh-Hant": [
+        "異世界悠閒農家"
       ]
     },
     "type": "tv",
@@ -178,12 +275,18 @@
     "officialSite": "https://nonbiri-nouka.com/",
     "begin": "2023-01-06T12:00:00.000Z",
     "broadcast": "R/2023-01-06T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-24T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "376137"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgN5jP8bWebE17ySNuu1KoZ",
+        "begin": "2023-01-06T13:00:00.000Z",
+        "broadcast": "R/2023-01-06T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -202,7 +305,7 @@
     "officialSite": "https://tomo-chan.jp/",
     "begin": "2023-01-04T15:30:00.000Z",
     "broadcast": "R/2023-01-04T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-29T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -226,12 +329,18 @@
     "officialSite": "https://roukin8-anime.com/",
     "begin": "2023-01-07T17:00:00.000Z",
     "broadcast": "R/2023-01-07T17:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "393217"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28435387",
+        "begin": "2023-01-07T18:00:00.000Z",
+        "broadcast": "R/2023-01-07T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -240,6 +349,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "被解雇的暗黑士兵（30岁）慢生活的第二人生"
+      ],
+      "zh-Hant": [
+        "被解僱的暗黑士兵（30多歲）開始了慢生活的第二人生"
       ]
     },
     "type": "tv",
@@ -247,12 +359,23 @@
     "officialSite": "https://ankokuheishi-anime.com/",
     "begin": "2023-01-07T13:00:00.000Z",
     "broadcast": "R/2023-01-07T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "392349"
+      },
+      {
+        "site": "bilibili",
+        "id": "28344587",
+        "begin": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRdudNagvIMH6PoR8r4HtTF",
+        "begin": "2023-01-07T13:30:00.000Z",
+        "broadcast": "R/2023-01-07T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -268,12 +391,18 @@
     "officialSite": "https://www.tbs.co.jp/anime/hyouken/",
     "begin": "2023-01-05T16:58:00.000Z",
     "broadcast": "R/2023-01-05T16:58:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-23T16:58:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "379687"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480931",
+        "begin": "2023-01-05T17:58:00.000Z",
+        "broadcast": "R/2023-01-05T17:58:00.000Z/P7D"
       }
     ]
   },
@@ -292,7 +421,7 @@
     "officialSite": "https://anime.shochiku.co.jp/revenger/",
     "begin": "2023-01-05T12:00:00.000Z",
     "broadcast": "R/2023-01-05T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-23T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -309,6 +438,9 @@
       ],
       "zh-Hans": [
         "银砂糖师与黑色妖精"
+      ],
+      "zh-Hant": [
+        "銀砂糖師與黑妖精～sugar apple fairy tale～"
       ]
     },
     "type": "tv",
@@ -316,12 +448,23 @@
     "officialSite": "https://sugarapple-anime.com/",
     "begin": "2023-01-06T12:30:00.000Z",
     "broadcast": "R/2023-01-06T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-24T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "351373"
+      },
+      {
+        "site": "bilibili",
+        "id": "28412513",
+        "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciUkT_CJCnK2nAKkOvEMBuU",
+        "begin": "2023-01-06T12:35:00.000Z",
+        "broadcast": "R/2023-01-06T12:35:00.000Z/P7D"
       }
     ]
   },
@@ -337,12 +480,18 @@
     "officialSite": "http://tsurune.com/",
     "begin": "2023-01-04T15:00:00.000Z",
     "broadcast": "R/2023-01-04T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-29T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "396988"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480918",
+        "begin": "2023-01-04T16:00:00.000Z",
+        "broadcast": "R/2023-01-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -358,7 +507,7 @@
     "officialSite": "https://highcard-anime.jp/",
     "begin": "2023-01-09T11:00:00.000Z",
     "broadcast": "R/2023-01-09T11:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-27T11:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -375,6 +524,9 @@
       ],
       "zh-Hans": [
         "阿鲁斯的巨兽"
+      ],
+      "zh-Hant": [
+        "阿魯斯的巨獸"
       ]
     },
     "type": "tv",
@@ -382,12 +534,30 @@
     "officialSite": "https://ars-giant.com/",
     "begin": "2023-01-06T16:55:00.000Z",
     "broadcast": "R/2023-01-06T16:55:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-24T16:55:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "403020"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28408450",
+        "begin": "2023-01-06T16:25:00.000Z",
+        "broadcast": "R/2023-01-06T16:25:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339956",
+        "begin": "2023-01-06T17:30:00.000Z",
+        "broadcast": "R/2023-01-06T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgKW3992kASSUWm8jNcLbfV",
+        "begin": "2023-01-06T17:00:00.000Z",
+        "broadcast": "R/2023-01-06T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -417,6 +587,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "英雄王，为了穷尽武道而转生～然后，成为世界最强的见习骑士♀～"
+      ],
+      "zh-Hant": [
+        "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～"
       ]
     },
     "type": "tv",
@@ -424,12 +597,24 @@
     "officialSite": "https://auo-anime.com/",
     "begin": "2023-01-09T16:45:00.000Z",
     "broadcast": "R/2023-01-09T16:45:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-27T17:15:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "360345"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480898",
+        "begin": "2023-01-09T17:15:00.000Z",
+        "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcipGczVZernOCPtMvvqgC-k",
+        "begin": "2023-01-09T17:15:00.000Z",
+        "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
       }
     ]
   },
@@ -441,6 +626,9 @@
       ],
       "zh-Hans": [
         "变成狗后被喜欢的人捡了。"
+      ],
+      "zh-Hant": [
+        "無意間變成狗，被喜歡的女生撿回家。"
       ]
     },
     "type": "tv",
@@ -448,12 +636,30 @@
     "officialSite": "https://inuhiro-anime.com/",
     "begin": "2023-01-05T12:00:00.000Z",
     "broadcast": "R/2023-01-05T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-23T15:15:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "374319"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480921",
+        "begin": "2023-01-04T15:30:00.000Z",
+        "broadcast": "R/2023-01-04T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjlMMeX1l1fECfT6cPerSNN",
+        "begin": "2023-01-05T15:30:00.000Z",
+        "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRjfhGdfoMTibpBK7ib-Tae",
+        "begin": "2023-01-05T15:30:00.000Z",
+        "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -462,6 +668,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "别当欧尼酱了！"
+      ],
+      "zh-Hant": [
+        "不當哥哥了！"
+      ],
+      "en": [
+        "ONIMAI I’m Now Your Sister!"
       ]
     },
     "type": "tv",
@@ -469,12 +681,36 @@
     "officialSite": "https://onimai.jp/",
     "begin": "2023-01-05T14:30:00.000Z",
     "broadcast": "R/2023-01-05T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-23T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "378862"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480920",
+        "begin": "2023-01-05T15:30:00.000Z",
+        "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRnaCr7yBU3DeIUb37kmneE",
+        "begin": "2023-01-05T15:30:00.000Z",
+        "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JibnhDWLCxfNSDVMhqVpRv4",
+        "begin": "2023-01-05T15:30:00.000Z",
+        "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "onimaiimnowyoursister_137584",
+        "begin": "2023-01-05T15:30:00.000Z",
+        "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -483,6 +719,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "冰属性男子与酷酷女同事"
+      ],
+      "zh-Hant": [
+        "冰屬性男子與無表情女子"
       ]
     },
     "type": "tv",
@@ -490,12 +729,57 @@
     "officialSite": "https://icpc-anime.com/",
     "begin": "2023-01-03T13:30:00.000Z",
     "broadcast": "R/2023-01-03T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-21T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "388993"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480905",
+        "begin": "2023-01-04T14:30:00.000Z",
+        "broadcast": "R/2023-01-04T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSmsOyG-v49pZ3cLOzJoLJK",
+        "begin": "2023-01-04T14:30:00.000Z",
+        "broadcast": "R/2023-01-04T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28385999",
+        "begin": "2023-01-04T14:30:00.000Z",
+        "broadcast": "R/2023-01-04T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhhNTdnTNRWFCagncoZKf2t",
+        "begin": "2023-01-04T14:30:00.000Z",
+        "broadcast": "R/2023-01-04T14:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "最後の召喚師 -The Last Summoner-",
+    "titleTranslate": {
+      "en": [
+        "The Last Summoner"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://happinet-phantom.com/the_last_summoner/",
+    "begin": "2023-01-31T09:00:00.000Z",
+    "broadcast": "R/2023-01-31T09:00:00.000Z/P7D",
+    "end": "2023-03-31T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "268449"
       }
     ]
   },
@@ -504,6 +788,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔术士奥芬的无赖之旅 拉玛城篇"
+      ],
+      "zh-Hant": [
+        "魔術士歐菲 流浪之旅 阿邦拉馬篇"
+      ],
+      "en": [
+        "Sorcerous Stabber Orphen: CHAOS IN URBANRAMA"
       ]
     },
     "type": "tv",
@@ -511,12 +801,18 @@
     "officialSite": "https://ssorphen-anime.com/",
     "begin": "2023-01-18T11:30:00.000Z",
     "broadcast": "R/2023-01-18T11:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-29T11:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "401786"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjs3vaZXiG4W5AJCxg531eM",
+        "begin": "2023-01-18T12:30:00.000Z",
+        "broadcast": "R/2023-01-18T12:30:00.000Z/P7D"
       }
     ]
   },
@@ -525,6 +821,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "大雪海的凯纳"
+      ],
+      "zh-Hant": [
+        "大雪海的卡納"
+      ],
+      "en": [
+        "Kaina of the Great Snow Sea"
       ]
     },
     "type": "tv",
@@ -532,12 +834,24 @@
     "officialSite": "https://ooyukiumi.net/",
     "begin": "2023-01-11T16:05:00.000Z",
     "broadcast": "R/2023-01-11T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-22T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "366250"
+      },
+      {
+        "site": "bilibili",
+        "id": "28386015",
+        "begin": "2023-01-11T17:25:00.000Z",
+        "broadcast": "R/2023-01-11T17:25:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jg4qhWLS3o3fPIBNWGebpIh",
+        "begin": "2023-01-11T17:30:00.000Z",
+        "broadcast": "R/2023-01-11T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -553,12 +867,18 @@
     "officialSite": "https://tokyo-revengers-anime.com/",
     "begin": "2023-01-07T17:08:00.000Z",
     "broadcast": "R/2023-01-07T17:08:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T17:08:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "360783"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4HFbN55sAh0i",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -570,6 +890,9 @@
       ],
       "zh-Hans": [
         "久保同学不放过我"
+      ],
+      "zh-Hant": [
+        "久保同學不放過我"
       ]
     },
     "type": "tv",
@@ -583,6 +906,36 @@
       {
         "site": "bangumi",
         "id": "381793"
+      },
+      {
+        "site": "bilibili",
+        "id": "28340407",
+        "begin": "2023-01-10T15:30:00.000Z",
+        "broadcast": "R/2023-01-10T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28435374",
+        "begin": "2023-01-10T15:30:00.000Z",
+        "broadcast": "R/2023-01-10T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTMshJ7GymEZC9drChSxmlD",
+        "begin": "2023-01-10T15:30:00.000Z",
+        "broadcast": "R/2023-01-10T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiX27YReyiUaX4eiTdogphh",
+        "begin": "2023-01-10T15:30:00.000Z",
+        "broadcast": "R/2023-01-10T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "kubowontletmebeinvisible_137334",
+        "begin": "2023-01-11T17:30:00.000Z",
+        "broadcast": "R/2023-01-11T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -598,12 +951,18 @@
     "officialSite": "https://otonarino-tenshisama.jp/",
     "begin": "2023-01-07T13:30:00.000Z",
     "broadcast": "R/2023-01-07T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "364822"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480928",
+        "begin": "2023-01-07T15:00:00.000Z",
+        "broadcast": "R/2023-01-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -612,6 +971,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ Ⅱ"
+      ],
+      "zh-Hant": [
+        "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～第2季"
       ]
     },
     "type": "tv",
@@ -625,6 +987,18 @@
       {
         "site": "bangumi",
         "id": "330054"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "28480892",
+        "begin": "2023-01-07T17:00:00.000Z",
+        "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "469284",
+        "begin": "2023-01-07T16:00:00.000Z",
+        "broadcast": "R/2023-01-07T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -632,7 +1006,14 @@
     "title": "とんでもスキルで異世界放浪メシ",
     "titleTranslate": {
       "zh-Hans": [
+        "拥有超常技能的异世界流浪美食家",
         "网购技能开启异世界美食之旅"
+      ],
+      "zh-Hant": [
+        "擁有超常技能的異世界流浪美食家"
+      ],
+      "en": [
+        "Campfire Cooking in Another World with my Absurd Skill"
       ]
     },
     "type": "tv",
@@ -640,12 +1021,24 @@
     "officialSite": "https://tondemoskill-anime.com/",
     "begin": "2023-01-10T15:00:00.000Z",
     "broadcast": "R/2023-01-10T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "393238"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480899",
+        "begin": "2023-01-10T16:00:00.000Z",
+        "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "campfirecookinginanotherworldwithmyabsurdskill_137670",
+        "begin": "2023-01-10T16:00:00.000Z",
+        "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -664,7 +1057,7 @@
     "officialSite": "https://anime.cf-vanguard.com/vgd/",
     "begin": "2023-01-13T23:00:00.000Z",
     "broadcast": "R/2023-01-13T23:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T23:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -678,6 +1071,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "真・进化果实～不知不觉踏上胜利的人生～"
+      ],
+      "zh-Hant": [
+        "真・進化果實～不知不覺踏上勝利的人生～"
+      ],
+      "en": [
+        "The Fruit of Evolution 2 : Before I Knew It, My Life Had It Made"
       ]
     },
     "type": "tv",
@@ -685,12 +1084,30 @@
     "officialSite": "https://shinkanomi-anime.com/",
     "begin": "2023-01-13T16:23:00.000Z",
     "broadcast": "R/2023-01-13T16:23:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-31T16:53:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "376399"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28435373",
+        "begin": "2023-01-13T16:23:00.000Z",
+        "broadcast": "R/2023-01-13T16:23:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28340325",
+        "begin": "2023-01-13T16:23:00.000Z",
+        "broadcast": "R/2023-01-13T16:23:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiS5_iewJyAhFz7_L_f1Z6X",
+        "begin": "2023-01-13T17:30:00.000Z",
+        "broadcast": "R/2023-01-13T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -706,12 +1123,24 @@
     "officialSite": "https://sen-anime.jp/",
     "begin": "2023-01-08T14:30:00.000Z",
     "broadcast": "R/2023-01-08T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-26T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "330334"
+      },
+      {
+        "site": "bilibili",
+        "id": "28340408",
+        "begin": "2023-01-06T13:00:00.000Z",
+        "broadcast": "R/2023-01-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480922",
+        "begin": "2023-01-06T13:00:00.000Z",
+        "broadcast": "R/2023-01-06T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -727,7 +1156,7 @@
     "officialSite": "https://saitou-anime.com/",
     "begin": "2023-01-08T13:30:00.000Z",
     "broadcast": "R/2023-01-08T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-26T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -740,7 +1169,7 @@
     "title": "Buddy Daddies",
     "titleTranslate": {
       "zh-Hans": [
-        "爹地拍档"
+        "杀手奶爸"
       ]
     },
     "type": "tv",
@@ -748,7 +1177,7 @@
     "officialSite": "https://buddy-animeproject.com/",
     "begin": "2023-01-06T15:00:00.000Z",
     "broadcast": "R/2023-01-06T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-31T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -762,6 +1191,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "最强阴阳师的异世界转生记"
+      ],
+      "zh-Hant": [
+        "最強陰陽師的異世界轉生記"
       ]
     },
     "type": "tv",
@@ -769,12 +1201,24 @@
     "officialSite": "https://saikyo-onmyouji.asmik-ace.co.jp/",
     "begin": "2023-01-07T14:30:00.000Z",
     "broadcast": "R/2023-01-07T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "366507"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28408767",
+        "begin": "2023-01-07T17:00:00.000Z",
+        "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQWjJZpanxqPlaURMR-2MNj",
+        "begin": "2023-01-07T17:00:00.000Z",
+        "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -790,7 +1234,7 @@
     "officialSite": "https://showtime.af-original.com/",
     "begin": "2023-01-08T16:00:00.000Z",
     "broadcast": "R/2023-01-08T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-12T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -804,6 +1248,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "物物语"
+      ],
+      "zh-Hant": [
+        "物之古物奇譚"
       ]
     },
     "type": "tv",
@@ -811,12 +1258,30 @@
     "officialSite": "https://www.mononogatari-pr.com/",
     "begin": "2023-01-09T15:00:00.000Z",
     "broadcast": "R/2023-01-09T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-27T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "357210"
+      },
+      {
+        "site": "bilibili",
+        "id": "28386018",
+        "begin": "2023-01-09T16:30:00.000Z",
+        "broadcast": "R/2023-01-09T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480929",
+        "begin": "2023-01-09T17:00:00.000Z",
+        "broadcast": "R/2023-01-09T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgF3CnNSqIPe69TtIl3bduM",
+        "begin": "2023-01-09T17:30:00.000Z",
+        "broadcast": "R/2023-01-09T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -835,12 +1300,36 @@
     "officialSite": "https://trigun-anime.com/",
     "begin": "2023-01-07T14:15:00.000Z",
     "broadcast": "R/2023-01-07T14:15:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "388170"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480930",
+        "begin": "2023-01-07T15:30:00.000Z",
+        "broadcast": "R/2023-01-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgZya2bMfgi-2i95rSvUfjL",
+        "begin": "2023-01-07T15:30:00.000Z",
+        "broadcast": "R/2023-01-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRS88vOB2QTUCbsbYAdxF4e",
+        "begin": "2023-01-07T15:30:00.000Z",
+        "broadcast": "R/2023-01-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "trigunstampede_137600",
+        "begin": "2023-01-07T15:30:00.000Z",
+        "broadcast": "R/2023-01-07T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -852,6 +1341,9 @@
       ],
       "zh-Hans": [
         "再得一胜！"
+      ],
+      "zh-Hant": [
+        "再得一勝！"
       ]
     },
     "type": "tv",
@@ -859,12 +1351,18 @@
     "officialSite": "https://ipponagain.com/",
     "begin": "2023-01-08T16:35:00.000Z",
     "broadcast": "R/2023-01-08T16:35:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-26T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "341148"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjOblab-DpGLUAnTR7LDtL8",
+        "begin": "2023-01-08T16:35:00.000Z",
+        "broadcast": "R/2023-01-08T16:35:00.000Z/P7D"
       }
     ]
   },
@@ -880,7 +1378,7 @@
     "officialSite": "https://techno-roid.com/anime",
     "begin": "2023-01-04T15:00:00.000Z",
     "broadcast": "R/2023-01-04T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-29T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -894,6 +1392,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "间谍教室"
+      ],
+      "zh-Hant": [
+        "間諜教室"
       ]
     },
     "type": "tv",
@@ -901,12 +1402,24 @@
     "officialSite": "https://spyroom-anime.com/",
     "begin": "2023-01-05T13:30:00.000Z",
     "broadcast": "R/2023-01-05T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-30T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "374206"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480913",
+        "begin": "2023-01-05T14:30:00.000Z",
+        "broadcast": "R/2023-01-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgS35J4YubY4vU7Ar2CTKBL",
+        "begin": "2023-01-05T14:30:00.000Z",
+        "broadcast": "R/2023-01-05T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -918,6 +1431,9 @@
       ],
       "zh-Hans": [
         "虹四动画"
+      ],
+      "zh-Hant": [
+        "Love Live！虹咲學園學園偶像同好會 短篇動畫"
       ]
     },
     "type": "tv",
@@ -925,12 +1441,18 @@
     "officialSite": "https://www.lovelive-anime.jp/nijigasaki/niji4anime.php",
     "begin": "2023-01-06T12:54:00.000Z",
     "broadcast": "R/2023-01-06T12:54:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-24T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "401960"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uch3jLcECUp6hmiABnQxS-xZ",
+        "begin": "2023-01-06T13:05:00.000Z",
+        "broadcast": "R/2023-01-06T13:05:00.000Z/P7D"
       }
     ]
   },
@@ -939,6 +1461,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "被神捡到的男人2"
+      ],
+      "zh-Hant": [
+        "眾神眷顧的男人2"
+      ],
+      "en": [
+        "By the Grace of the Gods 2"
       ]
     },
     "type": "tv",
@@ -946,12 +1474,30 @@
     "officialSite": "https://kamihiro-anime.com/",
     "begin": "2023-01-08T12:30:00.000Z",
     "broadcast": "R/2023-01-08T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-26T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "338150"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480935",
+        "begin": "2023-01-08T13:30:00.000Z",
+        "broadcast": "R/2023-01-08T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgZhNUrkpwoksoSLEmTqB6U",
+        "begin": "2023-01-08T13:30:00.000Z",
+        "broadcast": "R/2023-01-08T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRnRBdrF6Gxg2fFQ4yrIIhL",
+        "begin": "2023-01-08T13:30:00.000Z",
+        "broadcast": "R/2023-01-08T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -967,7 +1513,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/pocketmonster/",
     "begin": "2023-01-13T09:55:00.000Z",
     "broadcast": "R/2023-01-13T09:55:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-24T10:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -981,6 +1527,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "因为太怕痛就全点防御力了。2"
+      ],
+      "zh-Hant": [
+        "怕痛的我，把防禦力點滿就對了 第二季"
       ]
     },
     "type": "tv",
@@ -988,12 +1537,30 @@
     "officialSite": "https://bofuri.jp/",
     "begin": "2023-01-11T14:30:00.000Z",
     "broadcast": "R/2023-01-11T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-29T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "302766"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "28480893",
+        "begin": "2023-01-11T15:30:00.000Z",
+        "broadcast": "R/2023-01-11T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28412511",
+        "begin": "2023-01-11T15:30:00.000Z",
+        "broadcast": "R/2023-01-11T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "469403",
+        "begin": "2023-01-10T16:00:00.000Z",
+        "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1005,7 +1572,7 @@
     "officialSite": "https://anime.d4dj-pj.com/all-mix/",
     "begin": "2023-01-13T14:00:00.000Z",
     "broadcast": "R/2023-01-13T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-31T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1019,6 +1586,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "偶像集结"
+      ],
+      "zh-Hant": [
+        "UniteUp!眾星齊聚"
       ]
     },
     "type": "tv",
@@ -1026,14 +1596,32 @@
     "officialSite": "https://uniteup.info/",
     "begin": "2023-01-07T14:30:00.000Z",
     "broadcast": "R/2023-01-07T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "402659"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcivySHE1BObWiNHRlvV07zP",
+        "begin": "2023-01-07T16:00:00.000Z",
+        "broadcast": "R/2023-01-07T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "セブンボイスミュージアム 名画と7人の巨匠たち",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://o-museum.or.jp/sevenvoice/",
+    "begin": "2023-01-08T15:00:00.000Z",
+    "broadcast": "R/2023-01-08T15:00:00.000Z/P7D",
+    "end": "2023-03-12T15:15:00.000Z",
+    "comment": "",
+    "sites": []
   },
   {
     "title": "ノケモノたちの夜",
@@ -1047,12 +1635,17 @@
     "officialSite": "https://nokemono-anime.com/",
     "begin": "2023-01-08T13:00:00.000Z",
     "broadcast": "R/2023-01-08T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-26T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "390239"
+      },
+      {
+        "site": "bilibili",
+        "id": "28391102",
+        "begin": ""
       }
     ]
   },
@@ -1077,6 +1670,12 @@
       {
         "site": "bangumi",
         "id": "395782"
+      },
+      {
+        "site": "netflix",
+        "id": "80179831",
+        "begin": "2022-11-30T16:00:00.000Z",
+        "broadcast": "R/2021-03-29T16:00:00.000Z/P0D"
       }
     ]
   },
@@ -1085,6 +1684,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "尼尔 自动人形"
+      ],
+      "zh-Hant": [
+        "尼爾：自動人形 Ver1.1a"
       ]
     },
     "type": "tv",
@@ -1098,6 +1700,93 @@
       {
         "site": "bangumi",
         "id": "368116"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480934",
+        "begin": "2023-01-07T16:30:00.000Z",
+        "broadcast": "R/2023-01-07T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "nierautomataver11a_137605",
+        "begin": "2023-01-07T16:30:00.000Z",
+        "broadcast": "R/2023-01-07T16:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "KJファイル(第2期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽档案 续篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/kjfile/",
+    "begin": "2023-01-08T17:35:00.000Z",
+    "broadcast": "R/2023-01-08T17:35:00.000Z/P7D",
+    "end": "2023-03-26T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "403671"
+      }
+    ]
+  },
+  {
+    "title": "齢5000年の草食ドラゴン、いわれなき邪竜認定",
+    "titleTranslate": {
+      "zh-Hans": [
+        "食草老龙被冠以恶龙之名"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://soushokudragon.jp/",
+    "begin": "2023-01-06T13:30:00.000Z",
+    "broadcast": "R/2023-01-06T13:30:00.000Z/P7D",
+    "end": "2023-03-17T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358724"
+      }
+    ]
+  },
+  {
+    "title": "伊藤潤二『マニアック』",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伊藤润二《狂热集》",
+        "伊藤润二狂热：日本恐怖故事"
+      ],
+      "zh-Hant": [
+        "伊藤潤二狂熱：日本恐怖故事"
+      ],
+      "en": [
+        "Junji Ito Maniac: Japanese Tales of the Macabre"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://ji-anime.com/",
+    "begin": "2023-01-18T16:00:00.000Z",
+    "end": "2023-01-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "384280"
+      },
+      {
+        "site": "netflix",
+        "id": "81295011",
+        "begin": "2023-01-18T16:00:00.000Z",
+        "broadcast": "R/2023-01-18T16:00:00.000Z/P0D"
       }
     ]
   }
