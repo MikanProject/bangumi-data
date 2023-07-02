@@ -237,22 +237,6 @@
     ]
   },
   {
-    "title": "スプリガン",
-    "titleTranslate": {
-      "en": [
-        "SPRIGGAN"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://spriggan-anime.jp/",
-    "begin": "2023-07-07T16:05:00.000Z",
-    "broadcast": "R/2023-07-07T16:05:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "Helck",
     "titleTranslate": {
       "zh-Hans": [
@@ -356,18 +340,6 @@
         "id": "376433"
       }
     ]
-  },
-  {
-    "title": "蒼穹のファフナー THE BEYOND（TV Edition）",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://fafner-beyond.jp/",
-    "begin": "2023-07-05T14:30:00.000Z",
-    "broadcast": "R/2023-07-05T14:30:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": []
   },
   {
     "title": "わたしの幸せな結婚",
@@ -530,7 +502,12 @@
     "broadcast": "R/2023-07-19T15:00:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "426815"
+      }
+    ]
   },
   {
     "title": "Lv1魔王とワンルーム勇者",
@@ -618,18 +595,6 @@
         "id": "425992"
       }
     ]
-  },
-  {
-    "title": "フェ～レンザイ -神さまの日常-",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://frz.jp/",
-    "begin": "2023-07-04T15:00:00.000Z",
-    "broadcast": "R/2023-07-04T15:00:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": []
   },
   {
     "title": "好きな子がめがねを忘れた",
