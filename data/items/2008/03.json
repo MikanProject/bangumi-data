@@ -33,7 +33,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "搞笑漫画日和3",
-        "搞笑漫画日和 第3季"
+        "搞笑漫画日和 第3季",
+        "增田幸助剧场 搞笑漫画日和3",
+        "搞笑漫画日和 第3期"
       ]
     },
     "type": "tv",
@@ -74,7 +76,8 @@
       {
         "site": "bilibili",
         "id": "1595",
-        "begin": "2008-03-16T16:00:00.000Z"
+        "begin": "2008-03-16T16:00:00.000Z",
+        "broadcast": "R/2015-01-20T07:13:00.000Z/P7D"
       }
     ]
   },
@@ -85,7 +88,8 @@
         "Chi's Sweet Home"
       ],
       "zh-Hans": [
-        "甜甜私房猫"
+        "甜甜私房猫",
+        "起司猫"
       ]
     },
     "type": "tv",
@@ -105,6 +109,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄与绿巨人传"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與綠之巨人傳"
       ]
     },
     "type": "movie",
@@ -140,7 +147,14 @@
       {
         "site": "bilibili",
         "id": "3875",
-        "begin": "2008-03-07T16:00:00.000Z"
+        "begin": "2008-03-07T16:00:00.000Z",
+        "broadcast": "R/2016-04-28T02:35:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "26522",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -238,7 +252,11 @@
   },
   {
     "title": "ToHeart2 ad",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "心之彼端2 Another Day"
+      ]
+    },
     "type": "ova",
     "lang": "ja",
     "officialSite": "http://aquaplus.jp/th2ad/product.html",
@@ -253,6 +271,12 @@
         "site": "nicovideo",
         "id": "th2ad",
         "begin": "2012-03-03T13:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "4050",
+        "begin": "2016-05-25T03:24:00.000Z",
+        "broadcast": "R/2016-05-25T03:24:00.000Z/P7D"
       }
     ]
   },
@@ -277,6 +301,12 @@
         "site": "pptv",
         "id": "9LQdmwNp2Rd6ibGA",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221038",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

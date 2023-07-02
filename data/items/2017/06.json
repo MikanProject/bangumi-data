@@ -37,6 +37,12 @@
         "id": "PLuxqoToY7UchBiL65g7zjlL85NA5SXC4z",
         "begin": "2021-04-02T16:00:00.000Z",
         "broadcast": "R/2021-04-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82759",
+        "begin": "2017-06-24T06:16:00.000Z",
+        "broadcast": "R/2017-06-24T06:16:00.000Z/P7D"
       }
     ]
   },
@@ -63,6 +69,12 @@
   {
     "title": "劇場版 魔法科高校の劣等生 星を呼ぶ少女",
     "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 魔法科高校的劣等生 呼唤星辰的少女"
+      ],
+      "zh-Hant": [
+        "魔法科高中的劣等生 呼喚繁星的少女"
+      ]
     },
     "type": "tv",
     "lang": "ja",
@@ -88,6 +100,12 @@
         "site": "youku",
         "id": "efbfbdefbfbdceb6efbf",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "82332",
+        "begin": "2020-04-01T04:40:00.000Z",
+        "broadcast": "R/2020-04-01T04:40:00.000Z/P7D"
       }
     ]
   },
@@ -116,7 +134,8 @@
       {
         "site": "bilibili",
         "id": "73092",
-        "begin": "2017-02-24T16:00:00.000Z"
+        "begin": "2017-02-24T16:00:00.000Z",
+        "broadcast": "R/2018-02-20T11:57:00.000Z/P7D"
       }
     ]
   },

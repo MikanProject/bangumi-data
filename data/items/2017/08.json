@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "终物语 下"
+      ],
+      "zh-Hant": [
+        "終物語 第二季"
       ]
     },
     "type": "tv",
@@ -19,12 +22,19 @@
       {
         "site": "bilibili",
         "id": "6345",
-        "begin": "2017-08-12T12:00:00.000Z"
+        "begin": "2017-08-12T12:00:00.000Z",
+        "broadcast": "R/2017-08-13T10:10:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "owarimonogatari2",
         "begin": "2018-10-31T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "88685",
+        "begin": "2017-08-18T13:16:00.000Z",
+        "broadcast": "R/2017-08-18T13:16:00.000Z/P7D"
       }
     ]
   },
@@ -112,7 +122,8 @@
       {
         "site": "bilibili",
         "id": "8232",
-        "begin": "2017-11-14T16:00:00.000Z"
+        "begin": "2017-11-14T16:00:00.000Z",
+        "broadcast": "R/2017-11-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -147,6 +158,7 @@
         "排球少年 特集！赌在春高上的青春"
       ],
       "zh-Hant": [
+        "排球少年！！特集！賭在春高排球上的青春",
         "排球少年!! OVA 3: 特集！賭在春高排球上的青春"
       ],
       "en": [
@@ -172,6 +184,12 @@
       {
         "site": "mytv",
         "id": "haikyuova3specialfeaturethespringtournamentoftheiryouth_127979",
+        "begin": "2020-07-18T12:00:00.000Z",
+        "broadcast": "R/2020-07-18T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "112277",
         "begin": "2020-07-18T12:00:00.000Z",
         "broadcast": "R/2020-07-18T12:00:00.000Z/P7D"
       }
@@ -201,7 +219,8 @@
       {
         "site": "bilibili",
         "id": "141252",
-        "begin": "2018-01-30T16:00:00.000Z"
+        "begin": "2018-01-30T16:00:00.000Z",
+        "broadcast": "R/2018-10-09T10:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -213,7 +232,7 @@
         "site": "ani_one",
         "id": "PLC18xlbCdwtQkQG0uR6Bh3-G37Y2JxT34",
         "begin": "2022-12-23T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-12-23T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -238,7 +257,8 @@
       {
         "site": "bilibili",
         "id": "125312",
-        "begin": "2017-08-24T16:00:00.000Z"
+        "begin": "2017-08-24T16:00:00.000Z",
+        "broadcast": "R/2018-08-15T04:36:00.000Z/P7D"
       }
     ]
   },
@@ -263,7 +283,8 @@
       {
         "site": "bilibili",
         "id": "127452",
-        "begin": "2017-08-03T16:00:00.000Z"
+        "begin": "2017-08-03T16:00:00.000Z",
+        "broadcast": "R/2018-08-22T07:43:00.000Z/P7D"
       }
     ]
   },

@@ -70,6 +70,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔神英雄传 永恒传说"
+      ],
+      "zh-Hant": [
+        "魔神英雄傳 永恆傳說"
       ]
     },
     "type": "ova",
@@ -90,12 +93,19 @@
       {
         "site": "bilibili",
         "id": "4001",
-        "begin": "1992-12-31T16:00:01.000Z"
+        "begin": "1992-12-31T16:00:01.000Z",
+        "broadcast": "R/2016-05-17T03:50:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "m/mlxe8zlsnmjzhxm",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "111100",
+        "begin": "2020-04-28T06:30:00.000Z",
+        "broadcast": "R/2020-04-28T06:30:00.000Z/P7D"
       }
     ]
   }

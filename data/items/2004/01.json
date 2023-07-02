@@ -3,7 +3,9 @@
     "title": "マリア様がみてる",
     "titleTranslate": {
       "zh-Hans": [
-        "圣母在上"
+        "圣母在上",
+        "圣母玛莉亚注视著",
+        "玛莉亚的凝望"
       ]
     },
     "type": "tv",
@@ -127,7 +129,8 @@
       {
         "site": "bilibili",
         "id": "1949",
-        "begin": "2004-01-07T16:00:00.000Z"
+        "begin": "2004-01-07T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -135,7 +138,8 @@
     "title": "BURN-UP SCRAMBLE",
     "titleTranslate": {
       "zh-Hans": [
-        "杀人科 SCRAMBLE"
+        "杀人科 SCRAMBLE",
+        "杀人科"
       ]
     },
     "type": "tv",
@@ -178,7 +182,8 @@
     "title": "MEZZO",
     "titleTranslate": {
       "zh-Hans": [
-        "危险代理人"
+        "危险代理人",
+        "危险代理行"
       ]
     },
     "type": "tv",
@@ -237,7 +242,8 @@
     "title": "モンキーターン",
     "titleTranslate": {
       "zh-Hans": [
-        "驰风！赛艇王"
+        "驰风！赛艇王",
+        "飞艇急转弯"
       ]
     },
     "type": "tv",
@@ -249,6 +255,12 @@
       {
         "site": "bangumi",
         "id": "39299"
+      },
+      {
+        "site": "bilibili",
+        "id": "8981283",
+        "begin": "2019-01-09T10:31:00.000Z",
+        "broadcast": "R/2019-01-09T10:31:00.000Z/P7D"
       }
     ]
   },
@@ -296,7 +308,8 @@
       {
         "site": "bilibili",
         "id": "1947",
-        "begin": "2004-01-06T16:00:00.000Z"
+        "begin": "2004-01-06T16:00:00.000Z",
+        "broadcast": "R/2011-10-24T12:41:00.000Z/P7D"
       }
     ]
   },
@@ -304,7 +317,9 @@
     "title": "超変身コス∞プレイヤー",
     "titleTranslate": {
       "zh-Hans": [
-        "超变身巫女祈斗士"
+        "超变身巫女祈斗士",
+        "超变身祈斗士",
+        "A15 变身3部作 第一期"
       ]
     },
     "type": "tv",
@@ -344,7 +359,8 @@
       {
         "site": "bilibili",
         "id": "1913",
-        "begin": "2004-01-05T16:00:00.000Z"
+        "begin": "2004-01-05T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -429,7 +445,8 @@
       {
         "site": "bilibili",
         "id": "1565",
-        "begin": "2003-12-31T16:00:00.000Z"
+        "begin": "2003-12-31T16:00:00.000Z",
+        "broadcast": "R/2015-02-27T22:00:00.000Z/P7D"
       }
     ]
   },
@@ -467,7 +484,8 @@
     "title": "かいけつゾロリ",
     "titleTranslate": {
       "zh-Hans": [
-        "怪侠佐罗利"
+        "怪侠佐罗利",
+        "怪侠佐罗利 第一季"
       ]
     },
     "type": "tv",
@@ -484,6 +502,12 @@
         "site": "iqiyi",
         "id": "a_19rrh64zjt",
         "begin": "2018-07-26T16:03:05.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "4313362",
+        "begin": "2018-11-29T09:23:03.000Z",
+        "broadcast": "R/2018-11-29T09:23:03.000Z/P7D"
       }
     ]
   },
@@ -513,6 +537,59 @@
         "site": "nicovideo",
         "id": "jing_seventh_heaven",
         "begin": "2018-05-16T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ヒカルの碁スペシャル 北斗杯への道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棋魂特别篇 迈向北斗杯之路"
+      ],
+      "zh-Hant": [
+        "棋靈王特別篇：邁向北斗盃之路"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-01-02T16:00:00.000Z",
+    "end": "2004-01-02T17:18:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36271"
+      },
+      {
+        "site": "gamer",
+        "id": "114151",
+        "begin": "2020-10-15T04:00:00.000Z",
+        "broadcast": "R/2020-10-15T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "DEAD LEAVES",
+    "titleTranslate": {
+      "zh-Hans": [
+        "落叶"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-01-15T16:00:00.000Z",
+    "end": "2004-01-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8461"
+      },
+      {
+        "site": "bilibili",
+        "id": "1927",
+        "begin": "2012-11-04T00:56:00.000Z",
+        "broadcast": "R/2012-11-04T00:56:00.000Z/P7D"
       }
     ]
   }

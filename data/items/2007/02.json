@@ -27,7 +27,8 @@
       {
         "site": "bilibili",
         "id": "3287",
-        "begin": "2016-01-14T11:30:00.000Z"
+        "begin": "2016-01-14T11:30:00.000Z",
+        "broadcast": "R/2016-01-14T11:32:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -98,7 +99,10 @@
     "title": "一騎当千 Dragon Destiny",
     "titleTranslate": {
       "zh-Hans": [
-        "一骑当千 Dragon Destiny"
+        "一骑当千 Dragon Destiny",
+        "一骑当千DD",
+        "一骑当千 龙之命运",
+        "一骑当千 第二部"
       ]
     },
     "type": "tv",
@@ -117,7 +121,8 @@
     "title": "Yes! プリキュア5",
     "titleTranslate": {
       "zh-Hans": [
-        "Yes! 光之美少女5"
+        "Yes! 光之美少女5",
+        "战队Q娃"
       ]
     },
     "type": "tv",
@@ -144,7 +149,8 @@
         "ROCKET GIRLS"
       ],
       "zh-Hans": [
-        "火箭少女"
+        "火箭少女",
+        "火箭女孩"
       ]
     },
     "type": "tv",
@@ -161,7 +167,11 @@
   },
   {
     "title": "ToHeart2 OVA",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "心之彼端2 OVA"
+      ]
+    },
     "type": "ova",
     "lang": "ja",
     "officialSite": "http://aquaplus.jp/th2v/product.html",
@@ -181,6 +191,12 @@
         "site": "pptv",
         "id": "iaMKibPKQKergbmQE",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2889",
+        "begin": "2015-10-23T04:08:00.000Z",
+        "broadcast": "R/2015-10-23T04:08:00.000Z/P7D"
       }
     ]
   },
@@ -257,7 +273,8 @@
       {
         "site": "bilibili",
         "id": "89132",
-        "begin": "2007-02-22T16:00:01.000Z"
+        "begin": "2007-02-22T16:00:01.000Z",
+        "broadcast": "R/2018-05-01T08:43:00.000Z/P7D"
       }
     ]
   }

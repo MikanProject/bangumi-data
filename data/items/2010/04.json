@@ -5,6 +5,9 @@
       "zh-Hans": [
         "棒球大联盟 第六季",
         "棒球大联盟 第6季"
+      ],
+      "zh-Hant": [
+        "棒球大聯盟 第六季"
       ]
     },
     "type": "tv",
@@ -26,6 +29,12 @@
       {
         "site": "bangumi",
         "id": "4293"
+      },
+      {
+        "site": "gamer",
+        "id": "33592",
+        "begin": "2021-08-30T08:00:00.000Z",
+        "broadcast": "R/2021-08-30T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -33,7 +42,9 @@
     "title": "四畳半神話大系",
     "titleTranslate": {
       "zh-Hans": [
-        "四叠半神话大系"
+        "四叠半神话大系",
+        "四疊半神話大系",
+        "四疊半宿舍，青春迷走"
       ],
       "zh-Hant": [
         "四疊半神話大系"
@@ -57,7 +68,8 @@
       {
         "site": "bilibili",
         "id": "3258",
-        "begin": "2010-04-21T16:00:01.000Z"
+        "begin": "2010-04-21T16:00:01.000Z",
+        "broadcast": "R/2016-01-05T03:45:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -74,7 +86,9 @@
         "K-ON!!"
       ],
       "zh-Hans": [
-        "轻音少女 第二季"
+        "轻音少女 第二季",
+        "轻音!!",
+        "轻音 第2季"
       ]
     },
     "type": "tv",
@@ -91,6 +105,12 @@
         "site": "nicovideo",
         "id": "k-on_anime2",
         "begin": "2018-12-27T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220984",
+        "begin": "2019-05-13T10:00:00.000Z",
+        "broadcast": "R/2019-05-13T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -122,7 +142,11 @@
     "title": "WORKING!!",
     "titleTranslate": {
       "zh-Hans": [
-        "迷糊餐厅"
+        "迷糊餐厅",
+        "WORKING!!无聊西餐厅"
+      ],
+      "zh-Hant": [
+        "WORKING!!迷糊餐廳"
       ]
     },
     "type": "tv",
@@ -143,12 +167,19 @@
       {
         "site": "bilibili",
         "id": "866",
-        "begin": "2010-04-04T14:00:00.000Z"
+        "begin": "2010-04-04T14:00:00.000Z",
+        "broadcast": "R/2017-11-14T23:02:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "f448df9c61ad11e0bea1",
         "begin": "2011-09-14T17:06:07.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "30413",
+        "begin": "2020-12-01T02:50:00.000Z",
+        "broadcast": "R/2020-12-01T02:50:00.000Z/P7D"
       }
     ]
   },
@@ -196,7 +227,8 @@
       {
         "site": "bilibili",
         "id": "3248",
-        "begin": "2010-04-14T16:00:01.000Z"
+        "begin": "2010-04-14T16:00:01.000Z",
+        "broadcast": "R/2015-12-30T05:54:41.000Z/P7D"
       },
       {
         "site": "letv",
@@ -233,7 +265,9 @@
     "title": "迷い猫オーバーラン！",
     "titleTranslate": {
       "zh-Hans": [
-        "迷途猫OVER RUN"
+        "迷途猫OVER RUN",
+        "迷途猫",
+        "娇蛮猫娘大横行"
       ]
     },
     "type": "tv",
@@ -273,7 +307,8 @@
       {
         "site": "bilibili",
         "id": "969",
-        "begin": "2010-04-01T16:00:00.000Z"
+        "begin": "2010-04-01T16:00:00.000Z",
+        "broadcast": "R/2018-09-06T10:25:00.000Z/P7D"
       }
     ]
   },
@@ -281,7 +316,8 @@
     "title": "おおきく振りかぶって～夏の大会編～",
     "titleTranslate": {
       "zh-Hans": [
-        "王牌投手 振臂高挥～夏日大会篇～"
+        "王牌投手 振臂高挥～夏日大会篇～",
+        "王牌投手 振臂高挥 第2季"
       ]
     },
     "type": "tv",
@@ -307,7 +343,8 @@
       {
         "site": "bilibili",
         "id": "1016",
-        "begin": "2010-03-31T16:00:00.000Z"
+        "begin": "2010-03-31T16:00:00.000Z",
+        "broadcast": "R/2018-09-07T09:36:00.000Z/P7D"
       }
     ]
   },
@@ -336,7 +373,8 @@
       {
         "site": "bilibili",
         "id": "1020",
-        "begin": "2010-04-03T16:00:00.000Z"
+        "begin": "2010-04-03T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "letv",
@@ -369,10 +407,15 @@
     "titleTranslate": {
       "zh-Hans": [
         "Angel Beats!",
-        "天使的心跳"
+        "天使的心跳",
+        "天使的心跳！",
+        "天使的脉动"
       ],
       "en": [
         "Angel Beats!"
+      ],
+      "zh-Hant": [
+        "Angel Beats！"
       ]
     },
     "type": "tv",
@@ -389,7 +432,8 @@
       {
         "site": "bilibili",
         "id": "959",
-        "begin": ""
+        "begin": "2011-01-20T16:41:00.000Z",
+        "broadcast": "R/2011-01-20T16:41:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -404,6 +448,12 @@
         "site": "youku",
         "id": "fac023bc61ad11e0bea1",
         "begin": "2013-03-13T08:01:34.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "28217",
+        "begin": "2020-12-31T16:00:00.000Z",
+        "broadcast": "R/2020-12-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -412,6 +462,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "薄樱鬼"
+      ],
+      "zh-Hant": [
+        "薄櫻鬼"
       ]
     },
     "type": "tv",
@@ -447,12 +500,19 @@
       {
         "site": "bilibili",
         "id": "761",
-        "begin": "2010-04-02T16:00:00.000Z"
+        "begin": "2010-04-02T16:00:00.000Z",
+        "broadcast": "R/2010-04-04T08:43:35.000Z/P7D"
       },
       {
         "site": "letv",
         "id": "19457",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "30204",
+        "begin": "2022-06-03T01:00:00.000Z",
+        "broadcast": "R/2022-06-03T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -460,7 +520,10 @@
     "title": "荒川アンダー ザ ブリッジ",
     "titleTranslate": {
       "zh-Hans": [
-        "荒川爆笑团"
+        "荒川爆笑团",
+        "荒川桥下",
+        "荒川UB",
+        "荒川Under the Bridge"
       ]
     },
     "type": "tv",
@@ -491,7 +554,8 @@
       {
         "site": "bilibili",
         "id": "978",
-        "begin": "2010-04-03T16:00:00.000Z"
+        "begin": "2010-04-03T16:00:00.000Z",
+        "broadcast": "R/2010-04-05T08:35:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -528,7 +592,8 @@
     "title": "ジュエルペット てぃんくる☆",
     "titleTranslate": {
       "zh-Hans": [
-        "宝石宠物 Tinkle☆"
+        "宝石宠物 Tinkle☆",
+        "宝石宠物 Twinkle☆"
       ]
     },
     "type": "tv",
@@ -554,7 +619,8 @@
       {
         "site": "bilibili",
         "id": "123",
-        "begin": "2010-04-02T16:00:00.000Z"
+        "begin": "2010-04-02T16:00:00.000Z",
+        "broadcast": "R/2011-02-25T12:59:00.000Z/P7D"
       }
     ]
   },
@@ -562,7 +628,8 @@
     "title": "裏切りは僕の名前を知っている",
     "titleTranslate": {
       "zh-Hans": [
-        "无法逃离的背叛"
+        "无法逃离的背叛",
+        "背叛知道我的名字"
       ]
     },
     "type": "tv",
@@ -593,7 +660,8 @@
       {
         "site": "bilibili",
         "id": "1021",
-        "begin": "2010-04-10T16:00:00.000Z"
+        "begin": "2010-04-10T16:00:00.000Z",
+        "broadcast": "R/2012-11-13T07:49:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -633,7 +701,9 @@
       {
         "site": "bilibili",
         "id": "1026",
-        "begin": "2010-03-31T16:00:00.000Z"
+        "begin": "2010-03-31T16:00:00.000Z",
+        "broadcast": "R/2012-06-09T02:11:00.000Z/P7D",
+        "comment": "短篇: 5766, 中配版: 28228873"
       },
       {
         "site": "qq",
@@ -706,7 +776,9 @@
         "Metalfight Beyblade baku"
       ],
       "zh-Hans": [
-        "战斗陀螺 金属对决 爆"
+        "战斗陀螺 金属对决 爆",
+        "爆旋陀螺 鋼鐵戰魂 爆",
+        "戰鬥陀螺 鋼鐵奇兵 爆"
       ]
     },
     "type": "tv",
@@ -725,7 +797,9 @@
     "title": "RAINBOW-二舎六房の七人-",
     "titleTranslate": {
       "zh-Hans": [
-        "少年犯之七人"
+        "少年犯之七人",
+        "RAINBOW 少年犯之七人",
+        "RAINBOW 二舍六房的七人"
       ]
     },
     "type": "tv",
@@ -750,7 +824,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "SD高达三国传",
-        "SD敢达三国传"
+        "SD敢达三国传",
+        "SD高达三国传 Brave Battle Warriors"
       ]
     },
     "type": "tv",
@@ -772,6 +847,12 @@
       {
         "site": "bangumi",
         "id": "4294"
+      },
+      {
+        "site": "bilibili",
+        "id": "4680",
+        "begin": "2017-04-01T03:41:29.000Z",
+        "broadcast": "R/2017-04-01T03:41:29.000Z/P7D"
       }
     ]
   },
@@ -804,7 +885,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔术快斗",
-        "怪盗基德"
+        "怪盗基德",
+        "名侦探柯南 怪盗基德特别篇"
       ]
     },
     "type": "tv",
@@ -835,7 +917,9 @@
       {
         "site": "bilibili",
         "id": "28228780",
-        "begin": "2020-04-29T16:00:00.000Z"
+        "begin": "2020-04-29T16:00:00.000Z",
+        "broadcast": "R/2020-04-30T11:01:00.000Z/P7D",
+        "comment": "中配: 28228792"
       }
     ]
   },
@@ -864,7 +948,8 @@
       {
         "site": "bilibili",
         "id": "3980",
-        "begin": "2010-04-01T16:00:01.000Z"
+        "begin": "2010-04-01T16:00:01.000Z",
+        "broadcast": "R/2016-05-11T03:35:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -932,7 +1017,8 @@
       {
         "site": "bilibili",
         "id": "14512",
-        "begin": "2010-04-16T16:00:01.000Z"
+        "begin": "2010-04-16T16:00:01.000Z",
+        "broadcast": "R/2017-12-13T16:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -981,7 +1067,8 @@
       {
         "site": "bilibili",
         "id": "28228956",
-        "begin": "2020-05-21T16:00:00.000Z"
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -1010,7 +1097,85 @@
       {
         "site": "bilibili",
         "id": "3391",
-        "begin": "2010-04-22T16:00:01.000Z"
+        "begin": "2010-04-22T16:00:01.000Z",
+        "broadcast": "R/2016-03-08T05:46:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "スーパーストリートファイターIV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级街头霸王4",
+        "超级街霸4 OVA 朱莉传"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-04-23T16:00:00.000Z",
+    "end": "2010-04-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72906"
+      },
+      {
+        "site": "bilibili",
+        "id": "4653",
+        "begin": "2016-06-12T03:41:00.000Z",
+        "broadcast": "R/2016-06-12T03:41:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "TRIGUN Badlands Rumble",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枪神 Badlands Rumble",
+        "枪神剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.trigun-movie.com",
+    "begin": "2010-04-23T16:00:00.000Z",
+    "end": "2010-04-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10782"
+      },
+      {
+        "site": "bilibili",
+        "id": "4686",
+        "begin": "2016-10-08T02:37:00.000Z",
+        "broadcast": "R/2016-10-08T02:37:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "GA 芸術科アートデザインクラス OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GA 艺术科美术设计班 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://mv.avex.jp/ga/",
+    "begin": "2010-04-01T16:00:00.000Z",
+    "end": "2010-04-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4473"
+      },
+      {
+        "site": "bilibili",
+        "id": "3005",
+        "begin": "2015-11-14T12:12:00.000Z",
+        "broadcast": "R/2015-11-14T12:12:00.000Z/P7D"
       }
     ]
   }

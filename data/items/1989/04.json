@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "2392",
-        "begin": "1989-04-05T16:00:00.000Z"
+        "begin": "1989-04-05T16:00:00.000Z",
+        "broadcast": "R/2011-01-31T14:49:18.000Z/P7D"
       }
     ]
   },
@@ -137,6 +138,12 @@
         "site": "nicovideo",
         "id": "lupin-3rd-SP",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234179",
+        "begin": "2021-03-31T15:31:00.000Z",
+        "broadcast": "R/2021-03-31T15:31:00.000Z/P7D"
       }
     ]
   },
@@ -172,13 +179,20 @@
       {
         "site": "bilibili",
         "id": "2397",
-        "begin": "1989-04-06T16:00:00.000Z"
+        "begin": "1989-04-06T16:00:00.000Z",
+        "broadcast": "R/2011-08-30T22:36:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjuFGSZR8N3SEYTVStToEcF",
         "begin": "2021-07-26T16:00:00.000Z",
         "broadcast": "R/2021-07-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "18168",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -241,6 +255,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "迷宫物语"
+      ],
+      "zh-Hant": [
+        "迷宮物語"
       ]
     },
     "type": "movie",
@@ -258,6 +275,44 @@
         "site": "qq",
         "id": "m/mbuw337kxv7obcr",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "114708",
+        "begin": "2020-11-26T04:00:00.000Z",
+        "broadcast": "R/2020-11-26T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "4308742",
+        "begin": "1989-04-14T16:00:00.000Z",
+        "broadcast": "R/1989-04-14T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "妖魔",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖魔"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-04-14T16:00:00.000Z",
+    "end": "1989-04-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73023"
+      },
+      {
+        "site": "bilibili",
+        "id": "2946",
+        "begin": "2015-11-03T12:01:10.000Z",
+        "broadcast": "R/2015-11-03T12:01:10.000Z/P7D"
       }
     ]
   }

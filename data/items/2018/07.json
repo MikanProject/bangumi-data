@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "102292",
-        "begin": "2018-07-01T13:00:00.000Z"
+        "begin": "2018-07-01T13:00:00.000Z",
+        "broadcast": "R/2018-07-01T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -32,10 +33,12 @@
     "title": "はねバド！",
     "titleTranslate": {
       "zh-Hans": [
-        "轻羽飞扬"
+        "轻羽飞扬",
+        "羽球战争"
       ],
       "zh-Hant": [
-        "輕羽飛揚!"
+        "輕羽飛揚!",
+        "羽球戰爭！"
       ],
       "en": [
         "HANEBADO!"
@@ -54,7 +57,8 @@
       {
         "site": "bilibili",
         "id": "102412",
-        "begin": "2018-07-01T16:00:00.000Z"
+        "begin": "2018-07-01T16:00:00.000Z",
+        "broadcast": "R/2018-07-01T16:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -92,6 +96,12 @@
         "id": "hanebad_117503",
         "begin": "2018-07-01T16:00:00.000Z",
         "broadcast": "R/2018-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "93827",
+        "begin": "2019-02-21T12:30:00.000Z",
+        "broadcast": "R/2019-02-21T12:30:00.000Z/P7D"
       }
     ]
   },
@@ -101,6 +111,9 @@
       "zh-Hans": [
         "千铳士",
         "千枪士"
+      ],
+      "zh-Hant": [
+        "千槍士"
       ]
     },
     "type": "tv",
@@ -116,12 +129,19 @@
       {
         "site": "bilibili",
         "id": "102832",
-        "begin": "2018-07-03T15:00:00.000Z"
+        "begin": "2018-07-03T15:00:00.000Z",
+        "broadcast": "R/2018-07-03T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "senjyushi",
         "begin": "2018-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "113172",
+        "begin": "2018-07-03T15:00:00.000Z",
+        "broadcast": "R/2018-07-03T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -148,7 +168,8 @@
       {
         "site": "bilibili",
         "id": "102512",
-        "begin": "2018-07-03T16:30:00.000Z"
+        "begin": "2018-07-03T16:30:00.000Z",
+        "broadcast": "R/2018-07-03T16:30:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -185,7 +206,8 @@
       {
         "site": "bilibili",
         "id": "102752",
-        "begin": "2018-07-05T14:00:00.000Z"
+        "begin": "2018-07-05T14:00:00.000Z",
+        "broadcast": "R/2018-07-05T14:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -223,6 +245,12 @@
         "id": "PLxSscENEp7JhBK5yhltkjm1Y2Ha5KwcQs",
         "begin": "2022-02-09T16:00:00.000Z",
         "broadcast": "R/2022-02-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95582",
+        "begin": "2019-03-15T09:00:00.000Z",
+        "broadcast": "R/2019-03-15T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -247,7 +275,8 @@
       {
         "site": "bilibili",
         "id": "102552",
-        "begin": "2018-07-06T13:00:00.000Z"
+        "begin": "2018-07-06T13:00:00.000Z",
+        "broadcast": "R/2018-07-06T13:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -286,6 +315,9 @@
       ],
       "en": [
         "Cells at Work!"
+      ],
+      "zh-Hant": [
+        "工作細胞"
       ]
     },
     "type": "tv",
@@ -301,12 +333,20 @@
       {
         "site": "bilibili",
         "id": "102392",
-        "begin": "2018-07-07T16:30:00.000Z"
+        "begin": "2018-07-07T16:30:00.000Z",
+        "broadcast": "R/2018-07-07T16:30:00.000Z/P7D",
+        "comment": "中配版: 28233568"
       },
       {
         "site": "nicovideo",
         "id": "hataraku-saibou",
         "begin": "2018-07-09T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "93488",
+        "begin": "2018-07-07T16:30:00.000Z",
+        "broadcast": "R/2018-07-07T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -355,6 +395,12 @@
         "id": "81264508",
         "begin": "2022-02-27T16:00:00.000Z",
         "broadcast": "R/2022-02-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "93688",
+        "begin": "2018-07-08T13:30:00.000Z",
+        "broadcast": "R/2018-07-08T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -378,7 +424,9 @@
       {
         "site": "bilibili",
         "id": "103012",
-        "begin": "2018-07-03T14:00:00.000Z"
+        "begin": "2018-07-03T14:00:00.000Z",
+        "broadcast": "",
+        "comment": "WEB版: 113212"
       },
       {
         "site": "nicovideo",
@@ -396,6 +444,9 @@
       "zh-Hans": [
         "向山进发 第三季",
         "前进吧！登山少女 第三季"
+      ],
+      "zh-Hant": [
+        "前進吧！登山少女 第三季"
       ]
     },
     "type": "tv",
@@ -411,7 +462,8 @@
       {
         "site": "bilibili",
         "id": "102152",
-        "begin": "2018-07-02T18:55:00.000Z"
+        "begin": "2018-07-02T18:55:00.000Z",
+        "broadcast": "R/2018-07-02T18:55:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -422,6 +474,12 @@
         "site": "pptv",
         "id": "friaVE3vhUYicycNg",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "89239",
+        "begin": "2018-07-02T18:55:00.000Z",
+        "broadcast": "R/2018-07-02T18:55:00.000Z/P7D"
       }
     ]
   },
@@ -458,7 +516,8 @@
     "title": "ハッピーシュガーライフ",
     "titleTranslate": {
       "zh-Hans": [
-        "Happy Sugar Life"
+        "Happy Sugar Life",
+        "Happy Sugar Life ～幸福甜蜜生活～"
       ],
       "en": [
         "Happy Sugar Life"
@@ -501,7 +560,8 @@
       {
         "site": "bilibili",
         "id": "102312",
-        "begin": "2018-07-13T17:25:00.000Z"
+        "begin": "2018-07-13T17:25:00.000Z",
+        "broadcast": "R/2018-07-13T17:45:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -551,6 +611,9 @@
       ],
       "en": [
         "Revue Starlight"
+      ],
+      "zh-Hant": [
+        "少女☆歌劇 Revue Starlight"
       ]
     },
     "type": "tv",
@@ -566,12 +629,19 @@
       {
         "site": "bilibili",
         "id": "102892",
-        "begin": "2018-07-13T06:30:00.000Z"
+        "begin": "2018-07-13T06:30:00.000Z",
+        "broadcast": "R/2018-07-13T06:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "revuestarlight",
         "begin": "2018-07-12T21:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "23770586",
+        "begin": "2018-07-13T06:30:00.000Z",
+        "broadcast": "R/2018-07-13T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -580,6 +650,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "京都寺町三条商店街的福尔摩斯"
+      ],
+      "zh-Hant": [
+        "京都寺町三條商店街的福爾摩斯"
       ]
     },
     "type": "tv",
@@ -601,6 +674,12 @@
         "site": "nicovideo",
         "id": "kyototeramachi-holmes",
         "begin": "2018-07-10T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "94989",
+        "begin": "2018-07-08T18:35:00.000Z",
+        "broadcast": "R/2018-07-08T18:35:00.000Z/P7D"
       }
     ]
   },
@@ -666,6 +745,9 @@
       "zh-Hans": [
         "LORD of VERMILION 红莲之王",
         "红莲之王"
+      ],
+      "zh-Hant": [
+        "紅蓮之王"
       ]
     },
     "type": "tv",
@@ -681,7 +763,8 @@
       {
         "site": "bilibili",
         "id": "102852",
-        "begin": "2018-07-13T17:35:00.000Z"
+        "begin": "2018-07-13T17:35:00.000Z",
+        "broadcast": "R/2018-07-13T17:35:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -702,6 +785,12 @@
         "site": "youku",
         "id": "ecc51c99e1be4a579ba4",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "95727",
+        "begin": "2018-07-13T17:35:00.000Z",
+        "broadcast": "R/2018-07-13T17:35:00.000Z/P7D"
       }
     ]
   },
@@ -709,7 +798,10 @@
     "title": "邪神ちゃんドロップキック",
     "titleTranslate": {
       "zh-Hans": [
-        "邪神与厨二病少女"
+        "邪神与厨二病少女",
+        "邪神与中二病少女",
+        "小邪神飞踢",
+        "邪神酱飞踢"
       ],
       "en": [
         "Dropkick on My Devil!!"
@@ -728,7 +820,8 @@
       {
         "site": "bilibili",
         "id": "102112",
-        "begin": "2018-07-09T15:00:00.000Z"
+        "begin": "2018-07-09T15:00:00.000Z",
+        "broadcast": "R/2018-07-09T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -741,10 +834,12 @@
     "title": "アンゴルモア元寇合戦記",
     "titleTranslate": {
       "zh-Hans": [
-        "Angolmois 元寇合战记"
+        "Angolmois 元寇合战记",
+        "抗元奇侠"
       ],
       "zh-Hant": [
-        "元寇合戰記"
+        "元寇合戰記",
+        "Angolmois 元寇合戰記"
       ]
     },
     "type": "tv",
@@ -758,9 +853,10 @@
         "id": "218572"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_hk_mo_tw",
         "id": "102692",
-        "begin": "2018-07-10T17:30:00.000Z"
+        "begin": "2018-07-10T17:30:00.000Z",
+        "broadcast": "R/2018-07-10T17:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -777,6 +873,12 @@
         "id": "PLxSscENEp7Jh4PnnM6ue8PV5OwsDIynhs",
         "begin": "2020-03-29T16:00:00.000Z",
         "broadcast": "R/2020-03-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95889",
+        "begin": "2019-07-18T09:00:00.000Z",
+        "broadcast": "R/2019-07-18T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -806,7 +908,8 @@
       {
         "site": "bilibili",
         "id": "102812",
-        "begin": "2018-07-05T13:30:00.000Z"
+        "begin": "2018-07-05T13:30:00.000Z",
+        "broadcast": "R/2018-07-05T13:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -824,6 +927,12 @@
         "id": "100sleepingprincesthekingdomofdreams_117505",
         "begin": "2018-07-05T15:00:00.000Z",
         "broadcast": "R/2018-07-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "96318",
+        "begin": "2021-03-03T01:00:00.000Z",
+        "broadcast": "R/2021-03-03T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -849,7 +958,8 @@
       {
         "site": "bilibili",
         "id": "102792",
-        "begin": "2018-07-06T13:00:00.000Z"
+        "begin": "2018-07-06T13:00:00.000Z",
+        "broadcast": "R/2018-07-06T13:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -873,10 +983,14 @@
     "titleTranslate": {
       "zh-Hans": [
         "汤摇庄的幽奈同学",
-        "摇曳庄的幽奈小姐"
+        "摇曳庄的幽奈小姐",
+        "搖曳莊的幽奈小姐"
       ],
       "en": [
         "Yuuna and the Haunted Hot Springs"
+      ],
+      "zh-Hant": [
+        "搖曳莊的幽奈小姐"
       ]
     },
     "type": "tv",
@@ -906,9 +1020,10 @@
         "broadcast": ""
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_hk_mo_tw",
         "id": "141572",
-        "begin": "2018-07-13T16:00:01.000Z"
+        "begin": "2018-10-13T05:46:00.000Z",
+        "broadcast": "R/2018-10-13T05:46:00.000Z/P7D"
       }
     ]
   },
@@ -920,7 +1035,12 @@
       ],
       "zh-Hans": [
         "春原庄的管理人",
-        "春原庄的管理人小姐"
+        "春原庄的管理人小姐",
+        "春原庄的管理员小姐",
+        "春原庄的管理员"
+      ],
+      "zh-Hant": [
+        "春原莊的管理員小姐"
       ]
     },
     "type": "tv",
@@ -937,6 +1057,12 @@
         "site": "nicovideo",
         "id": "sunoharasou",
         "begin": "2018-07-08T13:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28222067",
+        "begin": "2019-08-07T04:24:00.000Z",
+        "broadcast": "R/2019-08-07T04:24:00.000Z/P7D"
       }
     ]
   },
@@ -948,6 +1074,9 @@
       ],
       "zh-Hans": [
         "音乐少女"
+      ],
+      "zh-Hant": [
+        "音樂少女"
       ]
     },
     "type": "tv",
@@ -963,12 +1092,19 @@
       {
         "site": "bilibili",
         "id": "102032",
-        "begin": "2018-07-07T17:30:00.000Z"
+        "begin": "2018-07-07T17:30:00.000Z",
+        "broadcast": "R/2018-07-07T17:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "ongaku-shoujo",
         "begin": "2018-07-07T16:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "98233",
+        "begin": "2018-07-07T17:30:00.000Z",
+        "broadcast": "R/2018-07-07T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -1011,6 +1147,12 @@
         "id": "PLuxqoToY7Ucj2pUmKfKdr2QYqFQntzfzK",
         "begin": "2022-09-24T16:00:00.000Z",
         "broadcast": "R/2022-09-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "90508",
+        "begin": "2018-07-06T13:30:00.000Z",
+        "broadcast": "R/2018-07-06T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -1030,7 +1172,8 @@
       {
         "site": "bilibili",
         "id": "102232",
-        "begin": "2018-07-11T15:30:00.000Z"
+        "begin": "2018-07-11T15:30:00.000Z",
+        "broadcast": "R/2018-07-11T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1043,7 +1186,8 @@
     "title": "進撃の巨人 Season3",
     "titleTranslate": {
       "zh-Hans": [
-        "进击的巨人 第三季"
+        "进击的巨人 第三季",
+        "自由之翼 3"
       ],
       "zh-Hant": [
         "進擊的巨人 第三季"
@@ -1065,15 +1209,22 @@
         "begin": "2018-07-30T03:00:00.000Z"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_tw",
         "id": "117372",
-        "begin": "2018-07-22T18:05:00.000Z"
+        "begin": "2018-07-22T18:05:00.000Z",
+        "broadcast": "R/2018-07-22T18:05:00.000Z/P7D"
       },
       {
         "site": "viu",
         "id": "467613",
         "begin": "2022-12-14T16:00:00.000Z",
         "broadcast": "R/2022-12-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89557",
+        "begin": "2018-07-22T18:05:00.000Z",
+        "broadcast": "R/2018-07-22T18:05:00.000Z/P7D"
       }
     ]
   },
@@ -1082,6 +1233,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "中间管理录利根川"
+      ],
+      "zh-Hant": [
+        "中間管理錄利根川"
       ]
     },
     "type": "tv",
@@ -1097,12 +1251,19 @@
       {
         "site": "bilibili",
         "id": "102632",
-        "begin": "2018-07-03T20:30:00.000Z"
+        "begin": "2018-07-03T20:30:00.000Z",
+        "broadcast": "R/2018-07-03T20:29:59.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "tonegawa-anime",
         "begin": "2018-07-04T15:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "95426",
+        "begin": "2019-06-27T07:00:00.000Z",
+        "broadcast": "R/2019-06-27T07:00:00.000Z/P7D"
       }
     ]
   },
@@ -1126,7 +1287,8 @@
       {
         "site": "bilibili",
         "id": "102472",
-        "begin": "2018-07-10T17:35:00.000Z"
+        "begin": "2018-07-10T17:35:00.000Z",
+        "broadcast": "R/2018-07-10T17:40:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1152,7 +1314,8 @@
         "Seven Senses of the Beunion"
       ],
       "zh-Hans": [
-        "昴宿七星"
+        "昴宿七星",
+        "七星的昴星团"
       ]
     },
     "type": "tv",
@@ -1168,7 +1331,8 @@
       {
         "site": "bilibili",
         "id": "102732",
-        "begin": "2018-07-06T06:30:00.000Z"
+        "begin": "2018-07-06T06:30:00.000Z",
+        "broadcast": "R/2018-07-06T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -1180,6 +1344,9 @@
       ],
       "en": [
         "The Master of Ragnarok & Blesser of Einherjar"
+      ],
+      "zh-Hant": [
+        "百鍊霸王與聖約女武神"
       ]
     },
     "type": "tv",
@@ -1195,12 +1362,19 @@
       {
         "site": "bilibili",
         "id": "102772",
-        "begin": "2018-07-07T16:30:00.000Z"
+        "begin": "2018-07-07T16:30:00.000Z",
+        "broadcast": "R/2018-07-07T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "hyakuren-anime",
         "begin": "2018-07-10T16:30:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28220870",
+        "begin": "2019-05-17T03:26:00.000Z",
+        "broadcast": "R/2019-05-17T03:26:00.000Z/P7D"
       }
     ]
   },
@@ -1224,7 +1398,8 @@
       {
         "site": "bilibili",
         "id": "95272",
-        "begin": "2018-07-05T04:00:00.000Z"
+        "begin": "2018-07-05T04:00:00.000Z",
+        "broadcast": "R/2018-07-05T04:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1266,7 +1441,8 @@
       {
         "site": "bilibili",
         "id": "95292",
-        "begin": "2018-07-05T04:00:00.000Z"
+        "begin": "2018-07-05T04:00:00.000Z",
+        "broadcast": "R/2018-07-05T04:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1281,6 +1457,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "付丧神出租中"
+      ],
+      "zh-Hant": [
+        "付喪神出租中！",
+        "付喪神出租中"
+      ],
+      "en": [
+        "We Rent Tsukumogami"
       ]
     },
     "type": "tv",
@@ -1296,12 +1479,25 @@
       {
         "site": "bilibili",
         "id": "102712",
-        "begin": "2018-07-22T17:10:00.000Z"
+        "begin": "2018-07-22T17:10:00.000Z",
+        "broadcast": "R/2018-07-22T17:10:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "tsukumogami",
         "begin": "2019-01-31T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "95427",
+        "begin": "2019-06-14T09:00:00.000Z",
+        "broadcast": "R/2019-06-14T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjQkgX42bxrCAytLb8mes76",
+        "begin": "2023-05-20T16:00:00.000Z",
+        "broadcast": "R/2023-05-20T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1328,7 +1524,8 @@
       {
         "site": "bilibili",
         "id": "103072",
-        "begin": "2018-07-06T12:54:00.000Z"
+        "begin": "2018-07-06T12:54:00.000Z",
+        "broadcast": "R/2018-07-06T12:54:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1342,7 +1539,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "BANANA FISH",
-        "战栗杀机"
+        "战栗杀机",
+        "香蕉鱼"
       ]
     },
     "type": "tv",
@@ -1382,7 +1580,8 @@
       {
         "site": "bilibili",
         "id": "103032",
-        "begin": "2018-07-02T16:35:00.000Z"
+        "begin": "2018-07-02T16:35:00.000Z",
+        "broadcast": "R/2018-07-02T16:35:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1398,10 +1597,12 @@
         "OVERLORD III"
       ],
       "zh-Hans": [
-        "OVERLORD III"
+        "OVERLORD III",
+        "不死者之王 第三季"
       ],
       "zh-Hant": [
-        "OVERLORD III"
+        "OVERLORD III",
+        "OVERLORD 第三季"
       ]
     },
     "type": "tv",
@@ -1417,7 +1618,8 @@
       {
         "site": "bilibili",
         "id": "102252",
-        "begin": "2018-07-10T14:30:00.000Z"
+        "begin": "2018-07-10T14:30:00.000Z",
+        "broadcast": "R/2018-07-10T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1427,14 +1629,14 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj-qPvH9bUUeEKo26qicFm_",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-11-01T16:00:00.000Z",
+        "broadcast": "R/2021-11-01T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSHMMuketAA0NW7unfaBbMk",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-10-01T16:00:00.000Z",
+        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -1447,6 +1649,12 @@
         "id": "5CNwVLpigBya",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "96391",
+        "begin": "2019-06-06T09:10:00.000Z",
+        "broadcast": "R/2019-06-06T09:10:00.000Z/P7D"
       }
     ]
   },
@@ -1482,7 +1690,8 @@
         "暗芝居 第六季"
       ],
       "zh-Hant": [
-        "闇芝居S6"
+        "闇芝居S6",
+        "闇芝居 第六季"
       ]
     },
     "type": "tv",
@@ -1498,7 +1707,8 @@
       {
         "site": "bilibili",
         "id": "103092",
-        "begin": "2018-07-06T19:55:00.000Z"
+        "begin": "2018-07-06T19:55:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -1520,6 +1730,12 @@
         "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
         "begin": "2022-01-06T16:00:00.000Z",
         "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "100090",
+        "begin": "2020-08-28T04:30:00.000Z",
+        "broadcast": "R/2020-08-28T04:30:00.000Z/P7D"
       }
     ]
   },
@@ -1581,7 +1797,8 @@
     "title": "天狼 Sirius the Jaeger",
     "titleTranslate": {
       "zh-Hans": [
-        "天狼 Sirius the Jaeger"
+        "天狼 Sirius the Jaeger",
+        "天狼"
       ],
       "zh-Hant": [
         "天狼 Sirius the Jaeger"
@@ -1603,7 +1820,8 @@
       {
         "site": "bilibili",
         "id": "102272",
-        "begin": "2018-07-11T16:00:01.000Z"
+        "begin": "2018-07-11T16:00:01.000Z",
+        "broadcast": "R/2018-07-12T15:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1686,7 +1904,8 @@
     "title": "おしえて魔法のペンデュラム～リルリルフェアリル～",
     "titleTranslate": {
       "zh-Hans": [
-        "告诉我魔法之摆～莉露莉露妖精莉露～"
+        "告诉我魔法之摆～莉露莉露妖精莉露～",
+        "告诉我吧魔法吊坠～莉露莉露妖精莉露～"
       ]
     },
     "type": "tv",
@@ -1707,7 +1926,8 @@
       {
         "site": "bilibili",
         "id": "127092",
-        "begin": "2018-07-06T16:00:01.000Z"
+        "begin": "2018-07-06T16:00:01.000Z",
+        "broadcast": "R/2018-08-21T03:57:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1749,7 +1969,8 @@
       {
         "site": "bilibili",
         "id": "135252",
-        "begin": "2018-07-06T13:45:00.000Z"
+        "begin": "2018-07-06T13:45:00.000Z",
+        "broadcast": "R/2018-07-05T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1797,7 +2018,8 @@
       {
         "site": "bilibili",
         "id": "114472",
-        "begin": "2018-07-31T07:00:00.000Z"
+        "begin": "2018-07-31T07:00:00.000Z",
+        "broadcast": "R/2018-07-31T10:08:00.000Z/P7D"
       }
     ]
   },
@@ -1827,7 +2049,11 @@
   },
   {
     "title": "K SEVEN STORIES Episode 1「R:b ～BLAZE～」",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "K Seven Stories R:B ～BLAZE～"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://k-project.jpn.com/",
@@ -1842,6 +2068,12 @@
         "site": "nicovideo",
         "id": "k-seven-stories",
         "begin": "2018-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "101140",
+        "begin": "2020-06-30T16:00:00.000Z",
+        "broadcast": "R/2020-06-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1943,7 +2175,8 @@
       {
         "site": "bilibili",
         "id": "28228298",
-        "begin": "2018-07-12T16:00:00.000Z"
+        "begin": "2018-07-12T16:00:00.000Z",
+        "broadcast": "R/2020-03-20T04:01:00.000Z/P7D"
       }
     ]
   },
@@ -1967,7 +2200,8 @@
       {
         "site": "bilibili",
         "id": "119312",
-        "begin": "2018-07-26T16:00:01.000Z"
+        "begin": "2018-07-26T16:00:01.000Z",
+        "broadcast": "R/2018-07-27T07:19:00.000Z/P7D"
       }
     ]
   },
@@ -2000,6 +2234,68 @@
         "id": "81280998",
         "begin": "2021-02-17T16:00:00.000Z",
         "broadcast": "R/2021-02-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233715",
+        "begin": "2021-02-20T10:00:00.000Z",
+        "broadcast": "R/2021-02-20T10:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ザ・アイドルK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "THE・IDOL K"
+      ],
+      "zh-Hant": [
+        "K Seven Stories The・偶像 K"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://k-project.jpn.com/",
+    "begin": "2018-07-06T16:00:00.000Z",
+    "end": "2018-07-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227108"
+      },
+      {
+        "site": "gamer",
+        "id": "103658",
+        "begin": "2020-06-30T16:00:00.000Z",
+        "broadcast": "R/2020-06-30T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぷれぷれぷれあです3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Play Play 昴宿星团 3",
+        "OVERLORD Ⅲ SP"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://overlord-anime.com/",
+    "begin": "2018-07-09T16:00:00.000Z",
+    "end": "2018-10-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "251539"
+      },
+      {
+        "site": "bilibili",
+        "id": "118812",
+        "begin": "2018-07-26T06:14:00.000Z",
+        "broadcast": "R/2018-07-26T06:14:00.000Z/P7D"
       }
     ]
   }

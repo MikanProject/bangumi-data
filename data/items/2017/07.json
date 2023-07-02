@@ -3,7 +3,8 @@
     "title": "バトルガール ハイスクール",
     "titleTranslate": {
       "zh-Hans": [
-        "战斗女子高校"
+        "战斗女子高校",
+        "战斗女子学园"
       ]
     },
     "type": "tv",
@@ -19,7 +20,8 @@
       {
         "site": "bilibili",
         "id": "6306",
-        "begin": "2017-07-02T16:30:00.000Z"
+        "begin": "2017-07-02T16:30:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -32,7 +34,8 @@
     "title": "将国のアルタイル",
     "titleTranslate": {
       "zh-Hans": [
-        "将国之天鹰星"
+        "将国之天鹰星",
+        "将国戡乱记"
       ]
     },
     "type": "tv",
@@ -48,7 +51,8 @@
       {
         "site": "bilibili",
         "id": "6320",
-        "begin": "2017-07-07T19:00:00.000Z"
+        "begin": "2017-07-07T19:00:00.000Z",
+        "broadcast": "R/2017-07-07T19:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -72,7 +76,7 @@
     "titleTranslate": {
       "zh-Hans": [
         "骑士&魔法",
-        "骑士&amp;魔法"
+        "骑士魔法"
       ]
     },
     "type": "tv",
@@ -88,7 +92,8 @@
       {
         "site": "bilibili",
         "id": "6304",
-        "begin": "2017-07-02T14:30:00.000Z"
+        "begin": "2017-07-02T14:30:00.000Z",
+        "broadcast": "R/2017-07-02T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -117,7 +122,8 @@
       {
         "site": "bilibili",
         "id": "6325",
-        "begin": "2017-07-08T18:08:00.000Z"
+        "begin": "2017-07-08T18:08:00.000Z",
+        "broadcast": "R/2017-07-16T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -159,7 +165,11 @@
     "title": "アホガール",
     "titleTranslate": {
       "zh-Hans": [
-        "笨女孩"
+        "笨女孩",
+        "单蠢女孩"
+      ],
+      "zh-Hant": [
+        "單蠢女孩"
       ]
     },
     "type": "tv",
@@ -175,12 +185,19 @@
       {
         "site": "bilibili",
         "id": "6311",
-        "begin": "2017-07-04T14:15:00.000Z"
+        "begin": "2017-07-04T14:15:00.000Z",
+        "broadcast": "R/2017-07-04T14:15:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "ahogirl",
         "begin": "2017-07-09T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "88505",
+        "begin": "2017-07-05T04:01:00.000Z",
+        "broadcast": "R/2017-07-05T04:01:00.000Z/P7D"
       }
     ]
   },
@@ -188,7 +205,11 @@
     "title": "徒然チルドレン",
     "titleTranslate": {
       "zh-Hans": [
-        "徒然Children"
+        "徒然Children",
+        "徒然喜欢你"
+      ],
+      "zh-Hant": [
+        "徒然喜歡你"
       ]
     },
     "type": "tv",
@@ -204,7 +225,8 @@
       {
         "site": "bilibili",
         "id": "6312",
-        "begin": "2017-07-04T14:30:00.000Z"
+        "begin": "2017-07-04T14:30:00.000Z",
+        "broadcast": "R/2017-07-04T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -215,6 +237,12 @@
         "site": "youku",
         "id": "63efbfbd457854efbfbd",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "87489",
+        "begin": "2017-07-05T12:00:00.000Z",
+        "broadcast": "R/2017-07-05T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -234,7 +262,8 @@
       {
         "site": "bilibili",
         "id": "3228",
-        "begin": "2013-07-17T16:00:00.000Z"
+        "begin": "2013-07-17T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -246,6 +275,9 @@
       ],
       "en": [
         "Restaurant to Another World"
+      ],
+      "zh-Hant": [
+        "異世界食堂"
       ]
     },
     "type": "tv",
@@ -261,7 +293,8 @@
       {
         "site": "bilibili",
         "id": "6310",
-        "begin": "2017-07-03T17:35:00.000Z"
+        "begin": "2017-07-03T17:35:00.000Z",
+        "broadcast": "R/2017-07-03T17:35:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -272,6 +305,12 @@
         "site": "nicovideo",
         "id": "isekai-shokudo",
         "begin": "2017-07-08T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "85035",
+        "begin": "2017-07-03T18:10:00.000Z",
+        "broadcast": "R/2017-07-03T18:10:00.000Z/P7D"
       }
     ]
   },
@@ -280,7 +319,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "第一次的辣妹",
-        "第一次的Gal"
+        "第一次的Gal",
+        "辣妹與我的第一次"
       ],
       "zh-Hant": [
         "辣妹與我的第一次"
@@ -311,6 +351,12 @@
         "id": "PLxSscENEp7JhmXGQSIlo0KR3dNq_TtGYX",
         "begin": "2019-11-06T16:00:00.000Z",
         "broadcast": "R/2019-11-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "86177",
+        "begin": "2017-07-13T04:50:00.000Z",
+        "broadcast": "R/2017-07-13T04:50:00.000Z/P7D"
       }
     ]
   },
@@ -340,7 +386,8 @@
       {
         "site": "bilibili",
         "id": "6339",
-        "begin": "2017-07-12T17:00:00.000Z"
+        "begin": "2017-07-12T17:00:00.000Z",
+        "broadcast": "R/2017-07-12T17:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -358,6 +405,12 @@
         "id": "6tGY0LGgFeWE",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "88688",
+        "begin": "2017-07-12T16:00:00.000Z",
+        "broadcast": "R/2017-07-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -381,7 +434,8 @@
       {
         "site": "bilibili",
         "id": "6340",
-        "begin": "2017-07-14T07:36:24.000Z"
+        "begin": "2017-07-14T07:36:24.000Z",
+        "broadcast": "R/2017-07-27T13:00:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -404,7 +458,8 @@
     "title": "Fate/Apocrypha",
     "titleTranslate": {
       "zh-Hans": [
-        "Fate/Apocrypha"
+        "Fate/Apocrypha",
+        "命运/外典"
       ]
     },
     "type": "tv",
@@ -420,7 +475,8 @@
       {
         "site": "bilibili",
         "id": "6301",
-        "begin": "2017-07-01T16:30:00.000Z"
+        "begin": "2017-07-01T16:30:00.000Z",
+        "broadcast": "R/2017-07-01T16:30:03.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -434,9 +490,15 @@
     "title": "プリンセス・プリンシパル",
     "titleTranslate": {
       "zh-Hans": [
-        "Princess Principal"
+        "Princess Principal",
+        "公主代理人",
+        "公主委托人",
+        "公主准则"
       ],
       "zh-Hant": [
+        "Princess Principal"
+      ],
+      "en": [
         "Princess Principal"
       ]
     },
@@ -524,6 +586,12 @@
         "id": "prqNPEdSeooI",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "86687",
+        "begin": "2022-07-04T05:00:00.000Z",
+        "broadcast": "R/2022-07-04T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -533,6 +601,9 @@
       "zh-Hans": [
         "活击 刀剑乱舞",
         "活击/刀剑乱舞"
+      ],
+      "zh-Hant": [
+        "活撃/刀剣乱舞"
       ],
       "en": [
         "KATSUGEKI / TOUKEN RANBU"
@@ -549,9 +620,10 @@
         "id": "175424"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_hk_mo_tw",
         "id": "6302",
-        "begin": "2017-07-01T17:00:00.000Z"
+        "begin": "2017-07-01T17:00:00.000Z",
+        "broadcast": "R/2017-07-01T17:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -572,7 +644,8 @@
         "最游记 RELOAD BLAST"
       ],
       "zh-Hant": [
-        "最遊記RELOAD BLAST"
+        "最遊記RELOAD BLAST",
+        "最遊記 RELOAD BLAST"
       ]
     },
     "type": "tv",
@@ -600,6 +673,12 @@
         "id": "PLuxqoToY7UcizuGtUfA-gp7F4rGczy1LG",
         "begin": "2020-07-26T16:00:00.000Z",
         "broadcast": "R/2020-07-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "84433",
+        "begin": "2017-07-05T15:00:00.000Z",
+        "broadcast": "R/2017-07-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -660,7 +739,8 @@
       {
         "site": "bilibili",
         "id": "6341",
-        "begin": "2017-07-14T16:30:00.000Z"
+        "begin": "2017-07-14T16:30:00.000Z",
+        "broadcast": "R/2017-07-14T16:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -684,7 +764,9 @@
     "title": "天使の3P!",
     "titleTranslate": {
       "zh-Hans": [
-        "天使的3P!"
+        "天使的3P!",
+        "天使的 three pieces!",
+        "天使的three pieces!"
       ]
     },
     "type": "tv",
@@ -700,7 +782,8 @@
       {
         "site": "bilibili",
         "id": "6328",
-        "begin": "2017-07-10T12:00:00.000Z"
+        "begin": "2017-07-10T12:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -791,7 +874,8 @@
       {
         "site": "bilibili",
         "id": "6308",
-        "begin": "2017-07-03T14:30:00.000Z"
+        "begin": "2017-07-03T14:30:00.000Z",
+        "broadcast": "R/2017-07-03T14:30:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -814,7 +898,8 @@
     "title": "恋と嘘",
     "titleTranslate": {
       "zh-Hans": [
-        "恋爱禁止的世界"
+        "恋爱禁止的世界",
+        "恋爱与谎言"
       ],
       "zh-Hant": [
         "戀愛與謊言"
@@ -852,7 +937,11 @@
     "title": "クリオネの灯り",
     "titleTranslate": {
       "zh-Hans": [
-        "冰海精灵之灯"
+        "冰海精灵之灯",
+        "海天使的灯火",
+        "冰海精灵的灯光",
+        "海天使之光",
+        "Clione的灯光"
       ]
     },
     "type": "tv",
@@ -868,7 +957,8 @@
       {
         "site": "bilibili",
         "id": "6335",
-        "begin": "2017-07-13T07:14:16.000Z"
+        "begin": "2017-07-13T07:14:16.000Z",
+        "broadcast": "R/2017-07-13T07:14:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -892,6 +982,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "咕噜咕噜魔法阵"
+      ],
+      "zh-Hant": [
+        "咕嚕咕嚕魔法陣 第三季"
       ]
     },
     "type": "tv",
@@ -907,7 +1000,8 @@
       {
         "site": "bilibili",
         "id": "6332",
-        "begin": "2017-07-11T17:35:00.000Z"
+        "begin": "2017-07-11T17:35:00.000Z",
+        "broadcast": "R/2017-07-11T17:35:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -918,6 +1012,12 @@
         "site": "iqiyi",
         "id": "a_19rrh86xb9",
         "begin": "2017-07-11T17:35:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "87014",
+        "begin": "2020-07-31T08:00:00.000Z",
+        "broadcast": "R/2020-07-31T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -956,6 +1056,12 @@
         "id": "PLxSscENEp7Jhxm-PJydm2A2Ph3fjI1J4N",
         "begin": "2019-11-19T16:00:00.000Z",
         "broadcast": "R/2019-11-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "86038",
+        "begin": "2021-03-10T08:00:00.000Z",
+        "broadcast": "R/2021-03-10T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -1062,7 +1168,8 @@
         "暗芝居 第5季"
       ],
       "zh-Hant": [
-        "闇芝居S5"
+        "闇芝居S5",
+        "闇芝居 第五季"
       ]
     },
     "type": "tv",
@@ -1078,7 +1185,8 @@
       {
         "site": "bilibili",
         "id": "6346",
-        "begin": "2017-07-02T19:05:00.000Z"
+        "begin": "2017-07-02T19:05:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
@@ -1100,6 +1208,12 @@
         "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
         "begin": "2022-01-06T16:00:00.000Z",
         "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89346",
+        "begin": "2020-08-26T06:30:00.000Z",
+        "broadcast": "R/2020-08-26T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -1107,7 +1221,9 @@
     "title": "ナナマルサンバツ",
     "titleTranslate": {
       "zh-Hans": [
-        "猜谜王"
+        "猜谜王",
+        "猜謎王",
+        "7O3X! 抢答战争"
       ]
     },
     "type": "tv",
@@ -1142,6 +1258,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "捏造陷阱",
+        "捏造陷阱 -NTR-",
+        "捏造trap -NTR-"
+      ],
+      "zh-Hant": [
         "捏造陷阱 -NTR-"
       ]
     },
@@ -1164,6 +1284,12 @@
         "site": "nicovideo",
         "id": "netsuzoutrap",
         "begin": "2017-07-05T18:40:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "87490",
+        "begin": "2023-01-06T04:00:00.000Z",
+        "broadcast": "R/2023-01-06T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1229,7 +1355,10 @@
     "title": "アクションヒロイン チアフルーツ",
     "titleTranslate": {
       "zh-Hans": [
-        "动作女主 水果应援团"
+        "动作女主 水果应援团",
+        "动作女英雄 水果应援团",
+        "动作女英雄 水果啦啦队",
+        "动作女英雄水果啦啦队"
       ]
     },
     "type": "tv",
@@ -1259,7 +1388,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "18if 梦境异闻录",
-        "18：与你相连的拼图游戏"
+        "18：与你相连的拼图游戏",
+        "18if"
+      ],
+      "zh-Hant": [
+        "18if 夢境異聞錄"
       ]
     },
     "type": "tv",
@@ -1275,7 +1408,8 @@
       {
         "site": "bilibili",
         "id": "6319",
-        "begin": "2017-07-07T14:00:00.000Z"
+        "begin": "2017-07-07T14:00:00.000Z",
+        "broadcast": "R/2017-07-07T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1301,6 +1435,12 @@
         "site": "qq",
         "id": "a/aiufxxbfavf7yoh",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "88686",
+        "begin": "2021-01-21T08:00:00.000Z",
+        "broadcast": "R/2021-01-21T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -1353,6 +1493,12 @@
         "id": "hitorijimemyhero_112423",
         "begin": "2017-07-09T05:00:00.000Z",
         "broadcast": "R/2017-07-09T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "88519",
+        "begin": "2019-06-28T04:00:00.000Z",
+        "broadcast": "R/2019-06-28T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1362,6 +1508,9 @@
       "zh-Hans": [
         "人马小姐的烦恼",
         "人马小姐不迷茫"
+      ],
+      "zh-Hant": [
+        "半獸人的煩惱"
       ]
     },
     "type": "tv",
@@ -1377,7 +1526,8 @@
       {
         "site": "bilibili",
         "id": "6326",
-        "begin": "2017-07-09T14:00:00.000Z"
+        "begin": "2017-07-09T14:00:00.000Z",
+        "broadcast": "R/2017-07-09T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1388,6 +1538,12 @@
         "site": "youku",
         "id": "efbfbd3b21c385efbfbd",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "86544",
+        "begin": "2020-11-13T09:30:00.000Z",
+        "broadcast": "R/2020-11-13T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -1397,6 +1553,10 @@
       "zh-Hans": [
         "带着智能手机闯荡异世界。",
         "带着智慧型手机闯荡异世界"
+      ],
+      "zh-Hant": [
+        "帶著智慧型手機闖蕩異世界。",
+        "帶著智慧型手機闖蕩異世界"
       ],
       "en": [
         "In Another World With My Smartphone"
@@ -1421,6 +1581,18 @@
         "site": "nicovideo",
         "id": "isesuma-anime",
         "begin": "2017-07-13T15:00:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhu7Yjax9NwdOueueiwIDG3",
+        "begin": "2023-04-22T16:00:00.000Z",
+        "broadcast": "R/2023-04-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "88067",
+        "begin": "2021-04-23T08:00:00.000Z",
+        "broadcast": "R/2021-04-23T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -1444,7 +1616,8 @@
       {
         "site": "bilibili",
         "id": "6376",
-        "begin": "2017-07-14T10:33:12.000Z"
+        "begin": "2017-07-14T10:33:12.000Z",
+        "broadcast": "R/2017-07-14T10:33:12.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1484,7 +1657,8 @@
       {
         "site": "bilibili",
         "id": "6353",
-        "begin": "2017-07-01T02:00:00.000Z"
+        "begin": "2017-07-01T02:00:00.000Z",
+        "broadcast": "R/2017-07-01T02:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1527,7 +1701,8 @@
     "title": "ノラと皇女と野良猫ハート",
     "titleTranslate": {
       "zh-Hans": [
-        "野良和皇女和流浪猫之心"
+        "野良和皇女和流浪猫之心",
+        "野良与皇女与流浪猫之心"
       ]
     },
     "type": "tv",
@@ -1543,7 +1718,8 @@
       {
         "site": "bilibili",
         "id": "6349",
-        "begin": "2017-07-13T07:10:44.000Z"
+        "begin": "2017-07-13T07:10:44.000Z",
+        "broadcast": ""
       },
       {
         "site": "pptv",
@@ -1577,10 +1753,14 @@
     "titleTranslate": {
       "zh-Hans": [
         "NEW GAME!!",
-        "NEW GAME! 第2季"
+        "NEW GAME! 第2季",
+        "NEW GAME! 第二季"
       ],
       "en": [
         "NEW GAME!!"
+      ],
+      "zh-Hant": [
+        "New Game! 第二季"
       ]
     },
     "type": "tv",
@@ -1596,7 +1776,8 @@
       {
         "site": "bilibili",
         "id": "6330",
-        "begin": "2017-07-11T14:00:00.000Z"
+        "begin": "2017-07-11T14:00:00.000Z",
+        "broadcast": "R/2017-07-11T14:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1627,6 +1808,12 @@
         "site": "acfun",
         "id": "5025185",
         "begin": "2019-08-07T08:18:11.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "87474",
+        "begin": "2023-01-13T04:00:00.000Z",
+        "broadcast": "R/2023-01-13T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1634,7 +1821,8 @@
     "title": "THE REFLECTION -ザ・リフレクション-",
     "titleTranslate": {
       "zh-Hans": [
-        "反照者"
+        "反照者",
+        "反射侠"
       ],
       "zh-Hant": [
         "THE REFLECTION"
@@ -1712,7 +1900,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "网球少女 9期",
-        "网球并不可笑嘛 9期"
+        "网球并不可笑嘛 9期",
+        "网球少女 第9期"
       ]
     },
     "type": "tv",
@@ -1728,7 +1917,8 @@
       {
         "site": "bilibili",
         "id": "6337",
-        "begin": "2017-07-12T13:40:00.000Z"
+        "begin": "2017-07-12T13:40:00.000Z",
+        "broadcast": "R/2017-07-12T13:40:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1787,7 +1977,8 @@
       {
         "site": "bilibili",
         "id": "6378",
-        "begin": "2017-07-19T02:38:52.000Z"
+        "begin": "2017-07-19T02:38:52.000Z",
+        "broadcast": "R/2017-07-19T02:38:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1814,7 +2005,8 @@
         "MARVEL FUTURE AVENGERS"
       ],
       "zh-Hans": [
-        "漫威未来复仇者"
+        "漫威未来复仇者",
+        "漫威未来:复仇者联盟"
       ]
     },
     "type": "tv",
@@ -2004,7 +2196,8 @@
       {
         "site": "bilibili",
         "id": "118152",
-        "begin": "2017-04-21T16:00:00.000Z"
+        "begin": "2017-04-21T16:00:00.000Z",
+        "broadcast": "R/2017-04-22T06:27:00.000Z/P7D"
       }
     ]
   },
@@ -2063,7 +2256,8 @@
       {
         "site": "bilibili",
         "id": "28228297",
-        "begin": "2017-07-14T16:00:00.000Z"
+        "begin": "2017-07-14T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },

@@ -27,7 +27,8 @@
       {
         "site": "bilibili",
         "id": "1131",
-        "begin": "2009-04-04T16:00:00.000Z"
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2014-10-10T02:11:00.000Z/P7D"
       }
     ]
   },
@@ -66,7 +67,8 @@
       {
         "site": "bilibili",
         "id": "1133",
-        "begin": "2009-04-04T16:00:00.000Z"
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2013-08-01T04:30:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -108,7 +110,9 @@
     "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
     "titleTranslate": {
       "zh-Hans": [
-        "钢之炼金术师 FULLMETAL ALCHEMIST"
+        "钢之炼金术师 FULLMETAL ALCHEMIST",
+        "钢之炼金术师 FA",
+        "钢之炼金术师 2009"
       ],
       "en": [
         "Fullmetal Alchemist: Brotherhood"
@@ -145,12 +149,14 @@
       {
         "site": "netflix",
         "id": "70204981",
-        "begin": "2018-01-01T08:00:00.000Z"
+        "begin": "2018-01-01T08:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
         "id": "1089",
-        "begin": "2009-04-04T16:00:01.000Z"
+        "begin": "2009-04-04T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -176,7 +182,10 @@
     "title": "こんにちは アン ～Before Green Gables",
     "titleTranslate": {
       "zh-Hans": [
-        "你好 安妮"
+        "你好 安妮",
+        "你好 安妮 ～Before Green Gables",
+        "世界名作剧场 你好 安妮",
+        "清秀佳人前传"
       ]
     },
     "type": "tv",
@@ -205,7 +214,11 @@
     "title": "ティアーズ・トゥ・ティアラ",
     "titleTranslate": {
       "zh-Hans": [
-        "花冠之泪"
+        "花冠之泪",
+        "提亚拉之泪"
+      ],
+      "en": [
+        "Tears to Tiara"
       ]
     },
     "type": "tv",
@@ -227,6 +240,12 @@
       {
         "site": "bangumi",
         "id": "1423"
+      },
+      {
+        "site": "bilibili",
+        "id": "3224",
+        "begin": "2015-12-20T06:33:00.000Z",
+        "broadcast": "R/2015-12-20T06:33:00.000Z/P7D"
       }
     ]
   },
@@ -263,7 +282,9 @@
     "title": "夏のあらし！",
     "titleTranslate": {
       "zh-Hans": [
-        "夏之岚"
+        "夏之岚",
+        "夏之岚!",
+        "夏日风暴"
       ]
     },
     "type": "tv",
@@ -284,7 +305,8 @@
       {
         "site": "bilibili",
         "id": "1135",
-        "begin": "2009-04-04T16:00:00.000Z"
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2010-09-21T09:36:00.000Z/P7D"
       }
     ]
   },
@@ -292,7 +314,8 @@
     "title": "クイーンズブレイド 流浪の戦士",
     "titleTranslate": {
       "zh-Hans": [
-        "女皇之刃 流浪的战士"
+        "女皇之刃 流浪的战士",
+        "女王之刃 流浪的战士"
       ]
     },
     "type": "tv",
@@ -378,7 +401,8 @@
         "VALKYRIA CHRONICLES"
       ],
       "zh-Hans": [
-        "战场女武神"
+        "战场女武神",
+        "战场上的女武神"
       ]
     },
     "type": "tv",
@@ -405,6 +429,12 @@
         "site": "letv",
         "id": "41926",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1127",
+        "begin": "2013-03-11T06:07:00.000Z",
+        "broadcast": "R/2013-03-11T06:07:00.000Z/P7D"
       }
     ]
   },
@@ -412,7 +442,8 @@
     "title": "極上!!めちゃモテ委員長",
     "titleTranslate": {
       "zh-Hans": [
-        "极上！！超人气委员长"
+        "极上！！超人气委员长",
+        "恋爱班长"
       ]
     },
     "type": "tv",
@@ -524,7 +555,8 @@
       {
         "site": "bilibili",
         "id": "1073",
-        "begin": "2009-04-01T16:00:00.000Z"
+        "begin": "2009-04-01T16:00:00.000Z",
+        "broadcast": "R/2015-07-02T04:12:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -574,7 +606,8 @@
       {
         "site": "bilibili",
         "id": "1590",
-        "begin": "2009-03-31T16:00:00.000Z"
+        "begin": "2009-03-31T16:00:00.000Z",
+        "broadcast": "R/2010-10-06T16:17:00.000Z/P7D"
       }
     ]
   },
@@ -598,7 +631,8 @@
       {
         "site": "bilibili",
         "id": "1765",
-        "begin": "2009-04-01T16:00:00.000Z"
+        "begin": "2009-04-01T16:00:00.000Z",
+        "broadcast": "R/2018-09-08T07:17:00.000Z/P7D"
       }
     ]
   },
@@ -626,6 +660,12 @@
         "site": "nicovideo",
         "id": "k-on_anime",
         "begin": "2018-12-27T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220978",
+        "begin": "2019-05-13T04:00:00.000Z",
+        "broadcast": "R/2019-05-13T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -692,7 +732,8 @@
       {
         "site": "bilibili",
         "id": "1129",
-        "begin": "2009-04-03T16:00:00.000Z"
+        "begin": "2009-04-03T16:00:00.000Z",
+        "broadcast": "R/2012-10-16T13:39:29.000Z/P7D"
       }
     ]
   },
@@ -703,7 +744,8 @@
         "BASQUASH"
       ],
       "zh-Hans": [
-        "飞篮扣杀"
+        "飞篮扣杀",
+        "机械篮球"
       ]
     },
     "type": "tv",
@@ -724,7 +766,8 @@
       {
         "site": "bilibili",
         "id": "1124",
-        "begin": "2009-04-01T16:00:00.000Z"
+        "begin": "2009-04-01T16:00:00.000Z",
+        "broadcast": "R/2020-11-12T02:59:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -767,7 +810,8 @@
       {
         "site": "bilibili",
         "id": "2674",
-        "begin": "2009-04-08T16:00:00.000Z"
+        "begin": "2009-04-08T16:00:00.000Z",
+        "broadcast": "R/2015-07-02T03:53:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -801,7 +845,8 @@
       {
         "site": "bilibili",
         "id": "1141",
-        "begin": "2009-04-07T16:00:00.000Z"
+        "begin": "2009-04-07T16:00:00.000Z",
+        "broadcast": "R/2020-11-18T06:49:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -840,7 +885,8 @@
       {
         "site": "bilibili",
         "id": "1140",
-        "begin": "2009-04-06T16:00:00.000Z"
+        "begin": "2009-04-06T16:00:00.000Z",
+        "broadcast": "R/2016-05-05T06:27:00.000Z/P7D"
       }
     ]
   },
@@ -851,7 +897,8 @@
         "DRAGON BALL KAI"
       ],
       "zh-Hans": [
-        "龙珠改"
+        "龙珠改",
+        "七龙珠改"
       ]
     },
     "type": "tv",
@@ -876,7 +923,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "阿拉德战记",
-        "地下城与勇士"
+        "地下城与勇士",
+        "阿拉德战记 Slap-up Party",
+        "地下城与勇士 组队篇"
       ]
     },
     "type": "tv",
@@ -907,7 +956,8 @@
       {
         "site": "bilibili",
         "id": "1123",
-        "begin": "2009-04-02T16:00:00.000Z"
+        "begin": "2009-04-02T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -979,7 +1029,8 @@
       {
         "site": "bilibili",
         "id": "1126",
-        "begin": "2009-04-04T16:00:00.000Z"
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2019-04-25T06:47:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1063,6 +1114,12 @@
       {
         "site": "bangumi",
         "id": "1998"
+      },
+      {
+        "site": "bilibili",
+        "id": "5336",
+        "begin": "2001-01-07T16:00:01.000Z",
+        "broadcast": "R/2016-07-25T06:29:00.000Z/P7D"
       }
     ]
   },
@@ -1097,6 +1154,12 @@
         "site": "nicovideo",
         "id": "haruhi_2009",
         "begin": "2016-07-11T01:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "24120616",
+        "begin": "2019-04-01T16:00:00.000Z",
+        "broadcast": "R/2019-04-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1104,7 +1167,8 @@
     "title": "ヒゲぴよ",
     "titleTranslate": {
       "zh-Hans": [
-        "胡子小鸡"
+        "胡子小鸡",
+        "胡须鸡仔"
       ]
     },
     "type": "tv",
@@ -1125,7 +1189,8 @@
       {
         "site": "bilibili",
         "id": "1122",
-        "begin": "2009-04-02T16:00:00.000Z"
+        "begin": "2009-04-02T16:00:00.000Z",
+        "broadcast": "R/2011-04-02T16:05:03.000Z/P7D"
       }
     ]
   },
@@ -1164,7 +1229,8 @@
       {
         "site": "bilibili",
         "id": "10532",
-        "begin": "2009-04-17T16:00:01.000Z"
+        "begin": "2009-04-17T16:00:01.000Z",
+        "broadcast": "R/2017-12-04T08:47:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1213,7 +1279,8 @@
       {
         "site": "bilibili",
         "id": "28228955",
-        "begin": "2020-05-21T16:00:00.000Z"
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -1242,13 +1309,18 @@
       {
         "site": "bilibili",
         "id": "775",
-        "begin": "2012-04-02T16:00:00.000Z"
+        "begin": "2012-04-02T16:00:00.000Z",
+        "broadcast": "R/2012-04-02T18:14:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "ToHeart2 adplus",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "心之彼端2 Adplus"
+      ]
+    },
     "type": "ova",
     "lang": "ja",
     "officialSite": "http://aquaplus.jp/th2adplus/",
@@ -1263,6 +1335,12 @@
         "site": "nicovideo",
         "id": "th2adplus",
         "begin": "2012-03-03T13:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "4051",
+        "begin": "2016-05-25T03:36:00.000Z",
+        "broadcast": "R/2016-05-25T03:36:00.000Z/P7D"
       }
     ]
   },
@@ -1314,6 +1392,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "天元突破红莲螺岩 螺岩篇"
+      ],
+      "zh-Hant": [
+        "天元突破 紅蓮螺巖 螺巖篇"
       ]
     },
     "type": "movie",
@@ -1336,6 +1417,43 @@
         "id": "m/mke5ph5agqe154z",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "22665",
+        "begin": "2021-02-28T16:00:00.000Z",
+        "broadcast": "R/2021-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "24789198",
+        "begin": "2014-08-01T11:16:00.000Z",
+        "broadcast": "R/2014-08-01T11:16:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぱにぽにだっしゅ! OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不可思议的教室 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://paniponi-dash.com/",
+    "begin": "2009-04-14T16:00:00.000Z",
+    "end": "2009-04-14T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "117728"
+      },
+      {
+        "site": "bilibili",
+        "id": "3816",
+        "begin": "2016-04-20T06:57:00.000Z",
+        "broadcast": "R/2016-04-20T06:57:00.000Z/P7D"
       }
     ]
   }

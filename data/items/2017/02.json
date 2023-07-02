@@ -47,7 +47,8 @@
       {
         "site": "bilibili",
         "id": "5933",
-        "begin": "2017-02-18T15:00:00.000Z"
+        "begin": "2017-02-18T15:00:00.000Z",
+        "broadcast": "R/2017-02-18T15:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -91,6 +92,12 @@
         "site": "youku",
         "id": "47f4a9a898d411e69e06",
         "begin": "2016-12-16T09:02:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "74561",
+        "begin": "2016-12-16T09:20:00.000Z",
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
       }
     ]
   },
@@ -158,7 +165,8 @@
       {
         "site": "bilibili",
         "id": "5929",
-        "begin": "2017-02-10T16:00:01.000Z"
+        "begin": "2017-02-10T16:00:01.000Z",
+        "broadcast": "R/2017-02-11T12:37:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -193,7 +201,8 @@
         "PIKAIA"
       ],
       "zh-Hans": [
-        "皮卡虫!!"
+        "皮卡虫!!",
+        "你考古吗？"
       ]
     },
     "type": "tv",
@@ -237,6 +246,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "刀剑神域：序列之争"
+      ],
+      "zh-Hant": [
+        "刀劍神域 劇場版 序列爭戰"
       ]
     },
     "type": "movie",
@@ -253,6 +265,12 @@
         "site": "nicovideo",
         "id": "sao-movie",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "79961",
+        "begin": "2019-01-16T06:30:00.000Z",
+        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -339,7 +357,8 @@
       {
         "site": "bilibili",
         "id": "73092",
-        "begin": "2017-02-24T16:00:00.000Z"
+        "begin": "2017-02-24T16:00:00.000Z",
+        "broadcast": "R/2018-02-20T11:57:00.000Z/P7D"
       }
     ]
   },
@@ -347,10 +366,15 @@
     "title": "劇場版総集編 オーバーロード 不死者の王",
     "titleTranslate": {
       "zh-Hans": [
-        "剧场版总集篇 OVERLORD 不死者之王"
+        "剧场版总集篇 OVERLORD 不死者之王",
+        "OVERLORD 不死者之王"
       ],
       "zh-Hant": [
-        "《OVERLORD 不死者之王》劇場版總集篇 前編"
+        "《OVERLORD 不死者之王》劇場版總集篇 前編",
+        "OVERLORD 不死者之王"
+      ],
+      "en": [
+        "Overlord: The Undead King"
       ]
     },
     "type": "movie",
@@ -372,12 +396,20 @@
       {
         "site": "bilibili",
         "id": "91972",
-        "begin": "2017-02-24T16:00:00.000Z"
+        "begin": "2017-02-24T16:00:00.000Z",
+        "broadcast": "R/2018-05-17T07:40:00.000Z/P7D"
       },
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtTlZBjf5O1KdHzvBkq6bWph",
-        "begin": "2022-10-17T16:00:00.000Z"
+        "begin": "2022-10-17T16:00:00.000Z",
+        "broadcast": "R/2022-10-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "h3CMH0G3ouOB",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

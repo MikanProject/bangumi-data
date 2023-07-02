@@ -44,7 +44,8 @@
       {
         "site": "bilibili",
         "id": "80072",
-        "begin": "2017-09-12T16:00:00.000Z"
+        "begin": "2017-09-12T16:00:00.000Z",
+        "broadcast": "R/2018-03-27T02:43:00.000Z/P7D"
       }
     ]
   },
@@ -82,6 +83,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "交响诗篇 Hi-Evolution 1"
+      ],
+      "zh-Hant": [
+        "交響詩篇艾蕾卡 7：HI - EVOLUTION"
       ]
     },
     "type": "movie",
@@ -104,6 +108,12 @@
         "id": "a/ajvxps58ojsehon",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "87976",
+        "begin": "2022-04-15T04:00:00.000Z",
+        "broadcast": "R/2022-04-15T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -112,6 +122,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "排球少年 才能与感觉"
+      ],
+      "zh-Hant": [
+        "排球少年!! 劇場版：才能與感覺"
       ]
     },
     "type": "movie",
@@ -128,12 +141,25 @@
       {
         "site": "bilibili",
         "id": "83872",
-        "begin": "2017-09-14T16:00:00.000Z"
+        "begin": "2017-09-14T16:00:00.000Z",
+        "broadcast": "R/2018-04-13T04:05:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "0539efbfbd4f0f0311ef",
         "begin": "2020-07-07T05:01:47.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgdWqkc38w1s2ftrvict4zQ",
+        "begin": "2023-03-30T16:00:00.000Z",
+        "broadcast": "R/2023-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSucM34q99kDBpL5FiF4tZo",
+        "begin": "2023-04-26T16:00:00.000Z",
+        "broadcast": "R/2023-04-26T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -142,6 +168,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "排球少年 观念之战"
+      ],
+      "zh-Hant": [
+        "排球少年!! 劇場版：觀念之戰"
       ]
     },
     "type": "movie",
@@ -158,12 +187,25 @@
       {
         "site": "bilibili",
         "id": "82712",
-        "begin": "2017-09-28T16:00:00.000Z"
+        "begin": "2017-09-28T16:00:00.000Z",
+        "broadcast": "R/2018-04-13T06:03:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "caca2bbe6a754dd48779",
         "begin": "2020-07-07T05:01:48.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgdWqkc38w1s2ftrvict4zQ",
+        "begin": "2023-03-30T16:00:00.000Z",
+        "broadcast": "R/2023-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSucM34q99kDBpL5FiF4tZo",
+        "begin": "2023-04-26T16:00:00.000Z",
+        "broadcast": "R/2023-04-26T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -188,7 +230,8 @@
       {
         "site": "bilibili",
         "id": "28223447",
-        "begin": "2017-09-29T16:00:00.000Z"
+        "begin": "2017-09-29T16:00:00.000Z",
+        "broadcast": "R/2019-11-22T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -213,7 +256,8 @@
       {
         "site": "bilibili",
         "id": "6414",
-        "begin": "2017-09-07T16:00:00.000Z"
+        "begin": "2017-09-07T16:00:00.000Z",
+        "broadcast": "R/2017-09-08T02:30:00.000Z/P7D"
       }
     ]
   },

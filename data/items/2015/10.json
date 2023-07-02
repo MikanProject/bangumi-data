@@ -3,7 +3,12 @@
     "title": "かみさまみならい ヒミツのここたま",
     "titleTranslate": {
       "zh-Hans": [
-        "见习神仙 秘密的心灵"
+        "见习神仙 秘密的心灵",
+        "见习神明 秘密的心灵 第一部",
+        "见习神仙 秘密的cocotama"
+      ],
+      "zh-Hant": [
+        "見習神仙精靈"
       ],
       "en": [
         "Kamisama Minarai - Himitsu no Cocotama"
@@ -23,7 +28,8 @@
       {
         "site": "bilibili",
         "id": "3155",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bangumi",
@@ -33,6 +39,12 @@
         "site": "nicovideo",
         "id": "cocotama",
         "begin": "2015-10-08T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "79094",
+        "begin": "2021-07-02T02:00:00.000Z",
+        "broadcast": "R/2021-07-02T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -42,6 +54,9 @@
       "zh-Hans": [
         "偶像活动 4期",
         "偶活学园（偶像活动） 第4季"
+      ],
+      "zh-Hant": [
+        "Aikatsu! 偶像學園！第4季"
       ],
       "en": [
         "Aikatsu"
@@ -62,6 +77,12 @@
       {
         "site": "bangumi",
         "id": "141616"
+      },
+      {
+        "site": "gamer",
+        "id": "90639",
+        "begin": "2017-09-28T05:00:00.000Z",
+        "broadcast": "R/2017-09-28T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -85,7 +106,8 @@
       {
         "site": "bilibili",
         "id": "2719",
-        "begin": "2015-10-02T04:00:00.000Z"
+        "begin": "2015-10-02T04:00:00.000Z",
+        "broadcast": "R/2015-10-02T04:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -127,6 +149,9 @@
       "en": [
         "Heavy Object",
         "HEAVY OBJECT"
+      ],
+      "zh-Hant": [
+        "重裝武器"
       ]
     },
     "type": "tv",
@@ -138,7 +163,8 @@
       {
         "site": "bilibili",
         "id": "2740",
-        "begin": "2015-10-02T19:00:00.000Z"
+        "begin": "2015-10-02T19:00:00.000Z",
+        "broadcast": "R/2015-10-02T19:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -164,6 +190,12 @@
         "id": "PLuxqoToY7UcjbWmWnY8cCDlqeJ-L62j1i",
         "begin": "2023-01-18T16:00:00.000Z",
         "broadcast": "R/2023-01-18T16:00:00.000Z/P1D"
+      },
+      {
+        "site": "gamer",
+        "id": "73148",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -171,7 +203,10 @@
     "title": "ルパン三世(2015)",
     "titleTranslate": {
       "zh-Hans": [
-        "鲁邦三世 新系列"
+        "鲁邦三世 新系列",
+        "鲁邦三世",
+        "鲁邦三世 第四期",
+        "鲁邦三世 2015"
       ],
       "en": [
         "Lupin Sansei 2015",
@@ -207,6 +242,12 @@
         "id": "PLuxqoToY7UchX3ZhQcPolG1Ho73Zcq6B-",
         "begin": "2021-11-11T16:00:00.000Z",
         "broadcast": "R/2021-11-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "73324",
+        "begin": "2020-07-03T03:30:00.000Z",
+        "broadcast": "R/2020-07-03T03:30:00.000Z/P7D"
       }
     ]
   },
@@ -234,7 +275,8 @@
       {
         "site": "bilibili",
         "id": "2721",
-        "begin": "2015-10-02T15:30:00.000Z"
+        "begin": "2015-10-02T15:30:00.000Z",
+        "broadcast": "R/2015-10-02T15:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -266,7 +308,8 @@
     "title": "ヤング ブラック・ジャック",
     "titleTranslate": {
       "zh-Hans": [
-        "青年黑杰克"
+        "青年黑杰克",
+        "少年怪医黑杰克"
       ],
       "en": [
         "Young Black Jack"
@@ -281,7 +324,8 @@
       {
         "site": "bilibili",
         "id": "2720",
-        "begin": "2015-10-02T07:24:00.000Z"
+        "begin": "2015-10-02T07:24:00.000Z",
+        "broadcast": "R/2015-10-02T07:24:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -333,7 +377,8 @@
       {
         "site": "bilibili",
         "id": "2848",
-        "begin": "2015-10-01T16:00:00.000Z"
+        "begin": "2015-10-01T16:00:00.000Z",
+        "broadcast": "R/2015-10-16T14:10:00.000Z/P7D"
       }
     ]
   },
@@ -356,7 +401,8 @@
       {
         "site": "bilibili",
         "id": "2791",
-        "begin": "2015-10-02T13:16:00.000Z"
+        "begin": "2015-10-02T13:16:00.000Z",
+        "broadcast": "R/2015-10-05T13:16:32.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -373,7 +419,11 @@
     "title": "K RETURN OF KINGS",
     "titleTranslate": {
       "zh-Hans": [
-        "K 诸王归来"
+        "K 诸王归来",
+        "「K」第二季"
+      ],
+      "zh-Hant": [
+        "K: Return of Kings"
       ],
       "en": [
         "K RETURN OF KINGS"
@@ -388,7 +438,8 @@
       {
         "site": "bilibili",
         "id": "2725",
-        "begin": "2015-10-02T18:40:00.000Z"
+        "begin": "2015-10-02T18:40:00.000Z",
+        "broadcast": "R/2015-10-02T18:40:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -398,6 +449,12 @@
         "site": "nicovideo",
         "id": "k-project02",
         "begin": "2015-10-07T13:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "73446",
+        "begin": "2018-08-17T05:00:00.000Z",
+        "broadcast": "R/2018-08-17T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -421,7 +478,8 @@
       {
         "site": "bilibili",
         "id": "2743",
-        "begin": "2015-10-03T15:00:00.000Z"
+        "begin": "2015-10-03T15:00:00.000Z",
+        "broadcast": "R/2015-10-03T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -463,7 +521,13 @@
     "title": "ノラガミ ARAGOTO",
     "titleTranslate": {
       "zh-Hans": [
-        "野良神 ARAGOTO"
+        "野良神 ARAGOTO",
+        "野良神 荒事",
+        "流浪神差 第二季",
+        "野良神 第二季"
+      ],
+      "zh-Hant": [
+        "流浪神差 ARAGOTO"
       ],
       "en": [
         "NORAGAMI ARAGOTO"
@@ -478,7 +542,8 @@
       {
         "site": "bilibili",
         "id": "2732",
-        "begin": "2015-10-02T17:05:00.000Z"
+        "begin": "2015-10-02T17:05:00.000Z",
+        "broadcast": "R/2015-10-02T17:05:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -488,6 +553,12 @@
         "site": "nicovideo",
         "id": "noragami-anime2",
         "begin": "2015-10-09T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "76284",
+        "begin": "2018-02-14T09:00:00.000Z",
+        "broadcast": "R/2018-02-14T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -495,7 +566,11 @@
     "title": "蒼穹のファフナー EXODUS(第2クール)",
     "titleTranslate": {
       "zh-Hans": [
-        "苍穹之法芙娜 EXODUS 第2期"
+        "苍穹之法芙娜 EXODUS 第2期",
+        "苍穹的法芙娜 exodus 第二期",
+        "苍穹之法芙娜 EXODUS 后半",
+        "苍穹之Fafner EXODUS 第2期",
+        "苍穹之战神 EXODUS 第2期"
       ],
       "en": [
         "Soukyuu no Fafner Dead Aggressor - Exodus S2"
@@ -523,7 +598,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "学战都市 阿斯塔利斯克",
-        "学战都市Asterisk"
+        "学战都市Asterisk",
+        "学战都市 六芒星"
       ],
       "en": [
         "Gakusen Toshi Asterisk",
@@ -539,7 +615,8 @@
       {
         "site": "bilibili",
         "id": "2722",
-        "begin": "2015-10-03T13:00:00.000Z"
+        "begin": "2015-10-03T13:00:00.000Z",
+        "broadcast": "R/2015-10-03T13:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -556,7 +633,8 @@
     "title": "いとしのムーコ",
     "titleTranslate": {
       "zh-Hans": [
-        "家有穆珂"
+        "家有穆珂",
+        "可爱的穆珂"
       ],
       "en": [
         "Itoshi no Muco",
@@ -572,7 +650,8 @@
       {
         "site": "bilibili",
         "id": "2794",
-        "begin": "2015-10-08T16:05:00.000Z"
+        "begin": "2015-10-08T16:05:00.000Z",
+        "broadcast": "R/2015-10-07T16:05:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -593,6 +672,9 @@
       ],
       "en": [
         "Owarimonogatari"
+      ],
+      "zh-Hant": [
+        "終物語"
       ]
     },
     "type": "tv",
@@ -604,7 +686,8 @@
       {
         "site": "bilibili",
         "id": "2747",
-        "begin": "2015-10-09T06:00:00.000Z"
+        "begin": "2015-10-09T06:00:00.000Z",
+        "broadcast": "R/2015-10-04T05:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -614,6 +697,12 @@
         "site": "nicovideo",
         "id": "owarimonogatari",
         "begin": "2015-10-07T14:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "78087",
+        "begin": "2017-01-13T06:20:00.000Z",
+        "broadcast": "R/2017-01-13T06:20:00.000Z/P7D"
       }
     ]
   },
@@ -621,7 +710,8 @@
     "title": "金田一少年の事件簿R(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "金田一少年事件簿R 2期"
+        "金田一少年事件簿R 2期",
+        "金田一少年之事件簿R S2"
       ],
       "en": [
         "Kindaichi Case Files R S2"
@@ -664,7 +754,8 @@
         "Haikyuu S2"
       ],
       "zh-Hant": [
-        "排球少年!! 第二季"
+        "排球少年!! 第二季",
+        "排球少年！！第二季"
       ]
     },
     "type": "tv",
@@ -690,8 +781,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jh1Q9eywt3xbryU2shwg488",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-08-09T16:00:00.000Z",
+        "broadcast": "R/2021-08-09T16:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -702,14 +793,26 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtRKmhxiP7IygtqmGNbDQ0DR",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-09-20T16:00:00.000Z",
+        "broadcast": "R/2022-09-20T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
         "id": "7iGL15MOs7hZ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "74666",
+        "begin": "2021-12-10T05:00:00.000Z",
+        "broadcast": "R/2021-12-10T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28223025",
+        "begin": "2019-10-09T06:58:36.000Z",
+        "broadcast": "R/2019-10-09T06:58:36.000Z/P7D"
       }
     ]
   },
@@ -767,7 +870,8 @@
     "title": "小森さんは断れない！",
     "titleTranslate": {
       "zh-Hans": [
-        "小森同学拒绝不了！"
+        "小森同学拒绝不了！",
+        "小森拒不了！"
       ],
       "en": [
         "Komori-san wa Kotowarenai"
@@ -782,7 +886,8 @@
       {
         "site": "bilibili",
         "id": "2744",
-        "begin": "2015-10-04T14:00:00.000Z"
+        "begin": "2015-10-04T14:00:00.000Z",
+        "broadcast": "R/2015-10-04T14:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -799,7 +904,8 @@
     "title": "雨色ココア Rainy colorへようこそ！",
     "titleTranslate": {
       "zh-Hans": [
-        "雨色可可 欢迎来到Rainy color！"
+        "雨色可可 欢迎来到Rainy color！",
+        "雨色可可 第二季"
       ],
       "en": [
         "Rainy cocoa Rainy color",
@@ -815,7 +921,8 @@
       {
         "site": "bilibili",
         "id": "2763",
-        "begin": "2015-10-04T15:15:00.000Z"
+        "begin": "2015-10-04T15:15:00.000Z",
+        "broadcast": "R/2015-10-04T15:15:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -848,7 +955,8 @@
       {
         "site": "bilibili",
         "id": "2729",
-        "begin": "2015-10-04T16:05:00.000Z"
+        "begin": "2015-10-04T16:05:00.000Z",
+        "broadcast": "R/2015-10-04T16:05:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -875,7 +983,8 @@
     "title": "コンクリート・レボルティオ～超人幻想～",
     "titleTranslate": {
       "zh-Hans": [
-        "Concrete Revolutio 超人幻想"
+        "Concrete Revolutio 超人幻想",
+        "混凝土革命 超人幻想"
       ],
       "en": [
         "Concrete Revolutio A Superhuman Fantasy"
@@ -890,7 +999,8 @@
       {
         "site": "bilibili",
         "id": "2741",
-        "begin": "2015-10-04T14:30:00.000Z"
+        "begin": "2015-10-04T14:30:00.000Z",
+        "broadcast": "R/2015-10-04T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -943,7 +1053,8 @@
       {
         "site": "bilibili",
         "id": "4310042",
-        "begin": "2015-10-04T10:30:00.000Z"
+        "begin": "2015-10-04T10:30:00.000Z",
+        "broadcast": "R/2018-11-16T10:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -965,6 +1076,9 @@
       ],
       "en": [
         "Comet Lucifer"
+      ],
+      "zh-Hant": [
+        "彗星路西法"
       ]
     },
     "type": "tv",
@@ -976,7 +1090,8 @@
       {
         "site": "bilibili",
         "id": "2745",
-        "begin": "2015-10-04T14:30:00.000Z"
+        "begin": "2015-10-04T14:30:00.000Z",
+        "broadcast": "R/2015-10-04T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -996,6 +1111,18 @@
         "site": "qq",
         "id": "i/isisk8elvk0xrtw",
         "begin": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjp_83xN-2ErQpJkjlH5rna",
+        "begin": "2023-03-24T16:00:00.000Z",
+        "broadcast": "R/2023-03-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "78527",
+        "begin": "2017-06-20T09:00:00.000Z",
+        "broadcast": "R/2017-06-20T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1062,7 +1189,8 @@
       {
         "site": "bilibili",
         "id": "2872",
-        "begin": "2015-10-02T16:00:00.000Z"
+        "begin": "2015-10-02T16:00:00.000Z",
+        "broadcast": "R/2015-10-31T22:05:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1079,7 +1207,8 @@
     "title": "ワンパンマン",
     "titleTranslate": {
       "zh-Hans": [
-        "一拳超人"
+        "一拳超人",
+        "一击男"
       ],
       "en": [
         "One Punch Man",
@@ -1128,6 +1257,12 @@
         "begin": "2022-11-17T16:00:00.000Z",
         "broadcast": "R/2022-11-17T16:00:00.000Z/P7D",
         "comment": "粵語版: 462771"
+      },
+      {
+        "site": "gamer",
+        "id": "75930",
+        "begin": "2016-01-06T06:46:00.000Z",
+        "broadcast": "R/2016-01-06T06:46:00.000Z/P7D"
       }
     ]
   },
@@ -1136,6 +1271,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "高校星歌剧"
+      ],
+      "zh-Hant": [
+        "高校星歌劇"
       ],
       "en": [
         "High School Star Musical"
@@ -1150,7 +1288,8 @@
       {
         "site": "bilibili",
         "id": "2735",
-        "begin": "2015-10-05T16:00:00.000Z"
+        "begin": "2015-10-05T16:00:00.000Z",
+        "broadcast": "R/2015-10-05T16:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1193,7 +1332,8 @@
       {
         "site": "bilibili",
         "id": "2764",
-        "begin": "2015-10-06T14:30:00.000Z"
+        "begin": "2015-10-06T14:30:00.000Z",
+        "broadcast": "R/2015-10-06T14:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1270,7 +1410,8 @@
       {
         "site": "bilibili",
         "id": "2771",
-        "begin": "2015-10-06T10:30:00.000Z"
+        "begin": "2015-10-06T10:30:00.000Z",
+        "broadcast": "R/2015-10-06T11:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1292,10 +1433,14 @@
     "title": "おそ松さん",
     "titleTranslate": {
       "zh-Hans": [
-        "阿松"
+        "阿松",
+        "小松先生"
       ],
       "en": [
         "Osomatsu-san"
+      ],
+      "zh-Hant": [
+        "阿松"
       ]
     },
     "type": "tv",
@@ -1317,6 +1462,12 @@
         "site": "nicovideo",
         "id": "osomatsusan",
         "begin": "2015-10-18T15:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "78260",
+        "begin": "2020-09-14T09:30:00.000Z",
+        "broadcast": "R/2020-09-14T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -1339,7 +1490,8 @@
       {
         "site": "bilibili",
         "id": "2792",
-        "begin": "2015-10-05T16:15:00.000Z"
+        "begin": "2015-10-05T16:15:00.000Z",
+        "broadcast": "R/2015-10-05T16:15:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1357,7 +1509,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "女高给你做饭",
-        "女高中生给你做饭了！"
+        "女高中生给你做饭了！",
+        "JK食堂"
       ],
       "en": [
         "JK-Meshi",
@@ -1373,7 +1526,8 @@
       {
         "site": "bilibili",
         "id": "2767",
-        "begin": "2015-10-05T16:05:00.000Z"
+        "begin": "2015-10-05T16:05:00.000Z",
+        "broadcast": "R/2015-10-05T16:05:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1391,7 +1545,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "关于我被绑架到贵族女校当“庶民样本”的事",
-        "我被绑架到贵族女校当“庶民样本”"
+        "我被绑架到贵族女校当“庶民样本”",
+        "我被绑架到贵族女校当庶民样本"
       ],
       "en": [
         "Ore ga Ojousama Gakkou ni 'Shomin Sample' Toshite Gets Sareta Ken"
@@ -1433,7 +1588,8 @@
     "title": "Dance with Devils",
     "titleTranslate": {
       "zh-Hans": [
-        "与魔共舞"
+        "与魔共舞",
+        "与魔鬼共舞"
       ],
       "en": [
         "Dance with Devils"
@@ -1453,7 +1609,8 @@
       {
         "site": "bilibili",
         "id": "2746",
-        "begin": "2015-10-07T18:00:00.000Z"
+        "begin": "2015-10-07T18:00:00.000Z",
+        "broadcast": "R/2015-10-07T18:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1480,7 +1637,8 @@
     "title": "櫻子さんの足下には死体が埋まっている",
     "titleTranslate": {
       "zh-Hans": [
-        "樱子小姐的脚下埋着尸体"
+        "樱子小姐的脚下埋着尸体",
+        "樱子小姐的脚下埋着秘密"
       ],
       "en": [
         "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
@@ -1496,7 +1654,8 @@
       {
         "site": "bilibili",
         "id": "2742",
-        "begin": "2015-10-07T17:00:00.000Z"
+        "begin": "2015-10-07T17:00:00.000Z",
+        "broadcast": "R/2015-10-07T17:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1538,7 +1697,8 @@
       {
         "site": "bilibili",
         "id": "2738",
-        "begin": "2015-10-07T13:05:00.000Z"
+        "begin": "2015-10-07T13:05:00.000Z",
+        "broadcast": "R/2015-10-07T13:05:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1587,7 +1747,8 @@
     "title": "対魔導学園35試験小隊",
     "titleTranslate": {
       "zh-Hans": [
-        "对魔导学园35试验小队"
+        "对魔导学园35试验小队",
+        "対魔导学园35试験小队"
       ],
       "en": [
         "Taimadou Gakuen 35 Shiken Shoutai",
@@ -1603,7 +1764,8 @@
       {
         "site": "bilibili",
         "id": "2724",
-        "begin": "2015-10-07T17:35:00.000Z"
+        "begin": "2015-10-07T17:35:00.000Z",
+        "broadcast": "R/2015-10-07T17:35:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1661,7 +1823,8 @@
       {
         "site": "bilibili",
         "id": "2726",
-        "begin": "2015-10-08T17:35:00.000Z"
+        "begin": "2015-10-08T17:35:00.000Z",
+        "broadcast": "R/2015-10-08T17:35:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1693,7 +1856,8 @@
       {
         "site": "bilibili",
         "id": "2733",
-        "begin": "2015-10-08T15:00:00.000Z"
+        "begin": "2015-10-08T15:00:00.000Z",
+        "broadcast": "R/2015-10-07T15:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1734,7 +1898,8 @@
       {
         "site": "bilibili",
         "id": "2760",
-        "begin": "2015-10-15T18:00:00.000Z"
+        "begin": "2015-10-15T18:00:00.000Z",
+        "broadcast": "R/2015-10-10T18:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1773,7 +1938,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "请问您今天要来点兔子吗？？",
-        "请问您今天要来点兔子吗 第二季"
+        "请问您今天要来点兔子吗 第二季",
+        "请问您今天要来点兔子吗？ 第二季",
+        "请问您点的是兔子吗？？"
       ],
       "en": [
         "Gochuumon wa Usagi Desuka 2",
@@ -1792,7 +1959,8 @@
       {
         "site": "bilibili",
         "id": "2762",
-        "begin": "2015-10-15T17:00:00.000Z"
+        "begin": "2015-10-15T17:00:00.000Z",
+        "broadcast": "R/2015-10-10T17:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1808,6 +1976,12 @@
         "id": "PLuxqoToY7UchRGJOkrh2Kw0kfVtTWpn_k",
         "begin": "2021-01-31T16:00:00.000Z",
         "broadcast": "R/2021-01-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "75298",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1820,6 +1994,9 @@
       "en": [
         "Shinmai Maou no Testament Burst",
         "The Testament of Sister New Devil BURST"
+      ],
+      "zh-Hant": [
+        "新妹魔王的契約者 BURST"
       ]
     },
     "type": "tv",
@@ -1838,9 +2015,10 @@
         "begin": "2015-10-22T03:00:00.000Z"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_hk_mo_tw",
         "id": "6288",
-        "begin": "2015-10-08T16:00:01.000Z"
+        "begin": "2017-06-13T06:49:22.000Z",
+        "broadcast": "R/2017-06-13T06:49:22.000Z/P7D"
       }
     ]
   },
@@ -1849,7 +2027,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "女武神驱动",
-        "女武神驱动 MERMAID"
+        "女武神驱动 MERMAID",
+        "女武神驱动 -美人鱼-"
       ],
       "en": [
         "Valkyrie Drive Mermaid",
@@ -1939,7 +2118,8 @@
       {
         "site": "bilibili",
         "id": "2774",
-        "begin": "2015-10-09T17:30:00.000Z"
+        "begin": "2015-10-09T17:30:00.000Z",
+        "broadcast": "R/2015-10-09T17:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -2114,6 +2294,9 @@
         "精灵宝可梦XY&Z",
         "口袋妖怪 XY & Z"
       ],
+      "zh-Hant": [
+        "寶可夢 XY＆Z"
+      ],
       "en": [
         "Pokemon XY & Z"
       ]
@@ -2156,12 +2339,19 @@
       {
         "site": "bilibili",
         "id": "5692",
-        "begin": "2015-10-28T16:00:01.000Z"
+        "begin": "2015-10-28T16:00:01.000Z",
+        "broadcast": "R/2017-09-12T09:25:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "efbfbd7a6a7070efbfbd",
         "begin": "2019-08-07T11:05:19.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "79604",
+        "begin": "2021-03-19T05:00:00.000Z",
+        "broadcast": "R/2021-03-19T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -2203,7 +2393,8 @@
       {
         "site": "bilibili",
         "id": "5908",
-        "begin": "2015-10-04T16:00:00.000Z"
+        "begin": "2015-10-04T16:00:00.000Z",
+        "broadcast": "R/2019-05-16T12:19:00.000Z/P7D"
       }
     ]
   },
@@ -2227,7 +2418,8 @@
       {
         "site": "bilibili",
         "id": "4106",
-        "begin": "2015-10-01T16:00:01.000Z"
+        "begin": "2015-10-01T16:00:01.000Z",
+        "broadcast": "R/2016-05-27T03:27:00.000Z/P7D"
       }
     ]
   },
@@ -2304,7 +2496,8 @@
       {
         "site": "bilibili",
         "id": "4098",
-        "begin": "2015-10-01T16:00:01.000Z"
+        "begin": "2015-10-01T16:00:01.000Z",
+        "broadcast": "R/2016-05-27T02:53:05.000Z/P7D"
       }
     ]
   },
@@ -2333,7 +2526,8 @@
       {
         "site": "bilibili",
         "id": "3421",
-        "begin": "2015-10-18T16:00:01.000Z"
+        "begin": "2015-10-18T16:00:01.000Z",
+        "broadcast": "R/2016-03-11T10:54:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -2391,7 +2585,8 @@
       {
         "site": "bilibili",
         "id": "4093",
-        "begin": "2015-10-02T16:00:01.000Z"
+        "begin": "2015-10-02T16:00:01.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -2432,7 +2627,8 @@
     "title": "RWBY Volume 3",
     "titleTranslate": {
       "zh-Hans": [
-        "红白黑黄 第三季"
+        "红白黑黄 第三季",
+        "四色战记 / RWBY 第三季"
       ]
     },
     "type": "web",
@@ -2448,8 +2644,9 @@
       },
       {
         "site": "bilibili",
-        "id": "2894",
-        "begin": "2015-10-23T16:00:00.000Z"
+        "id": "28236841",
+        "begin": "2022-02-06T10:00:01.000Z",
+        "broadcast": "R/2022-02-06T10:00:01.000Z/P7D"
       }
     ]
   },
@@ -2474,7 +2671,8 @@
       {
         "site": "bilibili",
         "id": "6407",
-        "begin": "2015-10-25T16:00:00.000Z"
+        "begin": "2015-10-25T16:00:00.000Z",
+        "broadcast": "R/2017-08-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2499,7 +2697,8 @@
       {
         "site": "bilibili",
         "id": "4083",
-        "begin": "2015-10-15T16:00:00.000Z"
+        "begin": "2015-10-15T16:00:00.000Z",
+        "broadcast": "R/2016-05-26T09:49:00.000Z/P7D"
       }
     ]
   },
@@ -2524,7 +2723,8 @@
       {
         "site": "bilibili",
         "id": "2990",
-        "begin": "2015-09-30T16:00:00.000Z"
+        "begin": "2015-09-30T16:00:00.000Z",
+        "broadcast": "R/2015-11-12T17:05:00.000Z/P7D"
       }
     ]
   }

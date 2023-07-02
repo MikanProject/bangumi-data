@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "3939",
-        "begin": "1995-08-03T16:00:01.000Z"
+        "begin": "1995-08-03T16:00:01.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -38,6 +39,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秀逗魔导士 剧场版"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 完全無欠版"
       ]
     },
     "type": "movie",
@@ -63,12 +67,19 @@
       {
         "site": "bilibili",
         "id": "3905",
-        "begin": "1995-08-04T16:00:01.000Z"
+        "begin": "1995-08-04T16:00:01.000Z",
+        "broadcast": "R/2016-05-03T03:36:27.000Z/P7D"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhwb7ed",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "103555",
+        "begin": "2019-01-28T10:00:00.000Z",
+        "broadcast": "R/2019-01-28T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -93,6 +104,31 @@
       {
         "site": "bangumi",
         "id": "41865"
+      }
+    ]
+  },
+  {
+    "title": "TYLOR THE IRRESPONSIBLE CAPTAIN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无责任舰长OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-08-31T16:00:00.000Z",
+    "end": "1996-07-31T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38730"
+      },
+      {
+        "site": "bilibili",
+        "id": "3997",
+        "begin": "2016-05-16T07:41:00.000Z",
+        "broadcast": "R/2016-05-16T07:41:00.000Z/P7D"
       }
     ]
   }

@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "家有女友"
+      ],
+      "zh-Hant": [
+        "家有女友"
       ]
     },
     "type": "tv",
@@ -25,6 +28,12 @@
         "site": "nicovideo",
         "id": "domekano",
         "begin": "2019-02-11T16:40:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "99608",
+        "begin": "2019-01-18T18:10:00.000Z",
+        "broadcast": "R/2019-01-18T18:10:00.000Z/P7D"
       }
     ]
   },
@@ -35,7 +44,8 @@
         "MAGICAL GIRL SPEC-OPS ASUKA"
       ],
       "zh-Hans": [
-        "魔法少女特殊战明日香"
+        "魔法少女特殊战明日香",
+        "魔法老兵"
       ],
       "zh-Hant": [
         "魔法少女特殊戰明日香"
@@ -71,6 +81,12 @@
         "id": "PLuxqoToY7Ucjry36QBUr4JgAvC-apcbiW",
         "begin": "2022-04-11T16:00:00.000Z",
         "broadcast": "R/2022-04-11T16:00:00.000Z/P1D"
+      },
+      {
+        "site": "gamer",
+        "id": "99891",
+        "begin": "2019-01-11T18:40:00.000Z",
+        "broadcast": "R/2019-01-11T18:40:00.000Z/P7D"
       }
     ]
   },
@@ -78,10 +94,12 @@
     "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
     "titleTranslate": {
       "zh-Hans": [
-        "辉夜大小姐想让我告白～天才们的恋爱头脑战～"
+        "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+        "辉夜姬想让人告白～天才们的恋爱头脑战～"
       ],
       "zh-Hant": [
-        "輝夜姬想讓人告白~天才們的戀愛頭腦戰~"
+        "輝夜姬想讓人告白~天才們的戀愛頭腦戰~",
+        "輝夜姬想讓人告白～天才們的戀愛頭腦戰～"
       ],
       "en": [
         "Kaguya-sama: Love Is War"
@@ -100,7 +118,9 @@
       {
         "site": "bilibili",
         "id": "5267730",
-        "begin": "2019-01-12T16:00:00.000Z"
+        "begin": "2019-01-12T16:00:00.000Z",
+        "broadcast": "R/2019-01-12T16:00:00.000Z/P7D",
+        "comment": "中配版: 28236255"
       },
       {
         "site": "nicovideo",
@@ -124,6 +144,12 @@
         "id": "4NKJVe6LweoI",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "98176",
+        "begin": "2019-01-12T16:00:00.000Z",
+        "broadcast": "R/2019-01-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -132,10 +158,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "Endro~!",
-        "Endro~！"
+        "Endro~！",
+        "勇者企划Endro~!"
       ],
       "zh-Hant": [
-        "ENDRO!"
+        "ENDRO!",
+        "ENDRO！"
       ],
       "en": [
         "ENDRO!"
@@ -174,7 +202,8 @@
       {
         "site": "bilibili",
         "id": "28227618",
-        "begin": "2019-01-12T16:00:00.000Z"
+        "begin": "2019-01-12T16:00:00.000Z",
+        "broadcast": "R/2020-01-22T09:49:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -185,6 +214,12 @@
       {
         "site": "mytv",
         "id": "endro_119935",
+        "begin": "2019-01-12T17:30:00.000Z",
+        "broadcast": "R/2019-01-12T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "99920",
         "begin": "2019-01-12T17:30:00.000Z",
         "broadcast": "R/2019-01-12T17:30:00.000Z/P7D"
       }
@@ -241,13 +276,20 @@
       {
         "site": "bilibili",
         "id": "28228699",
-        "begin": "2019-01-06T16:00:00.000Z"
+        "begin": "2019-01-06T16:00:00.000Z",
+        "broadcast": "R/2020-04-20T07:20:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgQfL8n7aV7H4DtgeeNYp0e",
         "begin": "2019-09-24T16:00:00.000Z",
         "broadcast": "R/2019-09-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95932",
+        "begin": "2019-01-07T17:30:00.000Z",
+        "broadcast": "R/2019-01-07T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -271,7 +313,8 @@
       {
         "site": "bilibili",
         "id": "5346052",
-        "begin": "2019-01-05T17:30:00.000Z"
+        "begin": "2019-01-05T17:30:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -284,7 +327,9 @@
     "title": "不機嫌なモノノケ庵 續",
     "titleTranslate": {
       "zh-Hans": [
-        "忧郁的物怪庵 续"
+        "忧郁的物怪庵 续",
+        "不愉快的妖怪庵 续",
+        "不愉快的怪物庵 续"
       ],
       "zh-Hant": [
         "不愉快的妖怪庵 續"
@@ -303,7 +348,8 @@
       {
         "site": "bilibili",
         "id": "5267026",
-        "begin": "2019-01-05T14:00:00.000Z"
+        "begin": "2019-01-05T14:00:00.000Z",
+        "broadcast": "R/2019-01-05T14:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -325,6 +371,12 @@
         "id": "121520",
         "begin": "2019-01-04T16:00:00.000Z",
         "broadcast": "R/2019-01-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "98946",
+        "begin": "2019-01-10T04:36:00.000Z",
+        "broadcast": "R/2019-01-10T04:36:00.000Z/P7D"
       }
     ]
   },
@@ -333,7 +385,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "天使降临到了我身边",
-        "天使降临到了我身边！"
+        "天使降临到了我身边！",
+        "天使降临到我身边"
       ]
     },
     "type": "tv",
@@ -349,7 +402,8 @@
       {
         "site": "bilibili",
         "id": "4316442",
-        "begin": "2019-01-08T14:00:00.000Z"
+        "begin": "2019-01-08T14:00:00.000Z",
+        "broadcast": "R/2019-01-08T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -362,7 +416,8 @@
     "title": "五等分の花嫁",
     "titleTranslate": {
       "zh-Hans": [
-        "五等分的新娘"
+        "五等分的新娘",
+        "五等分的花嫁"
       ],
       "en": [
         "The Quintessential Quintuplets"
@@ -381,7 +436,8 @@
       {
         "site": "bilibili",
         "id": "4316382",
-        "begin": "2019-01-10T17:33:00.000Z"
+        "begin": "2019-01-10T17:33:00.000Z",
+        "broadcast": "R/2019-01-10T17:33:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -413,7 +469,8 @@
       {
         "site": "bilibili",
         "id": "5871233",
-        "begin": "2019-01-11T07:00:00.000Z"
+        "begin": "2019-01-11T07:00:00.000Z",
+        "broadcast": "R/2019-01-11T07:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -446,7 +503,8 @@
       {
         "site": "bilibili",
         "id": "4760998",
-        "begin": "2019-01-04T15:00:00.000Z"
+        "begin": "2019-01-04T15:00:00.000Z",
+        "broadcast": "R/2019-01-04T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -458,6 +516,12 @@
         "id": "122119",
         "begin": "2019-01-03T16:00:00.000Z",
         "broadcast": "R/2019-01-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "102022",
+        "begin": "2019-01-04T15:00:00.000Z",
+        "broadcast": "R/2019-01-04T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -527,7 +591,8 @@
       {
         "site": "bilibili",
         "id": "4316482",
-        "begin": "2019-01-02T15:00:00.000Z"
+        "begin": "2019-01-02T15:00:00.000Z",
+        "broadcast": "R/2019-01-02T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -537,8 +602,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjUjfr2UrjZKrFVcLXLZFrE",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-04-13T16:00:00.000Z",
+        "broadcast": "R/2022-04-13T16:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -551,6 +616,12 @@
         "id": "4lgHH2jdAefe",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "89735",
+        "begin": "2022-04-26T03:00:00.000Z",
+        "broadcast": "R/2022-04-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -590,7 +661,9 @@
     "title": "賭ケグルイ××",
     "titleTranslate": {
       "zh-Hans": [
-        "狂赌之渊 ××"
+        "狂赌之渊 ××",
+        "狂赌之渊 XX",
+        "狂赌之渊 2期"
       ]
     },
     "type": "tv",
@@ -619,7 +692,8 @@
     "title": "ケムリクサ",
     "titleTranslate": {
       "zh-Hans": [
-        "烟草"
+        "烟草",
+        "煙草"
       ]
     },
     "type": "tv",
@@ -635,7 +709,8 @@
       {
         "site": "bilibili",
         "id": "4316422",
-        "begin": "2019-01-09T13:30:00.000Z"
+        "begin": "2019-01-09T13:30:00.000Z",
+        "broadcast": "R/2019-01-09T13:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -648,7 +723,8 @@
     "title": "同居人はひざ、時々、頭のうえ。",
     "titleTranslate": {
       "zh-Hans": [
-        "同居人时而在腿上、时而跑到脑袋上"
+        "同居人时而在腿上、时而跑到脑袋上",
+        "同居人是猫"
       ],
       "zh-Hant": [
         "同居人是貓"
@@ -667,7 +743,8 @@
       {
         "site": "bilibili",
         "id": "4762694",
-        "begin": "2019-01-09T16:00:00.000Z"
+        "begin": "2019-01-09T16:00:00.000Z",
+        "broadcast": "R/2019-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -679,6 +756,12 @@
         "id": "PLuxqoToY7UcgXjxwXV7Ero7lqV8xrbkq5",
         "begin": "2021-04-06T16:00:00.000Z",
         "broadcast": "R/2021-04-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "100317",
+        "begin": "2019-01-09T16:00:00.000Z",
+        "broadcast": "R/2019-01-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -690,7 +773,8 @@
       ],
       "zh-Hant": [
         "路人超能100 (第二季)",
-        "路人超能100 S2"
+        "路人超能100 S2",
+        "路人超能 100 第二季"
       ]
     },
     "type": "tv",
@@ -706,7 +790,8 @@
       {
         "site": "bilibili",
         "id": "4762734",
-        "begin": "2019-01-07T15:30:00.000Z"
+        "begin": "2019-01-07T15:30:00.000Z",
+        "broadcast": "R/2019-01-07T15:30:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -725,6 +810,12 @@
         "id": "80179798",
         "begin": "2021-12-08T16:00:00.000Z",
         "broadcast": "R/2021-12-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95465",
+        "begin": "2019-01-07T15:30:00.000Z",
+        "broadcast": "R/2019-01-07T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -733,7 +824,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "荒野的寿飞行队",
-        "荒野的科特布奇飞行队"
+        "荒野的科特布奇飞行队",
+        "荒野的科托布基飞行队",
+        "荒野的KOTOBUKI机队"
       ],
       "zh-Hant": [
         "荒野的壽飛行隊"
@@ -769,6 +862,12 @@
         "id": "PLuxqoToY7Ucj2EXO0UvWSnPn_PEZl4U3i",
         "begin": "2020-01-12T16:00:00.000Z",
         "broadcast": "R/2020-01-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "101301",
+        "begin": "2019-01-13T15:00:00.000Z",
+        "broadcast": "R/2019-01-13T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -777,7 +876,15 @@
     "titleTranslate": {
       "zh-Hans": [
         "玛娜利亚魔法学院",
-        "巴哈姆特之怒 玛娜利亚魔法学院"
+        "巴哈姆特之怒 玛娜利亚魔法学院",
+        "玛纳利亚的密友",
+        "玛娜利亚学院",
+        "玛娜莉亚的朋友",
+        "马纳利亚朋友",
+        "玛娜莉亚魔法学院"
+      ],
+      "zh-Hant": [
+        "馬納歷亞的親愛摯友"
       ]
     },
     "type": "tv",
@@ -793,12 +900,19 @@
       {
         "site": "bilibili",
         "id": "4315722",
-        "begin": "2019-01-20T16:45:00.000Z"
+        "begin": "2019-01-20T16:45:00.000Z",
+        "broadcast": "R/2019-01-20T16:45:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "manaria",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "79337",
+        "begin": "2019-01-20T16:45:00.000Z",
+        "broadcast": "R/2019-01-20T16:45:00.000Z/P7D"
       }
     ]
   },
@@ -828,7 +942,8 @@
       {
         "site": "bilibili",
         "id": "4762714",
-        "begin": "2019-01-06T16:15:00.000Z"
+        "begin": "2019-01-06T16:15:00.000Z",
+        "broadcast": "R/2019-01-06T16:15:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -840,6 +955,12 @@
         "id": "PLuxqoToY7UcgVheCzoWgik8FW0vT6KF-z",
         "begin": "2019-11-30T16:00:00.000Z",
         "broadcast": "R/2019-11-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "98118",
+        "begin": "2019-01-06T16:45:00.000Z",
+        "broadcast": "R/2019-01-06T16:45:00.000Z/P7D"
       }
     ]
   },
@@ -866,7 +987,8 @@
       {
         "site": "bilibili",
         "id": "4762002",
-        "begin": "2019-01-03T15:30:00.000Z"
+        "begin": "2019-01-03T15:30:00.000Z",
+        "broadcast": "R/2019-01-03T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -878,6 +1000,12 @@
         "id": "PLuxqoToY7UciwhBaR6QHIEbDmdK32uLD0",
         "begin": "2019-11-09T16:00:00.000Z",
         "broadcast": "R/2019-11-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "97712",
+        "begin": "2019-01-03T15:30:00.000Z",
+        "broadcast": "R/2019-01-03T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -908,7 +1036,9 @@
       {
         "site": "bilibili",
         "id": "5267750",
-        "begin": "2019-01-10T17:25:00.000Z"
+        "begin": "2019-01-10T17:25:00.000Z",
+        "broadcast": "R/2019-01-09T15:00:00.000Z/P7D",
+        "comment": "粤配版: 28236461"
       },
       {
         "site": "nicovideo",
@@ -933,6 +1063,12 @@
         "id": "thepromisedneverland_119851",
         "begin": "2019-01-09T15:00:00.000Z",
         "broadcast": "R/2019-01-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "97790",
+        "begin": "2019-08-01T09:00:00.000Z",
+        "broadcast": "R/2019-08-01T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -956,7 +1092,8 @@
       {
         "site": "bilibili",
         "id": "5873044",
-        "begin": "2019-01-08T16:35:00.000Z"
+        "begin": "2019-01-08T16:35:00.000Z",
+        "broadcast": "R/2019-01-08T16:35:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -969,7 +1106,11 @@
     "title": "デート・ア・ライブIII",
     "titleTranslate": {
       "zh-Hans": [
-        "约会大作战 第三季"
+        "约会大作战 第三季",
+        "约会大作战3"
+      ],
+      "zh-Hant": [
+        "約會大作戰 DATE A LIVE 第三季"
       ]
     },
     "type": "tv",
@@ -985,7 +1126,8 @@
       {
         "site": "bilibili",
         "id": "4762754",
-        "begin": "2019-01-11T14:00:00.000Z"
+        "begin": "2019-01-11T14:00:00.000Z",
+        "broadcast": "R/2019-01-11T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1007,6 +1149,12 @@
         "id": "PLuxqoToY7UcjhPPPyf6E0hCBE_9bbywjZ",
         "begin": "2022-05-13T16:00:00.000Z",
         "broadcast": "R/2022-05-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "92148",
+        "begin": "2019-01-13T14:00:00.000Z",
+        "broadcast": "R/2019-01-13T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1014,7 +1162,12 @@
     "title": "バミューダトライアングル ～カラフル・パストラーレ～",
     "titleTranslate": {
       "zh-Hans": [
-        "百慕大三角～Colorful Pastrale～"
+        "百慕大三角～Colorful Pastrale～",
+        "百慕大三角 ～多彩田园曲～",
+        "多彩田园曲 ～来自百慕大三角△～"
+      ],
+      "zh-Hant": [
+        "百慕達三角～多彩田園曲～"
       ]
     },
     "type": "tv",
@@ -1050,7 +1203,14 @@
       {
         "site": "bilibili",
         "id": "28228720",
-        "begin": "2019-01-11T16:00:00.000Z"
+        "begin": "2019-01-11T16:00:00.000Z",
+        "broadcast": "R/2020-05-11T07:41:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "102578",
+        "begin": "2019-01-12T14:00:00.000Z",
+        "broadcast": "R/2019-01-12T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1074,7 +1234,8 @@
       {
         "site": "bilibili",
         "id": "5268246",
-        "begin": "2018-12-31T15:00:00.000Z"
+        "begin": "2018-12-31T15:00:00.000Z",
+        "broadcast": "R/2018-12-31T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1088,6 +1249,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "B-PROJECT～绝顶＊Emotion～"
+      ],
+      "zh-Hant": [
+        "B-PROJECT～絕頂＊Emotion～"
       ]
     },
     "type": "tv",
@@ -1103,7 +1267,8 @@
       {
         "site": "bilibili",
         "id": "5269634",
-        "begin": "2019-01-11T16:30:00.000Z"
+        "begin": "2019-01-11T16:30:00.000Z",
+        "broadcast": "R/2019-01-11T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1114,6 +1279,12 @@
         "site": "pptv",
         "id": "8ToTkflfzw1w7lY",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "99780",
+        "begin": "2019-01-11T18:30:00.000Z",
+        "broadcast": "R/2019-01-11T18:30:00.000Z/P7D"
       }
     ]
   },
@@ -1121,7 +1292,12 @@
     "title": "けものフレンズ2",
     "titleTranslate": {
       "zh-Hans": [
-        "兽娘动物园2"
+        "兽娘动物园2",
+        "动物朋友2",
+        "萌兽之友2"
+      ],
+      "zh-Hant": [
+        "動物朋友 2"
       ]
     },
     "type": "tv",
@@ -1137,7 +1313,8 @@
       {
         "site": "bilibili",
         "id": "5345112",
-        "begin": "2019-01-14T18:05:00.000Z"
+        "begin": "2019-01-14T18:05:00.000Z",
+        "broadcast": "R/2019-01-14T18:05:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1153,6 +1330,12 @@
         "site": "youku",
         "id": "f4e60d496a0d48039eea",
         "begin": "2019-01-14T18:34:58.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "101498",
+        "begin": "2019-01-14T18:05:00.000Z",
+        "broadcast": "R/2019-01-14T18:05:00.000Z/P7D"
       }
     ]
   },
@@ -1180,7 +1363,8 @@
       {
         "site": "bilibili",
         "id": "5268038",
-        "begin": "2019-01-08T14:00:00.000Z"
+        "begin": "2019-01-08T14:00:00.000Z",
+        "broadcast": "R/2019-01-08T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1193,7 +1377,8 @@
     "title": "ブギーポップは笑わない",
     "titleTranslate": {
       "zh-Hans": [
-        "不吉波普不笑"
+        "不吉波普不笑",
+        "幻影死神"
       ]
     },
     "type": "tv",
@@ -1209,7 +1394,8 @@
       {
         "site": "bilibili",
         "id": "4316462",
-        "begin": "2019-01-04T13:00:00.000Z"
+        "begin": "2019-01-04T13:00:00.000Z",
+        "broadcast": "R/2019-01-04T13:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1296,7 +1482,8 @@
       {
         "site": "bilibili",
         "id": "4315702",
-        "begin": "2019-01-27T18:00:00.000Z"
+        "begin": "2019-01-27T18:00:00.000Z",
+        "broadcast": "R/2019-01-27T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -1305,7 +1492,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "revisions",
-        "涩谷保卫战"
+        "涩谷保卫战",
+        "新世纪涉谷战(港)",
+        "涩谷新视界(台)"
       ],
       "zh-Hant": [
         "澀谷新視界",
@@ -1328,7 +1517,8 @@
       {
         "site": "bilibili",
         "id": "4316402",
-        "begin": "2019-01-09T18:55:00.000Z"
+        "begin": "2019-01-09T18:55:00.000Z",
+        "broadcast": "R/2019-01-09T18:55:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1358,7 +1548,8 @@
       {
         "site": "bilibili",
         "id": "4312482",
-        "begin": "2019-01-07T14:00:00.000Z"
+        "begin": "2019-01-07T14:00:00.000Z",
+        "broadcast": "R/2019-01-06T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1493,7 +1684,11 @@
     "title": "ルパン三世 グッバイ・パートナー",
     "titleTranslate": {
       "zh-Hans": [
-        "鲁邦三世 Goodbye Partner"
+        "鲁邦三世 Goodbye Partner",
+        "鲁邦三世 再见搭档"
+      ],
+      "zh-Hant": [
+        "魯邦三世 再見了伙伴"
       ]
     },
     "type": "tv",
@@ -1510,6 +1705,12 @@
         "site": "qq",
         "id": "m/mzc00200i0467y9",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "103345",
+        "begin": "2020-07-03T03:30:00.000Z",
+        "broadcast": "R/2020-07-03T03:30:00.000Z/P7D"
       }
     ]
   },
@@ -1518,6 +1719,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "来自深渊 启程的黎明"
+      ],
+      "zh-Hant": [
+        "來自深淵 劇場版總集篇 前編：啟程的黎明"
       ]
     },
     "type": "movie",
@@ -1539,7 +1743,14 @@
       {
         "site": "bilibili",
         "id": "28230043",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "112520",
+        "begin": "2020-07-27T09:00:00.000Z",
+        "broadcast": "R/2020-07-27T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1548,6 +1759,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "来自深渊 漂泊的黄昏"
+      ],
+      "zh-Hant": [
+        "來自深淵 劇場版總集篇 後編：流浪之黃昏"
       ]
     },
     "type": "movie",
@@ -1569,7 +1783,14 @@
       {
         "site": "bilibili",
         "id": "28230043",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "112521",
+        "begin": "2020-08-27T09:00:00.000Z",
+        "broadcast": "R/2020-08-27T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1594,7 +1815,8 @@
       {
         "site": "bilibili",
         "id": "28228631",
-        "begin": "2020-04-16T16:00:00.000Z"
+        "begin": "2020-04-16T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -1637,7 +1859,8 @@
         "命运之夜——天之杯 Ⅱ：迷失之蝶"
       ],
       "zh-Hant": [
-        "Fate/stay night [Heaven's Feel]：II. 迷途之蝶"
+        "Fate/stay night [Heaven's Feel]：II. 迷途之蝶",
+        "Fate/stay night [Heaven's Feel] II.迷途之蝶"
       ],
       "en": [
         "Fate/stay night: Heaven's Feel II. Lost Butterfly"
@@ -1659,6 +1882,72 @@
         "id": "81169358",
         "begin": "2021-08-04T16:00:00.000Z",
         "broadcast": "R/2021-08-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "97603",
+        "begin": "2021-07-02T03:50:00.000Z",
+        "broadcast": "R/2021-07-02T03:50:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス Sinners of the System Case.1 罪と罰",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者 Sinners of the System Case.1 罪与罚"
+      ],
+      "zh-Hant": [
+        "PSYCHO-PASS 心靈判官 Sinners of the System Case.1 罪與罰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/ss",
+    "begin": "2019-01-24T16:00:00.000Z",
+    "end": "2019-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239923"
+      },
+      {
+        "site": "gamer",
+        "id": "94718",
+        "begin": "2020-03-27T13:30:00.000Z",
+        "broadcast": "R/2020-03-27T13:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "あした世界が終わるとしても",
+    "titleTranslate": {
+      "zh-Hans": [
+        "即使明天世界终结",
+        "就算明天世界毁灭",
+        "即使明天世界将迎来终结"
+      ],
+      "zh-Hant": [
+        "相對世界。明日終結？"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://ashitasekaiga.jp/",
+    "begin": "2019-01-24T16:00:00.000Z",
+    "end": "2019-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262688"
+      },
+      {
+        "site": "gamer",
+        "id": "101812",
+        "begin": "2019-08-02T09:00:00.000Z",
+        "broadcast": "R/2019-08-02T09:00:00.000Z/P7D"
       }
     ]
   }

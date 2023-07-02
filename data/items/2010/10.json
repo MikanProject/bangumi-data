@@ -25,7 +25,8 @@
     "title": "それでも町は廻っている",
     "titleTranslate": {
       "zh-Hans": [
-        "女仆咖啡厅"
+        "女仆咖啡厅",
+        "即使如此小镇依然转动"
       ]
     },
     "type": "tv",
@@ -46,7 +47,8 @@
       {
         "site": "bilibili",
         "id": "992",
-        "begin": "2010-10-06T16:00:00.000Z"
+        "begin": "2010-10-06T16:00:00.000Z",
+        "broadcast": "R/2010-10-08T03:53:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -59,7 +61,8 @@
     "title": "荒川アンダー ザ ブリッジ×ブリッジ",
     "titleTranslate": {
       "zh-Hans": [
-        "荒川爆笑团2"
+        "荒川爆笑团2",
+        "荒川爆笑团 第2期"
       ]
     },
     "type": "tv",
@@ -95,7 +98,8 @@
       {
         "site": "bilibili",
         "id": "979",
-        "begin": "2010-10-02T16:00:00.000Z"
+        "begin": "2010-10-02T16:00:00.000Z",
+        "broadcast": "R/2016-05-05T02:32:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -113,7 +117,8 @@
     "title": "おとめ妖怪 ざくろ",
     "titleTranslate": {
       "zh-Hans": [
-        "半妖少女绮丽谭"
+        "半妖少女绮丽谭",
+        "少女妖怪 柘榴"
       ]
     },
     "type": "tv",
@@ -142,7 +147,8 @@
     "title": "百花繚乱 サムライガールズ",
     "titleTranslate": {
       "zh-Hans": [
-        "百花缭乱 SAMURAI GIRLS"
+        "百花缭乱 SAMURAI GIRLS",
+        "百花缭乱 武士少女"
       ]
     },
     "type": "tv",
@@ -197,7 +203,8 @@
       {
         "site": "bilibili",
         "id": "1691",
-        "begin": "2010-10-06T16:00:00.000Z"
+        "begin": "2010-10-06T16:00:00.000Z",
+        "broadcast": "R/2011-04-01T12:26:00.000Z/P7D"
       }
     ]
   },
@@ -231,7 +238,8 @@
       {
         "site": "bilibili",
         "id": "3484",
-        "begin": "2010-10-02T16:00:01.000Z"
+        "begin": "2010-10-02T16:00:01.000Z",
+        "broadcast": "R/2016-03-23T04:48:00.000Z/P7D"
       }
     ]
   },
@@ -264,11 +272,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔法禁书目录 第二季",
-        "魔法禁书目录 第2季"
+        "魔法禁书目录 第2季",
+        "魔法禁书目录II"
       ],
-      "zh-Hant":[
+      "zh-Hant": [
         "魔法禁書目錄II",
-        "魔法禁書目錄S2"
+        "魔法禁書目錄S2",
+        "魔法禁書目錄 Ⅱ"
       ]
     },
     "type": "tv",
@@ -304,13 +314,20 @@
       {
         "site": "bilibili",
         "id": "964",
-        "begin": "2010-10-07T16:00:00.000Z"
+        "begin": "2010-10-07T16:00:00.000Z",
+        "broadcast": "R/2011-04-04T08:35:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjyuDiweddsPnMOyjjMItIA",
         "begin": "2019-07-17T16:00:00.000Z",
         "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "37524",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -343,6 +360,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "薄樱鬼 碧血录"
+      ],
+      "zh-Hant": [
+        "薄櫻鬼 碧血錄"
       ]
     },
     "type": "tv",
@@ -373,7 +393,14 @@
       {
         "site": "bilibili",
         "id": "762",
-        "begin": "2010-10-01T16:00:00.000Z"
+        "begin": "2010-10-01T16:00:00.000Z",
+        "broadcast": "R/2016-05-10T04:23:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "37843",
+        "begin": "2022-07-01T03:00:00.000Z",
+        "broadcast": "R/2022-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -415,7 +442,8 @@
     "title": "もっとTo LOVEる -とらぶる-",
     "titleTranslate": {
       "zh-Hans": [
-        "更多 出包王女"
+        "更多 出包王女",
+        "出包王女 第二季"
       ]
     },
     "type": "tv",
@@ -440,6 +468,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我的妹妹哪有这么可爱"
+      ],
+      "zh-Hant": [
+        "我的妹妹哪有這麼可愛！"
       ]
     },
     "type": "tv",
@@ -465,12 +496,19 @@
       {
         "site": "bilibili",
         "id": "2660",
-        "begin": "2010-10-03T14:30:00.000Z"
+        "begin": "2010-10-03T14:30:00.000Z",
+        "broadcast": "R/2014-08-01T11:18:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "fd5ddce061ad11e0bea1",
         "begin": "2011-10-12T23:50:34.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "36603",
+        "begin": "2020-11-06T05:00:00.000Z",
+        "broadcast": "R/2020-11-06T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -478,7 +516,8 @@
     "title": "スーパーロボット大戦OG ジ・インスペクター",
     "titleTranslate": {
       "zh-Hans": [
-        "超级机器人大战OG -The inspector-"
+        "超级机器人大战OG -The inspector-",
+        "超级机器人大战原创世纪 -The inspector-"
       ]
     },
     "type": "tv",
@@ -499,7 +538,8 @@
       {
         "site": "bilibili",
         "id": "1002",
-        "begin": "2010-10-01T16:00:00.000Z"
+        "begin": "2010-10-01T16:00:00.000Z",
+        "broadcast": "R/2011-05-24T17:16:00.000Z/P7D"
       }
     ]
   },
@@ -552,7 +592,8 @@
       {
         "site": "bilibili",
         "id": "727",
-        "begin": "2010-10-02T09:00:00.000Z"
+        "begin": "2010-10-02T09:00:00.000Z",
+        "broadcast": "R/2010-11-13T14:59:00.000Z/P7D"
       }
     ]
   },
@@ -614,7 +655,8 @@
         "Panty&Stocking with Garterbelt"
       ],
       "zh-Hans": [
-        "吊带袜天使"
+        "吊带袜天使",
+        "小裤裤、长筒袜、吊袜带、psg"
       ]
     },
     "type": "tv",
@@ -671,7 +713,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "FORTUNE ARTERIAL -赤之约束-",
-        "赤色的约定"
+        "赤色的约定",
+        "命运动脉"
       ]
     },
     "type": "tv",
@@ -702,7 +745,8 @@
       {
         "site": "bilibili",
         "id": "996",
-        "begin": "2010-10-07T16:00:00.000Z"
+        "begin": "2010-10-07T16:00:00.000Z",
+        "broadcast": "R/2010-10-09T03:38:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -715,7 +759,10 @@
     "title": "STAR DRIVER 輝きのタクト",
     "titleTranslate": {
       "zh-Hans": [
-        "STAR DRIVER 闪亮的拓人"
+        "STAR DRIVER 闪亮的拓人",
+        "银河美少年",
+        "驭星者",
+        "STAR DRIVER 闪亮的塔科特"
       ]
     },
     "type": "tv",
@@ -746,7 +793,8 @@
       {
         "site": "bilibili",
         "id": "994",
-        "begin": "2010-10-02T16:00:00.000Z"
+        "begin": "2010-10-02T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -775,7 +823,8 @@
       {
         "site": "bilibili",
         "id": "995",
-        "begin": "2010-10-13T16:00:00.000Z"
+        "begin": "2010-10-13T16:00:00.000Z",
+        "broadcast": "R/2020-11-10T03:08:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -845,7 +894,8 @@
       {
         "site": "bilibili",
         "id": "4555",
-        "begin": "2010-10-15T16:00:01.000Z"
+        "begin": "2010-10-15T16:00:01.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -925,7 +975,8 @@
       {
         "site": "bilibili",
         "id": "1004",
-        "begin": "2010-09-30T16:00:00.000Z"
+        "begin": "2010-09-30T16:00:00.000Z",
+        "broadcast": "R/2011-05-26T04:29:00.000Z/P7D"
       }
     ]
   },
@@ -933,12 +984,13 @@
     "title": "宮西達也劇場 おまえうまそうだな",
     "titleTranslate": {
       "zh-Hans": [
-        "宫西达也剧场 你看起来很好吃"
+        "宫西达也剧场 你看起来很好吃",
+        "你这小家伙看起来好可口的嘛"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/umasoudana/",
     "begin": "2010-10-04T16:00:00.000Z",
     "end": "2010-10-29T16:05:00.000Z",
     "sites": [
@@ -1018,6 +1070,12 @@
         "site": "letv",
         "id": "29271",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1759",
+        "begin": "2014-12-03T05:06:00.000Z",
+        "broadcast": "R/2014-12-03T05:06:00.000Z/P7D"
       }
     ]
   },
@@ -1061,7 +1119,8 @@
       {
         "site": "bilibili",
         "id": "3821",
-        "begin": "2010-10-26T16:00:01.000Z"
+        "begin": "2010-10-26T16:00:01.000Z",
+        "broadcast": "R/2016-04-21T03:04:00.000Z/P7D"
       }
     ]
   },
@@ -1090,7 +1149,8 @@
       {
         "site": "bilibili",
         "id": "474",
-        "begin": "2010-10-07T16:00:00.000Z"
+        "begin": "2010-10-07T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -1144,7 +1204,8 @@
       {
         "site": "bilibili",
         "id": "1006",
-        "begin": "2010-10-23T16:00:00.000Z"
+        "begin": "2010-10-23T16:00:00.000Z",
+        "broadcast": "R/2012-02-13T06:19:05.000Z/P7D"
       }
     ]
   },
@@ -1169,7 +1230,8 @@
       {
         "site": "bilibili",
         "id": "4578",
-        "begin": "2010-10-06T16:00:00.000Z"
+        "begin": "2010-10-06T16:00:00.000Z",
+        "broadcast": "R/2017-03-28T10:38:00.000Z/P7D"
       }
     ]
   },
@@ -1194,7 +1256,63 @@
       {
         "site": "bilibili",
         "id": "1007",
-        "begin": "2010-10-04T16:00:00.000Z"
+        "begin": "2010-10-04T16:00:00.000Z",
+        "broadcast": "R/2010-10-26T09:13:59.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "REDLINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红线"
+      ],
+      "zh-Hant": [
+        "超時空甩尾"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tfc-anime.net/redline/",
+    "begin": "2010-10-08T16:00:00.000Z",
+    "end": "2010-10-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8726"
+      },
+      {
+        "site": "gamer",
+        "id": "29758",
+        "begin": "2021-05-06T11:30:00.000Z",
+        "broadcast": "R/2021-05-06T11:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ブレイク ブレイド 第四章 惨禍ノ地",
+    "titleTranslate": {
+      "zh-Hans": [
+        "破刃之剑 第四章 惨祸之地"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://breakblade.jp/",
+    "begin": "2010-10-29T16:00:00.000Z",
+    "end": "2010-10-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11043"
+      },
+      {
+        "site": "bilibili",
+        "id": "3364",
+        "begin": "2016-02-24T07:01:10.000Z",
+        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
       }
     ]
   }

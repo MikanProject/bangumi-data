@@ -19,7 +19,8 @@
       {
         "site": "bilibili",
         "id": "6431",
-        "begin": "2017-10-07T15:30:00.000Z"
+        "begin": "2017-10-07T15:30:00.000Z",
+        "broadcast": "R/2017-10-07T15:30:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -42,7 +43,8 @@
     "title": "妹さえいればいい。",
     "titleTranslate": {
       "zh-Hans": [
-        "如果有妹妹就好了。"
+        "如果有妹妹就好了。",
+        "如果能写小说就好了"
       ],
       "zh-Hant": [
         "如果有妹妹就好了。"
@@ -61,7 +63,8 @@
       {
         "site": "bilibili",
         "id": "6440",
-        "begin": "2017-10-08T15:00:00.000Z"
+        "begin": "2017-10-08T15:00:00.000Z",
+        "broadcast": "R/2017-10-08T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -73,12 +76,26 @@
         "id": "PLuxqoToY7UciutJKF8qxmFgMy82KtLXtE",
         "begin": "2020-02-08T16:00:00.000Z",
         "broadcast": "R/2020-02-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "90398",
+        "begin": "2017-10-08T15:00:00.000Z",
+        "broadcast": "R/2017-10-08T15:00:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "Just Because!",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "仅仅因为！",
+        "只是因为！"
+      ],
+      "zh-Hant": [
+        "Just Because！"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://justbecause.jp/",
@@ -92,7 +109,8 @@
       {
         "site": "bilibili",
         "id": "6427",
-        "begin": "2017-10-05T16:00:00.000Z"
+        "begin": "2017-10-05T16:00:00.000Z",
+        "broadcast": "R/2017-10-05T16:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -114,6 +132,12 @@
         "id": "PLuxqoToY7UcgXBYLqX4eBAZztqmBwFNWe",
         "begin": "2020-06-30T16:00:00.000Z",
         "broadcast": "R/2020-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89151",
+        "begin": "2017-10-05T16:00:00.000Z",
+        "broadcast": "R/2017-10-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -138,7 +162,9 @@
       {
         "site": "bilibili",
         "id": "6425",
-        "begin": "2017-10-04T16:00:00.000Z"
+        "begin": "2017-10-04T16:00:00.000Z",
+        "broadcast": "R/2017-10-04T16:00:00.000Z/P7D",
+        "comment": "中配: 126192"
       },
       {
         "site": "iqiyi",
@@ -166,7 +192,8 @@
     "title": "ネト充のススメ",
     "titleTranslate": {
       "zh-Hans": [
-        "网络胜利组"
+        "网络胜利组",
+        "网充的推荐"
       ],
       "en": [
         "RECOMMENDATION OF THE WONDERFUL VIRTUAL LIFE",
@@ -208,6 +235,12 @@
         "id": "recoveryofammojunkie_113742",
         "begin": "2017-10-07T05:00:00.000Z",
         "broadcast": "R/2017-10-07T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "90745",
+        "begin": "2021-05-14T08:00:00.000Z",
+        "broadcast": "R/2021-05-14T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -219,7 +252,8 @@
         "关于我女友是个一本正经的碧池这件事"
       ],
       "zh-Hant": [
-        "我的女友是個過度認真的處女bitch"
+        "我的女友是個過度認真的處女bitch",
+        "我的女友是個過度認真的處女 Bitch"
       ]
     },
     "type": "tv",
@@ -242,6 +276,12 @@
         "id": "PLuxqoToY7Uch7mqO9BGax1L3nLqNWE_-2",
         "begin": "2019-07-18T16:00:00.000Z",
         "broadcast": "R/2019-07-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89340",
+        "begin": "2017-10-11T17:00:00.000Z",
+        "broadcast": "R/2017-10-11T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -250,7 +290,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "悠久持有者！～魔法老师! 2～",
-        "悠久持有者！"
+        "悠久持有者！",
+        "悠久持有者!～魔法老师涅吉！2～",
+        "悠久持有者！～魔法老师涅吉! 2～"
       ]
     },
     "type": "tv",
@@ -266,7 +308,8 @@
       {
         "site": "bilibili",
         "id": "6418",
-        "begin": "2017-10-02T16:30:00.000Z"
+        "begin": "2017-10-02T16:30:00.000Z",
+        "broadcast": "R/2017-10-02T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -279,7 +322,8 @@
     "title": "戦刻ナイトブラッド",
     "titleTranslate": {
       "zh-Hans": [
-        "战刻夜想曲"
+        "战刻夜想曲",
+        "战刻夜血"
       ],
       "en": [
         "SENGOKU NIGHT BLOOD"
@@ -298,7 +342,8 @@
       {
         "site": "bilibili",
         "id": "6449",
-        "begin": "2017-10-03T15:00:00.000Z"
+        "begin": "2017-10-03T15:00:00.000Z",
+        "broadcast": "R/2017-10-03T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -331,7 +376,11 @@
     "title": "お酒は夫婦になってから",
     "titleTranslate": {
       "zh-Hans": [
-        "品酒要在成为夫妻后"
+        "品酒要在成为夫妻后",
+        "喝酒要在成为夫妻后"
+      ],
+      "zh-Hant": [
+        "品酒要在成為夫妻之後"
       ]
     },
     "type": "tv",
@@ -347,7 +396,14 @@
       {
         "site": "bilibili",
         "id": "6423",
-        "begin": "2017-10-03T16:05:00.000Z"
+        "begin": "2017-10-03T16:05:00.000Z",
+        "broadcast": "R/2017-10-03T16:05:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "10632",
+        "begin": "2017-10-03T17:05:00.000Z",
+        "broadcast": "R/2017-10-03T17:05:00.000Z/P7D"
       }
     ]
   },
@@ -371,7 +427,8 @@
       {
         "site": "bilibili",
         "id": "6424",
-        "begin": "2017-10-03T12:54:00.000Z"
+        "begin": "2017-10-03T12:54:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -411,7 +468,8 @@
       {
         "site": "bilibili",
         "id": "6420",
-        "begin": "2017-10-03T15:00:00.000Z"
+        "begin": "2017-10-03T15:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -434,7 +492,11 @@
   },
   {
     "title": "TSUKIPRO THE ANIMATION",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "月野艺能事务所"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://tsukipro-anime.com/",
@@ -448,7 +510,8 @@
       {
         "site": "bilibili",
         "id": "6453",
-        "begin": "2017-10-04T14:30:00.000Z"
+        "begin": "2017-10-04T14:30:00.000Z",
+        "broadcast": "R/2017-10-04T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -480,7 +543,8 @@
       {
         "site": "bilibili",
         "id": "6463",
-        "begin": "2017-10-06T14:00:00.000Z"
+        "begin": "2017-10-06T14:00:00.000Z",
+        "broadcast": "R/2017-10-06T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -492,6 +556,12 @@
         "id": "PLuxqoToY7Ucjmy1IuuvJhyOqqrScSCjtf",
         "begin": "2020-07-13T16:00:00.000Z",
         "broadcast": "R/2020-07-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89980",
+        "begin": "2017-10-06T14:00:00.000Z",
+        "broadcast": "R/2017-10-06T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -540,7 +610,8 @@
       {
         "site": "bilibili",
         "id": "6476",
-        "begin": "2017-10-04T15:25:00.000Z"
+        "begin": "2017-10-04T15:25:00.000Z",
+        "broadcast": "R/2017-10-04T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -557,7 +628,8 @@
       ],
       "zh-Hans": [
         "Love Live! Sunshine!! 第二季",
-        "LoveLive! Sunshine!! 第二季"
+        "LoveLive! Sunshine!! 第二季",
+        "学园偶像 阳光!! 第二季"
       ]
     },
     "type": "tv",
@@ -573,7 +645,8 @@
       {
         "site": "bilibili",
         "id": "6433",
-        "begin": "2017-10-07T15:30:00.000Z"
+        "begin": "2017-10-07T15:30:00.000Z",
+        "broadcast": "R/2017-10-07T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -624,6 +697,12 @@
         "site": "qq",
         "id": "6/6xpxfnfwh26v30k",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228718",
+        "begin": "2020-04-22T09:25:00.000Z",
+        "broadcast": "R/2020-04-22T09:25:00.000Z/P7D"
       }
     ]
   },
@@ -631,7 +710,8 @@
     "title": "牙狼＜GARO＞ -VANISHING LINE-",
     "titleTranslate": {
       "zh-Hans": [
-        "牙狼 VANISHING LINE"
+        "牙狼 VANISHING LINE",
+        "牙狼＜GARO＞ -VANISHING LINE-"
       ]
     },
     "type": "tv",
@@ -647,7 +727,8 @@
       {
         "site": "bilibili",
         "id": "6468",
-        "begin": "2017-10-06T16:00:01.000Z"
+        "begin": "2017-10-06T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "letv",
@@ -691,7 +772,8 @@
       {
         "site": "bilibili",
         "id": "6434",
-        "begin": "2017-10-07T14:00:00.000Z"
+        "begin": "2017-10-07T14:00:00.000Z",
+        "broadcast": "R/2017-10-07T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -704,6 +786,10 @@
     "title": "魔法使いの嫁",
     "titleTranslate": {
       "zh-Hans": [
+        "魔法使的新娘",
+        "魔法使之嫁"
+      ],
+      "zh-Hant": [
         "魔法使的新娘"
       ]
     },
@@ -718,9 +804,10 @@
         "id": "210864"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_tw",
         "id": "6438",
-        "begin": "2017-10-07T17:30:00.000Z"
+        "begin": "2017-10-07T17:30:00.000Z",
+        "broadcast": "R/2017-10-07T17:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -736,6 +823,12 @@
         "site": "nicovideo",
         "id": "mahoyome",
         "begin": "2017-10-12T15:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "87854",
+        "begin": "2017-10-07T17:30:00.000Z",
+        "broadcast": "R/2017-10-07T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -746,7 +839,8 @@
         "鬼灯的冷彻 第二季"
       ],
       "zh-Hant": [
-        "鬼燈的冷徹(第二季)"
+        "鬼燈的冷徹(第二季)",
+        "鬼燈的冷徹 第二季"
       ]
     },
     "type": "tv",
@@ -762,7 +856,8 @@
       {
         "site": "bilibili",
         "id": "6447",
-        "begin": "2017-10-07T17:30:00.000Z"
+        "begin": "2017-10-07T17:30:00.000Z",
+        "broadcast": "R/2017-10-07T17:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -774,6 +869,12 @@
         "id": "PLuxqoToY7UchLAm_aSjc04YjrNZEsGhi7",
         "begin": "2020-08-03T16:00:00.000Z",
         "broadcast": "R/2020-08-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "87891",
+        "begin": "2017-10-07T17:30:00.000Z",
+        "broadcast": "R/2017-10-07T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -820,7 +921,8 @@
     "title": "ブレンド・S",
     "titleTranslate": {
       "zh-Hans": [
-        "调教咖啡厅"
+        "调教咖啡厅",
+        "属性咖啡厅"
       ]
     },
     "type": "tv",
@@ -836,7 +938,8 @@
       {
         "site": "bilibili",
         "id": "6432",
-        "begin": "2017-10-07T17:00:00.000Z"
+        "begin": "2017-10-07T17:00:00.000Z",
+        "broadcast": "R/2017-10-07T17:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -859,7 +962,8 @@
     "title": "つうかあ",
     "titleTranslate": {
       "zh-Hans": [
-        "侧车搭档"
+        "侧车搭档",
+        "侧边车搭档"
       ]
     },
     "type": "tv",
@@ -909,7 +1013,8 @@
       {
         "site": "bilibili",
         "id": "6435",
-        "begin": "2017-10-07T12:00:00.000Z"
+        "begin": "2017-10-07T12:00:00.000Z",
+        "broadcast": "R/2017-10-07T12:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -923,6 +1028,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "干物妹！小埋R"
+      ],
+      "zh-Hant": [
+        "我家有個魚乾妹 R"
       ]
     },
     "type": "tv",
@@ -938,18 +1046,36 @@
       {
         "site": "bilibili",
         "id": "6446",
-        "begin": "2017-10-08T15:30:00.000Z"
+        "begin": "2017-10-08T15:30:00.000Z",
+        "broadcast": "R/2017-10-08T15:30:00.000Z/P7D",
+        "comment": "中配版: 28234585, 粤配版: 28236460"
       },
       {
         "site": "nicovideo",
         "id": "umarur-anime",
         "begin": "2017-10-11T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "88396",
+        "begin": "2021-03-15T08:00:00.000Z",
+        "broadcast": "R/2021-03-15T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "10772",
+        "begin": "2017-10-08T16:00:00.000Z",
+        "broadcast": "R/2017-10-08T16:00:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "Infini-T Force",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "Infini-T Force"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.infini-tforce.com/",
@@ -963,7 +1089,8 @@
       {
         "site": "bilibili",
         "id": "6452",
-        "begin": "2017-10-03T17:35:00.000Z"
+        "begin": "2017-10-03T17:35:00.000Z",
+        "broadcast": "R/2017-10-24T13:30:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -986,6 +1113,12 @@
         "begin": "2018-10-12T16:00:00.000Z",
         "broadcast": "R/2018-10-12T16:00:00.000Z/P7D",
         "comment": "粵日雙語"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "10692",
+        "begin": "2017-10-03T18:30:00.000Z",
+        "broadcast": "R/2017-10-03T18:30:00.000Z/P7D"
       }
     ]
   },
@@ -1009,7 +1142,8 @@
       {
         "site": "bilibili",
         "id": "6479",
-        "begin": "2017-10-02T17:05:00.000Z"
+        "begin": "2017-10-02T17:05:00.000Z",
+        "broadcast": "R/2017-10-02T17:05:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1053,7 +1187,8 @@
       {
         "site": "bilibili",
         "id": "6439",
-        "begin": "2017-10-07T19:08:00.000Z"
+        "begin": "2017-10-07T19:08:00.000Z",
+        "broadcast": "R/2017-10-07T19:08:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1104,7 +1239,8 @@
       {
         "site": "bilibili",
         "id": "6448",
-        "begin": "2017-10-06T19:25:00.000Z"
+        "begin": "2017-10-06T19:25:00.000Z",
+        "broadcast": "R/2017-10-06T19:25:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1121,7 +1257,12 @@
       ],
       "zh-Hans": [
         "3月的狮子 第二季",
-        "三月的狮子 第2季"
+        "三月的狮子 第2季",
+        "三月的狮子 第二季",
+        "三月的狮子 2期"
+      ],
+      "zh-Hant": [
+        "3 月的獅子 第二季"
       ]
     },
     "type": "tv",
@@ -1137,7 +1278,8 @@
       {
         "site": "bilibili",
         "id": "6445",
-        "begin": "2017-10-14T16:30:00.000Z"
+        "begin": "2017-10-14T16:30:00.000Z",
+        "broadcast": "R/2017-10-14T16:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1153,6 +1295,12 @@
         "site": "youku",
         "id": "76efbfbdefbfbdd18618",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "88010",
+        "begin": "2017-10-15T03:01:00.000Z",
+        "broadcast": "R/2017-10-15T03:01:00.000Z/P7D"
       }
     ]
   },
@@ -1164,6 +1312,9 @@
       ],
       "zh-Hans": [
         "动画同好会"
+      ],
+      "zh-Hant": [
+        "動畫同好會"
       ]
     },
     "type": "tv",
@@ -1179,7 +1330,8 @@
       {
         "site": "bilibili",
         "id": "6441",
-        "begin": "2017-10-08T14:30:00.000Z"
+        "begin": "2017-10-08T14:30:00.000Z",
+        "broadcast": "R/2017-10-01T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1210,6 +1362,12 @@
         "site": "acfun",
         "id": "5025005",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "88538",
+        "begin": "2020-11-06T06:50:00.000Z",
+        "broadcast": "R/2020-11-06T06:50:00.000Z/P7D"
       }
     ]
   },
@@ -1219,6 +1377,9 @@
       "zh-Hans": [
         "阿松 第二季",
         "阿松 第2季"
+      ],
+      "zh-Hant": [
+        "阿松 第二季"
       ]
     },
     "type": "tv",
@@ -1234,7 +1395,8 @@
       {
         "site": "bilibili",
         "id": "6421",
-        "begin": "2017-10-02T17:35:00.000Z"
+        "begin": "2017-10-02T17:35:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -1255,6 +1417,12 @@
         "site": "nicovideo",
         "id": "osomatsusan2",
         "begin": "2017-10-07T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "87853",
+        "begin": "2020-09-14T09:30:00.000Z",
+        "broadcast": "R/2020-09-14T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -1266,6 +1434,9 @@
       ],
       "zh-Hans": [
         "克拉斯卡劳埃德 第二季"
+      ],
+      "zh-Hant": [
+        "ClassicaLoid 第二季"
       ]
     },
     "type": "tv",
@@ -1281,7 +1452,14 @@
       {
         "site": "bilibili",
         "id": "6454",
-        "begin": "2017-10-07T11:00:00.000Z"
+        "begin": "2017-10-07T11:00:00.000Z",
+        "broadcast": "R/2017-10-07T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "88747",
+        "begin": "2017-10-14T11:00:00.000Z",
+        "broadcast": "R/2017-10-14T11:00:00.000Z/P7D"
       }
     ]
   },
@@ -1312,7 +1490,8 @@
       {
         "site": "bilibili",
         "id": "6422",
-        "begin": "2017-10-03T10:25:00.000Z"
+        "begin": "2017-10-03T10:25:00.000Z",
+        "broadcast": "R/2017-10-03T10:25:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1345,6 +1524,18 @@
         "id": "80238012",
         "begin": "2022-12-29T00:00:00.000Z",
         "broadcast": "R/2022-12-29T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "84866",
+        "begin": "2020-05-09T03:00:00.000Z",
+        "broadcast": "R/2020-05-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "tsu4sqNmcFJy",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1353,7 +1544,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "食戟之灵 餐之皿",
-        "食戟之灵 第3季"
+        "食戟之灵 第3季",
+        "食戟之灵 第三季"
       ],
       "zh-Hant": [
         "食戟之靈 餐之皿"
@@ -1382,7 +1574,8 @@
       {
         "site": "bilibili",
         "id": "28230229",
-        "begin": "2020-10-01T13:00:01.000Z"
+        "begin": "2020-10-01T13:00:01.000Z",
+        "broadcast": "R/2020-10-01T13:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1406,6 +1599,12 @@
         "id": "80182054",
         "begin": "2020-12-01T16:00:00.000Z",
         "broadcast": "R/2020-12-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89732",
+        "begin": "2019-08-30T08:00:00.000Z",
+        "broadcast": "R/2019-08-30T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -1425,7 +1624,8 @@
       {
         "site": "bilibili",
         "id": "6474",
-        "begin": "2017-10-04T11:00:00.000Z"
+        "begin": "2017-10-04T11:00:00.000Z",
+        "broadcast": "R/2017-10-04T11:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1491,7 +1691,11 @@
     "title": "王様ゲーム The Animation",
     "titleTranslate": {
       "zh-Hans": [
-        "国王游戏"
+        "国王游戏",
+        "國王遊戲"
+      ],
+      "zh-Hant": [
+        "國王遊戲 The Animation"
       ]
     },
     "type": "tv",
@@ -1505,9 +1709,10 @@
         "id": "221119"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_tw",
         "id": "10592",
-        "begin": "2017-10-05T16:00:00.000Z"
+        "begin": "2017-10-05T16:00:00.000Z",
+        "broadcast": "R/2017-10-05T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1573,7 +1778,8 @@
       {
         "site": "bilibili",
         "id": "6344",
-        "begin": "2017-08-22T16:00:00.000Z"
+        "begin": "2017-08-22T16:00:00.000Z",
+        "broadcast": "R/2017-08-23T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -1597,7 +1803,8 @@
       {
         "site": "bilibili",
         "id": "6442",
-        "begin": "2017-10-09T18:05:00.000Z"
+        "begin": "2017-10-09T18:05:00.000Z",
+        "broadcast": "R/2017-10-09T18:05:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1641,7 +1848,8 @@
       {
         "site": "bilibili",
         "id": "6478",
-        "begin": "2017-10-08T17:00:00.000Z"
+        "begin": "2017-10-08T17:00:00.000Z",
+        "broadcast": "R/2017-10-08T17:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1664,7 +1872,11 @@
     "title": "Dies irae",
     "titleTranslate": {
       "zh-Hans": [
-        "神怒之日"
+        "神怒之日",
+        "圣枪十三骑士团"
+      ],
+      "zh-Hant": [
+        "Dies irae 神怒之日"
       ]
     },
     "type": "tv",
@@ -1678,9 +1890,10 @@
         "id": "131901"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_hk_mo_tw",
         "id": "6430",
-        "begin": "2017-10-06T17:05:00.000Z"
+        "begin": "2017-10-06T17:05:00.000Z",
+        "broadcast": "R/2017-10-06T17:05:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1761,7 +1974,8 @@
     "title": "タイムボカン 逆襲の三悪人",
     "titleTranslate": {
       "zh-Hans": [
-        "时间飞船 逆袭的三恶人"
+        "时间飞船 逆袭的三恶人",
+        "時間飛船 – 惡黨反擊"
       ]
     },
     "type": "tv",
@@ -1777,7 +1991,8 @@
       {
         "site": "bilibili",
         "id": "6477",
-        "begin": "2017-10-07T11:00:00.000Z"
+        "begin": "2017-10-07T11:00:00.000Z",
+        "broadcast": "R/2017-10-07T11:00:00.000Z/P7D"
       }
     ]
   },
@@ -1786,7 +2001,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "犬屋敷",
-        "犬舍"
+        "犬舍",
+        "杀戮重生犬屋敷"
       ]
     },
     "type": "tv",
@@ -1810,7 +2026,9 @@
     "title": "ファイアボール ユーモラス",
     "titleTranslate": {
       "zh-Hans": [
-        "火球 幽默之章"
+        "火球 幽默之章",
+        "火球 幽默",
+        "火球 第三季"
       ]
     },
     "type": "tv",
@@ -1826,7 +2044,8 @@
       {
         "site": "bilibili",
         "id": "8332",
-        "begin": "2017-10-05T16:00:01.000Z"
+        "begin": "2017-10-05T16:00:01.000Z",
+        "broadcast": "R/2017-11-21T02:55:00.000Z/P7D"
       }
     ]
   },
@@ -1853,7 +2072,8 @@
     "title": "EVIL OR LIVE",
     "titleTranslate": {
       "zh-Hans": [
-        "理想禁区"
+        "理想禁区",
+        "网瘾禁区"
       ]
     },
     "type": "web",
@@ -1974,7 +2194,8 @@
       {
         "site": "bilibili",
         "id": "7392",
-        "begin": "2017-10-09T17:00:00.000Z"
+        "begin": "2017-10-09T17:00:00.000Z",
+        "broadcast": "R/2017-10-09T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -1999,7 +2220,8 @@
       {
         "site": "bilibili",
         "id": "7352",
-        "begin": "2017-10-07T11:00:00.000Z"
+        "begin": "2017-10-07T11:00:00.000Z",
+        "broadcast": "R/2017-10-09T08:20:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -2068,7 +2290,11 @@
   },
   {
     "title": "Fate/stay night [Heaven’s Feel] I.presage flower",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "Fate/stay night [Heaven's Feel] I. 預示之花"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.fate-sn.com/",
@@ -2089,6 +2315,12 @@
         "id": "81021838",
         "begin": "2021-08-04T16:00:00.000Z",
         "broadcast": "R/2021-08-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "71768",
+        "begin": "2019-01-17T09:00:00.000Z",
+        "broadcast": "R/2019-01-17T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -2117,7 +2349,8 @@
       {
         "site": "bilibili",
         "id": "73092",
-        "begin": "2017-02-24T16:00:00.000Z"
+        "begin": "2018-02-20T11:57:00.000Z",
+        "broadcast": "R/2018-02-20T11:57:00.000Z/P7D"
       }
     ]
   },
@@ -2137,7 +2370,8 @@
       {
         "site": "bilibili",
         "id": "114452",
-        "begin": "2018-04-17T16:00:01.000Z"
+        "begin": "2018-07-10T08:27:00.000Z",
+        "broadcast": "R/2018-07-10T08:27:00.000Z/P7D"
       }
     ]
   },
@@ -2167,7 +2401,8 @@
       {
         "site": "bilibili",
         "id": "82772",
-        "begin": "2017-10-12T16:00:00.000Z"
+        "begin": "2018-04-11T07:30:00.000Z",
+        "broadcast": "R/2018-04-11T07:30:00.000Z/P7D"
       }
     ]
   },
@@ -2192,7 +2427,8 @@
       {
         "site": "bilibili",
         "id": "4314782",
-        "begin": "2018-01-25T16:00:00.000Z"
+        "begin": "2018-12-05T05:32:00.000Z",
+        "broadcast": "R/2018-12-05T05:32:00.000Z/P7D"
       }
     ]
   },
@@ -2200,7 +2436,8 @@
     "title": "RWBY Volume 5",
     "titleTranslate": {
       "zh-Hans": [
-        "红白黑黄 第五季"
+        "红白黑黄 第五季",
+        "四色战记 / RWBY 第五季"
       ]
     },
     "type": "web",
@@ -2216,8 +2453,9 @@
       },
       {
         "site": "bilibili",
-        "id": "7552",
-        "begin": "2017-10-13T16:00:00.000Z"
+        "id": "28237311",
+        "begin": "2022-04-16T09:00:01.000Z",
+        "broadcast": "R/2022-04-16T09:00:01.000Z/P7D"
       }
     ]
   },
@@ -2242,7 +2480,8 @@
       {
         "site": "bilibili",
         "id": "28152",
-        "begin": "2017-10-09T16:00:00.000Z"
+        "begin": "2017-12-26T09:29:00.000Z",
+        "broadcast": "R/2017-12-26T09:29:00.000Z/P7D"
       }
     ]
   },
@@ -2267,7 +2506,8 @@
       {
         "site": "bilibili",
         "id": "10892",
-        "begin": "2017-10-08T16:00:00.000Z"
+        "begin": "2017-12-04T16:00:00.000Z",
+        "broadcast": "R/2017-12-04T16:00:00.000Z/P7D"
       }
     ]
   },

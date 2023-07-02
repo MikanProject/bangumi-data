@@ -4,10 +4,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "Happiness Charge 光之美少女!",
-        "HappinessCharge光之美少女！"
+        "HappinessCharge光之美少女！",
+        "Happiness Charge 光之美少女！",
+        "幸福爆发！光之美少女",
+        "填充幸福 光之美少女！",
+        "茶几Q娃",
+        "快充Q娃"
       ],
       "en": [
-        "Happiness Charge Precure!"
+        "Happiness Charge Precure!",
+        "HAPPINESSCHARGE PRECURE!"
       ]
     },
     "type": "tv",
@@ -107,7 +113,8 @@
       {
         "site": "bilibili",
         "id": "5476",
-        "begin": "2014-02-07T16:00:01.000Z"
+        "begin": "2014-02-07T16:00:01.000Z",
+        "broadcast": "R/2016-08-29T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -141,7 +148,8 @@
       {
         "site": "bilibili",
         "id": "2864",
-        "begin": "2014-02-21T16:00:00.000Z"
+        "begin": "2014-02-21T16:00:00.000Z",
+        "broadcast": "R/2015-10-18T06:37:19.000Z/P7D"
       }
     ]
   },
@@ -222,7 +230,8 @@
       {
         "site": "bilibili",
         "id": "3446",
-        "begin": "2013-12-14T16:00:00.000Z"
+        "begin": "2013-12-14T16:00:00.000Z",
+        "broadcast": "R/2016-03-17T08:21:00.000Z/P7D"
       }
     ]
   },
@@ -275,7 +284,8 @@
       {
         "site": "bilibili",
         "id": "3419",
-        "begin": "2014-02-12T16:00:01.000Z"
+        "begin": "2014-02-12T16:00:01.000Z",
+        "broadcast": "R/2016-03-11T08:39:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -289,6 +299,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "乔瓦尼之岛"
+      ],
+      "zh-Hant": [
+        "喬望尼之島"
       ]
     },
     "type": "movie",
@@ -305,7 +318,14 @@
       {
         "site": "bilibili",
         "id": "4236",
-        "begin": "2014-02-21T16:00:00.000Z"
+        "begin": "2014-02-21T16:00:00.000Z",
+        "broadcast": "R/2016-05-31T07:37:17.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "65567",
+        "begin": "2021-11-05T06:00:00.000Z",
+        "broadcast": "R/2021-11-05T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -330,7 +350,8 @@
       {
         "site": "bilibili",
         "id": "96632",
-        "begin": "2014-02-21T16:00:00.000Z"
+        "begin": "2014-02-21T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },

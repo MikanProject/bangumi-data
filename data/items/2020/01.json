@@ -28,7 +28,9 @@
     "title": "恋する小惑星",
     "titleTranslate": {
       "zh-Hans": [
-        "恋爱小行星"
+        "恋爱小行星",
+        "恋爱的小行星",
+        "恋爱中的小行星"
       ],
       "zh-Hant": [
         "戀愛中的小行星"
@@ -56,13 +58,20 @@
       {
         "site": "bilibili",
         "id": "28224128",
-        "begin": "2020-01-03T15:00:00.000Z"
+        "begin": "2020-01-03T15:00:00.000Z",
+        "broadcast": "R/2020-01-03T15:30:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7Uci2AaJynaGoTn467Dr2j7-F",
         "begin": "2020-01-09T16:00:00.000Z",
         "broadcast": "R/2020-01-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "104191",
+        "begin": "2020-01-03T15:30:00.000Z",
+        "broadcast": "R/2020-01-03T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -105,6 +114,12 @@
         "id": "81234353",
         "begin": "2021-03-18T16:00:00.000Z",
         "broadcast": "R/2021-03-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "102378",
+        "begin": "2020-01-03T17:00:00.000Z",
+        "broadcast": "R/2020-01-03T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -112,7 +127,8 @@
     "title": "マギアレコード 魔法少女まどか☆マギカ外伝",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法纪录 魔法少女小圆外传"
+        "魔法纪录 魔法少女小圆外传",
+        "Magia Record 魔法少女小圆外传"
       ],
       "zh-Hant": [
         "魔法紀錄 魔法少女小圓外傳"
@@ -137,13 +153,20 @@
       {
         "site": "bilibili",
         "id": "28223817",
-        "begin": "2020-01-04T16:30:00.000Z"
+        "begin": "2020-01-04T16:30:00.000Z",
+        "broadcast": "R/2020-01-04T16:30:00.000Z/P7D"
       },
       {
         "site": "viu",
         "id": "237802",
         "begin": "2020-01-04T16:00:00.000Z",
         "broadcast": "R/2020-01-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "100968",
+        "begin": "2020-01-04T16:30:00.000Z",
+        "broadcast": "R/2020-01-04T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -155,7 +178,8 @@
         "房间露营△"
       ],
       "zh-Hant": [
-        "房間露营"
+        "房間露营",
+        "房間露營"
       ],
       "en": [
         "ROOM CAMP"
@@ -200,6 +224,12 @@
         "begin": "2020-01-06T12:55:00.000Z",
         "broadcast": "R/2020-01-06T12:55:00.000Z/P7D",
         "comment": "OVA: roomcampova_131235"
+      },
+      {
+        "site": "gamer",
+        "id": "109401",
+        "begin": "2020-01-06T12:55:00.000Z",
+        "broadcast": "R/2020-01-06T12:55:00.000Z/P7D"
       }
     ]
   },
@@ -208,6 +238,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "异度侵入 ID:INVADED",
+        "ID:INVADED",
+        "异度侵入",
+        "异度入侵 ID:INVADED"
+      ],
+      "zh-Hant": [
         "ID:INVADED"
       ]
     },
@@ -230,7 +265,14 @@
       {
         "site": "bilibili",
         "id": "28224080",
-        "begin": "2020-01-05T16:30:00.000Z"
+        "begin": "2020-01-05T16:30:00.000Z",
+        "broadcast": "R/2020-01-05T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28226764",
+        "begin": "2020-01-05T16:30:21.000Z",
+        "broadcast": "R/2020-01-05T16:30:21.000Z/P7D"
       }
     ]
   },
@@ -255,7 +297,8 @@
       {
         "site": "bilibili",
         "id": "28224087",
-        "begin": "2020-01-04T16:00:00.000Z"
+        "begin": "2020-01-04T16:00:00.000Z",
+        "broadcast": "R/2020-01-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -264,10 +307,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔术士奥芬的无赖之旅",
-        "魔术士欧菲流浪之旅"
+        "魔术士欧菲流浪之旅",
+        "魔术师欧菲"
       ],
       "zh-Hant": [
-        "魔術士歐菲流浪之旅"
+        "魔術士歐菲流浪之旅",
+        "魔術士歐菲 流浪之旅"
       ]
     },
     "type": "tv",
@@ -301,6 +346,18 @@
         "id": "PLxSscENEp7JjIwyEPUhDJSbJGzo5IaDD3",
         "begin": "2020-01-06T16:00:00.000Z",
         "broadcast": "R/2020-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95849",
+        "begin": "2020-01-07T17:00:00.000Z",
+        "broadcast": "R/2020-01-07T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28224146",
+        "begin": "2020-08-19T02:51:00.000Z",
+        "broadcast": "R/2020-08-19T02:51:00.000Z/P7D"
       }
     ]
   },
@@ -309,7 +366,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "因为太怕痛就全点防御力了",
-        "因为太怕痛就全点防御力了。"
+        "因为太怕痛就全点防御力了。",
+        "怕痛的我，把防御力点满就对了",
+        "怕痛少女的防御特化"
       ],
       "zh-Hant": [
         "怕痛的我，把防禦力點滿就對了"
@@ -334,7 +393,8 @@
       {
         "site": "bilibili",
         "id": "28224137",
-        "begin": "2020-01-08T14:30:00.000Z"
+        "begin": "2020-01-08T14:30:00.000Z",
+        "broadcast": "R/2020-01-08T14:30:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -347,6 +407,12 @@
         "id": "PLuxqoToY7UchrD6DfOebSmWBeNJFzGDyi",
         "begin": "2023-01-07T13:00:00.000Z",
         "broadcast": "R/2023-01-07T13:00:00.000Z/P1D"
+      },
+      {
+        "site": "gamer",
+        "id": "102845",
+        "begin": "2020-01-08T14:30:00.000Z",
+        "broadcast": "R/2020-01-08T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -359,6 +425,9 @@
       ],
       "en": [
         "NEKOPARA CATS PARADISE"
+      ],
+      "zh-Hant": [
+        "貓娘樂園"
       ]
     },
     "type": "tv",
@@ -381,6 +450,12 @@
         "site": "qq",
         "id": "m/mzc00200wp8xtpi",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "106365",
+        "begin": "2020-01-09T14:30:00.000Z",
+        "broadcast": "R/2020-01-09T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -393,10 +468,12 @@
       "zh-Hans": [
         "〈Infinite Dendrogram〉-无尽连锁-",
         "无限系统树",
-        "〈Infinite Dendrogram〉-无限树图-"
+        "〈Infinite Dendrogram〉-无限树图-",
+        "〈Infinite Dendrogram〉-无限系统树-"
       ],
       "zh-Hant": [
-        "無盡連鎖"
+        "無盡連鎖",
+        "〈Infinite Dendrogram〉-無盡連鎖-"
       ]
     },
     "type": "tv",
@@ -418,7 +495,8 @@
       {
         "site": "bilibili",
         "id": "28224111",
-        "begin": "2020-01-09T15:00:00.000Z"
+        "begin": "2020-01-09T15:00:00.000Z",
+        "broadcast": "R/2020-01-09T15:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -435,6 +513,12 @@
         "id": "infinitedendrogram_125221",
         "begin": "2020-01-09T15:00:00.000Z",
         "broadcast": "R/2020-01-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "103611",
+        "begin": "2020-01-09T15:00:00.000Z",
+        "broadcast": "R/2020-01-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -442,7 +526,8 @@
     "title": "宝石商リチャード氏の謎鑑定",
     "titleTranslate": {
       "zh-Hans": [
-        "宝石商人理查德的谜鉴定"
+        "宝石商人理查德的谜鉴定",
+        "宝石商人理察的谜鉴定"
       ],
       "zh-Hant": [
         "寶石商人理察的謎鑑定"
@@ -467,13 +552,20 @@
       {
         "site": "bilibili",
         "id": "28224121",
-        "begin": "2020-01-09T16:30:00.000Z"
+        "begin": "2020-01-09T16:30:00.000Z",
+        "broadcast": "R/2020-01-09T16:30:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UciBWxOuVdi7xaQn9m0cTlLT",
         "begin": "2020-02-25T16:00:00.000Z",
         "broadcast": "R/2020-02-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "108087",
+        "begin": "2020-01-09T16:30:00.000Z",
+        "broadcast": "R/2020-01-09T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -481,6 +573,9 @@
     "title": "number24",
     "titleTranslate": {
       "zh-Hans": [
+        "number24"
+      ],
+      "zh-Hant": [
         "number24"
       ]
     },
@@ -494,6 +589,12 @@
       {
         "site": "bangumi",
         "id": "278757"
+      },
+      {
+        "site": "gamer",
+        "id": "107217",
+        "begin": "2020-01-08T14:30:00.000Z",
+        "broadcast": "R/2020-01-08T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -502,10 +603,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "SHOW BY ROCK!! Mashumairesh!!",
-        "摇滚少女!! 活力棉花糖!!"
+        "摇滚少女!! 活力棉花糖!!",
+        "SHOW BY ROCK！！第三季"
       ],
       "zh-Hant": [
-        "搖滾少女!! 活力棉花糖"
+        "搖滾少女!! 活力棉花糖",
+        "搖滾少女!! 活力棉花糖!!"
       ]
     },
     "type": "tv",
@@ -534,6 +637,12 @@
         "id": "PLxSscENEp7Jik2vpUVcSQhgVnuPJ2h4xm",
         "begin": "2020-01-15T16:00:00.000Z",
         "broadcast": "R/2020-01-15T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "108889",
+        "begin": "2020-01-09T14:30:00.000Z",
+        "broadcast": "R/2020-01-09T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -542,7 +651,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "科学的超电磁炮T",
-        "某科学的超电磁炮T"
+        "某科学的超电磁炮T",
+        "科学超电磁炮T"
+      ],
+      "zh-Hant": [
+        "科學超電磁砲T"
       ]
     },
     "type": "tv",
@@ -559,12 +672,19 @@
       {
         "site": "bilibili",
         "id": "28224095",
-        "begin": "2020-01-10T16:05:00.000Z"
+        "begin": "2020-01-10T16:05:00.000Z",
+        "broadcast": "R/2020-01-10T16:05:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "toaru-railgun-t",
         "begin": "2020-01-17T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28226758",
+        "begin": "2020-01-10T16:05:00.000Z",
+        "broadcast": "R/2020-01-10T16:05:00.000Z/P7D"
       }
     ]
   },
@@ -592,7 +712,8 @@
     "title": "フライングベイビーズ☆プチ",
     "titleTranslate": {
       "zh-Hans": [
-        "小草裙舞女孩"
+        "小草裙舞女孩",
+        "迷你草裙舞女孩"
       ]
     },
     "type": "tv",
@@ -612,6 +733,10 @@
     "title": "プランダラ",
     "titleTranslate": {
       "zh-Hans": [
+        "星掠者",
+        "掠夺者"
+      ],
+      "zh-Hant": [
         "星掠者"
       ]
     },
@@ -634,7 +759,14 @@
       {
         "site": "bilibili",
         "id": "28224117",
-        "begin": "2020-01-08T17:05:00.000Z"
+        "begin": "2020-01-08T17:05:00.000Z",
+        "broadcast": "R/2020-01-08T17:05:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28226692",
+        "begin": "2020-01-08T17:05:00.000Z",
+        "broadcast": "R/2020-01-08T17:05:00.000Z/P7D"
       }
     ]
   },
@@ -646,6 +778,9 @@
       ],
       "en": [
         "Science Fell in Love, So I Tried to Prove It"
+      ],
+      "zh-Hant": [
+        "理科生墜入情網，故嘗試證明。"
       ]
     },
     "type": "tv",
@@ -662,12 +797,20 @@
       {
         "site": "bilibili",
         "id": "28223860",
-        "begin": "2020-01-09T16:00:00.000Z"
+        "begin": "2020-01-09T16:00:00.000Z",
+        "broadcast": "R/2020-01-10T15:15:00.000Z/P7D",
+        "comment": "中配版: 28234569"
       },
       {
         "site": "nicovideo",
         "id": "rikekoi",
         "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28226765",
+        "begin": "2020-01-10T15:15:00.000Z",
+        "broadcast": "R/2020-01-10T15:15:00.000Z/P7D"
       }
     ]
   },
@@ -692,7 +835,8 @@
       {
         "site": "bilibili",
         "id": "28224098",
-        "begin": "2020-01-11T12:00:00.000Z"
+        "begin": "2020-01-11T12:00:00.000Z",
+        "broadcast": "R/2020-01-11T12:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -711,6 +855,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "织田肉桂信长"
+      ],
+      "zh-Hant": [
+        "織田肉桂信長"
       ]
     },
     "type": "tv",
@@ -727,7 +874,8 @@
       {
         "site": "bilibili",
         "id": "28224139",
-        "begin": "2020-01-09T16:00:00.000Z"
+        "begin": "2020-01-09T16:00:00.000Z",
+        "broadcast": "R/2020-01-10T17:23:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -743,6 +891,12 @@
         "site": "youku",
         "id": "ceaff49a9804480d8c6b",
         "begin": "2020-01-10T17:20:55.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "106792",
+        "begin": "2020-01-10T17:25:00.000Z",
+        "broadcast": "R/2020-01-10T17:25:00.000Z/P7D"
       }
     ]
   },
@@ -750,10 +904,14 @@
     "title": "異種族レビュアーズ",
     "titleTranslate": {
       "zh-Hans": [
-        "异种族风俗娘评鉴指南"
+        "异种族风俗娘评鉴指南",
+        "异种族评鉴人"
       ],
       "en": [
         "Interspecies Reviewers"
+      ],
+      "zh-Hant": [
+        "異種族風俗娘評鑑指南"
       ]
     },
     "type": "tv",
@@ -771,6 +929,12 @@
         "site": "nicovideo",
         "id": "isyuzoku",
         "begin": "2020-01-11T14:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "106302",
+        "begin": "2020-01-11T15:30:00.000Z",
+        "broadcast": "R/2020-01-11T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -778,7 +942,8 @@
     "title": "ランウェイで笑って",
     "titleTranslate": {
       "zh-Hans": [
-        "请在T台上微笑"
+        "请在T台上微笑",
+        "请在伸展台上微笑"
       ],
       "zh-Hant": [
         "請在伸展台上微笑"
@@ -810,6 +975,12 @@
         "id": "PLuxqoToY7UcgoBOsT8lFRygyPf6Lw8Kfs",
         "begin": "2020-02-05T16:00:00.000Z",
         "broadcast": "R/2020-02-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "107757",
+        "begin": "2020-01-10T18:55:00.000Z",
+        "broadcast": "R/2020-01-10T18:55:00.000Z/P7D"
       }
     ]
   },
@@ -842,7 +1013,8 @@
       {
         "site": "bilibili",
         "id": "28224145",
-        "begin": "2020-01-11T18:00:00.000Z"
+        "begin": "2020-01-11T18:00:00.000Z",
+        "broadcast": "R/2020-01-11T18:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -864,6 +1036,12 @@
         "id": "PLuxqoToY7Ucii40_usmDftpeq1PZxofPq",
         "begin": "2022-01-16T16:00:00.000Z",
         "broadcast": "R/2022-01-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "103427",
+        "begin": "2020-04-10T16:00:00.000Z",
+        "broadcast": "R/2020-04-10T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -904,6 +1082,12 @@
         "id": "PLuxqoToY7Ucj5UQCRFXwELearxpjS3SDW",
         "begin": "2022-08-31T16:00:00.000Z",
         "broadcast": "R/2022-08-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "106259",
+        "begin": "2020-01-14T16:45:00.000Z",
+        "broadcast": "R/2020-01-14T16:45:00.000Z/P7D"
       }
     ]
   },
@@ -936,13 +1120,20 @@
       {
         "site": "bilibili",
         "id": "28224078",
-        "begin": "2020-01-22T16:00:00.000Z"
+        "begin": "2020-01-22T16:00:00.000Z",
+        "broadcast": "R/2020-01-07T11:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgjRVDjkC1Ag8hX7XZY14P6",
         "begin": "2020-01-13T16:00:00.000Z",
         "broadcast": "R/2020-01-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "97713",
+        "begin": "2020-01-07T11:00:00.000Z",
+        "broadcast": "R/2020-01-07T11:00:00.000Z/P7D"
       }
     ]
   },
@@ -984,12 +1175,19 @@
       {
         "site": "bilibili",
         "id": "28223859",
-        "begin": "2020-01-11T15:30:00.000Z"
+        "begin": "2020-01-11T15:30:00.000Z",
+        "broadcast": "R/2020-01-11T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "22_7",
         "begin": "2020-01-14T14:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "106826",
+        "begin": "2020-01-11T15:30:00.000Z",
+        "broadcast": "R/2020-01-11T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -1039,6 +1237,12 @@
         "id": "81416331",
         "begin": "2021-03-30T16:00:00.000Z",
         "broadcast": "R/2021-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "105416",
+        "begin": "2020-01-05T17:00:00.000Z",
+        "broadcast": "R/2020-01-05T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -1047,7 +1251,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "群聚一堂！西顿学园",
-        "成群逐队！西顿学园"
+        "成群逐队！西顿学园",
+        "成群結伴！西頓學園"
       ],
       "zh-Hant": [
         "成群結伴！西頓學園"
@@ -1079,6 +1284,12 @@
         "id": "PLxSscENEp7JiazRuzo7l7hCx6ul7r8Oxc",
         "begin": "2020-01-17T16:00:00.000Z",
         "broadcast": "R/2020-01-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "108032",
+        "begin": "2020-01-21T09:00:00.000Z",
+        "broadcast": "R/2020-01-21T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1088,6 +1299,9 @@
       "zh-Hans": [
         "UCHITAMA?!～猫狗宠物街～",
         "家有圆圆？！～我家的圆圆你知道吗～"
+      ],
+      "zh-Hant": [
+        "淘氣貓 2020：家有圓圓？！我家的圓圓你知道嗎～"
       ]
     },
     "type": "tv",
@@ -1110,6 +1324,12 @@
         "site": "acfun",
         "id": "6000899",
         "begin": "2020-01-09T17:40:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "106082",
+        "begin": "2020-01-09T17:40:00.000Z",
+        "broadcast": "R/2020-01-09T17:40:00.000Z/P7D"
       }
     ]
   },
@@ -1117,7 +1337,9 @@
     "title": "はてな☆イリュージョン",
     "titleTranslate": {
       "zh-Hans": [
-        "奇幻☆怪盗"
+        "奇幻☆怪盗",
+        "果菜☆幻想",
+        "奇幻怪盗"
       ]
     },
     "type": "tv",
@@ -1134,7 +1356,8 @@
       {
         "site": "bilibili",
         "id": "28225065",
-        "begin": "2020-01-09T14:30:00.000Z"
+        "begin": "2020-01-09T14:30:00.000Z",
+        "broadcast": "R/2020-01-09T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1143,6 +1366,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "地缚少年花子君"
+      ],
+      "zh-Hant": [
+        "地縛少年花子君"
       ]
     },
     "type": "tv",
@@ -1159,7 +1385,8 @@
       {
         "site": "bilibili",
         "id": "28224120",
-        "begin": "2020-01-10T07:00:00.000Z"
+        "begin": "2020-01-10T07:00:00.000Z",
+        "broadcast": "R/2020-01-10T07:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1180,6 +1407,12 @@
         "site": "youku",
         "id": "fafc439b66b841aa9e7a",
         "begin": "2020-01-10T06:58:03.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "104523",
+        "begin": "2020-04-08T16:00:00.000Z",
+        "broadcast": "R/2020-04-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1188,7 +1421,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "A3!满开剧团 春&夏",
-        "A3！满开剧团 春&夏"
+        "A3！满开剧团 春&夏",
+        "A3!满开剧团 春组&夏组篇"
       ]
     },
     "type": "tv",
@@ -1210,7 +1444,14 @@
       {
         "site": "bilibili",
         "id": "28224077",
-        "begin": "2020-01-13T16:30:00.000Z"
+        "begin": "2020-01-13T16:30:00.000Z",
+        "broadcast": "R/2020-01-13T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "103844",
+        "begin": "2020-01-13T16:30:00.000Z",
+        "broadcast": "R/2020-01-13T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1256,10 +1497,14 @@
     "title": "ソマリと森の神様",
     "titleTranslate": {
       "zh-Hans": [
-        "索玛丽与森林之神"
+        "索玛丽与森林之神",
+        "索玛丽和森林之神"
       ],
       "en": [
         "Somali and the Forest Spirit"
+      ],
+      "zh-Hant": [
+        "索瑪麗與森林之神"
       ]
     },
     "type": "tv",
@@ -1281,7 +1526,8 @@
       {
         "site": "bilibili",
         "id": "28224112",
-        "begin": "2020-01-02T15:00:00.000Z"
+        "begin": "2020-01-02T15:00:00.000Z",
+        "broadcast": "R/2020-01-02T15:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1292,6 +1538,12 @@
         "site": "qq",
         "id": "m/mzc00200zo9kmtx",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "104712",
+        "begin": "2020-01-02T16:30:00.000Z",
+        "broadcast": "R/2020-01-02T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1299,7 +1551,11 @@
     "title": "推しが武道館いってくれたら死ぬ",
     "titleTranslate": {
       "zh-Hans": [
-        "神推偶像登上武道馆我就死而无憾"
+        "神推偶像登上武道馆我就死而无憾",
+        "神推登上武道馆我就死而无憾"
+      ],
+      "zh-Hant": [
+        "神推偶像登上武道館我就死而無憾"
       ]
     },
     "type": "tv",
@@ -1316,12 +1572,19 @@
       {
         "site": "bilibili",
         "id": "28224129",
-        "begin": "2020-01-10T07:30:00.000Z"
+        "begin": "2020-01-10T07:30:00.000Z",
+        "broadcast": "R/2020-01-10T07:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "oshibudo",
         "begin": "2020-04-20T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "106587",
+        "begin": "2020-01-09T21:46:00.000Z",
+        "broadcast": "R/2020-01-09T21:46:00.000Z/P7D"
       }
     ]
   },
@@ -1356,7 +1619,8 @@
       ],
       "zh-Hans": [
         "空挺Dragons",
-        "空挺龙"
+        "空挺龙",
+        "猎龙飞船"
       ],
       "zh-Hant": [
         "空挺 Dragons"
@@ -1376,7 +1640,8 @@
       {
         "site": "bilibili",
         "id": "28224138",
-        "begin": "2020-01-08T16:00:00.000Z"
+        "begin": "2020-01-08T16:00:00.000Z",
+        "broadcast": "R/2020-01-08T12:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1390,11 +1655,13 @@
     "title": "ハイキュー!! TO THE TOP",
     "titleTranslate": {
       "zh-Hans": [
-        "排球少年 TO THE TOP"
+        "排球少年 TO THE TOP",
+        "排球少年 第四季"
       ],
       "zh-Hant": [
         "排球少年!! TO THE TOP",
-        "排球少年!! TO THE TOP (第四季)"
+        "排球少年!! TO THE TOP (第四季)",
+        "排球少年！！第四季"
       ],
       "en": [
         "Haikyu!! TO THE TOP",
@@ -1431,8 +1698,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtRhD6dTgVkSrsOYPIentnEJ",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-10-08T16:00:00.000Z",
+        "broadcast": "R/2022-10-08T16:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -1445,6 +1712,12 @@
         "id": "7iGL15MOs7hZ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "103114",
+        "begin": "2020-01-22T09:30:00.000Z",
+        "broadcast": "R/2020-01-22T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -1456,7 +1729,8 @@
       ],
       "zh-Hant": [
         "Re：從零開始的異世界生活 新編輯版",
-        "Re：從零開始的異世界生活（導演版）"
+        "Re：從零開始的異世界生活（導演版）",
+        "Re：從零開始的異世界生活 新編集版"
       ],
       "en": [
         "Re:ZERO -Starting Life in Another World- Director's Cut"
@@ -1476,7 +1750,8 @@
       {
         "site": "bilibili",
         "id": "28224394",
-        "begin": "2020-01-01T15:30:00.000Z"
+        "begin": "2020-01-01T15:30:00.000Z",
+        "broadcast": "R/2020-01-01T15:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1504,6 +1779,18 @@
         "id": "81262169",
         "begin": "2022-12-31T00:00:00.000Z",
         "broadcast": "R/2022-12-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "109286",
+        "begin": "2020-01-01T15:30:00.000Z",
+        "broadcast": "R/2020-01-01T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340507",
+        "begin": "2022-11-30T10:00:07.000Z",
+        "broadcast": "R/2022-11-30T10:00:07.000Z/P7D"
       }
     ]
   },
@@ -1563,6 +1850,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "来自深渊 深沉灵魂的黎明"
+      ],
+      "zh-Hant": [
+        "劇場版 來自深淵 深沉靈魂的黎明"
       ]
     },
     "type": "movie",
@@ -1579,13 +1869,20 @@
       {
         "site": "bilibili",
         "id": "28230042",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
         "id": "miabyss-movie2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "92691",
+        "begin": "2021-09-15T09:00:00.000Z",
+        "broadcast": "R/2021-09-15T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1596,7 +1893,8 @@
         "排球少年 陆 VS 空"
       ],
       "zh-Hant": [
-        "排球少年!! OVA 4: 陸VS空 & OVA 5: 球之\"道\""
+        "排球少年!! OVA 4: 陸VS空 & OVA 5: 球之\"道\"",
+        "排球少年！！陸 VS 空＆球之道"
       ],
       "en": [
         "Haikyu!! OVA 4: HAIKYU!! LAND VS. AIR & OVA 5: The Ball's Path"
@@ -1621,6 +1919,12 @@
       {
         "site": "mytv",
         "id": "haikyuova4haikyulandvsairova5theballspath0005_127987",
+        "begin": "2020-07-25T12:00:00.000Z",
+        "broadcast": "R/2020-07-25T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "112278",
         "begin": "2020-07-25T12:00:00.000Z",
         "broadcast": "R/2020-07-25T12:00:00.000Z/P7D"
       }
@@ -1678,7 +1982,11 @@
   },
   {
     "title": "KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "星光王子 星光時尚秀 BEST10"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://kinpri-allstars.com/",
@@ -1689,6 +1997,12 @@
       {
         "site": "bangumi",
         "id": "292764"
+      },
+      {
+        "site": "gamer",
+        "id": "114875",
+        "begin": "2020-12-18T03:00:00.000Z",
+        "broadcast": "R/2020-12-18T03:00:00.000Z/P7D"
       }
     ]
   },

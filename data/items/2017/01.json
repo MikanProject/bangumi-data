@@ -6,7 +6,8 @@
         "政宗君的复仇"
       ],
       "zh-Hant": [
-        "政宗君的復仇"
+        "政宗君的復仇",
+        "政宗君的复仇"
       ],
       "en": [
         "Masamune-kun’s Revenge"
@@ -35,13 +36,26 @@
       {
         "site": "bilibili",
         "id": "28230154",
-        "begin": "2020-09-28T10:00:01.000Z"
+        "begin": "2020-09-28T10:00:01.000Z",
+        "broadcast": "R/2020-09-28T10:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
         "id": "masamunekunsrevenge_110037",
         "begin": "2017-01-06T05:00:00.000Z",
         "broadcast": "R/2017-01-06T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "84023",
+        "begin": "2017-06-09T09:00:00.000Z",
+        "broadcast": "R/2017-06-09T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28221373",
+        "begin": "2019-06-24T02:39:03.000Z",
+        "broadcast": "R/2019-06-24T02:39:03.000Z/P7D"
       }
     ]
   },
@@ -49,7 +63,8 @@
     "title": "ガヴリールドロップアウト",
     "titleTranslate": {
       "zh-Hans": [
-        "珈百璃的堕落"
+        "珈百璃的堕落",
+        "废天使加百列"
       ],
       "en": [
         "Gabriel Dropout"
@@ -64,7 +79,9 @@
       {
         "site": "bilibili",
         "id": "5793",
-        "begin": "2017-01-09T15:00:00.000Z"
+        "begin": "2017-01-09T15:00:00.000Z",
+        "broadcast": "R/2017-01-09T15:00:00.000Z/P7D",
+        "comment": "SP: 6042"
       },
       {
         "site": "iqiyi",
@@ -141,6 +158,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "亚人酱有话要说"
+      ],
+      "zh-Hant": [
+        "亞人醬有話要說",
+        "亚人酱有话要说 "
       ]
     },
     "type": "tv",
@@ -162,6 +183,18 @@
         "site": "nicovideo",
         "id": "demichan",
         "begin": "2017-04-28T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "84993",
+        "begin": "2017-01-07T16:40:00.000Z",
+        "broadcast": "R/2017-01-07T16:40:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "12169111",
+        "begin": "2019-01-24T09:16:32.000Z",
+        "broadcast": "R/2019-01-24T09:16:32.000Z/P7D"
       }
     ]
   },
@@ -170,7 +203,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "校园女生强袭者",
-        "Schoolgirl Strikers"
+        "Schoolgirl Strikers",
+        "学园少女突袭者"
       ]
     },
     "type": "tv",
@@ -182,7 +216,8 @@
       {
         "site": "bilibili",
         "id": "5777",
-        "begin": "2017-01-06T16:30:00.000Z"
+        "begin": "2017-01-06T16:30:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bangumi",
@@ -195,7 +230,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "飙速宅男 新世代",
-        "飙速宅男 第3季"
+        "飙速宅男 第3季",
+        "飙速宅男 NEW GENERATION",
+        "飙速宅男 第三季"
+      ],
+      "zh-Hant": [
+        "飆速宅男 第三季"
       ]
     },
     "type": "tv",
@@ -207,7 +247,8 @@
       {
         "site": "bilibili",
         "id": "5794",
-        "begin": "2017-01-09T17:35:00.000Z"
+        "begin": "2017-01-09T17:35:00.000Z",
+        "broadcast": "R/2017-01-09T17:35:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -232,6 +273,12 @@
         "site": "nicovideo",
         "id": "yowapeda_ng",
         "begin": "2017-01-12T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "79991",
+        "begin": "2021-01-28T03:00:00.000Z",
+        "broadcast": "R/2021-01-28T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -242,7 +289,8 @@
         "为美好的世界献上祝福！ 第二季"
       ],
       "zh-Hant": [
-        "為美好的世界獻上祝福！ 2"
+        "為美好的世界獻上祝福！ 2",
+        "為美好的世界獻上祝福！ 第二季"
       ],
       "en": [
         "KonoSuba: God's Blessing on this Wonderful World!"
@@ -279,6 +327,12 @@
         "id": "PLC18xlbCdwtS4n_witAlSm4zY1VcG_s_I",
         "begin": "2022-06-22T16:00:00.000Z",
         "broadcast": "R/2022-06-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82626",
+        "begin": "2017-01-11T17:40:00.000Z",
+        "broadcast": "R/2017-01-11T17:40:00.000Z/P7D"
       }
     ]
   },
@@ -290,7 +344,8 @@
         "ONIHEI-HANKACHO THE ANIMATION"
       ],
       "zh-Hans": [
-        "鬼平"
+        "鬼平",
+        "鬼平犯科帳"
       ]
     },
     "type": "tv",
@@ -302,7 +357,8 @@
       {
         "site": "bilibili",
         "id": "5792",
-        "begin": "2017-01-09T17:35:00.000Z"
+        "begin": "2017-01-09T17:35:00.000Z",
+        "broadcast": "R/2017-01-09T17:35:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -334,7 +390,9 @@
       {
         "site": "bilibili",
         "id": "5807",
-        "begin": "2017-01-21T14:30:00.000Z"
+        "begin": "2017-01-21T14:30:00.000Z",
+        "broadcast": "R/2017-01-21T14:30:00.000Z/P7D",
+        "comment": "OVA: 6398"
       },
       {
         "site": "iqiyi",
@@ -360,6 +418,12 @@
         "id": "PLuxqoToY7UciCvWvVC4M2bEh4o06lvQ-K",
         "begin": "2020-09-25T16:00:00.000Z",
         "broadcast": "R/2020-09-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "84237",
+        "begin": "2017-01-21T14:30:00.000Z",
+        "broadcast": "R/2017-01-21T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -368,7 +432,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "漫研部～Surgical Friends～",
-        "漫研部：Surgical Friends"
+        "漫研部：Surgical Friends",
+        "漫研部 第三季"
       ]
     },
     "type": "tv",
@@ -404,7 +469,8 @@
       {
         "site": "bilibili",
         "id": "5868",
-        "begin": "2017-01-02T16:00:01.000Z"
+        "begin": "2017-01-02T16:00:01.000Z",
+        "broadcast": "R/2017-01-09T07:25:00.000Z/P7D"
       }
     ]
   },
@@ -413,7 +479,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "小林家的妹抖龙",
-        "小林家的龙女仆"
+        "小林家的龙女仆",
+        "小林家的女仆龙"
       ]
     },
     "type": "tv",
@@ -425,7 +492,9 @@
       {
         "site": "bilibili",
         "id": "5800",
-        "begin": "2017-01-11T15:30:00.000Z"
+        "begin": "2017-01-11T15:30:00.000Z",
+        "broadcast": "R/2017-01-11T15:30:00.000Z/P7D",
+        "comment": "中配版: 28236715"
       },
       {
         "site": "bangumi",
@@ -442,7 +511,11 @@
     "title": "うらら迷路帖",
     "titleTranslate": {
       "zh-Hans": [
-        "Urara迷路帖"
+        "Urara迷路帖",
+        "乌菈菈迷路帖"
+      ],
+      "zh-Hant": [
+        "烏菈菈迷路帖"
       ]
     },
     "type": "tv",
@@ -454,7 +527,8 @@
       {
         "site": "bilibili",
         "id": "5776",
-        "begin": "2017-01-06T04:00:00.000Z"
+        "begin": "2017-01-06T04:00:00.000Z",
+        "broadcast": "R/2017-01-06T04:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -525,7 +599,8 @@
       {
         "site": "bilibili",
         "id": "5788",
-        "begin": "2017-01-09T09:57:25.000Z"
+        "begin": "2017-01-09T09:57:25.000Z",
+        "broadcast": "R/2017-02-12T16:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -553,7 +628,9 @@
     "title": "セイレン",
     "titleTranslate": {
       "zh-Hans": [
-        "清恋"
+        "清恋",
+        "清廉",
+        "青恋"
       ]
     },
     "type": "tv",
@@ -592,7 +669,8 @@
     "title": "幼女戦記",
     "titleTranslate": {
       "zh-Hans": [
-        "幼女战记"
+        "幼女战记",
+        "谭雅战记"
       ],
       "zh-Hant": [
         "幼女戰記"
@@ -629,6 +707,18 @@
         "begin": "2020-11-23T16:00:00.000Z",
         "broadcast": "R/2020-11-23T16:00:00.000Z/P7D",
         "comment": "含OVA"
+      },
+      {
+        "site": "gamer",
+        "id": "86802",
+        "begin": "2017-01-06T18:40:00.000Z",
+        "broadcast": "R/2017-01-06T18:40:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28221622",
+        "begin": "2019-07-17T03:35:28.000Z",
+        "broadcast": "R/2019-07-17T03:35:28.000Z/P7D"
       }
     ]
   },
@@ -707,6 +797,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "青之驱魔师 京都不净王篇"
+      ],
+      "zh-Hant": [
+        "青之驅魔師 京都不淨王篇"
       ]
     },
     "type": "tv",
@@ -728,6 +821,12 @@
         "site": "nicovideo",
         "id": "ao-ex02",
         "begin": "2017-04-28T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "84116",
+        "begin": "2017-01-06T18:30:00.000Z",
+        "broadcast": "R/2017-01-06T18:30:00.000Z/P7D"
       }
     ]
   },
@@ -736,7 +835,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "昭和元禄落语心中 助六再临篇",
-        "昭和元禄落语心中 -助六再临篇-"
+        "昭和元禄落语心中 -助六再临篇-",
+        "昭和元禄落语心中 第二季"
+      ],
+      "zh-Hant": [
+        "昭和元祿 落語心中 第二季",
+        "昭和元祿落語心中-助六再臨篇"
       ]
     },
     "type": "tv",
@@ -753,6 +857,18 @@
       {
         "site": "bangumi",
         "id": "176615"
+      },
+      {
+        "site": "gamer",
+        "id": "82876",
+        "begin": "2020-12-09T02:00:00.000Z",
+        "broadcast": "R/2020-12-09T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "4313082",
+        "begin": "2018-11-27T06:30:35.000Z",
+        "broadcast": "R/2018-11-27T06:30:35.000Z/P7D"
       }
     ]
   },
@@ -772,7 +888,8 @@
       {
         "site": "bilibili",
         "id": "5831",
-        "begin": "2017-01-06T02:51:00.000Z"
+        "begin": "2017-01-06T02:51:00.000Z",
+        "broadcast": "R/2017-01-13T05:52:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -837,7 +954,8 @@
       {
         "site": "bilibili",
         "id": "5784",
-        "begin": "2017-01-07T19:00:00.000Z"
+        "begin": "2017-01-07T19:00:00.000Z",
+        "broadcast": "R/2017-01-07T19:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -861,7 +979,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "宇宙警探elDLIVE",
-        "宇宙警探"
+        "宇宙警探",
+        "ēlDLIVE 宇宙警探"
       ],
       "en": [
         "ēlDLIVE"
@@ -925,7 +1044,8 @@
       "zh-Hans": [
         "喵咪days",
         "喵咪日常",
-        "猫咪日常"
+        "猫咪日常",
+        "猫咪days"
       ]
     },
     "type": "tv",
@@ -937,7 +1057,8 @@
       {
         "site": "bilibili",
         "id": "5786",
-        "begin": "2017-01-08T15:30:09.000Z"
+        "begin": "2017-01-08T15:30:09.000Z",
+        "broadcast": "R/2017-01-08T15:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -955,10 +1076,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "情热传说 the X 第二季",
-        "热诚传说X 第二季"
+        "热诚传说X 第二季",
+        "热诚传说 the X 第二季"
       ],
       "zh-Hant": [
-        "時空幻境熱情傳奇 THE X (第二季)"
+        "時空幻境熱情傳奇 THE X (第二季)",
+        "情熱傳說 the X 第二季"
       ],
       "en": [
         "Tales of Zestiria theX"
@@ -973,7 +1096,8 @@
       {
         "site": "bilibili",
         "id": "5789",
-        "begin": "2017-01-08T14:30:00.000Z"
+        "begin": "2017-01-08T14:30:00.000Z",
+        "broadcast": "R/2017-01-08T14:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1009,6 +1133,12 @@
         "id": "talesofzestiriathexseason2_110124",
         "begin": "2017-01-09T05:00:00.000Z",
         "broadcast": "R/2017-01-09T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28221632",
+        "begin": "2019-07-18T05:09:43.000Z",
+        "broadcast": "R/2019-07-18T05:09:43.000Z/P7D"
       }
     ]
   },
@@ -1016,7 +1146,8 @@
     "title": "アイドル事変",
     "titleTranslate": {
       "zh-Hans": [
-        "偶像事变"
+        "偶像事变",
+        "偶像选举"
       ],
       "en": [
         "Idol Incidents"
@@ -1031,7 +1162,8 @@
       {
         "site": "bilibili",
         "id": "5787",
-        "begin": "2017-01-08T15:00:00.000Z"
+        "begin": "2017-01-08T15:00:00.000Z",
+        "broadcast": "R/2017-01-08T15:00:09.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1077,7 +1209,8 @@
     "title": "ちるらん にぶんの壱",
     "titleTranslate": {
       "zh-Hans": [
-        "新撰组镇魂歌 二分之一"
+        "新撰组镇魂歌 二分之一",
+        "新选组镇魂歌 二分之一"
       ]
     },
     "type": "tv",
@@ -1089,7 +1222,8 @@
       {
         "site": "bilibili",
         "id": "5791",
-        "begin": "2017-01-09T16:00:00.000Z"
+        "begin": "2017-01-09T16:00:00.000Z",
+        "broadcast": "R/2017-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1107,6 +1241,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "ACCA13区监察课"
+      ],
+      "zh-Hant": [
+        "ACCA13 區監察課"
       ]
     },
     "type": "tv",
@@ -1118,7 +1255,8 @@
       {
         "site": "bilibili",
         "id": "5795",
-        "begin": "2017-01-10T14:30:00.000Z"
+        "begin": "2017-01-10T14:30:00.000Z",
+        "broadcast": "R/2017-01-10T14:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1148,6 +1286,12 @@
         "site": "qq",
         "id": "h/hufccfgky4zw98c",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "83565",
+        "begin": "2017-01-10T15:30:00.000Z",
+        "broadcast": "R/2017-01-10T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -1155,7 +1299,8 @@
     "title": "ハンドシェイカー",
     "titleTranslate": {
       "zh-Hans": [
-        "Hand Shakers"
+        "Hand Shakers",
+        "握手者"
       ],
       "en": [
         "Hand Shakers"
@@ -1173,7 +1318,8 @@
       {
         "site": "bilibili",
         "id": "5797",
-        "begin": "2017-01-10T17:00:00.000Z"
+        "begin": "2017-01-10T17:00:00.000Z",
+        "broadcast": "R/2017-01-10T17:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1209,6 +1355,12 @@
         "id": "PLuxqoToY7UcgZaXNngPvKiDT0b_b0ul7R",
         "begin": "2021-02-25T16:00:00.000Z",
         "broadcast": "R/2021-02-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82670",
+        "begin": "2017-01-10T17:00:00.000Z",
+        "broadcast": "R/2017-01-10T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -1223,6 +1375,9 @@
       ],
       "en": [
         "KEMONO FRIENDS"
+      ],
+      "zh-Hant": [
+        "動物朋友"
       ]
     },
     "type": "tv",
@@ -1234,7 +1389,8 @@
       {
         "site": "bilibili",
         "id": "5796",
-        "begin": "2017-01-10T17:35:00.000Z"
+        "begin": "2017-01-10T17:35:00.000Z",
+        "broadcast": "R/2017-01-10T17:35:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1259,6 +1415,12 @@
         "site": "nicovideo",
         "id": "kemono-friends",
         "begin": "2017-01-13T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "83826",
+        "begin": "2017-05-05T06:50:00.000Z",
+        "broadcast": "R/2017-05-05T06:50:00.000Z/P7D"
       }
     ]
   },
@@ -1267,7 +1429,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "舌尖上的意大利",
-        "Piacevole～我的意大利料理～"
+        "Piacevole～我的意大利料理～",
+        "愉悦～我的意大利料理～"
       ],
       "zh-Hant": [
         "舌尖上的意大利~piacevole!~"
@@ -1320,7 +1483,8 @@
       {
         "site": "bilibili",
         "id": "5798",
-        "begin": "2017-01-11T13:40:00.000Z"
+        "begin": "2017-01-11T13:40:00.000Z",
+        "broadcast": "R/2017-01-11T13:40:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1338,6 +1502,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "混沌子"
+      ],
+      "zh-Hant": [
+        "混沌之子"
       ]
     },
     "type": "tv",
@@ -1349,7 +1516,8 @@
       {
         "site": "bilibili",
         "id": "5802",
-        "begin": "2017-01-11T19:30:00.000Z"
+        "begin": "2017-01-11T19:30:00.000Z",
+        "broadcast": "R/2017-01-11T19:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1364,6 +1532,12 @@
         "site": "qq",
         "id": "z/zucm5mz8b4ons8r",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "76249",
+        "begin": "2017-01-12T06:10:00.000Z",
+        "broadcast": "R/2017-01-12T06:10:00.000Z/P7D"
       }
     ]
   },
@@ -1398,7 +1572,8 @@
       {
         "site": "bilibili",
         "id": "28228763",
-        "begin": "2017-01-11T16:00:00.000Z"
+        "begin": "2017-01-11T16:00:00.000Z",
+        "broadcast": "R/2020-05-09T03:17:00.000Z/P7D"
       }
     ]
   },
@@ -1409,7 +1584,8 @@
         "超级恋人 第二季"
       ],
       "zh-Hant": [
-        "超級戀人 第2季"
+        "超級戀人 第2季",
+        "超級戀人 第二季"
       ]
     },
     "type": "tv",
@@ -1447,6 +1623,12 @@
         "id": "PLxSscENEp7JhyjmWrOjshiPzt2wIkDJ2t",
         "begin": "2019-11-07T16:00:00.000Z",
         "broadcast": "R/2019-11-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "83810",
+        "begin": "2017-06-19T05:00:00.000Z",
+        "broadcast": "R/2017-06-19T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1495,6 +1677,10 @@
     "title": "Rewrite 2ndシーズン",
     "titleTranslate": {
       "zh-Hans": [
+        "Rewrite 第二季",
+        "罚抄 第二季"
+      ],
+      "zh-Hant": [
         "Rewrite 第二季"
       ]
     },
@@ -1507,11 +1693,18 @@
       {
         "site": "bilibili",
         "id": "5806",
-        "begin": "2017-01-14T16:00:00.000Z"
+        "begin": "2017-01-14T16:00:00.000Z",
+        "broadcast": "R/2017-01-14T16:00:10.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "193562"
+      },
+      {
+        "site": "gamer",
+        "id": "85318",
+        "begin": "2020-10-17T06:30:00.000Z",
+        "broadcast": "R/2020-10-17T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -1523,7 +1716,8 @@
         "暗芝居 第4季"
       ],
       "zh-Hant": [
-        "闇芝居S4"
+        "闇芝居S4",
+        "闇芝居 第四季"
       ]
     },
     "type": "tv",
@@ -1540,7 +1734,8 @@
       {
         "site": "bilibili",
         "id": "5832",
-        "begin": "2017-01-15T18:05:00.000Z"
+        "begin": "2017-01-15T18:05:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
@@ -1566,6 +1761,12 @@
         "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
         "begin": "2022-01-06T16:00:00.000Z",
         "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "86871",
+        "begin": "2020-08-26T06:30:00.000Z",
+        "broadcast": "R/2020-08-26T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -1585,7 +1786,8 @@
       {
         "site": "bilibili",
         "id": "5808",
-        "begin": "2017-01-14T16:32:00.000Z"
+        "begin": "2017-01-14T16:32:00.000Z",
+        "broadcast": "R/2017-01-14T16:32:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1612,7 +1814,8 @@
       {
         "site": "bilibili",
         "id": "5809",
-        "begin": "2017-01-03T19:30:00.000Z"
+        "begin": "2017-01-03T19:30:00.000Z",
+        "broadcast": "R/2017-01-03T19:30:09.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1710,7 +1913,8 @@
       {
         "site": "bilibili",
         "id": "5854",
-        "begin": "2017-01-12T02:00:00.000Z"
+        "begin": "2017-01-12T02:00:00.000Z",
+        "broadcast": "R/2017-01-12T02:23:00.000Z/P7D"
       }
     ]
   },
@@ -1745,6 +1949,12 @@
         "site": "youku",
         "id": "47f4a9a898d411e69e06",
         "begin": "2016-12-16T09:02:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "74561",
+        "begin": "2016-12-16T09:20:00.000Z",
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
       }
     ]
   },
@@ -1773,7 +1983,8 @@
       {
         "site": "bilibili",
         "id": "5910",
-        "begin": "2017-01-26T16:00:01.000Z"
+        "begin": "2017-01-26T16:00:01.000Z",
+        "broadcast": "R/2017-03-12T10:49:00.000Z/P7D"
       }
     ]
   },
@@ -1802,7 +2013,8 @@
       {
         "site": "bilibili",
         "id": "5906",
-        "begin": "2017-01-11T16:00:01.000Z"
+        "begin": "2017-01-11T16:00:01.000Z",
+        "broadcast": "R/2017-01-24T07:31:00.000Z/P7D"
       }
     ]
   },
@@ -1831,7 +2043,8 @@
       {
         "site": "bilibili",
         "id": "5914",
-        "begin": "2017-01-05T16:00:00.000Z"
+        "begin": "2017-01-05T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -1860,7 +2073,8 @@
       {
         "site": "bilibili",
         "id": "5922",
-        "begin": "2017-01-07T16:00:00.000Z"
+        "begin": "2017-01-07T16:00:00.000Z",
+        "broadcast": "R/2017-02-07T02:38:35.000Z/P7D"
       }
     ]
   },
@@ -1928,6 +2142,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "黑执事 豪华客船篇"
+      ],
+      "zh-Hant": [
+        "黑執事 劇場版 豪華客船編"
       ]
     },
     "type": "movie",
@@ -1955,6 +2172,12 @@
         "id": "e/ewgm0ompm3hc5ra",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "80044",
+        "begin": "2019-01-16T06:30:00.000Z",
+        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -1987,6 +2210,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "伤物语III 冷血篇"
+      ],
+      "zh-Hant": [
+        "傷物語 III 冷血篇"
       ]
     },
     "type": "movie",
@@ -2004,6 +2230,12 @@
         "site": "nicovideo",
         "id": "kizumonogatari",
         "begin": "2019-07-14T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "84787",
+        "begin": "2021-01-27T07:00:00.000Z",
+        "broadcast": "R/2021-01-27T07:00:00.000Z/P7D"
       }
     ]
   }

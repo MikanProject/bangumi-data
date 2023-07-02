@@ -3,7 +3,8 @@
     "title": "COPPELION",
     "titleTranslate": {
       "zh-Hans": [
-        "核爆默示录"
+        "核爆默示录",
+        "核爆末世录"
       ]
     },
     "type": "tv",
@@ -20,7 +21,8 @@
       {
         "site": "bilibili",
         "id": "485",
-        "begin": "2013-10-01T16:00:00.000Z"
+        "begin": "2013-10-01T16:00:00.000Z",
+        "broadcast": "R/2013-10-02T13:34:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -32,6 +34,9 @@
     "title": "境界の彼方",
     "titleTranslate": {
       "zh-Hans": [
+        "境界的彼方"
+      ],
+      "zh-Hant": [
         "境界的彼方"
       ]
     },
@@ -59,7 +64,8 @@
       {
         "site": "bilibili",
         "id": "3365",
-        "begin": "2013-10-01T16:00:00.000Z"
+        "begin": "2013-10-01T16:00:00.000Z",
+        "broadcast": "R/2016-02-25T02:58:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -79,6 +85,12 @@
         "site": "youku",
         "id": "28326c66ff2b11e28b3f",
         "begin": "2020-02-17T09:32:57.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "61095",
+        "begin": "2021-04-01T02:00:00.000Z",
+        "broadcast": "R/2021-04-01T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -128,7 +140,8 @@
     "title": "ミス・モノクローム -The Animation-",
     "titleTranslate": {
       "zh-Hans": [
-        "黑白小姐"
+        "黑白小姐",
+        "单色小姐"
       ],
       "en": [
         "Miss Monochrome -The Animation-"
@@ -175,7 +188,12 @@
     "title": "凪のあすから",
     "titleTranslate": {
       "zh-Hans": [
-        "来自风平浪静的明天"
+        "来自风平浪静的明天",
+        "凪的明日",
+        "来自凪之明日",
+        "来自宁静的明日",
+        "自风平浪静的未来",
+        "自风平浪静的明日"
       ],
       "zh-Hant": [
         "來自風平浪靜的明日"
@@ -195,7 +213,8 @@
       {
         "site": "bilibili",
         "id": "8672",
-        "begin": "2013-10-03T16:00:00.000Z"
+        "begin": "2013-10-03T16:00:00.000Z",
+        "broadcast": "R/2013-10-24T16:04:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -216,6 +235,12 @@
         "id": "PLuxqoToY7UchM0XHJUJoixFqQ91VS__nb",
         "begin": "2022-06-25T16:00:00.000Z",
         "broadcast": "R/2022-06-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "57498",
+        "begin": "2020-02-06T08:00:00.000Z",
+        "broadcast": "R/2020-02-06T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -269,6 +294,9 @@
       "zh-Hans": [
         "偶像活动！第二年",
         "偶活学园（偶像活动） 第2季"
+      ],
+      "zh-Hant": [
+        "Aikatsu! 偶像學園！第2季"
       ]
     },
     "type": "tv",
@@ -300,6 +328,12 @@
         "site": "qq",
         "id": "m/mzc00200xslawcl",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "72012",
+        "begin": "2016-01-20T11:11:00.000Z",
+        "broadcast": "R/2016-01-20T11:11:00.000Z/P7D"
       }
     ]
   },
@@ -340,7 +374,8 @@
         "Infinite Stratos 2"
       ],
       "zh-Hant": [
-        "IS-Infinite Stratos"
+        "IS-Infinite Stratos",
+        "IS 〈Infinite Stratos〉第二季"
       ]
     },
     "type": "tv",
@@ -361,13 +396,20 @@
       {
         "site": "bilibili",
         "id": "3489",
-        "begin": "2013-10-02T16:00:01.000Z"
+        "begin": "2013-10-02T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjWeYHDlP1RLcz3O_SNQQ0X",
         "begin": "2019-07-17T16:00:00.000Z",
         "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "61376",
+        "begin": "2019-10-09T08:00:00.000Z",
+        "broadcast": "R/2019-10-09T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -396,7 +438,8 @@
       {
         "site": "bilibili",
         "id": "468",
-        "begin": "2013-10-02T16:00:00.000Z"
+        "begin": "2013-10-02T16:00:00.000Z",
+        "broadcast": "R/2013-10-03T21:25:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -423,7 +466,9 @@
     "title": "キルラキル",
     "titleTranslate": {
       "zh-Hans": [
-        "Kill la Kill"
+        "Kill la Kill",
+        "斩服少女",
+        "双斩少女"
       ],
       "en": [
         "KILL la KILL"
@@ -447,7 +492,9 @@
       {
         "site": "bilibili",
         "id": "419",
-        "begin": "2013-10-02T16:00:00.000Z"
+        "begin": "2013-10-02T16:00:00.000Z",
+        "broadcast": "R/2013-10-03T17:12:00.000Z/P7D",
+        "comment": "OAD: 28229688"
       },
       {
         "site": "bangumi",
@@ -480,6 +527,12 @@
         "id": "PLuxqoToY7UcjCaLP25yJ5LNfLIQiuTHUA",
         "begin": "2022-03-08T16:00:00.000Z",
         "broadcast": "R/2022-03-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "61658",
+        "begin": "2020-10-01T04:00:00.000Z",
+        "broadcast": "R/2020-10-01T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -487,7 +540,9 @@
     "title": "アウトブレイク・カンパニー",
     "titleTranslate": {
       "zh-Hans": [
-        "萌萌侵略者"
+        "萌萌侵略者",
+        "OUTBREAK COMPANY 萌萌侵略者",
+        "萌之侵略者"
       ],
       "en": [
         "Outbreak Company"
@@ -550,7 +605,8 @@
       {
         "site": "bilibili",
         "id": "289",
-        "begin": "2013-10-04T16:00:00.000Z"
+        "begin": "2013-10-04T16:00:00.000Z",
+        "broadcast": "R/2014-10-09T03:48:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -577,10 +633,16 @@
     "title": "リトルバスターズ！～Refrain～",
     "titleTranslate": {
       "zh-Hans": [
-        "Little Busters! ～Refrain～"
+        "Little Busters! ～Refrain～",
+        "Little Busters! 〜Refrain〜",
+        "小小克星2",
+        "Little Busters! 第二期"
       ],
       "en": [
         "Little Busters! -Refrain-"
+      ],
+      "zh-Hant": [
+        "Little Busters ! ～Refrain～"
       ]
     },
     "type": "tv",
@@ -601,12 +663,19 @@
       {
         "site": "bilibili",
         "id": "81292",
-        "begin": "2013-10-04T16:00:01.000Z"
+        "begin": "2013-10-04T16:00:01.000Z",
+        "broadcast": "R/2018-04-03T03:49:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "m/mzc00200lwtyc8h",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "61087",
+        "begin": "2020-06-22T04:00:00.000Z",
+        "broadcast": "R/2020-06-22T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -615,7 +684,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "当不成勇者的我，只好认真找工作了。",
-        "没能做成勇者的我无可奈何的决定去工作"
+        "没能做成勇者的我无可奈何的决定去工作",
+        "没能成为勇者的我无可奈何决定去工作"
       ]
     },
     "type": "tv",
@@ -637,7 +707,8 @@
       {
         "site": "bilibili",
         "id": "4382",
-        "begin": "2013-10-03T16:00:01.000Z"
+        "begin": "2013-10-03T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "bangumi",
@@ -654,7 +725,9 @@
     "title": "フリージング ヴァイブレーション",
     "titleTranslate": {
       "zh-Hans": [
-        "零度战姬Vibration"
+        "零度战姬Vibration",
+        "零度战姬 振动",
+        "结界女王 第二季"
       ],
       "en": [
         "FREEZING VIBRATION"
@@ -682,7 +755,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "Phi-Brain～神之谜题3",
-        "天才黄金脑神之谜 第3季"
+        "天才黄金脑神之谜 第3季",
+        "Φ Brain ～神之谜题3"
       ]
     },
     "type": "tv",
@@ -714,7 +788,8 @@
       {
         "site": "bilibili",
         "id": "489",
-        "begin": "2013-10-05T16:00:00.000Z"
+        "begin": "2013-10-05T16:00:00.000Z",
+        "broadcast": "R/2013-10-06T14:19:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -756,7 +831,8 @@
       {
         "site": "bilibili",
         "id": "3516",
-        "begin": "2013-10-04T16:00:01.000Z"
+        "begin": "2013-10-04T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -780,7 +856,10 @@
     "title": "夜桜四重奏 ～ハナノウタ～",
     "titleTranslate": {
       "zh-Hans": [
-        "夜樱四重奏 ～花之歌～"
+        "夜樱四重奏 ～花之歌～",
+        "夜樱四重奏 花之歌",
+        "夜樱四重奏～花之歌～",
+        "夜樱四重奏 第2期"
       ],
       "en": [
         "YOZAKURA QUARTET"
@@ -810,7 +889,8 @@
       {
         "site": "bilibili",
         "id": "473",
-        "begin": "2013-10-05T16:00:00.000Z"
+        "begin": "2013-10-05T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bangumi",
@@ -856,7 +936,8 @@
       {
         "site": "bilibili",
         "id": "4375",
-        "begin": "2013-10-05T16:00:01.000Z"
+        "begin": "2013-10-05T16:00:01.000Z",
+        "broadcast": "R/2017-06-02T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -889,7 +970,8 @@
       {
         "site": "bilibili",
         "id": "480",
-        "begin": "2013-10-05T16:00:00.000Z"
+        "begin": "2013-10-05T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bangumi",
@@ -949,13 +1031,15 @@
     "title": "マギ The Kingdom of magic",
     "titleTranslate": {
       "zh-Hans": [
-        "天方魔谭MAGI 第二季"
+        "天方魔谭MAGI 第二季",
+        "魔笛magi 第二季"
       ],
       "en": [
         "Magi: The Kingdom of magic"
       ],
       "zh-Hant": [
-        "MAGI魔奇少年 第2季"
+        "MAGI魔奇少年 第2季",
+        "MAGI 魔奇少年 第二季"
       ]
     },
     "type": "tv",
@@ -972,7 +1056,8 @@
       {
         "site": "bilibili",
         "id": "471",
-        "begin": "2013-10-05T16:00:00.000Z"
+        "begin": "2013-10-05T16:00:00.000Z",
+        "broadcast": "R/2013-10-06T08:10:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -989,6 +1074,12 @@
         "id": "362040",
         "begin": "2021-03-31T16:00:00.000Z",
         "broadcast": "R/2021-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "62725",
+        "begin": "2020-11-06T05:00:00.000Z",
+        "broadcast": "R/2020-11-06T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -998,6 +1089,9 @@
       "zh-Hans": [
         "黑子的篮球 第二季",
         "黑子的篮球 第2季"
+      ],
+      "zh-Hant": [
+        "影子籃球員 第二季"
       ]
     },
     "type": "tv",
@@ -1039,7 +1133,9 @@
       {
         "site": "bilibili",
         "id": "1625",
-        "begin": "2013-10-04T16:00:00.000Z"
+        "begin": "2013-10-04T16:00:00.000Z",
+        "broadcast": "R/2015-01-20T02:37:00.000Z/P7D",
+        "comment": "OVA: 3443"
       },
       {
         "site": "bangumi",
@@ -1050,6 +1146,12 @@
         "id": "80063153",
         "begin": "2022-09-14T16:00:00.000Z",
         "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "59487",
+        "begin": "2023-01-18T02:30:00.000Z",
+        "broadcast": "R/2023-01-18T02:30:00.000Z/P7D"
       }
     ]
   },
@@ -1090,6 +1192,10 @@
     "title": "はじめの一歩 Rising",
     "titleTranslate": {
       "zh-Hans": [
+        "第一神拳 Rising",
+        "第一神拳 第三季"
+      ],
+      "zh-Hant": [
         "第一神拳 Rising"
       ]
     },
@@ -1102,7 +1208,8 @@
       {
         "site": "bilibili",
         "id": "502",
-        "begin": "2013-10-04T16:00:00.000Z"
+        "begin": "2013-10-04T16:00:00.000Z",
+        "broadcast": "R/2015-12-23T02:54:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1112,6 +1219,12 @@
         "site": "qq",
         "id": "x/xse1vkbmedn5tg8",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "63135",
+        "begin": "2023-03-10T04:40:00.000Z",
+        "broadcast": "R/2023-03-10T04:40:00.000Z/P7D"
       }
     ]
   },
@@ -1120,7 +1233,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "声优战队 Voice Storm 7",
-        "声优战队"
+        "声优战队",
+        "声优战队VoiceStorm7"
       ],
       "en": [
         "Voice Actor Force VOICETORM 7"
@@ -1150,7 +1264,8 @@
       {
         "site": "bilibili",
         "id": "460",
-        "begin": "2013-10-04T16:00:00.000Z"
+        "begin": "2013-10-04T16:00:00.000Z",
+        "broadcast": "R/2016-02-16T09:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1167,7 +1282,8 @@
     "title": "てさぐれ！部活もの",
     "titleTranslate": {
       "zh-Hans": [
-        "摸索吧！部活剧"
+        "摸索吧！部活剧",
+        "探寻吧！部活！"
       ]
     },
     "type": "tv",
@@ -1189,7 +1305,8 @@
       {
         "site": "bilibili",
         "id": "1578",
-        "begin": "2013-10-04T16:00:00.000Z"
+        "begin": "2013-10-04T16:00:00.000Z",
+        "broadcast": "R/2015-12-17T04:39:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1228,7 +1345,8 @@
       {
         "site": "bilibili",
         "id": "19",
-        "begin": "2013-10-05T16:00:00.000Z"
+        "begin": "2013-10-05T16:00:00.000Z",
+        "broadcast": "R/2013-10-06T16:07:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1277,7 +1395,8 @@
       {
         "site": "bilibili",
         "id": "4388",
-        "begin": "2013-10-06T16:00:01.000Z"
+        "begin": "2013-10-06T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -1333,7 +1452,10 @@
       "zh-Hans": [
         "高达创战者",
         "高达Build Fighters",
-        "敢达创战者"
+        "敢达创战者",
+        "高达创斗者",
+        "高达男朋友",
+        "机动战士高达Build Fighters"
       ],
       "en": [
         "GUNDAM BUILD FIGHTERS"
@@ -1357,7 +1479,8 @@
       {
         "site": "bilibili",
         "id": "4374",
-        "begin": "2013-10-06T16:00:01.000Z"
+        "begin": "2013-10-06T16:00:01.000Z",
+        "broadcast": "R/2017-03-31T17:16:00.000Z/P7D"
       }
     ]
   },
@@ -1365,7 +1488,8 @@
     "title": "弱虫ペダル",
     "titleTranslate": {
       "zh-Hans": [
-        "飙速宅男"
+        "飙速宅男",
+        "弱虫脚踏板"
       ],
       "zh-Hant": [
         "飆速宅男"
@@ -1399,6 +1523,12 @@
         "id": "80061943",
         "begin": "2021-01-30T16:00:00.000Z",
         "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "59441",
+        "begin": "2020-12-10T06:00:00.000Z",
+        "broadcast": "R/2020-12-10T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -1406,7 +1536,10 @@
     "title": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
     "titleTranslate": {
       "zh-Hans": [
-        "苍蓝钢铁的琶音"
+        "苍蓝钢铁的琶音",
+        "苍钢",
+        "蒼藍鋼鐵戰艦",
+        "苍蓝钢铁战舰"
       ],
       "en": [
         "Arpeggio of Blue Steel -Ars Nova-"
@@ -1472,13 +1605,15 @@
     "title": "東京レイヴンズ",
     "titleTranslate": {
       "zh-Hans": [
-        "东京暗鸦"
+        "东京暗鸦",
+        "东京乌鸦"
       ],
       "en": [
         "TOKYO RAVENS"
       ],
       "zh-Hant": [
-        "東京闇鴉"
+        "東京闇鴉",
+        "東京暗鴉"
       ]
     },
     "type": "tv",
@@ -1501,6 +1636,18 @@
         "id": "PLxSscENEp7Ji-CNndI9zyymP9FYpl4QvR",
         "begin": "2019-12-28T16:00:00.000Z",
         "broadcast": "R/2019-12-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "58428",
+        "begin": "2023-02-17T04:00:00.000Z",
+        "broadcast": "R/2023-02-17T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28221536",
+        "begin": "2019-07-08T07:07:25.000Z",
+        "broadcast": "R/2019-07-08T07:07:25.000Z/P7D"
       }
     ]
   },
@@ -1508,7 +1655,12 @@
     "title": "BLAZBLUE ALTER MEMORY",
     "titleTranslate": {
       "zh-Hans": [
-        "苍翼默示录 Alter Memory"
+        "苍翼默示录 Alter Memory",
+        "苍翼默示录"
+      ],
+      "zh-Hant": [
+        "蒼翼默示錄",
+        "蒼翼默示錄 Alter Memory"
       ]
     },
     "type": "tv",
@@ -1539,7 +1691,8 @@
       {
         "site": "bilibili",
         "id": "111892",
-        "begin": "2013-10-07T16:00:01.000Z"
+        "begin": "2013-10-07T16:00:01.000Z",
+        "broadcast": "R/2018-06-27T07:17:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1550,6 +1703,18 @@
         "site": "qq",
         "id": "m/mzc0020004cghxl",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchVfPDKLOVcsxl_wzDR2bMh",
+        "begin": "2023-03-31T16:00:00.000Z",
+        "broadcast": "R/2023-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "61840",
+        "begin": "2020-02-06T08:00:00.000Z",
+        "broadcast": "R/2020-02-06T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -1557,7 +1722,9 @@
     "title": "ガリレイドンナ",
     "titleTranslate": {
       "zh-Hans": [
-        "伽利略少女"
+        "伽利略少女",
+        "伽利略女神",
+        "伽利略唐娜"
       ],
       "en": [
         "Galileidonna"
@@ -1577,7 +1744,8 @@
       {
         "site": "bilibili",
         "id": "475",
-        "begin": "2013-10-09T16:00:00.000Z"
+        "begin": "2013-10-09T16:00:00.000Z",
+        "broadcast": "R/2020-11-28T08:04:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1600,7 +1768,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我的脑内恋碍选项",
-        "我的脑内选项正在全力妨碍学园恋爱喜剧"
+        "我的脑内选项正在全力妨碍学园恋爱喜剧",
+        "我的脑内恋爱选项，正在全力妨碍学院恋爱喜剧",
+        "我的脑内恋爱选项"
       ]
     },
     "type": "tv",
@@ -1622,7 +1792,8 @@
       {
         "site": "bilibili",
         "id": "2673",
-        "begin": "2013-10-08T16:00:00.000Z"
+        "begin": "2013-10-08T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bangumi",
@@ -1679,7 +1850,8 @@
       {
         "site": "bilibili",
         "id": "476",
-        "begin": "2013-10-09T16:00:00.000Z"
+        "begin": "2013-10-09T16:00:00.000Z",
+        "broadcast": "R/2013-10-10T17:03:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1726,7 +1898,8 @@
       {
         "site": "bilibili",
         "id": "495",
-        "begin": "2013-10-09T16:00:00.000Z"
+        "begin": "2013-10-09T16:00:00.000Z",
+        "broadcast": "R/2013-10-10T18:18:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1740,6 +1913,9 @@
       "zh-Hans": [
         "精灵宝可梦XY",
         "口袋妖怪 XY"
+      ],
+      "zh-Hant": [
+        "寶可夢 XY"
       ],
       "en": [
         "Pokemon XY"
@@ -1793,7 +1969,14 @@
       {
         "site": "bilibili",
         "id": "5762",
-        "begin": "2013-10-16T16:00:01.000Z"
+        "begin": "2013-10-16T16:00:01.000Z",
+        "broadcast": "R/2016-12-08T02:49:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "62605",
+        "begin": "2021-03-11T09:00:00.000Z",
+        "broadcast": "R/2021-03-11T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1827,7 +2010,8 @@
       {
         "site": "bilibili",
         "id": "4378",
-        "begin": "2013-10-01T16:00:00.000Z"
+        "begin": "2013-10-01T16:00:00.000Z",
+        "broadcast": "R/2016-06-03T03:27:00.000Z/P7D"
       }
     ]
   },
@@ -1856,7 +2040,8 @@
       {
         "site": "bilibili",
         "id": "3852",
-        "begin": "2013-10-24T16:00:01.000Z"
+        "begin": "2013-10-24T16:00:01.000Z",
+        "broadcast": "R/2016-04-25T09:53:00.000Z/P7D"
       }
     ]
   },
@@ -1885,7 +2070,8 @@
       {
         "site": "bilibili",
         "id": "4383",
-        "begin": "2013-10-08T16:00:01.000Z"
+        "begin": "2013-10-08T16:00:01.000Z",
+        "broadcast": "R/2016-06-03T06:31:15.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1953,6 +2139,9 @@
       "zh-Hans": [
         "魔法少女小圆 剧场版 [新篇] 叛逆的物语"
       ],
+      "zh-Hant": [
+        "魔法少女小圓 新編 叛逆的物語"
+      ],
       "en": [
         "Puella Magi Madoka Magica the Movie: Rebellion"
       ]
@@ -1981,7 +2170,14 @@
       {
         "site": "bilibili",
         "id": "28220105",
-        "begin": "2013-10-25T16:00:00.000Z"
+        "begin": "2013-10-25T16:00:00.000Z",
+        "broadcast": "R/2019-08-30T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "60976",
+        "begin": "2019-05-31T16:00:00.000Z",
+        "broadcast": "R/2019-05-31T16:00:00.000Z/P7D"
       }
     ]
   }

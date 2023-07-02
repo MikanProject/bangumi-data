@@ -3,7 +3,11 @@
     "title": "ひろがるスカイ！プリキュア",
     "titleTranslate": {
       "zh-Hans": [
-        "开阔天空！光之美少女"
+        "开阔天空！光之美少女",
+        "伸向天空！光之美少女",
+        "海阔天空！光之美少女",
+        "天空Q娃",
+        "空Q"
       ]
     },
     "type": "tv",
@@ -17,6 +21,64 @@
       {
         "site": "bangumi",
         "id": "409323"
+      }
+    ]
+  },
+  {
+    "title": "MAKE MY DAY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冰雪极境"
+      ],
+      "zh-Hant": [
+        "冰雪極境"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/delicious/",
+    "begin": "2023-02-01T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338655"
+      },
+      {
+        "site": "netflix",
+        "id": "81176967",
+        "begin": "2023-02-01T16:00:00.000Z",
+        "broadcast": "R/2023-02-01T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Spicy Candy",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辣糖甜心"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.spicycandy.net/",
+    "begin": "2023-02-13T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419847"
+      },
+      {
+        "site": "bilibili",
+        "id": "28481048",
+        "begin": "2023-02-14T04:00:01.000Z",
+        "broadcast": "R/2023-02-14T04:00:01.000Z/P7D",
+        "comment": "中文配音: 28481049"
       }
     ]
   }

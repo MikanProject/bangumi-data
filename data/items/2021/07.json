@@ -3,11 +3,14 @@
     "title": "ゲッターロボアーク",
     "titleTranslate": {
       "zh-Hans": [
-        "盖塔机器人ARC"
+        "盖塔机器人ARC",
+        "三一萬能俠 ARC",
+        "蓋特機器人 ARC"
       ],
       "zh-Hant": [
         "蓋特機器人",
-        "三一萬能俠ARC"
+        "三一萬能俠ARC",
+        "蓋特機器人 ARC"
       ],
       "en": [
         "Getter Robo Arc"
@@ -42,6 +45,12 @@
         "id": "getterroboarc_132491",
         "begin": "2021-07-04T12:30:00.000Z",
         "broadcast": "R/2021-07-04T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "114426",
+        "begin": "2021-07-04T12:30:00.000Z",
+        "broadcast": "R/2021-07-04T12:30:00.000Z/P7D"
       }
     ]
   },
@@ -50,10 +59,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "白砂的水族馆",
-        "白沙的水族馆"
+        "白沙的水族馆",
+        "白砂的Aquatope"
       ],
       "zh-Hant": [
-        "白沙的Aquatope"
+        "白沙的Aquatope",
+        "白沙的 Aquatope"
       ]
     },
     "type": "tv",
@@ -83,14 +94,20 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234706",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-07-08T16:30:00.000Z",
+        "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "aquatope-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115393",
+        "begin": "2021-07-08T16:30:00.000Z",
+        "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -127,6 +144,12 @@
         "id": "PLxSscENEp7Jg9olNs9aYTSFjc6PM5vrbU",
         "begin": "2021-06-23T16:00:00.000Z",
         "broadcast": "R/2021-06-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116434",
+        "begin": "2021-06-25T13:00:00.000Z",
+        "broadcast": "R/2021-06-25T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -134,10 +157,15 @@
     "title": "カノジョも彼女",
     "titleTranslate": {
       "zh-Hans": [
-        "女友成双"
+        "女友成双",
+        "女朋友and女朋友",
+        "女友成堆",
+        "她也是女友",
+        "女朋友 vs. 女朋友"
       ],
       "zh-Hant": [
-        "女朋友and女朋友"
+        "女朋友and女朋友",
+        "女朋友 and 女朋友"
       ]
     },
     "type": "tv",
@@ -161,13 +189,20 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234732",
-        "begin": ""
+        "begin": "2021-07-02T18:55:01.000Z",
+        "broadcast": "R/2021-07-02T18:55:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "kanokano-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "114623",
+        "begin": "2021-07-02T18:55:00.000Z",
+        "broadcast": "R/2021-07-02T18:55:00.000Z/P7D"
       }
     ]
   },
@@ -202,7 +237,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234715",
-        "begin": ""
+        "begin": "2021-07-03T12:30:01.000Z",
+        "broadcast": "R/2021-07-03T12:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -215,6 +251,12 @@
         "id": "PLxSscENEp7Jjad7wjjOwOoFgbHC5ZXhtG",
         "begin": "2021-07-01T16:00:00.000Z",
         "broadcast": "R/2021-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "109289",
+        "begin": "2021-07-03T12:30:00.000Z",
+        "broadcast": "R/2021-07-03T12:30:00.000Z/P7D"
       }
     ]
   },
@@ -222,7 +264,9 @@
     "title": "探偵はもう、死んでいる。",
     "titleTranslate": {
       "zh-Hans": [
-        "侦探已经死了。"
+        "侦探已经死了。",
+        "侦探已死",
+        "侦探已经，死了。"
       ],
       "zh-Hant": [
         "偵探已經，死了。"
@@ -249,7 +293,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234730",
-        "begin": ""
+        "begin": "2021-07-04T14:30:01.000Z",
+        "broadcast": "R/2021-07-04T14:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -268,6 +313,12 @@
         "id": "PLuxqoToY7UchEoeVKVw5mvHfuazuvC9P0",
         "begin": "2022-06-13T16:00:00.000Z",
         "broadcast": "R/2022-06-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "115484",
+        "begin": "2021-07-04T14:30:00.000Z",
+        "broadcast": "R/2021-07-04T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -302,7 +353,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234714",
-        "begin": ""
+        "begin": "2021-07-04T13:30:01.000Z",
+        "broadcast": "R/2021-07-04T13:30:01.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -315,6 +367,12 @@
         "id": "PLC18xlbCdwtRwRnGV8N4joWmJ0_r5fZV0",
         "begin": "2022-06-21T16:00:00.000Z",
         "broadcast": "R/2022-06-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "115721",
+        "begin": "2021-07-04T13:30:00.000Z",
+        "broadcast": "R/2021-07-04T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -322,7 +380,8 @@
     "title": "月が導く異世界道中",
     "titleTranslate": {
       "zh-Hans": [
-        "月光下的异世界之旅"
+        "月光下的异世界之旅",
+        "月亮指引的异世界之旅"
       ],
       "zh-Hant": [
         "月光下的異世界之旅"
@@ -352,7 +411,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234719",
-        "begin": ""
+        "begin": "2021-07-07T16:00:01.000Z",
+        "broadcast": "R/2021-07-07T16:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -371,6 +431,12 @@
         "id": "tsukimichimoonlitfantasy_132541",
         "begin": "2022-02-28T16:00:00.000Z",
         "broadcast": "R/2022-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "117246",
+        "begin": "2021-07-07T15:00:00.000Z",
+        "broadcast": "R/2021-07-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -379,7 +445,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "转生恶役只好拔除破灭旗标…Ｘ",
-        "转生成为了只有乙女游戏破灭Flag的邪恶大小姐X"
+        "转生成为了只有乙女游戏破灭Flag的邪恶大小姐X",
+        "转生成为了只有乙女游戏破灭Flag的邪恶大小姐 第二季"
       ],
       "zh-Hant": [
         "轉生成女性向遊戲只有毀滅 END 的壞人大小姐 X"
@@ -414,6 +481,18 @@
         "id": "PLuxqoToY7UciceC14F8-9VyfN1xuSJt_d",
         "begin": "2021-10-31T16:00:00.000Z",
         "broadcast": "R/2021-10-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "115336",
+        "begin": "2021-07-02T17:55:00.000Z",
+        "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234702",
+        "begin": "2021-07-02T17:55:00.000Z",
+        "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
       }
     ]
   },
@@ -421,7 +500,14 @@
     "title": "魔法科高校の優等生",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法科高校的优等生"
+        "魔法科高校的优等生",
+        "魔法科高中的优等生"
+      ],
+      "zh-Hant": [
+        "魔法科高中的優等生"
+      ],
+      "en": [
+        "The Honor at Magic High School"
       ]
     },
     "type": "tv",
@@ -439,13 +525,26 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234734",
-        "begin": ""
+        "begin": "2021-07-03T16:00:01.000Z",
+        "broadcast": "R/2021-07-03T16:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "mahouka-yuutousei",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nowPlayer",
+        "id": "S202106250132924",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115151",
+        "begin": "2021-07-03T16:00:00.000Z",
+        "broadcast": "R/2021-07-03T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -453,11 +552,14 @@
     "title": "ひぐらしのなく頃に卒",
     "titleTranslate": {
       "zh-Hans": [
-        "寒蝉鸣泣之时 卒"
+        "寒蝉鸣泣之时 卒",
+        "秋蝉鸣泣之时 卒",
+        "暮蝉悲鸣时 卒"
       ],
       "zh-Hant": [
         "暮蟬悲鳴時卒",
-        "暮蟬悲鳴時：卒"
+        "暮蟬悲鳴時：卒",
+        "暮蟬悲鳴時 卒"
       ]
     },
     "type": "tv",
@@ -475,7 +577,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234723",
-        "begin": ""
+        "begin": "2021-07-01T16:00:01.000Z",
+        "broadcast": "R/2021-07-01T16:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -500,6 +603,12 @@
         "id": "81336986",
         "begin": "2021-04-29T16:00:00.000Z",
         "broadcast": "R/2021-04-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116770",
+        "begin": "2021-07-01T15:30:00.000Z",
+        "broadcast": "R/2021-07-01T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -510,7 +619,10 @@
         "Miss Kobayashi's Dragon Maid S"
       ],
       "zh-Hans": [
-        "小林家的龙女仆S"
+        "小林家的龙女仆S",
+        "小林家的妹抖龙S",
+        "小林家的女仆龙S",
+        "小林家的龙女仆 第二季"
       ]
     },
     "type": "tv",
@@ -528,13 +640,15 @@
       {
         "site": "bilibili",
         "id": "28234613",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-12-17T12:00:01.000Z",
+        "broadcast": "R/2021-12-17T12:00:01.000Z/P7D",
+        "comment": "中配版: 28338773"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234716",
-        "begin": ""
+        "begin": "2021-07-07T16:00:00.000Z",
+        "broadcast": "R/2021-07-07T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -548,7 +662,11 @@
     "title": "うらみちお兄さん",
     "titleTranslate": {
       "zh-Hans": [
-        "阴晴不定大哥哥"
+        "阴晴不定大哥哥",
+        "陰晴不定的體操哥哥"
+      ],
+      "zh-Hant": [
+        "陰晴不定的體操哥哥"
       ]
     },
     "type": "tv",
@@ -574,6 +692,12 @@
         "id": "uramichi-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234718",
+        "begin": "2021-07-05T16:00:00.000Z",
+        "broadcast": "R/2021-07-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -581,7 +705,8 @@
     "title": "俺、つしま",
     "titleTranslate": {
       "zh-Hans": [
-        "我，小怼"
+        "我，小怼",
+        "我是TSUSHIMA"
       ],
       "zh-Hant": [
         "叫我對大哥"
@@ -605,12 +730,39 @@
         "begin": "2021-07-02T17:50:00.000Z",
         "broadcast": "R/2021-07-02T17:50:00.000Z/P7D",
         "comment": "TV 版"
+      },
+      {
+        "site": "gamer",
+        "id": "116011",
+        "begin": "2021-07-02T17:50:00.000Z",
+        "broadcast": "R/2021-07-02T17:50:00.000Z/P7D",
+        "comment": "WEB版: 118354"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234709",
+        "begin": "2021-07-02T17:50:01.000Z",
+        "broadcast": "R/2021-07-02T17:50:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234656",
+        "begin": "2021-07-02T17:50:00.000Z",
+        "broadcast": "R/2021-07-02T17:50:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "RE-MAIN",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "RE-MAIN"
+      ],
+      "zh-Hans": [
+        "RE-MAIN：少年与水球",
+        "少年与水球"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://re-main.net/",
@@ -646,6 +798,12 @@
         "id": "remain_132490",
         "begin": "2021-07-03T17:30:00.000Z",
         "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116190",
+        "begin": "2021-07-03T17:30:00.000Z",
+        "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -653,7 +811,9 @@
     "title": "ヴァニタスの手記",
     "titleTranslate": {
       "zh-Hans": [
-        "瓦尼塔斯的手札"
+        "瓦尼塔斯的手札",
+        "瓦尼塔斯的手记",
+        "瓦尼塔斯的笔记"
       ],
       "zh-Hant": [
         "瓦尼塔斯的手札"
@@ -674,7 +834,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234705",
-        "begin": ""
+        "begin": "2021-07-02T16:30:01.000Z",
+        "broadcast": "R/2021-07-02T16:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -687,6 +848,18 @@
         "id": "371199",
         "begin": "2021-07-02T16:00:00.000Z",
         "broadcast": "R/2021-07-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116650",
+        "begin": "2021-07-02T16:30:00.000Z",
+        "broadcast": "R/2021-07-02T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234616",
+        "begin": "2021-07-30T15:30:00.000Z",
+        "broadcast": "R/2021-07-30T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -695,7 +868,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "开挂药师的休闲生活～异世界里开药店～",
-        "开挂药师的异世界悠闲生活～在异世界开药店吧～"
+        "开挂药师的异世界悠闲生活～在异世界开药店吧～",
+        "开挂药师的异世界悠闲生活 ～到异世界开药房去～",
+        "作弊药师的休闲生活～异世界里开药店～",
+        "cheat药师的休闲生活～异世界里开药店～",
+        "开挂药师的奇幻世界悠闲生活"
       ],
       "zh-Hant": [
         "開掛藥師的異世界悠閒生活"
@@ -716,13 +893,26 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234707",
-        "begin": ""
+        "begin": "2021-07-07T16:00:00.000Z",
+        "broadcast": "R/2021-07-07T16:00:00.000Z/P7D"
       },
       {
         "site": "viu",
         "id": "372971",
         "begin": "2021-07-06T16:00:00.000Z",
         "broadcast": "R/2021-07-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "111582",
+        "begin": "2021-07-07T14:30:00.000Z",
+        "broadcast": "R/2021-07-07T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234646",
+        "begin": "2021-07-14T14:00:00.000Z",
+        "broadcast": "R/2021-07-14T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -754,7 +944,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234721",
-        "begin": ""
+        "begin": "2021-07-09T14:00:01.000Z",
+        "broadcast": "R/2021-07-09T14:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -768,7 +959,14 @@
     "title": "ジャヒー様はくじけない！",
     "titleTranslate": {
       "zh-Hans": [
-        "迦希女王不会放弃"
+        "迦希女王不会放弃",
+        "贾希大人不气馁！"
+      ],
+      "zh-Hant": [
+        "迦希大人不氣餒！"
+      ],
+      "en": [
+        "The Great Jahy Will Not Be Defeated!"
       ]
     },
     "type": "tv",
@@ -792,6 +990,12 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234736",
+        "begin": "2021-07-31T18:00:00.000Z",
+        "broadcast": "R/2021-07-31T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "nowPlayer",
+        "id": "S202109280137884",
         "begin": "",
         "broadcast": ""
       }
@@ -826,12 +1030,14 @@
         "site": "bilibili",
         "id": "28234640",
         "begin": "2021-07-15T13:40:01.000Z",
-        "broadcast": "R/2021-07-15T13:40:01.000Z/P7D"
+        "broadcast": "R/2021-07-15T13:40:01.000Z/P7D",
+        "comment": "正序版: 28235134"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234722",
-        "begin": ""
+        "begin": "2021-07-01T16:00:00.000Z",
+        "broadcast": "R/2021-07-01T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -844,6 +1050,12 @@
         "id": "PLxSscENEp7Jh8mDfdlDbC1fVDFoAMiDR4",
         "begin": "2021-07-14T16:00:00.000Z",
         "broadcast": "R/2021-07-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "112960",
+        "begin": "2021-07-01T13:40:00.000Z",
+        "broadcast": "R/2021-07-01T13:40:00.000Z/P7D"
       }
     ]
   },
@@ -879,7 +1091,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234735",
-        "begin": ""
+        "begin": "2021-07-15T16:30:01.000Z",
+        "broadcast": "R/2021-07-15T16:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -898,6 +1111,12 @@
         "id": "451297",
         "begin": "2022-09-08T16:00:00.000Z",
         "broadcast": "R/2022-09-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "117503",
+        "begin": "2021-07-15T16:30:00.000Z",
+        "broadcast": "R/2021-07-15T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -908,7 +1127,9 @@
         "Love Live！Superstar!!"
       ],
       "zh-Hans": [
-        "Love Live! Superstar!!"
+        "Love Live! Superstar!!",
+        "爱与演唱会!超级明星!!",
+        "LoveLive 爱与演唱会!超级明星!!"
       ],
       "zh-Hant": [
         "Love Live! Superstar!!"
@@ -937,6 +1158,18 @@
         "id": "yuigaoka",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "111403",
+        "begin": "2021-07-12T09:30:00.000Z",
+        "broadcast": "R/2021-07-12T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234693",
+        "begin": "2021-08-28T12:00:00.000Z",
+        "broadcast": "R/2021-08-28T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -971,7 +1204,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234720",
-        "begin": ""
+        "begin": "2021-07-05T17:00:01.000Z",
+        "broadcast": "R/2021-07-05T17:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -988,7 +1222,11 @@
         "HOW A REALIST HERO REBUILT THE KINGDOM"
       ],
       "zh-Hans": [
-        "现实主义勇者的王国再建记"
+        "现实主义勇者的王国再建记",
+        "現實主義勇者的王國重建記"
+      ],
+      "zh-Hant": [
+        "現實主義勇者的王國重建記"
       ]
     },
     "type": "tv",
@@ -1012,7 +1250,14 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234733",
-        "begin": ""
+        "begin": "2021-07-03T17:30:01.000Z",
+        "broadcast": "R/2021-07-03T17:30:01.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "110969",
+        "begin": "2021-07-03T17:30:00.000Z",
+        "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -1047,10 +1292,14 @@
     "title": "出会って5秒でバトル",
     "titleTranslate": {
       "zh-Hans": [
-        "见面之后5秒开始战斗"
+        "见面之后5秒开始战斗",
+        "急戰5秒殊死鬥",
+        "见面5秒即战斗",
+        "见面五秒即战斗"
       ],
       "zh-Hant": [
-        "見面之後5秒開始戰鬥"
+        "見面之後5秒開始戰鬥",
+        "急戰 5 秒殊死鬥"
       ]
     },
     "type": "tv",
@@ -1080,7 +1329,14 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234727",
-        "begin": ""
+        "begin": "2021-07-12T17:30:01.000Z",
+        "broadcast": "R/2021-07-12T17:30:01.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "114557",
+        "begin": "2021-07-12T17:30:00.000Z",
+        "broadcast": "R/2021-07-12T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -1089,7 +1345,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "女神宿舍的宿管君",
-        "女神宿舍的宿管君。"
+        "女神宿舍的宿管君。",
+        "女神宿舍的管理员。"
+      ],
+      "zh-Hant": [
+        "女神宿舍的管理員。"
       ]
     },
     "type": "tv",
@@ -1107,13 +1367,20 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234740",
-        "begin": ""
+        "begin": "2021-07-14T16:30:00.000Z",
+        "broadcast": "R/2021-07-14T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "megamiryou",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115873",
+        "begin": "2021-07-14T16:00:00.000Z",
+        "broadcast": "R/2021-07-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1121,7 +1388,12 @@
     "title": "アイドリッシュセブン Third BEAT!",
     "titleTranslate": {
       "zh-Hans": [
-        "IDOLiSH7-偶像星愿- Third BEAT!"
+        "IDOLiSH7-偶像星愿- Third BEAT!",
+        "IDOLiSH7-偶像星愿- 第三季"
+      ],
+      "zh-Hant": [
+        "IDOLiSH7 - 偶像星願 - Third BEAT！",
+        "IDOLiSH7-偶像星願-Third BEAT!"
       ]
     },
     "type": "tv",
@@ -1139,13 +1411,26 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234738",
-        "begin": ""
+        "begin": "2021-07-04T14:00:00.000Z",
+        "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "aninana_3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115581",
+        "begin": "2021-07-04T14:00:00.000Z",
+        "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "28234738",
+        "begin": "2021-07-04T14:00:00.000Z",
+        "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1153,7 +1438,8 @@
     "title": "かげきしょうじょ!!",
     "titleTranslate": {
       "zh-Hans": [
-        "歌剧少女！！"
+        "歌剧少女！！",
+        "歌劇少女！！"
       ]
     },
     "type": "tv",
@@ -1177,7 +1463,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234737",
-        "begin": ""
+        "begin": "2021-07-03T16:00:00.000Z",
+        "broadcast": "R/2021-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1237,7 +1524,11 @@
   },
   {
     "title": "TSUKIPRO THE ANIMATION2",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "月野艺能事务所 第二季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://tsukipro-anime.com/",
@@ -1255,6 +1546,12 @@
         "id": "tsukipro-anime2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234748",
+        "begin": "2021-08-12T12:30:01.000Z",
+        "broadcast": "R/2021-08-12T12:30:01.000Z/P7D"
       }
     ]
   },
@@ -1263,7 +1560,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-",
-        "魔法纪录 魔法少女小圆外传 2nd SEASON -觉醒前夜-"
+        "魔法纪录 魔法少女小圆外传 2nd SEASON -觉醒前夜-",
+        "Magia Record 魔法少女小圆外传 第二季 -觉醒前夜-",
+        "Magia Record 魔法少女小圆外传 2nd SEASON -觉醒前夜-",
+        "魔法纪录 魔法少女小圆外传 第二季"
+      ],
+      "zh-Hant": [
+        "魔法紀錄 魔法少女小圓外傳 第二季"
       ]
     },
     "type": "tv",
@@ -1283,6 +1586,18 @@
         "id": "magireco_2nd",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "118042",
+        "begin": "2021-07-31T16:30:00.000Z",
+        "broadcast": "R/2021-07-31T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234642",
+        "begin": "2021-08-28T16:30:01.000Z",
+        "broadcast": "R/2021-08-28T16:30:01.000Z/P7D"
       }
     ]
   },
@@ -1310,6 +1625,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "暗夜第六感 2041"
+      ],
+      "zh-Hant": [
+        "暗夜第六感2041"
+      ],
+      "en": [
+        "NIGHT HEAD 2041"
       ]
     },
     "type": "tv",
@@ -1323,6 +1644,12 @@
       {
         "site": "bangumi",
         "id": "318602"
+      },
+      {
+        "site": "nowPlayer",
+        "id": "S202106170132284",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1362,7 +1689,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234731",
-        "begin": ""
+        "begin": "2021-07-09T16:30:00.000Z",
+        "broadcast": "R/2021-07-09T16:30:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -1375,6 +1703,12 @@
         "id": "81341942",
         "begin": "2021-03-20T16:00:00.000Z",
         "broadcast": "R/2021-03-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "117510",
+        "begin": "2021-07-09T16:30:00.000Z",
+        "broadcast": "R/2021-07-09T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1406,6 +1740,18 @@
         "begin": "2021-06-23T16:00:00.000Z",
         "broadcast": "R/2021-06-23T16:00:00.000Z/P7D",
         "comment": "粵語版: 434349"
+      },
+      {
+        "site": "gamer",
+        "id": "104513",
+        "begin": "2021-01-12T15:30:00.000Z",
+        "broadcast": "R/2021-01-12T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "28233475",
+        "begin": "2021-01-05T15:30:00.000Z",
+        "broadcast": "R/2021-01-05T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -1435,7 +1781,8 @@
     "title": "平穏世代の韋駄天達",
     "titleTranslate": {
       "zh-Hans": [
-        "平稳世代的韦驮天们"
+        "平稳世代的韦驮天们",
+        "平穩世代的韋駄天們"
       ],
       "zh-Hant": [
         "平穩世代的韋駄天們"
@@ -1471,7 +1818,8 @@
     "title": "劇場編集版かくしごと ―ひめごとはなんですか―",
     "titleTranslate": {
       "zh-Hans": [
-        "剧场编集版 隐瞒之事 -秘密是什么-"
+        "剧场编集版 隐瞒之事 -秘密是什么-",
+        "隐瞒之事 电影剪辑版"
       ]
     },
     "type": "movie",
@@ -1490,6 +1838,12 @@
         "id": "kakushigoto-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234687",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1500,7 +1854,9 @@
         "暗芝居 第九季"
       ],
       "zh-Hant": [
-        "闇芝居 第9季"
+        "闇芝居 第9季",
+        "闇芝居 第九季",
+        "闇芝居9"
       ]
     },
     "type": "tv",
@@ -1518,6 +1874,18 @@
         "id": "PLuxqoToY7Uci45W8fvnh1pUWZxB-DejP5",
         "begin": "2021-07-11T17:10:00.000Z",
         "broadcast": "R/2021-07-11T17:10:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "118357",
+        "begin": "2021-07-11T19:10:00.000Z",
+        "broadcast": "R/2021-07-11T19:10:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234703",
+        "begin": "2021-07-11T19:10:01.000Z",
+        "broadcast": "R/2021-07-11T19:10:01.000Z/P7D"
       }
     ]
   },
@@ -1525,7 +1893,8 @@
     "title": "劇場版 七つの大罪 光に呪われし者たち",
     "titleTranslate": {
       "zh-Hans": [
-        "七大罪：被光诅咒的众人"
+        "七大罪：被光诅咒的众人",
+        "光之诅咒者"
       ],
       "zh-Hant": [
         "七大罪：被光詛咒的人們"
@@ -1549,6 +1918,12 @@
         "id": "81263946",
         "begin": "2021-09-30T16:00:00.000Z",
         "broadcast": "R/2021-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28481148",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1580,6 +1955,41 @@
         "id": "81400497",
         "begin": "2021-07-21T16:00:00.000Z",
         "broadcast": "R/2021-07-21T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Fate/Grand Order -終局特異点 冠位時間神殿ソロモン-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/Grand Order -终局特异点 冠位时间神殿所罗门-",
+        "命运-冠位指定 冠位时间神殿所罗门"
+      ],
+      "zh-Hant": [
+        "Fate/Grand Order - 終局特異點 冠位時間神殿所羅門 -"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime.fate-go.jp/ep7-tv",
+    "begin": "2021-07-29T16:00:00.000Z",
+    "end": "2021-07-29T17:34:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302572"
+      },
+      {
+        "site": "gamer",
+        "id": "110589",
+        "begin": "2022-08-19T02:00:00.000Z",
+        "broadcast": "R/2022-08-19T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28236225",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -3,7 +3,8 @@
     "title": "ロックマンエグゼ",
     "titleTranslate": {
       "zh-Hans": [
-        "洛克人EXE Season"
+        "洛克人EXE Season",
+        "网络英雄洛克人"
       ]
     },
     "type": "tv",
@@ -23,6 +24,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄与机器人王国"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與機器人王國"
       ]
     },
     "type": "movie",
@@ -58,7 +62,14 @@
       {
         "site": "bilibili",
         "id": "3866",
-        "begin": "2002-03-08T16:00:00.000Z"
+        "begin": "2002-03-08T16:00:00.000Z",
+        "broadcast": "R/2016-04-27T09:07:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32224",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -115,6 +126,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动警察 十三号废弃物"
+      ],
+      "zh-Hant": [
+        "機動警察 劇場版 3"
       ]
     },
     "type": "movie",
@@ -135,7 +149,14 @@
       {
         "site": "bilibili",
         "id": "4017",
-        "begin": "2002-03-29T16:00:01.000Z"
+        "begin": "2002-03-29T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "38224",
+        "begin": "2020-08-06T06:35:00.000Z",
+        "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
       }
     ]
   },
@@ -187,6 +208,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动警察迷你版"
+      ],
+      "zh-Hant": [
+        "機動警察 迷你版"
       ]
     },
     "type": "movie",
@@ -207,7 +231,14 @@
       {
         "site": "bilibili",
         "id": "5266",
-        "begin": "2002-03-29T16:00:01.000Z"
+        "begin": "2002-03-29T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "103955",
+        "begin": "2020-08-06T06:35:00.000Z",
+        "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
       }
     ]
   },
@@ -283,6 +314,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "帕卢姆之树"
+      ],
+      "zh-Hant": [
+        "帕盧姆之樹"
       ]
     },
     "type": "movie",
@@ -300,6 +334,44 @@
         "site": "qq",
         "id": "m/mzc0020082ywx0v",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "106245",
+        "begin": "2019-06-27T04:00:00.000Z",
+        "broadcast": "R/2019-06-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "5265",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "遙かなる時空の中で —紫陽花ゆめ語り—",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遥远时空中 紫阳花物语"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-26T16:00:00.000Z",
+    "end": "2003-01-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1945"
+      },
+      {
+        "site": "bilibili",
+        "id": "1883",
+        "begin": "2013-03-30T08:08:00.000Z",
+        "broadcast": "R/2013-03-30T08:08:00.000Z/P7D"
       }
     ]
   }

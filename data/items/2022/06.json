@@ -63,5 +63,108 @@
         "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 からかい上手の高木さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "擅长捉弄的高木同学 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 擅長捉弄人的高木同學"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://takagi3.me/",
+    "begin": "2022-06-10T16:00:00.000Z",
+    "end": "2022-06-10T17:12:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "347888"
+      },
+      {
+        "site": "gamer",
+        "id": "123482",
+        "begin": "2023-01-10T04:00:00.000Z",
+        "broadcast": "R/2023-01-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480940",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28435376",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 異世界かるてっと ～あなざーわーるど～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 异世界四重奏 ～Another World～"
+      ],
+      "zh-Hant": [
+        "劇場版 異世界四重奏 ～Another World～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://isekai-quartet.com",
+    "begin": "2022-06-09T16:00:00.000Z",
+    "end": "2022-06-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303126"
+      },
+      {
+        "site": "gamer",
+        "id": "118547",
+        "begin": "2023-02-01T04:00:00.000Z",
+        "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム ククルス・ドアンの島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 库库鲁斯·杜安之岛"
+      ],
+      "zh-Hant": [
+        "機動戰士高達- 庫克羅斯 德安之島"
+      ],
+      "en": [
+        "MOBILE SUIT GUNDAM Cucuruz Doan's Island",
+        "Kidou Senshi Gundam: Cucuruz Doan no Shima"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://g-doan.net",
+    "begin": "2022-06-02T16:00:00.000Z",
+    "end": "2022-06-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349442"
+      },
+      {
+        "site": "bilibili_hk_mo",
+        "id": "20138339",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

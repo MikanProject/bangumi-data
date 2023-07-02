@@ -7,7 +7,7 @@
     "officialSite": "https://banseigai.com/",
     "begin": "2022-11-11T15:00:00.000Z",
     "broadcast": "R/2022-11-11T15:00:00.000Z/P7D",
-    "end": "2022-11-11T15:00:00.000Z",
+    "end": "2022-12-18T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -20,7 +20,15 @@
     "title": "「艦これ」いつかあの海で",
     "titleTranslate": {
       "zh-Hans": [
-        "舰队Collection 总有一天，在那片海"
+        "舰队Collection 总有一天，在那片海",
+        "舰队收藏 第二季",
+        "舰队Collection 第二季"
+      ],
+      "zh-Hant": [
+        "艦隊Collection 總有一天，在那片海"
+      ],
+      "en": [
+        "KanColle: See You Again on Another Quiet Blue Sea"
       ]
     },
     "type": "tv",
@@ -28,12 +36,18 @@
     "officialSite": "https://kancolle-itsuumi.com/",
     "begin": "2022-11-03T15:30:00.000Z",
     "broadcast": "R/2022-11-03T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T11:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "270739"
+      },
+      {
+        "site": "nowPlayer",
+        "id": "S202211010157684",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -51,6 +65,104 @@
       {
         "site": "bangumi",
         "id": "289944"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 关于我转生变成史莱姆这档事 红莲之绊篇"
+      ],
+      "zh-Hant": [
+        "關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇",
+        "劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+        "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.ten-sura.com/",
+    "begin": "2022-11-24T16:00:00.000Z",
+    "end": "2022-11-24T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350185"
+      },
+      {
+        "site": "gamer",
+        "id": "119767",
+        "begin": "2023-03-23T15:00:00.000Z",
+        "broadcast": "R/2023-03-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28481018",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "トニカクカワイイ ～制服～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "总之就是非常可爱 ～制服～"
+      ],
+      "zh-Hant": [
+        "總之就是很可愛～制服～"
+      ],
+      "en": [
+        "Tonikaku Kawaii: Seifuku"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://tonikawa.com/",
+    "begin": "2022-11-21T16:00:00.000Z",
+    "end": "2022-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "376708"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340355",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 策謀 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 策谋 第3章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2022-11-24T16:00:00.000Z",
+    "end": "2022-11-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381842"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339717",
+        "begin": "2022-09-29T23:00:01.000Z",
+        "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
       }
     ]
   }

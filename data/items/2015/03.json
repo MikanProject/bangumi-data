@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "24369576",
-        "begin": "2015-03-29T16:00:00.000Z"
+        "begin": "2015-03-29T16:00:00.000Z",
+        "broadcast": "R/2019-03-29T06:40:26.000Z/P7D"
       }
     ]
   },
@@ -32,7 +33,8 @@
     "title": "おまかせ！みらくるキャット団",
     "titleTranslate": {
       "zh-Hans": [
-        "交给你了玛米塔斯"
+        "交给你了玛米塔斯",
+        "交给你了!奇迹猫团"
       ]
     },
     "type": "tv",
@@ -48,7 +50,8 @@
       {
         "site": "bilibili",
         "id": "113432",
-        "begin": "2015-03-30T16:00:01.000Z"
+        "begin": "2015-03-30T16:00:01.000Z",
+        "broadcast": "R/2018-07-04T03:50:15.000Z/P7D"
       }
     ]
   },
@@ -73,7 +76,11 @@
   },
   {
     "title": "わしも-wasimo-(第3シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第三季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
@@ -87,7 +94,8 @@
       {
         "site": "bilibili",
         "id": "5915",
-        "begin": "2015-03-29T16:00:00.000Z"
+        "begin": "2015-03-29T16:00:00.000Z",
+        "broadcast": "R/2017-02-06T06:02:50.000Z/P7D"
       }
     ]
   },
@@ -103,7 +111,8 @@
       {
         "site": "bilibili",
         "id": "2542",
-        "begin": "2015-02-28T16:00:00.000Z"
+        "begin": "2015-02-28T16:00:00.000Z",
+        "broadcast": "R/2015-03-31T03:24:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -185,6 +194,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄的宇宙英雄记"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄之宇宙英雄記"
       ]
     },
     "type": "movie",
@@ -205,12 +217,19 @@
       {
         "site": "bilibili",
         "id": "3902",
-        "begin": "2015-03-06T16:00:01.000Z"
+        "begin": "2015-03-06T16:00:01.000Z",
+        "broadcast": "R/2016-04-28T06:48:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "243f33e40fb711e4b8b7",
         "begin": "2016-06-23T04:07:10.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "71562",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -375,6 +394,7 @@
         "排球少年 列夫参上"
       ],
       "zh-Hant": [
+        "排球少年！！列夫前來拜見！",
         "排球少年!! OVA 1: 列夫前來拜見！"
       ],
       "en": [
@@ -406,6 +426,12 @@
         "id": "haikyuova1levappears_127968",
         "begin": "2020-07-04T12:00:00.000Z",
         "broadcast": "R/2020-07-04T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "112273",
+        "begin": "2020-07-04T12:00:00.000Z",
+        "broadcast": "R/2020-07-04T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -430,7 +456,8 @@
       {
         "site": "bilibili",
         "id": "3366",
-        "begin": "2015-03-13T16:00:00.000Z"
+        "begin": "2015-03-13T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -455,7 +482,35 @@
       {
         "site": "bilibili",
         "id": "3485",
-        "begin": "2015-03-05T16:00:00.000Z"
+        "begin": "2015-03-05T16:00:00.000Z",
+        "broadcast": "R/2016-03-23T05:50:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "グッド・モーニング!!!ドロンジョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Good Morning!!! DORONJO",
+        "Doronjo ZIP!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/good-morning-doronjo",
+    "begin": "2015-03-30T16:00:00.000Z",
+    "end": "2016-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310445"
+      },
+      {
+        "site": "bilibili",
+        "id": "131952",
+        "begin": "2018-09-08T03:54:43.000Z",
+        "broadcast": "R/2018-09-08T03:54:43.000Z/P7D"
       }
     ]
   }
