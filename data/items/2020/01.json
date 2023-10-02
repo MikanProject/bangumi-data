@@ -519,6 +519,12 @@
         "id": "103611",
         "begin": "2020-01-09T15:00:00.000Z",
         "broadcast": "R/2020-01-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgn4Oax3g9Me3eA6QHG_6m-",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -992,6 +998,9 @@
       ],
       "zh-Hant": [
         "虛構推理"
+      ],
+      "en": [
+        "In/Spectre"
       ]
     },
     "type": "tv",
@@ -1042,6 +1051,12 @@
         "id": "103427",
         "begin": "2020-04-10T16:00:00.000Z",
         "broadcast": "R/2020-04-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "inspectreseason1_139245",
+        "begin": "2023-09-05T16:00:00.000Z",
+        "broadcast": "R/2023-09-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1718,6 +1733,12 @@
         "id": "103114",
         "begin": "2020-01-22T09:30:00.000Z",
         "broadcast": "R/2020-01-22T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhcDltax70U8SLMixaRLsCE",
+        "begin": "2023-06-14T16:00:00.000Z",
+        "broadcast": "R/2023-06-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1927,6 +1948,12 @@
         "id": "112278",
         "begin": "2020-07-25T12:00:00.000Z",
         "broadcast": "R/2020-07-25T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiJ50hiPCCd_lhnAB-y91Jc",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

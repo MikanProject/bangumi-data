@@ -48,7 +48,7 @@
     "officialSite": "https://cinderella-u149-anime.idolmaster-official.jp/",
     "begin": "2023-04-05T15:00:00.000Z",
     "broadcast": "R/2023-04-05T15:00:00.000Z/P7D",
-    "end": "2023-06-28T15:00:00.000Z",
+    "end": "2023-06-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -80,8 +80,8 @@
     "officialSite": "https://mahoyome.jp/",
     "begin": "2023-04-06T13:00:00.000Z",
     "broadcast": "R/2023-04-06T13:00:00.000Z/P7D",
-    "end": "",
-    "comment": "2023-06-22T13:00:00.000Z",
+    "end": "2023-06-22T13:00:00.000Z",
+    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -104,6 +104,12 @@
         "id": "20197734",
         "begin": "2023-04-06T14:00:01.000Z",
         "broadcast": "R/2023-04-06T14:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20284863",
+        "begin": "2023-07-12T16:00:00.000Z",
+        "broadcast": "R/2023-07-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -138,6 +144,12 @@
         "id": "S202303240163347",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "123883",
+        "begin": "2023-08-24T03:00:00.000Z",
+        "broadcast": "R/2023-08-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -297,7 +309,7 @@
     "officialSite": "https://mix-anime.jp/",
     "begin": "2023-04-01T08:30:00.000Z",
     "broadcast": "R/2023-04-01T08:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-09-23T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -377,7 +389,7 @@
     "officialSite": "https://edens-zero.net/anime/",
     "begin": "2023-04-01T15:55:00.000Z",
     "broadcast": "R/2023-04-01T15:55:00.000Z/P7D",
-    "end": "2023-07-01T15:55:00.000Z",
+    "end": "2023-09-30T16:40:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -390,7 +402,8 @@
     "title": "事情を知らない転校生がグイグイくる。",
     "titleTranslate": {
       "zh-Hans": [
-        "什么情况都不知道的转校生一个劲的凑过来。"
+        "什么情况都不知道的转校生一个劲的凑过来。",
+        "不知情的转学生硬要凑上来。"
       ]
     },
     "type": "tv",
@@ -404,6 +417,12 @@
       {
         "site": "bangumi",
         "id": "408144"
+      },
+      {
+        "site": "bilibili",
+        "id": "20266671",
+        "begin": "2023-06-12T13:00:00.000Z",
+        "broadcast": "R/2023-06-12T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -606,7 +625,8 @@
         "site": "viu",
         "id": "2117626",
         "begin": "2023-04-09T16:00:00.000Z",
-        "broadcast": "R/2023-04-09T16:00:00.000Z/P7D"
+        "broadcast": "R/2023-04-09T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2164205"
       },
       {
         "site": "gamer",
@@ -617,8 +637,8 @@
       {
         "site": "bilibili",
         "id": "20140389",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-06-10T12:00:01.000Z",
+        "broadcast": "R/2023-06-10T12:00:01.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo",
@@ -629,6 +649,12 @@
       {
         "site": "bilibili_tw",
         "id": "20206368",
+        "begin": "2023-04-10T04:00:00.000Z",
+        "broadcast": "R/2023-04-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81091393",
         "begin": "2023-04-10T04:00:00.000Z",
         "broadcast": "R/2023-04-10T04:00:00.000Z/P7D"
       }
@@ -704,6 +730,18 @@
         "id": "20141298",
         "begin": "2023-04-04T15:00:01.000Z",
         "broadcast": "R/2023-04-04T15:00:01.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81681471",
+        "begin": "2023-07-13T16:00:00.000Z",
+        "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "120699",
+        "begin": "2023-09-05T04:00:00.000Z",
+        "broadcast": "R/2023-09-05T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -750,6 +788,12 @@
         "id": "129014",
         "begin": "2023-04-05T16:00:00.000Z",
         "broadcast": "R/2023-04-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81684552",
+        "begin": "2023-07-13T16:00:00.000Z",
+        "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -866,7 +910,7 @@
     "officialSite": "https://gunmachan-official.jp/animation/",
     "begin": "2023-04-07T22:58:00.000Z",
     "broadcast": "R/2023-04-07T22:58:00.000Z/P7D",
-    "end": "2023-04-07T22:58:00.000Z",
+    "end": "2023-06-30T22:58:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -923,7 +967,7 @@
     "officialSite": "https://kimisomu-anime.com/",
     "begin": "2023-04-10T15:00:00.000Z",
     "broadcast": "R/2023-04-10T15:00:00.000Z/P7D",
-    "end": "2023-06-26T15:00:00.000Z",
+    "end": "2023-07-03T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1003,7 +1047,7 @@
     "officialSite": "https://kamikatsu-anime.jp/",
     "begin": "2023-04-05T16:30:00.000Z",
     "broadcast": "R/2023-04-05T16:30:00.000Z/P7D",
-    "end": "2023-06-28T16:30:00.000Z",
+    "end": "2023-07-05T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1108,7 +1152,11 @@
         "在異世界獲得超強能力的我，在現實世界照樣無敵"
       ],
       "zh-Hant": [
-        "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～"
+        "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～",
+        "在異世界獲得超強能力的我，在現實世界照樣無敵：等級提升改變人生命運"
+      ],
+      "en": [
+        "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too"
       ]
     },
     "type": "tv",
@@ -1140,6 +1188,54 @@
         "id": "20197835",
         "begin": "2023-04-03T16:00:01.000Z",
         "broadcast": "R/2023-04-03T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81681485",
+        "begin": "2023-07-13T16:00:00.000Z",
+        "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "でんでんの電脳電車",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DENDEN电脑电车"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://hicbc.com/tv/denden/",
+    "begin": "2023-04-12T16:35:00.000Z",
+    "broadcast": "R/2023-04-12T16:35:00.000Z/P7D",
+    "end": "2023-06-28T16:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "428815"
+      }
+    ]
+  },
+  {
+    "title": "Re:STARS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "今天开始做明星"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://re-stars.com/",
+    "begin": "2023-04-02T14:00:00.000Z",
+    "broadcast": "R/2023-04-02T14:00:00.000Z/P7D",
+    "end": "2023-06-25T14:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "297555"
       }
     ]
   },
@@ -1209,6 +1305,12 @@
         "id": "20140807",
         "begin": "2023-04-06T14:30:01.000Z",
         "broadcast": "R/2023-04-06T14:30:01.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81046193",
+        "begin": "2023-04-06T14:30:01.000Z",
+        "broadcast": "R/2023-04-06T14:30:01.000Z/P7D"
       }
     ]
   },
@@ -1239,6 +1341,12 @@
         "id": "20197349",
         "begin": "2023-04-07T17:05:01.000Z",
         "broadcast": "R/2023-04-07T17:05:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20266559",
+        "begin": "2023-06-05T12:00:00.000Z",
+        "broadcast": "R/2023-06-05T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -1340,7 +1448,7 @@
     "officialSite": "https://www.jigokuraku.com/",
     "begin": "2023-04-01T14:00:00.000Z",
     "broadcast": "R/2023-04-01T14:00:00.000Z/P7D",
-    "end": "2023-06-24T14:00:00.000Z",
+    "end": "2023-07-01T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1416,10 +1524,12 @@
     "title": "贄姫と獣の王",
     "titleTranslate": {
       "zh-Hans": [
-        "祭品公主与兽之王"
+        "祭品公主与兽之王",
+        "祭品公主与兽王"
       ],
       "zh-Hant": [
-        "獻祭公主與獸王"
+        "獻祭公主與獸王",
+        "祭品公主與獸之王"
       ],
       "en": [
         "Sacrificial Princess and the King of Beasts"
@@ -1430,7 +1540,7 @@
     "officialSite": "https://niehime-anime.com/",
     "begin": "2023-04-19T15:00:00.000Z",
     "broadcast": "R/2023-04-19T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-09-27T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1448,6 +1558,18 @@
         "id": "20141149",
         "begin": "2023-04-19T16:00:01.000Z",
         "broadcast": "R/2023-04-19T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81685192",
+        "begin": "2023-07-20T16:00:00.000Z",
+        "broadcast": "R/2023-07-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "115442",
+        "begin": "2023-08-16T03:00:00.000Z",
+        "broadcast": "R/2023-08-16T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1652,6 +1774,12 @@
         "id": "128617",
         "begin": "2023-04-10T16:00:00.000Z",
         "broadcast": "R/2023-04-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81686706",
+        "begin": "2023-07-13T16:00:00.000Z",
+        "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1767,8 +1895,8 @@
       {
         "site": "bilibili",
         "id": "20140467",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-05-19T15:00:01.000Z",
+        "broadcast": "R/2023-05-19T15:00:01.000Z/P7D"
       }
     ]
   },
@@ -1779,7 +1907,8 @@
         "THE MARGINAL SERVICE"
       ],
       "zh-Hant": [
-        "邊緣服務"
+        "邊緣服務",
+        "境界服務"
       ],
       "zh-Hans": [
         "境界敢死队",
@@ -1803,6 +1932,12 @@
         "id": "S202303270163464",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "128528",
+        "begin": "2023-09-08T01:30:00.000Z",
+        "broadcast": "R/2023-09-08T01:30:00.000Z/P7D"
       }
     ]
   },
@@ -1851,6 +1986,22 @@
     ]
   },
   {
+    "title": "スマーフ シーズン2",
+    "titleTranslate": {
+      "en": [
+        "SMURFS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/smurfs/ts/9YKXZ1954G/",
+    "begin": "2023-04-05T10:00:00.000Z",
+    "broadcast": "R/2023-04-05T10:00:00.000Z/P7D",
+    "end": "2023-09-27T10:25:00.000Z",
+    "comment": "",
+    "sites": []
+  },
+  {
     "title": "機動戦士ガンダム 水星の魔女 Season2",
     "titleTranslate": {
       "en": [
@@ -1869,7 +2020,7 @@
     "officialSite": "https://g-witch.net/",
     "begin": "2023-04-09T08:00:00.000Z",
     "broadcast": "R/2023-04-09T08:00:00.000Z/P7D",
-    "end": "2023-06-25T08:00:00.000Z",
+    "end": "2023-07-02T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1905,6 +2056,18 @@
         "id": "130372",
         "begin": "2023-04-09T09:00:00.000Z",
         "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339749",
+        "begin": "2023-04-09T09:00:00.000Z",
+        "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81643097",
+        "begin": "2023-04-09T16:00:00.000Z",
+        "broadcast": "R/2023-04-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1973,6 +2136,12 @@
       {
         "site": "bangumi",
         "id": "380448"
+      },
+      {
+        "site": "bilibili",
+        "id": "20318803",
+        "begin": "2023-08-05T10:00:01.000Z",
+        "broadcast": "R/2023-08-05T10:00:01.000Z/P7D"
       }
     ]
   },
@@ -1984,7 +2153,8 @@
       ],
       "zh-Hant": [
         "輝夜姬想讓人告白－永不結束的初吻－",
-        "輝夜姬想讓人告白-永不結束的初吻 - "
+        "輝夜姬想讓人告白-永不結束的初吻 - ",
+        "輝夜姬想讓人告白-永不結束的初吻-"
       ],
       "en": [
         "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
@@ -2013,6 +2183,12 @@
         "id": "20149051",
         "begin": "2023-03-31T19:25:01.000Z",
         "broadcast": "R/2023-03-31T19:25:01.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2237336",
+        "begin": "2023-08-31T16:00:00.000Z",
+        "broadcast": "R/2023-08-31T16:00:00.000Z/P7D"
       }
     ]
   }
