@@ -25,6 +25,12 @@
       {
         "site": "bangumi",
         "id": "1015"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-0080",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -48,7 +54,8 @@
       {
         "site": "nicovideo",
         "id": "saint_seiya",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
@@ -94,6 +101,12 @@
         "id": "2557",
         "begin": "1989-03-10T16:00:00.000Z",
         "broadcast": "R/2015-05-16T06:02:03.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

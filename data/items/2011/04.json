@@ -54,7 +54,8 @@
       {
         "site": "nicovideo",
         "id": "ch60017",
-        "begin": "2011-04-22T12:00:00.000Z"
+        "begin": "2011-04-22T12:00:00.000Z",
+        "broadcast": "R/2011-04-22T12:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -86,7 +87,8 @@
       {
         "site": "nicovideo",
         "id": "ch60012",
-        "begin": "2011-04-11T14:30:00.000Z"
+        "begin": "2011-04-11T14:30:00.000Z",
+        "broadcast": "R/2011-04-11T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -121,7 +123,14 @@
       {
         "site": "nicovideo",
         "id": "ch60005",
-        "begin": "2017-01-08T04:00:00.000Z"
+        "begin": "2017-01-08T04:00:00.000Z",
+        "broadcast": "R/2017-01-08T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-15nn-yaysxby",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -145,7 +154,8 @@
       {
         "site": "nicovideo",
         "id": "ch60007",
-        "begin": "2011-04-08T15:30:00.000Z"
+        "begin": "2011-04-08T15:30:00.000Z",
+        "broadcast": "R/2011-04-08T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -210,7 +220,8 @@
       {
         "site": "nicovideo",
         "id": "ch60011",
-        "begin": "2011-04-17T14:30:00.000Z"
+        "begin": "2011-04-17T14:30:00.000Z",
+        "broadcast": "R/2011-04-17T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -237,7 +248,8 @@
       {
         "site": "nicovideo",
         "id": "ch60010",
-        "begin": "2011-04-18T03:00:00.000Z"
+        "begin": "2011-04-18T03:00:00.000Z",
+        "broadcast": "R/2011-04-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -304,7 +316,8 @@
       {
         "site": "nicovideo",
         "id": "ao-ex",
-        "begin": "2012-08-08T06:00:00.000Z"
+        "begin": "2012-08-08T06:00:00.000Z",
+        "broadcast": "R/2012-08-08T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -328,6 +341,18 @@
         "id": "41986",
         "begin": "2017-02-13T06:00:00.000Z",
         "broadcast": "R/2017-02-13T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-16",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchwEaDRYxR1H8YcifaKI28m",
+        "begin": "2024-01-05T16:00:00.000Z",
+        "broadcast": "R/2024-01-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -354,7 +379,8 @@
       {
         "site": "nicovideo",
         "id": "hidannoaria",
-        "begin": "2011-09-29T15:00:00.000Z"
+        "begin": "2011-09-29T15:00:00.000Z",
+        "broadcast": "R/2011-09-29T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -390,7 +416,8 @@
       {
         "site": "nicovideo",
         "id": "prettyrhythm_n",
-        "begin": "2012-09-28T11:00:00.000Z"
+        "begin": "2012-09-28T11:00:00.000Z",
+        "broadcast": "R/2012-09-28T11:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -427,7 +454,8 @@
       {
         "site": "nicovideo",
         "id": "ch60015",
-        "begin": "2011-04-18T16:30:00.000Z"
+        "begin": "2011-04-18T16:30:00.000Z",
+        "broadcast": "R/2011-04-18T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -482,7 +510,8 @@
       {
         "site": "nicovideo",
         "id": "ch60008",
-        "begin": "2011-04-09T14:30:00.000Z"
+        "begin": "2011-04-09T14:30:00.000Z",
+        "broadcast": "R/2011-04-09T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -595,12 +624,19 @@
       {
         "site": "nicovideo",
         "id": "kaminomi2",
-        "begin": "2013-07-12T06:00:00.000Z"
+        "begin": "2013-07-12T06:00:00.000Z",
+        "broadcast": "R/2013-07-12T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "785910189b1511e0a046",
         "begin": "2012-11-07T16:18:02.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "11-17",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -630,7 +666,8 @@
       {
         "site": "nicovideo",
         "id": "ch60018",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -665,7 +702,8 @@
       {
         "site": "nicovideo",
         "id": "ch60019",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -699,7 +737,8 @@
       {
         "site": "nicovideo",
         "id": "ch60001",
-        "begin": "2011-04-07T04:30:00.000Z"
+        "begin": "2011-04-07T04:30:00.000Z",
+        "broadcast": "R/2011-04-07T04:30:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -712,6 +751,12 @@
         "begin": "2016-03-18T10:46:00.000Z",
         "broadcast": "R/2016-03-18T10:46:00.000Z/P7D",
         "comment": "境界面上的迷失之链"
+      },
+      {
+        "site": "abema",
+        "id": "25-19naihwytenh",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -741,7 +786,8 @@
       {
         "site": "nicovideo",
         "id": "ch60009",
-        "begin": "2011-04-10T13:30:00.000Z"
+        "begin": "2011-04-10T13:30:00.000Z",
+        "broadcast": "R/2011-04-10T13:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -810,7 +856,8 @@
       {
         "site": "nicovideo",
         "id": "ch60022",
-        "begin": "2011-05-20T17:30:00.000Z"
+        "begin": "2011-05-20T17:30:00.000Z",
+        "broadcast": "R/2011-05-20T17:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -822,6 +869,12 @@
         "site": "youku",
         "id": "3f9a2eb49b1611e0a046",
         "begin": "2012-07-18T05:13:40.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "26-62",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -845,7 +898,8 @@
       {
         "site": "nicovideo",
         "id": "ch60014",
-        "begin": "2011-04-11T14:30:00.000Z"
+        "begin": "2011-04-11T14:30:00.000Z",
+        "broadcast": "R/2011-04-11T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -892,7 +946,14 @@
       {
         "site": "nicovideo",
         "id": "tigerandbunny",
-        "begin": "2020-05-16T03:00:00.000Z"
+        "begin": "2020-05-16T03:00:00.000Z",
+        "broadcast": "R/2020-05-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-11iiskggehbc",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -921,7 +982,8 @@
       {
         "site": "nicovideo",
         "id": "ch60013",
-        "begin": "2011-04-23T04:30:30.000Z"
+        "begin": "2011-04-23T04:30:30.000Z",
+        "broadcast": "R/2011-04-23T04:30:30.000Z/P7D"
       }
     ]
   },
@@ -1216,7 +1278,8 @@
       {
         "site": "nicovideo",
         "id": "kaiji2_anime",
-        "begin": "2014-04-01T06:00:00.000Z"
+        "begin": "2014-04-01T06:00:00.000Z",
+        "broadcast": "R/2014-04-01T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -1295,13 +1358,20 @@
       {
         "site": "nicovideo",
         "id": "gintama-dash",
-        "begin": "2015-05-15T06:00:00.000Z"
+        "begin": "2015-05-15T06:00:00.000Z",
+        "broadcast": "R/2015-05-15T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "28233840",
         "begin": "2021-03-31T10:00:00.000Z",
         "broadcast": "R/2021-03-31T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-47",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1363,7 +1433,8 @@
       {
         "site": "nicovideo",
         "id": "yuruani",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1499,6 +1570,12 @@
         "site": "youku",
         "id": "e09244a8927611e0a046",
         "begin": "2011-12-08T10:27:44.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-55",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1627,7 +1704,8 @@
       {
         "site": "nicovideo",
         "id": "seitokai_banngaihen",
-        "begin": "2017-06-14T03:00:00.000Z"
+        "begin": "2017-06-14T03:00:00.000Z",
+        "broadcast": "R/2017-06-14T03:00:00.000Z/P7D"
       }
     ]
   },

@@ -70,7 +70,8 @@
       {
         "site": "nicovideo",
         "id": "fagirl-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -98,7 +99,8 @@
       {
         "site": "nicovideo",
         "id": "ao-buta-yume",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -111,6 +113,18 @@
         "id": "101403",
         "begin": "2020-02-17T06:00:00.000Z",
         "broadcast": "R/2020-02-17T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-111",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucg-C9Rwq-3957GDiu2SuzzF",
+        "begin": "2024-01-05T13:00:00.000Z",
+        "broadcast": "R/2024-01-05T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -141,12 +155,19 @@
       {
         "site": "nicovideo",
         "id": "kaijunokodomo",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "disneyplus",
         "id": "PPmmokvapG3T",
         "url": "https://www.disneyplus.com/movies/children-of-the-sea/PPmmokvapG3T",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28227187",
         "begin": "",
         "broadcast": ""
       }
@@ -182,7 +203,8 @@
       {
         "site": "nicovideo",
         "id": "movie-prismaphantasm",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -282,6 +304,41 @@
         "id": "103380",
         "begin": "2020-12-29T03:50:00.000Z",
         "broadcast": "R/2020-12-29T03:50:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "きみと、波にのれたら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "若能与你共乘海浪之上"
+      ],
+      "zh-Hant": [
+        "乘浪之約"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kimi-nami.com/",
+    "begin": "2019-06-20T16:00:00.000Z",
+    "end": "2019-06-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "265372"
+      },
+      {
+        "site": "gamer",
+        "id": "102233",
+        "begin": "2023-10-04T07:00:00.000Z",
+        "broadcast": "R/2023-10-04T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229504",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

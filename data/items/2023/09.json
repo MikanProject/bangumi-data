@@ -1,5 +1,63 @@
 [
   {
+    "title": "葬送のフリーレン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "葬送的芙莉莲"
+      ],
+      "zh-Hant": [
+        "葬送的芙莉蓮"
+      ],
+      "en": [
+        "Frieren: Beyond the Journey's End"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://frieren-anime.jp/",
+    "begin": "2023-09-29T14:00:00.000Z",
+    "broadcast": "R/2023-09-29T14:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "400602"
+      },
+      {
+        "site": "netflix",
+        "id": "81726714",
+        "begin": "2023-09-28T16:00:00.000Z",
+        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2247874",
+        "begin": "2023-09-28T16:00:00.000Z",
+        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2262136"
+      },
+      {
+        "site": "gamer",
+        "id": "127137",
+        "begin": "2023-09-29T14:30:00.000Z",
+        "broadcast": "R/2023-09-29T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21087073",
+        "begin": "2023-10-24T12:00:01.000Z",
+        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-171",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
     "title": "五等分の花嫁∽",
     "titleTranslate": {
       "zh-Hans": [
@@ -23,6 +81,18 @@
         "id": "20344514",
         "begin": "2023-09-02T09:30:01.000Z",
         "broadcast": "R/2023-09-02T09:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5hanayome3",
+        "begin": "2023-09-10T15:00:00.000Z",
+        "broadcast": "R/2023-09-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "189-11",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -132,6 +202,18 @@
         "id": "129253",
         "begin": "2023-09-30T10:00:00.000Z",
         "broadcast": "R/2023-09-30T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "meguminodaigo",
+        "begin": "2023-10-03T15:00:00.000Z",
+        "broadcast": "R/2023-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -153,6 +235,12 @@
       {
         "site": "bangumi",
         "id": "451858"
+      },
+      {
+        "site": "abema",
+        "id": "169-122",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -200,6 +288,12 @@
         "id": "127917",
         "begin": "2023-09-28T17:05:00.000Z",
         "broadcast": "R/2023-09-28T17:05:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ojoutobankenkun",
+        "begin": "2023-10-11T15:00:00.000Z",
+        "broadcast": "R/2023-10-11T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -242,6 +336,18 @@
         "id": "21087176",
         "begin": "2023-09-30T16:30:01.000Z",
         "broadcast": "R/2023-09-30T16:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ragna-crimson",
+        "begin": "2023-10-05T15:00:00.000Z",
+        "broadcast": "R/2023-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-106",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -300,6 +406,18 @@
         "id": "121227",
         "begin": "2023-09-30T15:00:00.000Z",
         "broadcast": "R/2023-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mfg-anime",
+        "begin": "2023-10-04T15:30:00.000Z",
+        "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "168-53",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -342,6 +460,45 @@
         "id": "21093439",
         "begin": "2023-09-28T14:00:01.000Z",
         "broadcast": "R/2023-09-28T14:00:01.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-53",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "アリスとテレスのまぼろし工場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱丽丝和特蕾丝的幻影工厂",
+        "爱丽丝与特蕾斯的梦幻工厂",
+        "maboroshi：爱丽丝和特蕾丝的梦幻工厂"
+      ],
+      "zh-Hant": [
+        "愛麗絲與特蕾絲的虛幻工廠",
+        "maboroshi：愛麗絲與特蕾絲的虛幻工廠"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://maboroshi.movie/",
+    "begin": "2023-09-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-14T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340167"
+      },
+      {
+        "site": "netflix",
+        "id": "81450803",
+        "begin": "2024-01-14T16:00:00.000Z",
+        "broadcast": "R/2024-01-14T16:00:00.000Z/P7D"
       }
     ]
   }

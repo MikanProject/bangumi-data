@@ -196,6 +196,8 @@ type SiteList =
     | "mytv"
     | "disneyplus"
     | "nowPlayer"
+    | "abema"
+    | "unext"
     | "dmhy";
 
 export const siteMeta: Record<SiteList, SiteMeta>;
