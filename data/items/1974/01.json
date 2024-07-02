@@ -13,11 +13,6 @@
     "end": "1974-12-29T01:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "IxjjYckvn91AviaY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "5487"
       },
@@ -25,6 +20,12 @@
         "site": "bilibili",
         "id": "2480",
         "begin": "1974-01-05T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013819",
+        "begin": "2021-09-24T03:00:00.000Z",
+        "broadcast": "R/2021-09-24T03:00:00.000Z/P7D"
       }
     ]
   }

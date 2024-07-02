@@ -22,11 +22,6 @@
       {
         "site": "bangumi",
         "id": "157209"
-      },
-      {
-        "site": "letv",
-        "id": "10020849",
-        "begin": ""
       }
     ]
   },
@@ -44,11 +39,6 @@
     "begin": "1998-04-01T09:00:00.000Z",
     "end": "1998-09-30T09:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "0RjkYsowoN5Bvyc",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "13971"
@@ -68,6 +58,12 @@
         "site": "qq",
         "id": "4/4iskjyeeqsnp96t",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013506",
+        "begin": "2018-05-10T03:00:00.000Z",
+        "broadcast": "R/2018-05-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -130,11 +126,6 @@
     "end": "1998-12-06T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "u5Nu7FS6KmjLSbE",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "e/e57sd2czup3fw7v",
         "begin": ""
@@ -154,6 +145,12 @@
         "id": "168-49",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002464",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -187,10 +184,10 @@
         "begin": "2013-01-16T14:31:00.000Z"
       },
       {
-        "site": "netflix",
-        "id": "70202899",
-        "begin": "2019-04-23T16:00:00.000Z",
-        "broadcast": "R/2019-04-23T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0002744",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -233,11 +230,6 @@
     "end": "1998-06-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "j7uGBGzSQoDjYck",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "9272"
       },
@@ -246,6 +238,12 @@
         "id": "2258",
         "begin": "1998-04-01T16:00:00.000Z",
         "broadcast": "R/2013-08-07T17:50:04.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002938",
+        "begin": "2022-10-29T03:00:00.000Z",
+        "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -255,6 +253,9 @@
       "zh-Hans": [
         "魔卡少女樱",
         "百变小樱"
+      ],
+      "zh-Hant": [
+        "庫洛魔法使"
       ]
     },
     "type": "tv",
@@ -264,24 +265,9 @@
     "end": "2000-03-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "gqqVE3vhUYicycNg",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrgjbqod",
         "begin": "2014-04-09T23:30:55.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "37973",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2014/mksny",
-        "begin": ""
       },
       {
         "site": "mgtv",
@@ -307,6 +293,19 @@
         "site": "youku",
         "id": "cc0057e6962411de83b1",
         "begin": "2011-08-23T14:09:21.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003197",
+        "begin": "2017-11-16T03:00:00.000Z",
+        "broadcast": "R/2017-11-16T03:00:00.000Z/P7D",
+        "comment": "#47-70: SID0003415"
+      },
+      {
+        "site": "netflix",
+        "id": "70309056",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -323,11 +322,6 @@
     "begin": "1998-04-08T16:00:00.000Z",
     "end": "1998-11-11T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "Igv2dNxCsvBT0Tk",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "10394"
@@ -349,11 +343,6 @@
     "end": "1998-09-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "icEdCwCiaOicjyfHYU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "4400"
       },
@@ -361,7 +350,8 @@
         "site": "bilibili",
         "id": "2254",
         "begin": "1998-04-02T16:00:00.000Z",
-        "broadcast": "R/2011-01-29T02:43:00.000Z/P7D"
+        "broadcast": "R/2011-01-29T02:43:00.000Z/P7D",
+        "comment": "黑歷史: 2492"
       }
     ]
   },
@@ -402,11 +392,6 @@
     "end": "1998-09-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "r8mzMZnicb60QjvY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "8882"
       },
@@ -431,11 +416,6 @@
     "begin": "1998-04-06T16:00:00.000Z",
     "end": "1999-03-29T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "FCwXlf1j0xF08lo",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "b/bporoyheauyi2pk",
@@ -530,11 +510,6 @@
     "end": "1998-04-18T17:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "3aGLCXHXR4XoZs4",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "begin": "",
         "url": "http://www.iqiyi.com/dongman/20130715/5b125eb281c3ee4e.html"
@@ -558,6 +533,12 @@
         "id": "35-55",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010786",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -584,11 +565,6 @@
         "id": "2969"
       },
       {
-        "site": "pptv",
-        "id": "NQHradE3pibVIxia4",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
@@ -602,6 +578,18 @@
         "site": "bilibili",
         "id": "28228965",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010672",
+        "begin": "2024-04-04T15:00:00.000Z",
+        "broadcast": "R/2024-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
         "broadcast": ""
       }
     ]
@@ -639,13 +627,14 @@
     "end": "1998-09-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "yBfxb9c9retOzDQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "23467"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044991",
+        "begin": "2019-12-27T03:00:00.000Z",
+        "broadcast": "R/2019-12-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -663,18 +652,8 @@
     "end": "1998-09-30T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "oevVU7shkc8ysBg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "11913"
-      },
-      {
-        "site": "letv",
-        "id": "20639",
-        "begin": ""
       }
     ]
   },
@@ -691,11 +670,6 @@
     "begin": "1998-04-08T16:00:00.000Z",
     "end": "1998-07-01T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "XOTfXcUrm9k8uiaI",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "33118"
@@ -721,11 +695,6 @@
     "begin": "1998-04-06T16:00:00.000Z",
     "end": "1998-06-29T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "71gjoQlv3x2AicmY",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "51359"
@@ -754,17 +723,6 @@
       {
         "site": "bangumi",
         "id": "45772"
-      },
-      {
-        "site": "pptv",
-        "id": "Y9eyMJjibbqwPjfU",
-        "begin": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "3989",
-        "begin": "1998-04-20T16:00:01.000Z",
-        "broadcast": ""
       }
     ]
   },
@@ -791,6 +749,63 @@
         "id": "2255",
         "begin": "2014-06-07T08:40:00.000Z",
         "broadcast": "R/2014-06-07T08:40:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "聖少女艦隊バージンフリート",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣少女舰队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13311"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015399",
+        "begin": "2019-05-18T03:00:00.000Z",
+        "broadcast": "R/2019-05-18T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "スーパーフィッシング グランダー武蔵RV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才钓鱼郎RV",
+        "天才小鱼郎RV",
+        "小钓手武藏RV",
+        "极速鱼技RV"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-04-03T16:00:00.000Z",
+    "broadcast": "R/1998-04-03T16:00:00.000Z/P7D",
+    "end": "1998-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36014"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003340",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
       }
     ]
   }

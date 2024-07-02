@@ -16,16 +16,6 @@
     "end": "2016-06-25T17:20:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "iarehH4ftXZvibfOQ",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "10024292",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "174147"
       },
@@ -33,6 +23,12 @@
         "site": "youku",
         "id": "e2b1ccd83f3511e69b6d",
         "begin": "2016-07-01T09:52:10.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0025630",
+        "begin": "2020-11-30T03:00:00.000Z",
+        "broadcast": "R/2020-11-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -58,11 +54,6 @@
     "begin": "2016-06-28T14:30:00.000Z",
     "end": "2016-09-20T15:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "oZF7ibWHHN3XYVr4",
-        "begin": "2016-06-30T15:30:00.000Z"
-      },
       {
         "site": "bangumi",
         "id": "168905"
@@ -114,11 +105,6 @@
     "begin": "2016-06-06T15:08:00.000Z",
     "end": "2016-06-17T15:10:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "h7KeHITqWpj7eeE",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "180670"
@@ -185,11 +171,6 @@
     "end": "2016-12-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "xm5KyDCWBkSnJY0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "199270"
       },
@@ -215,11 +196,6 @@
     "end": "2016-09-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "IBLibfORKuvhb2UE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "185837"
       }
@@ -238,11 +214,6 @@
     "begin": "2016-06-24T16:00:00.000Z",
     "end": "2017-07-24T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "eciakIorwYJ4Bfibc",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "162771"
@@ -287,9 +258,10 @@
         "id": "166348"
       },
       {
-        "site": "pptv",
-        "id": "HC0Hhe1TwwFk4ko",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0097700",
+        "begin": "2024-01-26T03:00:00.000Z",
+        "broadcast": "R/2024-01-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -316,6 +288,33 @@
         "id": "5405",
         "begin": "2016-06-30T16:00:00.000Z",
         "broadcast": "R/2016-07-29T10:44:48.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム サンダーボルト DECEMBER SKY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 雷霆宙域 DECEMBER SKY"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gundam-tb.net/",
+    "begin": "2016-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-06-24T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "180172"
+      },
+      {
+        "site": "unext",
+        "id": "SID0025468",
+        "begin": "2016-06-24T23:00:00.000Z",
+        "broadcast": "R/2016-06-24T23:00:00.000Z/P7D"
       }
     ]
   }

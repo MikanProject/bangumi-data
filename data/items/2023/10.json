@@ -61,6 +61,12 @@
         "id": "21086401",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093788",
+        "begin": "2023-10-04T15:30:00.000Z",
+        "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -105,6 +111,18 @@
       {
         "site": "abema",
         "id": "19-174",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091755",
+        "begin": "2023-10-21T17:40:00.000Z",
+        "broadcast": "R/2023-10-21T17:40:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1Mw6AaFMAfzE",
         "begin": "",
         "broadcast": ""
       }
@@ -165,6 +183,12 @@
         "id": "115-104",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093571",
+        "begin": "2023-10-01T13:00:00.000Z",
+        "broadcast": "R/2023-10-01T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -173,7 +197,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "捡走被人悔婚的千金，教会她坏坏的幸福生活",
-        "捡到被退婚大小姐的我，教会她做坏坏的事"
+        "捡到被退婚大小姐的我，教会她做坏坏的事",
+        "捡到退婚大小姐的我，教她幸福的事"
       ],
       "zh-Hant": [
         "撿走被人悔婚的千金，教會她壞壞的幸福生活"
@@ -212,6 +237,18 @@
       {
         "site": "abema",
         "id": "189-56",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091711",
+        "begin": "2023-10-07T15:00:00.000Z",
+        "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21086113",
         "begin": "",
         "broadcast": ""
       }
@@ -265,6 +302,12 @@
         "id": "168-56",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091750",
+        "begin": "2023-10-05T14:30:00.000Z",
+        "broadcast": "R/2023-10-05T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -292,6 +335,12 @@
         "id": "5-43",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091733",
+        "begin": "2023-10-08T03:00:00.000Z",
+        "broadcast": "R/2023-10-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -301,10 +350,15 @@
       "zh-Hans": [
         "香格里拉·弗陇提亚～屎作猎人向神作发起挑战～",
         "香格里拉边境~粪作猎人向神作游戏发起挑战~",
-        "『香格里拉边境』"
+        "『香格里拉边境』",
+        "香格里拉·开拓异境～粪作猎手挑战神作～"
       ],
       "zh-Hant": [
-        "香格里拉・開拓異境～糞作獵手挑戰神作～"
+        "香格里拉・開拓異境～糞作獵手挑戰神作～",
+        "香格里拉·開拓異境～糞作獵手挑戰神作～"
+      ],
+      "en": [
+        "Shangri-La Frontier"
       ]
     },
     "type": "tv",
@@ -348,6 +402,24 @@
         "id": "21086747",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091715",
+        "begin": "2023-10-01T09:00:00.000Z",
+        "broadcast": "R/2023-10-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81727242",
+        "begin": "2024-01-23T16:00:00.000Z",
+        "broadcast": "R/2024-01-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "67NJTGASIVBY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -356,7 +428,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "足球小将 第二季 世少篇",
-        "隊長小翼 第二季 青少年篇"
+        "队长小翼 第二季 青少年篇",
+        "队长小翼 世少篇"
       ],
       "zh-Hant": [
         "隊長小翼第二季  青少年篇",
@@ -368,7 +441,7 @@
     "officialSite": "https://ball-ha-tomodachi.com/jryouth/",
     "begin": "2023-10-01T08:30:00.000Z",
     "broadcast": "R/2023-10-01T08:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-30T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -390,6 +463,18 @@
       {
         "site": "abema",
         "id": "397-28",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091747",
+        "begin": "2023-10-04T09:00:00.000Z",
+        "broadcast": "R/2023-10-04T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21173161",
         "begin": "",
         "broadcast": ""
       }
@@ -447,6 +532,12 @@
         "id": "25-247",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091726",
+        "begin": "2023-10-06T14:00:00.000Z",
+        "broadcast": "R/2023-10-06T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -489,6 +580,12 @@
         "id": "413-10",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091759",
+        "begin": "2023-10-05T17:30:00.000Z",
+        "broadcast": "R/2023-10-05T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -526,12 +623,6 @@
         "broadcast": "R/2023-10-02T14:00:00.000Z/P7D"
       },
       {
-        "site": "nowPlayer",
-        "id": "S202309220170004",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "migitodali",
         "begin": "2023-10-06T13:00:00.000Z",
@@ -548,6 +639,12 @@
         "id": "21089341",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091708",
+        "begin": "2023-10-06T13:00:00.000Z",
+        "broadcast": "R/2023-10-06T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -569,6 +666,12 @@
       {
         "site": "bangumi",
         "id": "451559"
+      },
+      {
+        "site": "abema",
+        "id": "482-39",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -616,6 +719,18 @@
         "id": "128675",
         "begin": "2023-10-04T13:00:00.000Z",
         "broadcast": "R/2023-10-04T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091727",
+        "begin": "2024-02-05T03:00:00.000Z",
+        "broadcast": "R/2024-02-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bullbuster",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -673,6 +788,12 @@
         "id": "railromanesque2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091793",
+        "begin": "2023-12-28T16:05:00.000Z",
+        "broadcast": "R/2023-12-28T16:05:00.000Z/P7D"
       }
     ]
   },
@@ -684,6 +805,9 @@
       ],
       "zh-Hant": [
         "地下忍者"
+      ],
+      "en": [
+        "Under Ninja"
       ]
     },
     "type": "tv",
@@ -713,6 +837,18 @@
       {
         "site": "abema",
         "id": "19-173",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091753",
+        "begin": "2023-10-05T18:00:00.000Z",
+        "broadcast": "R/2023-10-05T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6GIjMYqWpV5g",
         "begin": "",
         "broadcast": ""
       }
@@ -748,6 +884,12 @@
         "id": "25-246",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0092053",
+        "begin": "2023-10-11T14:00:00.000Z",
+        "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -790,6 +932,12 @@
         "id": "26-108",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091740",
+        "begin": "2023-10-10T03:00:00.000Z",
+        "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -848,6 +996,12 @@
         "id": "81719269",
         "begin": "2024-01-18T16:00:00.000Z",
         "broadcast": "R/2024-01-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093575",
+        "begin": "2023-10-06T17:00:00.000Z",
+        "broadcast": "R/2023-10-06T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -906,6 +1060,12 @@
         "id": "564-8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091707",
+        "begin": "2023-10-10T03:00:00.000Z",
+        "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -921,7 +1081,7 @@
     "officialSite": "https://matsuinu-anime.com/",
     "begin": "2023-10-12T13:05:00.000Z",
     "broadcast": "R/2023-10-12T13:05:00.000Z/P7D",
-    "end": "2023-12-23T13:05:00.000Z",
+    "end": "2023-12-28T13:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -931,6 +1091,12 @@
       {
         "site": "nicovideo",
         "id": "matsuinu-anime",
+        "begin": "2023-10-12T23:00:00.000Z",
+        "broadcast": "R/2023-10-12T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091749",
         "begin": "2023-10-12T23:00:00.000Z",
         "broadcast": "R/2023-10-12T23:00:00.000Z/P7D"
       }
@@ -997,6 +1163,12 @@
         "id": "54-64",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091757",
+        "begin": "2023-10-10T13:00:00.000Z",
+        "broadcast": "R/2023-10-10T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -1042,6 +1214,12 @@
         "id": "174-29",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0092059",
+        "begin": "2023-10-10T15:00:00.000Z",
+        "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1091,6 +1269,12 @@
         "id": "115-103",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093573",
+        "begin": "2023-10-07T16:00:00.000Z",
+        "broadcast": "R/2023-10-07T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1124,6 +1308,12 @@
         "id": "189-57",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091710",
+        "begin": "2023-10-10T15:00:00.000Z",
+        "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1132,7 +1322,14 @@
     "titleTranslate": {
       "zh-Hans": [
         "七大罪 默示录的四骑士",
+        "七大罪：默示录的四骑士",
         "默示录的四骑士"
+      ],
+      "zh-Hant": [
+        "七大罪：啟示錄四騎士"
+      ],
+      "en": [
+        "The Seven Deadly Sins: Four Knights of the Apocalypse"
       ]
     },
     "type": "tv",
@@ -1156,6 +1353,24 @@
       {
         "site": "abema",
         "id": "632-4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091716",
+        "begin": "2023-10-15T08:10:00.000Z",
+        "broadcast": "R/2023-10-15T08:10:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81562396",
+        "begin": "2024-01-30T16:00:00.000Z",
+        "broadcast": "R/2024-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "75nHOiRubGRL",
         "begin": "",
         "broadcast": ""
       }
@@ -1191,6 +1406,12 @@
         "id": "19-175",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093789",
+        "begin": "2023-10-13T03:00:00.000Z",
+        "broadcast": "R/2023-10-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1241,6 +1462,12 @@
         "id": "420-61",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091760",
+        "begin": "2023-10-03T03:00:00.000Z",
+        "broadcast": "R/2023-10-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1300,6 +1527,41 @@
         "id": "25-221",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091728",
+        "begin": "2023-10-11T14:00:00.000Z",
+        "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5I6JkWfEmf0M",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "トランスフォーマー アーススパーク",
+    "titleTranslate": {
+      "en": [
+        "TRANSFORMERS EARTH SPARK"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://tf.takaratomy.co.jp/tf_earth_spark/",
+    "begin": "2023-10-01T00:15:00.000Z",
+    "broadcast": "R/2023-10-01T00:15:00.000Z/P7D",
+    "end": "2023-10-01T00:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0095116",
+        "begin": "2023-12-11T03:00:00.000Z",
+        "broadcast": "R/2023-12-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1332,6 +1594,12 @@
       {
         "site": "nicovideo",
         "id": "tokyo-revengers-tenjikuhen",
+        "begin": "2023-10-03T18:00:00.000Z",
+        "broadcast": "R/2023-10-03T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091712",
         "begin": "2023-10-03T18:00:00.000Z",
         "broadcast": "R/2023-10-03T18:00:00.000Z/P7D"
       }
@@ -1379,6 +1647,12 @@
         "id": "hoshitele-anime",
         "begin": "2023-10-09T15:00:00.000Z",
         "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093578",
+        "begin": "2023-10-09T15:00:00.000Z",
+        "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1400,7 +1674,7 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/ochibisan/",
     "begin": "2023-10-07T15:00:00.000Z",
     "broadcast": "R/2023-10-07T15:00:00.000Z/P7D",
-    "end": "2024-03-31T15:00:00.000Z",
+    "end": "2024-03-30T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1424,6 +1698,12 @@
         "id": "135403",
         "begin": "2023-10-08T03:00:00.000Z",
         "broadcast": "R/2023-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091744",
+        "begin": "2023-10-11T03:00:00.000Z",
+        "broadcast": "R/2023-10-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1475,6 +1755,12 @@
         "id": "174-10",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0092057",
+        "begin": "2023-10-09T15:00:00.000Z",
+        "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1550,6 +1836,18 @@
         "id": "25-248",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091729",
+        "begin": "2023-10-02T13:30:00.000Z",
+        "broadcast": "R/2023-10-02T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2QO24tyPdtdq",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1593,6 +1891,12 @@
         "id": "25-245",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091732",
+        "begin": "2023-10-12T15:30:00.000Z",
+        "broadcast": "R/2023-10-12T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -1644,6 +1948,12 @@
         "id": "420-60",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091761",
+        "begin": "2023-10-11T14:00:00.000Z",
+        "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1720,6 +2030,12 @@
         "id": "115-105",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093572",
+        "begin": "2023-10-02T16:00:00.000Z",
+        "broadcast": "R/2023-10-02T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1779,6 +2095,12 @@
         "id": "25-167",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091731",
+        "begin": "2023-10-08T15:00:00.000Z",
+        "broadcast": "R/2023-10-08T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1813,6 +2135,12 @@
         "id": "19-172",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091751",
+        "begin": "2023-10-10T03:00:00.000Z",
+        "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1863,6 +2191,12 @@
         "id": "189-58",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091713",
+        "begin": "2023-10-01T15:00:00.000Z",
+        "broadcast": "R/2023-10-01T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1906,6 +2240,12 @@
         "id": "26-208",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091739",
+        "begin": "2023-10-08T03:00:00.000Z",
+        "broadcast": "R/2023-10-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1943,16 +2283,16 @@
         "broadcast": "R/2023-10-02T16:00:00.000Z/P7D"
       },
       {
-        "site": "nowPlayer",
-        "id": "S202309220170024",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "abema",
         "id": "169-137",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093577",
+        "begin": "2023-10-06T15:00:00.000Z",
+        "broadcast": "R/2023-10-06T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1996,6 +2336,12 @@
         "id": "26-207",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091741",
+        "begin": "2023-10-07T15:30:00.000Z",
+        "broadcast": "R/2023-10-07T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -2007,6 +2353,9 @@
       ],
       "zh-Hant": [
         "我的新上司是天然呆"
+      ],
+      "en": [
+        "My New Boss is Goofy"
       ]
     },
     "type": "tv",
@@ -2038,6 +2387,18 @@
         "id": "26-209",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091742",
+        "begin": "2023-10-07T15:00:00.000Z",
+        "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81726496",
+        "begin": "2024-01-30T16:00:00.000Z",
+        "broadcast": "R/2024-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2096,6 +2457,12 @@
         "id": "168-54",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091748",
+        "begin": "2023-10-05T15:00:00.000Z",
+        "broadcast": "R/2023-10-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2167,6 +2534,12 @@
         "id": "21086581",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091730",
+        "begin": "2023-10-11T13:00:00.000Z",
+        "broadcast": "R/2023-10-11T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -2212,6 +2585,18 @@
         "id": "11-54",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091735",
+        "begin": "2023-10-02T17:00:00.000Z",
+        "broadcast": "R/2023-10-02T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81758318",
+        "begin": "2024-04-29T16:00:00.000Z",
+        "broadcast": "R/2024-04-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2246,6 +2631,12 @@
         "id": "beybladex_139812",
         "begin": "2023-11-19T12:30:00.000Z",
         "broadcast": "R/2023-11-19T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091758",
+        "begin": "2023-10-06T10:00:00.000Z",
+        "broadcast": "R/2023-10-06T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -2295,6 +2686,12 @@
         "id": "54-87",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091756",
+        "begin": "2023-10-09T14:00:00.000Z",
+        "broadcast": "R/2023-10-09T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -2343,6 +2740,12 @@
         "id": "656-1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091714",
+        "begin": "2023-10-10T16:30:00.000Z",
+        "broadcast": "R/2023-10-10T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -2389,6 +2792,12 @@
         "id": "134389",
         "begin": "2023-10-23T12:00:00.000Z",
         "broadcast": "R/2023-10-23T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093570",
+        "begin": "2023-10-25T03:00:00.000Z",
+        "broadcast": "R/2023-10-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2434,6 +2843,12 @@
         "id": "168-52",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091746",
+        "begin": "2023-10-06T14:00:00.000Z",
+        "broadcast": "R/2023-10-06T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -2480,6 +2895,12 @@
         "id": "11-55",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091736",
+        "begin": "2023-10-09T14:30:00.000Z",
+        "broadcast": "R/2023-10-09T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -2532,6 +2953,12 @@
         "id": "210-9",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093579",
+        "begin": "2023-10-07T01:00:00.000Z",
+        "broadcast": "R/2023-10-07T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -2553,6 +2980,12 @@
       {
         "site": "bangumi",
         "id": "368833"
+      },
+      {
+        "site": "unext",
+        "id": "SID0094364",
+        "begin": "2023-10-14T22:00:00.000Z",
+        "broadcast": "R/2023-10-14T22:00:00.000Z/P7D"
       }
     ]
   },
@@ -2641,6 +3074,12 @@
         "id": "11-38",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091734",
+        "begin": "2023-10-12T17:23:00.000Z",
+        "broadcast": "R/2023-10-12T17:23:00.000Z/P7D"
       }
     ]
   },
@@ -2688,6 +3127,12 @@
         "id": "128617",
         "begin": "2023-10-09T16:00:00.000Z",
         "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5XUijmc2pLy9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2736,6 +3181,12 @@
         "id": "81046193",
         "begin": "2023-10-12T13:30:00.000Z",
         "broadcast": "R/2023-10-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2icwhag0ihkG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2770,7 +3221,8 @@
         "site": "bilibili",
         "id": "21086686",
         "begin": "2023-11-11T12:00:01.000Z",
-        "broadcast": "R/2023-11-11T12:00:01.000Z/P7D"
+        "broadcast": "R/2023-11-11T12:00:01.000Z/P7D",
+        "comment": "中配版: 21618488"
       },
       {
         "site": "viu",
@@ -2809,6 +3261,12 @@
         "id": "19-86",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091752",
+        "begin": "2023-10-07T14:30:00.000Z",
+        "broadcast": "R/2023-10-07T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -2926,6 +3384,12 @@
         "id": "420-62",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0094541",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2960,16 +3424,16 @@
         "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "myheroacademiauaherosbattle_139995",
-        "begin": "2023-11-30T15:00:00.000Z",
-        "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "heroaca-ova",
         "begin": "2023-12-04T15:00:00.000Z",
         "broadcast": "R/2023-12-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096210",
+        "begin": "2023-11-30T15:00:00.000Z",
+        "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2997,6 +3461,18 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "21095592",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099235",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21095481",
         "begin": "",
         "broadcast": ""
       }
@@ -3030,6 +3506,139 @@
       {
         "site": "abema",
         "id": "13-184",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091738",
+        "begin": "2023-10-12T15:00:00.000Z",
+        "broadcast": "R/2023-10-12T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ガンダムビルドメタバース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高达创战元宇宙"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://gundam-bm.net/",
+    "begin": "2023-10-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "434818"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093569",
+        "begin": "2023-10-06T09:00:00.000Z",
+        "broadcast": "R/2023-10-06T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "天官賜福 貮",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天官赐福 第二季",
+        "天官賜福 貳"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://tgcf-anime.com/",
+    "begin": "2023-10-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-01-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289102"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096001",
+        "begin": "2024-01-10T03:00:00.000Z",
+        "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-144",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tgcf-anime2",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&パンツァー 最終章 第4話",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 最终章 第4话"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer-finale.jp",
+    "begin": "2023-10-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208827"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099901",
+        "begin": "2024-03-26T15:00:00.000Z",
+        "broadcast": "R/2024-03-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マスク男子は恋したくないのに",
+    "titleTranslate": {
+      "zh-Hans": [
+        "口罩男生明明不想恋爱"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.b-boy.jp/special/maskdanshi/oad.html",
+    "begin": "2023-10-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425606"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102034",
+        "begin": "2024-04-18T15:00:00.000Z",
+        "broadcast": "R/2024-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maskdanshi",
         "begin": "",
         "broadcast": ""
       }

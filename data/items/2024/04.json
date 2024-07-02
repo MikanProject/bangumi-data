@@ -7,6 +7,9 @@
       ],
       "zh-Hans": [
         "单间、光照尚好、附带天使。"
+      ],
+      "zh-Hant": [
+        "單人房、日照一般、附天使。"
       ]
     },
     "type": "tv",
@@ -14,12 +17,36 @@
     "officialSite": "https://tenshitsuki.com/",
     "begin": "2024-04-06T13:00:00.000Z",
     "broadcast": "R/2024-04-06T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-15T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "457945"
+      },
+      {
+        "site": "abema",
+        "id": "564-10",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenshitsuki",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "135879",
+        "begin": "2024-04-06T14:00:00.000Z",
+        "broadcast": "R/2024-04-06T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100048",
+        "begin": "2024-04-08T13:00:00.000Z",
+        "broadcast": "R/2024-04-08T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -30,7 +57,14 @@
         "Sound!Euphonium"
       ],
       "zh-Hans": [
-        "吹响！悠风号 第三季"
+        "吹响！悠风号 第三季",
+        "吹响！上低音号 第三季",
+        "吹响！悠风号 久美子3年生篇",
+        "京吹部 第三季",
+        "吹响吧！上低音号 第三季"
+      ],
+      "zh-Hant": [
+        "吹響吧！上低音號 第三季"
       ]
     },
     "type": "tv",
@@ -38,12 +72,48 @@
     "officialSite": "https://anime-eupho.com/",
     "begin": "2024-04-07T08:00:00.000Z",
     "broadcast": "R/2024-04-07T08:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-30T08:25:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "283643"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-eupho",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "106-1zxpewrca-r",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100045",
+        "begin": "2024-04-10T03:00:00.000Z",
+        "broadcast": "R/2024-04-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "21243093",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21231728",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "3KeTikthDRwH",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -54,7 +124,12 @@
         "JELLYFISH CAN'T SWIM IN THE NIGHT"
       ],
       "zh-Hans": [
-        "夜晚的水母不会游泳"
+        "夜晚的水母不会游泳",
+        "夜之水母不会游泳",
+        "晚上的水母不会游泳"
+      ],
+      "zh-Hant": [
+        "夜晚的水母不會游泳"
       ]
     },
     "type": "tv",
@@ -62,12 +137,48 @@
     "officialSite": "https://yorukura-anime.com/",
     "begin": "2024-04-06T16:00:00.000Z",
     "broadcast": "R/2024-04-06T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-22T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "425909"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yorukura",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100090",
+        "begin": "2024-04-06T16:00:00.000Z",
+        "broadcast": "R/2024-04-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uci_tGLxkhQyUliJltT4OfZ6",
+        "begin": "2024-04-06T16:30:06.000Z",
+        "broadcast": "R/2024-04-06T16:30:06.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131196",
+        "begin": "2024-04-06T16:30:00.000Z",
+        "broadcast": "R/2024-04-06T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-112",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21231359",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -75,7 +186,14 @@
     "title": "転生貴族、鑑定スキルで成り上がる",
     "titleTranslate": {
       "zh-Hans": [
-        "转生贵族靠着鉴定技能一飞冲天"
+        "转生贵族靠着鉴定技能一飞冲天",
+        "转生贵族凭鉴定技能扭转人生"
+      ],
+      "zh-Hant": [
+        "轉生貴族憑鑑定技能扭轉人生"
+      ],
+      "en": [
+        "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
       ]
     },
     "type": "tv",
@@ -83,12 +201,48 @@
     "officialSite": "https://kanteiskill.com/",
     "begin": "2024-04-07T14:30:00.000Z",
     "broadcast": "R/2024-04-07T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-23T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "434144"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanteiskill",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100082",
+        "begin": "2024-04-07T15:00:00.000Z",
+        "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-65",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Ji3p2oPXSaDlUtzRI0be2_d",
+        "begin": "2024-04-07T15:00:07.000Z",
+        "broadcast": "R/2024-04-07T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTpPAmFL_w5IByhmBv8C_9Y",
+        "begin": "2024-04-07T15:00:07.000Z",
+        "broadcast": "R/2024-04-07T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "132297",
+        "begin": "2024-04-07T15:00:00.000Z",
+        "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -97,6 +251,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "战队大失格"
+      ],
+      "zh-Hant": [
+        "戰隊大失格"
+      ],
+      "en": [
+        "Go! Go! Loser Ranger!"
       ]
     },
     "type": "tv",
@@ -104,12 +264,30 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/anime-sentai-daishikkaku/",
     "begin": "2024-04-07T07:30:00.000Z",
     "broadcast": "R/2024-04-07T07:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-30T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "407234"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sentai-daishikkaku",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100094",
+        "begin": "2024-04-07T08:00:00.000Z",
+        "broadcast": "R/2024-04-07T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2VX5fKgeiVEl",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -131,6 +309,24 @@
       {
         "site": "bangumi",
         "id": "468758"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aipri",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100070",
+        "begin": "2024-04-09T08:00:00.000Z",
+        "broadcast": "R/2024-04-09T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "203-13",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -138,7 +334,13 @@
     "title": "WIND BREAKER",
     "titleTranslate": {
       "zh-Hans": [
-        "防风少年"
+        "防风少年",
+        "WIND BREAKER—防风铃—",
+        "WIND BREAKER 防风少年",
+        "防风铃"
+      ],
+      "zh-Hant": [
+        "WIND BREAKER—防風少年—"
       ]
     },
     "type": "tv",
@@ -146,12 +348,36 @@
     "officialSite": "https://wb-anime.net/",
     "begin": "2024-04-04T15:26:00.000Z",
     "broadcast": "R/2024-04-04T15:26:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-27T15:56:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "426947"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wb-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100065",
+        "begin": "2024-04-08T03:00:00.000Z",
+        "broadcast": "R/2024-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-219",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "131404",
+        "begin": "2024-04-04T16:56:00.000Z",
+        "broadcast": "R/2024-04-04T16:56:00.000Z/P7D"
       }
     ]
   },
@@ -160,6 +386,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "摇曳露营△ 第三季"
+      ],
+      "zh-Hant": [
+        "搖曳露營△ 第三季"
+      ],
+      "en": [
+        "Laid-Back Camp Season 3"
       ]
     },
     "type": "tv",
@@ -173,6 +405,42 @@
       {
         "site": "bangumi",
         "id": "405785"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100063",
+        "begin": "2024-04-09T14:30:00.000Z",
+        "broadcast": "R/2024-04-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yurucamp_third",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "247-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "128167",
+        "begin": "2024-04-04T14:30:00.000Z",
+        "broadcast": "R/2024-04-04T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgpM3BhpeDhDvAXuIUQjOj6",
+        "begin": "2024-04-04T14:30:07.000Z",
+        "broadcast": "R/2024-04-04T14:30:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtS9XXLNeCK883vWIQDZIsn6",
+        "begin": "2024-04-04T14:30:07.000Z",
+        "broadcast": "R/2024-04-04T14:30:07.000Z/P7D"
       }
     ]
   },
@@ -183,7 +451,11 @@
         "NIJIYON ANIMATION 2"
       ],
       "zh-Hans": [
-        "虹四动画 第二季"
+        "虹四动画 第二季",
+        "Love Live！虹咲学园 学园偶像同好会 短篇动画 第二季"
+      ],
+      "zh-Hant": [
+        "Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"
       ]
     },
     "type": "tv",
@@ -191,12 +463,42 @@
     "officialSite": "https://www.lovelive-anime.jp/nijigasaki/niji4anime.php",
     "begin": "2024-04-05T12:54:00.000Z",
     "broadcast": "R/2024-04-05T12:54:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-21T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "471926"
+      },
+      {
+        "site": "nicovideo",
+        "id": "niji4anime2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "13-161",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100086",
+        "begin": "2024-04-05T13:00:00.000Z",
+        "broadcast": "R/2024-04-05T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "137067",
+        "begin": "2024-04-05T13:00:00.000Z",
+        "broadcast": "R/2024-04-05T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uch3jLcECUp6hmiABnQxS-xZ",
+        "begin": "2024-04-05T13:00:00.000Z",
+        "broadcast": "R/2024-04-05T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -207,7 +509,11 @@
         "GIRLS BAND CRY"
       ],
       "zh-Hans": [
-        "GIRLS BAND CRY"
+        "GIRLS BAND CRY",
+        "哭泣少女乐队",
+        "少哭",
+        "闺泣",
+        "少女五乐哭"
       ]
     },
     "type": "tv",
@@ -215,12 +521,24 @@
     "officialSite": "https://girls-band-cry.com/",
     "begin": "2024-04-05T15:30:00.000Z",
     "broadcast": "R/2024-04-05T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-28T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "431767"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100041",
+        "begin": "2024-04-05T16:00:00.000Z",
+        "broadcast": "R/2024-04-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "5-44",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -228,10 +546,14 @@
     "title": "この素晴らしい世界に祝福を！3",
     "titleTranslate": {
       "en": [
+        "KONOSUBA -God's Blessing on This Wonderful World! 3",
         "KonoSuba: God's Blessing on This Wonderful World!"
       ],
       "zh-Hans": [
         "为美好的世界献上祝福！第三季"
+      ],
+      "zh-Hant": [
+        "為美好的世界獻上祝福！3"
       ]
     },
     "type": "tv",
@@ -239,12 +561,54 @@
     "officialSite": "http://konosuba.com/3rd/",
     "begin": "2024-04-10T14:00:00.000Z",
     "broadcast": "R/2024-04-10T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-19T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "342667"
+      },
+      {
+        "site": "nicovideo",
+        "id": "konosuba_3rd",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100051",
+        "begin": "2024-04-13T14:00:00.000Z",
+        "broadcast": "R/2024-04-13T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-40xx2hk3u5ai",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSD95wSkYycIuRqLZUgwbyr",
+        "begin": "2024-04-10T15:00:07.000Z",
+        "broadcast": "R/2024-04-10T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhqZQW_-rc90fYAIV5dymcF",
+        "begin": "2024-04-10T15:00:08.000Z",
+        "broadcast": "R/2024-04-10T15:00:08.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "118719",
+        "begin": "2024-04-10T15:00:00.000Z",
+        "broadcast": "R/2024-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1cDpTZwUiPAV",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -252,7 +616,14 @@
     "title": "じいさんばあさん若返る",
     "titleTranslate": {
       "zh-Hans": [
-        "爷爷奶奶返老还童"
+        "爷爷奶奶返老还童",
+        "老夫老妻重返青春"
+      ],
+      "zh-Hant": [
+        "老夫老妻重返青春"
+      ],
+      "en": [
+        "Grandpa and Grandma Turn Young Again"
       ]
     },
     "type": "tv",
@@ -260,12 +631,42 @@
     "officialSite": "https://jisanbasan.com/",
     "begin": "2024-04-07T14:30:00.000Z",
     "broadcast": "R/2024-04-07T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-16T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "449562"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jisanbasan",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100052",
+        "begin": "2024-04-12T15:00:00.000Z",
+        "broadcast": "R/2024-04-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-258",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "134735",
+        "begin": "2024-04-07T14:30:00.000Z",
+        "broadcast": "R/2024-04-07T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21231488",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -274,6 +675,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪兽8号"
+      ],
+      "zh-Hant": [
+        "怪獸8號"
+      ],
+      "en": [
+        "Kaiju No.8"
       ]
     },
     "type": "tv",
@@ -281,12 +688,72 @@
     "officialSite": "https://kaiju-no8.net/",
     "begin": "2024-04-13T14:00:00.000Z",
     "broadcast": "R/2024-04-13T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-29T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "394623"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaiju-no8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100076",
+        "begin": "2024-04-13T14:30:00.000Z",
+        "broadcast": "R/2024-04-13T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQCkDYNQJpV5LLelEpkPkrF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjuZzkRdh_qKWYuEk26B1Ib",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2341874",
+        "begin": "2024-04-13T15:00:33.000Z",
+        "broadcast": "R/2024-04-13T15:00:33.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81759290",
+        "begin": "2024-04-12T16:00:00.000Z",
+        "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "129302",
+        "begin": "2024-04-13T15:00:00.000Z",
+        "broadcast": "R/2024-04-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-190",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21231256",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4cBkIqrWC0Tb",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -294,7 +761,11 @@
     "title": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
     "titleTranslate": {
       "zh-Hans": [
-        "从Lv2开始开挂的原勇者候补悠闲的异世界生活"
+        "从Lv2开始开挂的原勇者候补悠闲的异世界生活",
+        "从Lv2开始开外挂的前勇者候补过着悠哉异世界生活"
+      ],
+      "zh-Hant": [
+        "從Lv2開始開外掛的前勇者候補過著悠哉異世界生活"
       ]
     },
     "type": "tv",
@@ -302,12 +773,42 @@
     "officialSite": "https://lv2-cheat.com/",
     "begin": "2024-04-08T14:00:00.000Z",
     "broadcast": "R/2024-04-08T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-24T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "459725"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lv2-cheat",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100081",
+        "begin": "2024-04-08T14:30:00.000Z",
+        "broadcast": "R/2024-04-08T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-90",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uci8k-Vk-nfc8UdonLY8JDnS",
+        "begin": "2024-04-08T14:00:06.000Z",
+        "broadcast": "R/2024-04-08T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "136038",
+        "begin": "2024-04-08T14:00:00.000Z",
+        "broadcast": "R/2024-04-08T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -329,6 +830,36 @@
       {
         "site": "bangumi",
         "id": "455981"
+      },
+      {
+        "site": "viu",
+        "id": "2341871",
+        "begin": "2024-04-12T16:00:00.000Z",
+        "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116223",
+        "begin": "2024-04-12T16:00:00.000Z",
+        "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maohgakuin2",
+        "begin": "2024-04-12T16:00:00.000Z",
+        "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-147",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0076920",
+        "begin": "2023-01-14T15:30:00.000Z",
+        "broadcast": "R/2023-01-14T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -337,6 +868,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "夜樱家的大作战"
+      ],
+      "zh-Hant": [
+        "夜櫻家大作戰"
       ]
     },
     "type": "tv",
@@ -350,6 +884,42 @@
       {
         "site": "bangumi",
         "id": "411276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mission-yozakura",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100044",
+        "begin": "2024-04-10T08:30:00.000Z",
+        "broadcast": "R/2024-04-10T08:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-60",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2339515",
+        "begin": "2024-04-07T08:30:01.000Z",
+        "broadcast": "R/2024-04-07T08:30:01.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "129301",
+        "begin": "2024-04-07T08:30:00.000Z",
+        "broadcast": "R/2024-04-07T08:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81766575",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -357,7 +927,12 @@
     "title": "終末トレインどこへいく？",
     "titleTranslate": {
       "zh-Hans": [
-        "末班列车去哪里了？"
+        "末班列车去哪里了？",
+        "终末的火车前往何方",
+        "末日列车去往何方？",
+        "终末的火车前往何方？",
+        "末日列车去哪里？",
+        "终末列车寻往何方？"
       ]
     },
     "type": "tv",
@@ -365,12 +940,30 @@
     "officialSite": "https://shumatsu-train.com/",
     "begin": "2024-04-01T12:00:00.000Z",
     "broadcast": "R/2024-04-01T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-24T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "404809"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shumatsu-train",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100055",
+        "begin": "2024-04-06T14:30:00.000Z",
+        "broadcast": "R/2024-04-06T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-260",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -378,7 +971,11 @@
     "title": "神は遊戯に飢えている。",
     "titleTranslate": {
       "zh-Hans": [
-        "神渴望着游戏。"
+        "神渴望着游戏。",
+        "渴求游戏之神。"
+      ],
+      "zh-Hant": [
+        "神明渴求著遊戲。"
       ]
     },
     "type": "tv",
@@ -386,12 +983,48 @@
     "officialSite": "https://godsgame-anime.com/",
     "begin": "2024-04-01T12:30:00.000Z",
     "broadcast": "R/2024-04-01T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-24T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "365952"
+      },
+      {
+        "site": "nicovideo",
+        "id": "godsgame-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100056",
+        "begin": "2024-04-06T13:00:00.000Z",
+        "broadcast": "R/2024-04-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21230556",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "21230693",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-263",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "122434",
+        "begin": "2024-04-01T12:30:00.000Z",
+        "broadcast": "R/2024-04-01T12:30:00.000Z/P7D"
       }
     ]
   },
@@ -403,6 +1036,9 @@
       ],
       "zh-Hans": [
         "怪人的沙拉碗"
+      ],
+      "zh-Hant": [
+        "怪人的沙拉碗"
       ]
     },
     "type": "tv",
@@ -410,12 +1046,36 @@
     "officialSite": "https://www.tbs.co.jp/anime/hensara/",
     "begin": "2024-04-04T16:28:00.000Z",
     "broadcast": "R/2024-04-04T16:28:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-20T16:58:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "444403"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100078",
+        "begin": "2024-04-07T17:00:00.000Z",
+        "broadcast": "R/2024-04-07T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133918",
+        "begin": "2024-04-04T16:58:00.000Z",
+        "broadcast": "R/2024-04-04T16:58:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hensara",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-191",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -431,12 +1091,30 @@
     "officialSite": "https://dekisoko-anime.com/",
     "begin": "2024-04-01T17:00:00.000Z",
     "broadcast": "R/2024-04-01T17:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-17T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "442176"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dekisoko-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100040",
+        "begin": "2024-04-01T17:00:00.000Z",
+        "broadcast": "R/2024-04-01T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "506-4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -452,12 +1130,36 @@
     "officialSite": "https://unnamedmemory.com/",
     "begin": "2024-04-09T14:30:00.000Z",
     "broadcast": "R/2024-04-09T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-25T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "410939"
+      },
+      {
+        "site": "nicovideo",
+        "id": "unnamedmemory",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100050",
+        "begin": "2024-04-14T15:00:00.000Z",
+        "broadcast": "R/2024-04-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-262",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21231571",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -465,7 +1167,8 @@
     "title": "怪異と乙女と神隠し",
     "titleTranslate": {
       "zh-Hans": [
-        "怪异与少女与神隐"
+        "怪异与少女与神隐",
+        "怪异少女神隐"
       ]
     },
     "type": "tv",
@@ -473,12 +1176,24 @@
     "officialSite": "https://totokami.com/",
     "begin": "2024-04-10T13:30:00.000Z",
     "broadcast": "R/2024-04-10T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-26T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "414987"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100054",
+        "begin": "2024-04-10T14:30:00.000Z",
+        "broadcast": "R/2024-04-10T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-261",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -489,7 +1204,11 @@
         "The Many Sides of Voice Actor Radio"
       ],
       "zh-Hans": [
-        "声优广播的台前幕后"
+        "声优广播的台前幕后",
+        "声优广播的幕前幕后"
+      ],
+      "zh-Hant": [
+        "聲優廣播的幕前幕後"
       ]
     },
     "type": "tv",
@@ -497,12 +1216,42 @@
     "officialSite": "https://seiyuradio-anime.com/",
     "begin": "2024-04-10T12:00:00.000Z",
     "broadcast": "R/2024-04-10T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-26T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "411974"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seiyuradio-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100057",
+        "begin": "2024-04-15T12:30:00.000Z",
+        "broadcast": "R/2024-04-15T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21231699",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "129330",
+        "begin": "2024-04-10T13:30:00.000Z",
+        "broadcast": "R/2024-04-10T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-264",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -510,7 +1259,9 @@
     "title": "烏は主を選ばない",
     "titleTranslate": {
       "zh-Hans": [
-        "良禽不择木"
+        "良禽不择木",
+        "乌鸦姬不选择主人",
+        "乌鸦不择主"
       ]
     },
     "type": "tv",
@@ -524,6 +1275,12 @@
       {
         "site": "bangumi",
         "id": "461338"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100062",
+        "begin": "2024-04-10T03:00:00.000Z",
+        "broadcast": "R/2024-04-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -534,7 +1291,9 @@
         "SHINKALION CHANGE THE WORLD"
       ],
       "zh-Hans": [
-        "新干线变形机器人 改变世界"
+        "新干线变形机器人 改变世界",
+        "进化先锋 改变世界",
+        "新干线变形机器人 进化先锋 改变世界"
       ]
     },
     "type": "tv",
@@ -548,6 +1307,12 @@
       {
         "site": "bangumi",
         "id": "472386"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shinkalion_change_the_world",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -555,7 +1320,14 @@
     "title": "転生したら第七王子だったので、気ままに魔術を極めます",
     "titleTranslate": {
       "zh-Hans": [
-        "转生为第七王子，随心所欲的魔法学习之路"
+        "转生为第七王子，随心所欲的魔法学习之路",
+        "转生七王子的魔法全解"
+      ],
+      "zh-Hant": [
+        "轉生為第七王子，隨心所欲的魔法學習之路"
+      ],
+      "en": [
+        "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability"
       ]
     },
     "type": "tv",
@@ -563,12 +1335,48 @@
     "officialSite": "https://dainanaoji.com/",
     "begin": "2024-04-01T15:00:00.000Z",
     "broadcast": "R/2024-04-01T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-17T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "407133"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dainanaoji",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100096",
+        "begin": "2024-04-04T16:00:00.000Z",
+        "broadcast": "R/2024-04-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-66",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81769842",
+        "begin": "2024-03-31T16:00:00.000Z",
+        "broadcast": "R/2024-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "128484",
+        "begin": "2024-04-01T16:30:00.000Z",
+        "broadcast": "R/2024-04-01T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciR6VH9jjkVoXzb4P_YPYC-",
+        "begin": "2024-04-01T16:30:06.000Z",
+        "broadcast": "R/2024-04-01T16:30:06.000Z/P7D"
       }
     ]
   },
@@ -577,6 +1385,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "约会大作战 第五季"
+      ],
+      "zh-Hant": [
+        "約會大作戰Ⅴ",
+        "約會大作戰 DATE A LIVE V"
       ]
     },
     "type": "tv",
@@ -584,12 +1396,36 @@
     "officialSite": "https://date-a-live5th-anime.com/",
     "begin": "2024-04-10T14:30:00.000Z",
     "broadcast": "R/2024-04-10T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-26T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "389466"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100053",
+        "begin": "2024-04-15T15:30:00.000Z",
+        "broadcast": "R/2024-04-15T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "date-a-live5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucg2PDDHi6gEMVW74ZBpUeAF",
+        "begin": "2024-04-10T15:30:06.000Z",
+        "broadcast": "R/2024-04-10T15:30:06.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "125370",
+        "begin": "2024-04-10T15:30:00.000Z",
+        "broadcast": "R/2024-04-10T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -597,7 +1433,16 @@
     "title": "花野井くんと恋の病",
     "titleTranslate": {
       "zh-Hans": [
-        "花野井君与相思病"
+        "花野井君与相思病",
+        "花野井同学和相思病",
+        "花野井同学与恋爱病",
+        "花野井君和相思病"
+      ],
+      "zh-Hant": [
+        "花野井同學與戀愛病"
+      ],
+      "en": [
+        "A Condition Called Love"
       ]
     },
     "type": "tv",
@@ -605,12 +1450,54 @@
     "officialSite": "https://hananoikun-pr.com/",
     "begin": "2024-04-04T14:56:00.000Z",
     "broadcast": "R/2024-04-04T14:56:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-20T15:26:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "439850"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hananoikun",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100060",
+        "begin": "2024-04-09T15:30:00.000Z",
+        "broadcast": "R/2024-04-09T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-39",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81765078",
+        "begin": "2024-04-03T16:00:00.000Z",
+        "broadcast": "R/2024-04-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRaevkUa7TslqFBBEv3PfN2",
+        "begin": "2024-04-23T16:00:08.000Z",
+        "broadcast": "R/2024-04-23T16:00:08.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jguls9EnoNrwlzxe7mIBawO",
+        "begin": "2024-04-09T15:30:07.000Z",
+        "broadcast": "R/2024-04-09T15:30:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133068",
+        "begin": "2024-04-09T15:30:00.000Z",
+        "broadcast": "R/2024-04-09T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -618,7 +1505,14 @@
     "title": "HIGHSPEED Étoile",
     "titleTranslate": {
       "zh-Hans": [
-        "高速星辰"
+        "高速星辰",
+        "极速星舞"
+      ],
+      "zh-Hant": [
+        "極速星舞"
+      ],
+      "en": [
+        "HIGHSPEED Étoile"
       ]
     },
     "type": "tv",
@@ -626,12 +1520,48 @@
     "officialSite": "https://highspeed-etoile.com/",
     "begin": "2024-04-05T16:53:00.000Z",
     "broadcast": "R/2024-04-05T16:53:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-21T17:23:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "391866"
+      },
+      {
+        "site": "nicovideo",
+        "id": "highspeed-etoile",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100089",
+        "begin": "2024-04-07T15:00:00.000Z",
+        "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQajKwdrjcX6S1-aT6q1Vnv",
+        "begin": "2024-04-05T17:30:07.000Z",
+        "broadcast": "R/2024-04-05T17:30:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhhi9iqzrkcPvd4rBEfPFZM",
+        "begin": "2024-04-05T17:30:07.000Z",
+        "broadcast": "R/2024-04-05T17:30:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "125789",
+        "begin": "2024-04-05T17:30:00.000Z",
+        "broadcast": "R/2024-04-05T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-109",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -639,10 +1569,16 @@
     "title": "ささやくように恋を唄う",
     "titleTranslate": {
       "en": [
-        "Whispering you a love song"
+        "Whispering you a love song",
+        "Whisper me a love song"
       ],
       "zh-Hans": [
-        "恋语轻唱"
+        "恋语轻唱",
+        "恰如细语般的恋歌",
+        "宛若呢喃细语般浅唱恋歌"
+      ],
+      "zh-Hant": [
+        "恰如細語般的戀歌"
       ]
     },
     "type": "tv",
@@ -656,6 +1592,24 @@
       {
         "site": "bangumi",
         "id": "415166"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100042",
+        "begin": "2024-04-13T17:00:00.000Z",
+        "broadcast": "R/2024-04-13T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-59",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "129623",
+        "begin": "2024-04-13T17:30:00.000Z",
+        "broadcast": "R/2024-04-13T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -671,12 +1625,24 @@
     "officialSite": "https://vampire-dormitory.com/",
     "begin": "2024-04-07T14:30:00.000Z",
     "broadcast": "R/2024-04-07T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-23T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "462608"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100084",
+        "begin": "2024-04-09T14:30:00.000Z",
+        "broadcast": "R/2024-04-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "168-62",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -684,7 +1650,11 @@
     "title": "ただいま、おかえり",
     "titleTranslate": {
       "zh-Hans": [
-        "我回来了，欢迎回来"
+        "我回来了，欢迎回来",
+        "我回来了，欢迎回家"
+      ],
+      "zh-Hant": [
+        "我回來了、歡迎回家"
       ]
     },
     "type": "tv",
@@ -692,12 +1662,30 @@
     "officialSite": "https://tadaoka-anime.com/",
     "begin": "2024-04-08T15:30:00.000Z",
     "broadcast": "R/2024-04-08T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-24T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "456619"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tadaoka",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "135812",
+        "begin": "2024-04-15T16:30:00.000Z",
+        "broadcast": "R/2024-04-15T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100080",
+        "begin": "2024-04-19T15:30:00.000Z",
+        "broadcast": "R/2024-04-19T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -709,12 +1697,42 @@
     "officialSite": "https://the-new-gate-pr.com/",
     "begin": "2024-04-13T16:30:00.000Z",
     "broadcast": "R/2024-04-13T16:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-29T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "464563"
+      },
+      {
+        "site": "nicovideo",
+        "id": "the-new-gate",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100088",
+        "begin": "2024-04-13T16:30:00.000Z",
+        "broadcast": "R/2024-04-13T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj7BhwExVSZCIEtVjNEBgPp",
+        "begin": "2024-04-13T17:30:06.000Z",
+        "broadcast": "R/2024-04-13T17:30:06.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "136405",
+        "begin": "2024-04-13T17:30:00.000Z",
+        "broadcast": "R/2024-04-13T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "593-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -722,7 +1740,9 @@
     "title": "刀剣乱舞 廻 -虚伝 燃ゆる本能寺-",
     "titleTranslate": {
       "zh-Hans": [
-        "刀剑乱舞 回 -虚传 燃烧的本能寺-"
+        "刀剑乱舞 回 -虚传 燃烧的本能寺-",
+        "刀剑乱舞 廻 虚传 火染本能寺",
+        "刀剑乱舞 廻 -虚传 火染本能寺-"
       ]
     },
     "type": "tv",
@@ -736,6 +1756,24 @@
       {
         "site": "bangumi",
         "id": "382584"
+      },
+      {
+        "site": "nicovideo",
+        "id": "touken-honnouji",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100766",
+        "begin": "2024-04-05T14:30:00.000Z",
+        "broadcast": "R/2024-04-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-194",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -743,7 +1781,14 @@
     "title": "バーテンダー 神のグラス",
     "titleTranslate": {
       "zh-Hans": [
-        "调酒师 神之杯"
+        "调酒师 神之杯",
+        "王牌酒保 Glass of God"
+      ],
+      "zh-Hant": [
+        "王牌酒保 Glass of God"
+      ],
+      "en": [
+        "BARTENDER Glass of God"
       ]
     },
     "type": "tv",
@@ -751,12 +1796,48 @@
     "officialSite": "https://bartender-anime.com/",
     "begin": "2024-04-03T15:00:00.000Z",
     "broadcast": "R/2024-04-03T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-19T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "405660"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bartender-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100075",
+        "begin": "2024-04-03T15:30:00.000Z",
+        "broadcast": "R/2024-04-03T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131968",
+        "begin": "2024-04-03T16:00:00.000Z",
+        "broadcast": "R/2024-04-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQb6US78mSi3nXspczmixuN",
+        "begin": "2024-04-03T16:00:07.000Z",
+        "broadcast": "R/2024-04-03T16:00:07.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "bartenderglassofgod_140757",
+        "begin": "2024-04-03T16:00:00.000Z",
+        "broadcast": "R/2024-04-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-192",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -772,12 +1853,42 @@
     "officialSite": "https://re-monster.com/",
     "begin": "2024-04-04T15:00:00.000Z",
     "broadcast": "R/2024-04-04T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-20T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "455345"
+      },
+      {
+        "site": "nicovideo",
+        "id": "re-monster",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100049",
+        "begin": "2024-04-01T15:00:00.000Z",
+        "broadcast": "R/2024-04-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "189-63",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2336302",
+        "begin": "2024-04-01T15:00:02.000Z",
+        "broadcast": "R/2024-04-01T15:00:02.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "135631",
+        "begin": "2024-04-01T15:00:00.000Z",
+        "broadcast": "R/2024-04-01T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -785,7 +1896,15 @@
     "title": "アストロノオト",
     "titleTranslate": {
       "zh-Hans": [
-        "星际庄的恋爱日记"
+        "星际庄的恋爱日记",
+        "外星笔记",
+        "星际之声"
+      ],
+      "zh-Hant": [
+        "星際莊的戀愛日記"
+      ],
+      "en": [
+        "Astro Note"
       ]
     },
     "type": "tv",
@@ -799,6 +1918,42 @@
       {
         "site": "bangumi",
         "id": "467919"
+      },
+      {
+        "site": "nicovideo",
+        "id": "astro-note",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100092",
+        "begin": "2024-04-08T14:00:00.000Z",
+        "broadcast": "R/2024-04-08T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRoW8WLG0ljcvhRZJ2FrJ11",
+        "begin": "2024-04-05T14:00:07.000Z",
+        "broadcast": "R/2024-04-05T14:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jge7upmZQLcVP9vYHvL75VY",
+        "begin": "2024-04-05T14:00:07.000Z",
+        "broadcast": "R/2024-04-05T14:00:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "136715",
+        "begin": "2024-04-05T14:00:00.000Z",
+        "broadcast": "R/2024-04-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "210-13",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -806,7 +1961,11 @@
     "title": "魔法科高校の劣等生 第3シーズン",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法科高校的劣等生 第三季"
+        "魔法科高校的劣等生 第三季",
+        "魔法科高中的劣等生 第三季"
+      ],
+      "zh-Hant": [
+        "魔法科高中的劣等生 第三季"
       ]
     },
     "type": "tv",
@@ -814,12 +1973,36 @@
     "officialSite": "https://mahouka.jp/3rd/",
     "begin": "2024-04-05T14:30:00.000Z",
     "broadcast": "R/2024-04-05T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-28T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "364522"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahouka_3rd",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-2xrwzkrsieb",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "134161",
+        "begin": "2024-04-05T16:00:00.000Z",
+        "broadcast": "R/2024-04-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100058",
+        "begin": "2024-04-10T14:30:00.000Z",
+        "broadcast": "R/2024-04-10T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -827,7 +2010,11 @@
     "title": "オーイ！とんぼ",
     "titleTranslate": {
       "zh-Hans": [
-        "喂！蜻蜓"
+        "喂！蜻蜓",
+        "蜻蛉高球"
+      ],
+      "zh-Hant": [
+        "蜻蛉高球"
       ]
     },
     "type": "tv",
@@ -835,12 +2022,36 @@
     "officialSite": "https://tonbo-anime.com/",
     "begin": "2024-04-06T01:00:00.000Z",
     "broadcast": "R/2024-04-06T01:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-29T01:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "433072"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tonbo-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100071",
+        "begin": "2024-04-06T01:30:00.000Z",
+        "broadcast": "R/2024-04-06T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "675-1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "137918",
+        "begin": "2024-04-06T01:30:00.000Z",
+        "broadcast": "R/2024-04-06T01:30:00.000Z/P7D"
       }
     ]
   },
@@ -849,6 +2060,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "杀手寓言"
+      ],
+      "zh-Hant": [
+        "殺手寓言"
+      ],
+      "en": [
+        "The Fable"
       ]
     },
     "type": "tv",
@@ -862,6 +2079,24 @@
       {
         "site": "bangumi",
         "id": "444339"
+      },
+      {
+        "site": "nicovideo",
+        "id": "the-fable-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100087",
+        "begin": "2024-04-08T03:00:00.000Z",
+        "broadcast": "R/2024-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5lo11H9f2Cg4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -883,6 +2118,24 @@
       {
         "site": "bangumi",
         "id": "357960"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100167",
+        "begin": "2024-04-06T17:30:00.000Z",
+        "broadcast": "R/2024-04-06T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tonari-no-yokai-san",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "248-18",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -893,7 +2146,13 @@
         "Blue Archive The Animation"
       ],
       "zh-Hans": [
-        "蔚蓝档案 动画版"
+        "蔚蓝档案 动画版",
+        "碧蓝档案 动画版",
+        "蔚蓝档案 The Animation",
+        "碧蓝档案 The Animation"
+      ],
+      "zh-Hant": [
+        "蔚藍檔案 The Animation"
       ]
     },
     "type": "tv",
@@ -901,12 +2160,48 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/bluearchive-anime/",
     "begin": "2024-04-07T14:45:00.000Z",
     "broadcast": "R/2024-04-07T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-23T15:15:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "416777"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100093",
+        "begin": "2024-04-07T15:15:00.000Z",
+        "broadcast": "R/2024-04-07T15:15:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "210-12",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "bluearchive-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTKmIcBFdi6KIzQGtn6Gz7i",
+        "begin": "2024-04-07T15:30:06.000Z",
+        "broadcast": "R/2024-04-07T15:30:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgzVV7Mg2OKYppcCHKtkNcO",
+        "begin": "2024-04-07T15:30:06.000Z",
+        "broadcast": "R/2024-04-07T15:30:06.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "134319",
+        "begin": "2024-04-07T15:30:00.000Z",
+        "broadcast": "R/2024-04-07T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -914,7 +2209,14 @@
     "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
     "titleTranslate": {
       "zh-Hans": [
-        "狼与香辛料 行商邂逅贤狼"
+        "狼与香辛料 行商邂逅贤狼",
+        "狼与香辛料 MERCHANT MEETS THE WISE WOLF"
+      ],
+      "zh-Hant": [
+        "狼與辛香料: Merchant Meets The Wise Wolf"
+      ],
+      "en": [
+        "Spice and Wolf: Merchant Meets The Wise Wolf"
       ]
     },
     "type": "tv",
@@ -928,6 +2230,30 @@
       {
         "site": "bangumi",
         "id": "372010"
+      },
+      {
+        "site": "nicovideo",
+        "id": "spice-and-wolf",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100059",
+        "begin": "2024-04-04T17:00:00.000Z",
+        "broadcast": "R/2024-04-04T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-259",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81768918",
+        "begin": "2024-04-01T16:00:00.000Z",
+        "broadcast": "R/2024-04-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -936,6 +2262,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "死神少爷与黑女仆 第三季"
+      ],
+      "zh-Hant": [
+        "死神少爺與黑女僕 第三季"
       ]
     },
     "type": "tv",
@@ -949,6 +2278,30 @@
       {
         "site": "bangumi",
         "id": "455835"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100043",
+        "begin": "2024-04-07T13:00:00.000Z",
+        "broadcast": "R/2024-04-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSacsDArfrWz-5jDT6iC9e5",
+        "begin": "2024-04-07T14:00:07.000Z",
+        "broadcast": "R/2024-04-07T14:00:07.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "21241720",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "135744",
+        "begin": "2024-04-07T14:00:00.000Z",
+        "broadcast": "R/2024-04-07T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -956,7 +2309,14 @@
     "title": "リンカイ！",
     "titleTranslate": {
       "zh-Hans": [
-        "竞轮少女！"
+        "竞轮少女！",
+        "女子竞轮！"
+      ],
+      "zh-Hant": [
+        "RINKAI！女子競輪"
+      ],
+      "en": [
+        "RINKAI!"
       ]
     },
     "type": "tv",
@@ -964,12 +2324,48 @@
     "officialSite": "https://rinkai-pj.com/",
     "begin": "2024-04-09T14:30:00.000Z",
     "broadcast": "R/2024-04-09T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-25T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "425978"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rinkai",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100039",
+        "begin": "2024-04-09T14:30:00.000Z",
+        "broadcast": "R/2024-04-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSNRY-Cv_IcAhwt73ZxRnzh",
+        "begin": "2024-04-09T15:00:06.000Z",
+        "broadcast": "R/2024-04-09T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjgDjvbYf3pcp9ezYyj0ti4",
+        "begin": "2024-04-09T15:00:07.000Z",
+        "broadcast": "R/2024-04-09T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131277",
+        "begin": "2024-04-09T15:00:00.000Z",
+        "broadcast": "R/2024-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "506-5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -985,12 +2381,30 @@
     "officialSite": "https://link-click.jp/",
     "begin": "2024-04-10T16:25:00.000Z",
     "broadcast": "R/2024-04-10T16:25:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-26T17:10:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "341311"
+      },
+      {
+        "site": "nicovideo",
+        "id": "link-click2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100068",
+        "begin": "2024-04-14T03:00:00.000Z",
+        "broadcast": "R/2024-04-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-159",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1001,7 +2415,8 @@
         "Shadowverse FLAME Seven Shadows"
       ],
       "zh-Hans": [
-        "影之诗F 方舟篇"
+        "影之诗F 方舟篇",
+        "影之诗F ArkRuler篇"
       ]
     },
     "type": "tv",
@@ -1023,6 +2438,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "黑执事 -寄宿学校篇-"
+      ],
+      "zh-Hant": [
+        "黑執事 寄宿學校篇"
       ]
     },
     "type": "tv",
@@ -1036,6 +2454,36 @@
       {
         "site": "bangumi",
         "id": "444049"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kuroshitsuji-kisyukugakkohen",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100067",
+        "begin": "2024-04-16T03:00:00.000Z",
+        "broadcast": "R/2024-04-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133832",
+        "begin": "2024-04-13T16:00:00.000Z",
+        "broadcast": "R/2024-04-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "70204955",
+        "begin": "2024-04-12T16:00:00.000Z",
+        "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-220",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1043,7 +2491,14 @@
     "title": "忘却バッテリー",
     "titleTranslate": {
       "zh-Hans": [
-        "失忆投捕"
+        "失忆投捕",
+        "忘却Battery"
+      ],
+      "zh-Hant": [
+        "失憶投捕"
+      ],
+      "en": [
+        "Oblivion Battery"
       ]
     },
     "type": "tv",
@@ -1057,6 +2512,48 @@
       {
         "site": "bangumi",
         "id": "448478"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boukyakubattery",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100046",
+        "begin": "2024-04-10T15:30:00.000Z",
+        "broadcast": "R/2024-04-10T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQLE6zjuaEij73Hah5KMR7d",
+        "begin": "2024-04-09T15:00:07.000Z",
+        "broadcast": "R/2024-04-09T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgky4y0OA7mpCLeVd16XuuG",
+        "begin": "2024-04-09T15:00:07.000Z",
+        "broadcast": "R/2024-04-09T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "134578",
+        "begin": "2024-04-09T15:00:00.000Z",
+        "broadcast": "R/2024-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "536-7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4tpke976gWSS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1064,7 +2561,12 @@
     "title": "喧嘩独学",
     "titleTranslate": {
       "zh-Hans": [
-        "喧哗独学"
+        "喧哗独学",
+        "格斗实况",
+        "直播风暴"
+      ],
+      "zh-Hant": [
+        "格鬥實況"
       ]
     },
     "type": "tv",
@@ -1072,12 +2574,36 @@
     "officialSite": "https://kenkadokugaku.com/",
     "begin": "2024-04-10T15:55:00.000Z",
     "broadcast": "R/2024-04-10T15:55:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-26T16:40:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "479921"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100077",
+        "begin": "2024-04-11T03:00:00.000Z",
+        "broadcast": "R/2024-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kenkadokugaku",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "137811",
+        "begin": "2024-04-10T18:25:00.000Z",
+        "broadcast": "R/2024-04-10T18:25:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-193",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1089,6 +2615,9 @@
       ],
       "zh-Hans": [
         "身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？"
+      ],
+      "zh-Hant": [
+        "身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？"
       ]
     },
     "type": "tv",
@@ -1096,12 +2625,36 @@
     "officialSite": "https://madome-anime.com/",
     "begin": "2024-04-04T15:30:00.000Z",
     "broadcast": "R/2024-04-04T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-13T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "406251"
+      },
+      {
+        "site": "nicovideo",
+        "id": "madome-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100061",
+        "begin": "2024-04-11T16:00:00.000Z",
+        "broadcast": "R/2024-04-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-40",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "128241",
+        "begin": "2024-04-04T16:30:00.000Z",
+        "broadcast": "R/2024-04-04T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1117,12 +2670,88 @@
     "officialSite": "https://atekuse.af-original.com/",
     "begin": "2024-04-07T16:00:00.000Z",
     "broadcast": "R/2024-04-07T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-09T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "441586"
+      },
+      {
+        "site": "nicovideo",
+        "id": "atekuse",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "643-5",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "龍族 -The Blazing Dawn-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙族"
+      ],
+      "zh-Hant": [
+        "龍族 -The Blazing Dawn-",
+        "龍族"
+      ],
+      "en": [
+        "Dragon Raja -The Blazing Dawn"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://ryuzoku-anime.com/",
+    "begin": "2024-04-06T15:00:00.000Z",
+    "broadcast": "R/2024-04-06T15:00:00.000Z/P7D",
+    "end": "2024-06-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312297"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ryuzoku-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "138047",
+        "begin": "2024-04-06T15:00:00.000Z",
+        "broadcast": "R/2024-04-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100069",
+        "begin": "2024-04-09T03:00:00.000Z",
+        "broadcast": "R/2024-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRfAcEuEfIFM00zax8BuR-q",
+        "begin": "2024-04-10T15:00:07.000Z",
+        "broadcast": "R/2024-04-10T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jh9bnM7dAqwoNbJd1FzJ4tx",
+        "begin": "2024-04-10T15:00:08.000Z",
+        "broadcast": "R/2024-04-10T15:00:08.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-221",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1141,12 +2770,300 @@
     "officialSite": "https://www.saintseiya-kotz.com/",
     "begin": "2024-04-01T18:00:00.000Z",
     "broadcast": "R/2024-04-01T18:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-10T19:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "460503"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100548",
+        "begin": "2024-03-31T15:00:00.000Z",
+        "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "無職転生Ⅱ ～異世界行ったら本気だす～(第2クール)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分",
+        "无职转生Ⅱ ～在异世界认真地活下去～ 第2部分",
+        "无职转生 ～在异世界认真地活下去～ 第二季 第2部分"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://mushokutensei.jp/",
+    "begin": "2024-04-07T15:00:00.000Z",
+    "broadcast": "R/2024-04-07T15:00:00.000Z/P7D",
+    "end": "2024-06-30T15:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "444557"
+      },
+      {
+        "site": "viu",
+        "id": "2201268",
+        "begin": "2024-04-07T15:00:00.000Z",
+        "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "129175",
+        "begin": "2024-04-07T15:00:00.000Z",
+        "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80987039",
+        "begin": "2024-04-07T15:00:00.000Z",
+        "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-11",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "mushokutensei_2",
+        "begin": "2024-04-10T14:00:00.000Z",
+        "broadcast": "R/2024-04-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0087601",
+        "begin": "2024-04-10T14:00:00.000Z",
+        "broadcast": "R/2024-04-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5Y5wbhrBl6qZ",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "転生したらスライムだった件 第3期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "关于我转生变成史莱姆这档事 第三季"
+      ],
+      "zh-Hant": [
+        "關於我轉生變成史萊姆這檔事 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.ten-sura.com/anime/tensura",
+    "begin": "2024-04-06T15:00:00.000Z",
+    "broadcast": "R/2024-04-06T15:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "407573"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura_03",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100095",
+        "begin": "2024-03-30T14:00:00.000Z",
+        "broadcast": "R/2024-03-30T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-11",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "128514",
+        "begin": "2024-03-30T14:00:00.000Z",
+        "broadcast": "R/2024-03-30T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2339137",
+        "begin": "2024-04-05T15:00:26.000Z",
+        "broadcast": "R/2024-04-05T15:00:26.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5dX5AAqsoaiY",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ちびゴジラの逆襲(第2期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小哥斯拉的逆袭 续篇"
+      ],
+      "en": [
+        "Chibi Godzilla Raids Again"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://godzilla.store/chibigodzilla/",
+    "begin": "2024-04-04T18:00:00.000Z",
+    "broadcast": "R/2024-04-04T18:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "484191"
+      }
+    ]
+  },
+  {
+    "title": "アイドルマスター シャイニーカラーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 闪耀色彩"
+      ],
+      "zh-Hant": [
+        "偶像大師 閃耀色彩"
+      ],
+      "en": [
+        "THE iDOLM@STER SHINYCOLORS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://shinycolors-anime.idolmaster-official.jp/",
+    "begin": "2024-04-04T16:23:00.000Z",
+    "broadcast": "R/2024-04-04T16:23:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425222"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shinycolors-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "131061",
+        "begin": "2024-04-05T17:00:00.000Z",
+        "broadcast": "R/2024-04-05T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100085",
+        "begin": "2024-04-08T15:00:00.000Z",
+        "broadcast": "R/2024-04-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-189",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "SHIBUYA♡HACHI",
+    "titleTranslate": {
+      "zh-Hans": [
+        "涩谷♡八"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/shibuya-hachi/",
+    "begin": "2024-04-05T20:00:00.000Z",
+    "broadcast": "R/2024-04-05T20:00:00.000Z/P7D",
+    "end": "2024-07-04T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "480437"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100534",
+        "begin": "2024-04-10T22:30:00.000Z",
+        "broadcast": "R/2024-04-10T22:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "グリム組曲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "格林童话变奏曲"
+      ],
+      "zh-Hant": [
+        "格林童話變奏曲"
+      ],
+      "en": [
+        "The Grimm Variations"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-04-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-04-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442559"
+      },
+      {
+        "site": "netflix",
+        "id": "81050090",
+        "begin": "2024-04-16T16:00:00.000Z",
+        "broadcast": "R/2024-04-16T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "じゃんたま カン!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雀魂 KANG!!",
+        "雀魂 杠！！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://mahjongsoul-kang.jp/",
+    "begin": "2024-04-25T13:00:00.000Z",
+    "broadcast": "R/2024-04-25T13:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473805"
       }
     ]
   }

@@ -21,6 +21,12 @@
         "site": "nicovideo",
         "id": "queensblade02",
         "begin": "2012-04-11T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011090",
+        "begin": "2014-08-15T06:00:00.000Z",
+        "broadcast": "R/2014-08-15T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -38,11 +44,6 @@
     "begin": "2009-09-12T22:00:00.000Z",
     "end": "2010-09-04T22:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "hMfBP6cNfbsenAQ",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrk7hgtt",
@@ -87,11 +88,6 @@
     "end": "2009-11-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "30210",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "210715"
       }
@@ -111,11 +107,6 @@
     "end": "2010-08-17T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "4CwYlv5k1BJ181s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3341"
       },
@@ -129,6 +120,12 @@
         "id": "3773",
         "begin": "2009-09-16T16:00:01.000Z",
         "broadcast": "R/2016-04-18T06:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031151",
+        "begin": "2017-09-28T03:00:00.000Z",
+        "broadcast": "R/2017-09-28T03:00:00.000Z/P7D"
       }
     ]
   }

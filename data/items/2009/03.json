@@ -13,11 +13,6 @@
     "end": "2009-06-05T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "0x3nZc0zoibFEwiao",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2240"
       },
@@ -36,6 +31,12 @@
         "site": "youku",
         "id": "efca4c3061ad11e0bea1",
         "begin": "2017-09-30T08:25:11.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014584",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -57,6 +58,12 @@
       {
         "site": "bangumi",
         "id": "3642"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003078",
+        "begin": "2014-12-26T06:00:00.000Z",
+        "broadcast": "R/2014-12-26T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -75,11 +82,6 @@
     "begin": "2009-03-30T08:40:00.000Z",
     "end": "2013-03-21T21:55:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "icjAMiavJYyAZp508",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "3639"
@@ -100,11 +102,6 @@
     "begin": "2009-03-31T15:40:00.000Z",
     "end": "2010-03-30T15:45:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "RIeBic2fNPXveXMQ",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "1546"
@@ -128,6 +125,12 @@
       {
         "site": "bangumi",
         "id": "4556"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044356",
+        "begin": "2020-01-15T03:00:00.000Z",
+        "broadcast": "R/2020-01-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -173,18 +176,8 @@
     "end": "2009-03-07T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "81026",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "477"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -213,6 +206,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099880",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -237,6 +236,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016685",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -275,6 +280,12 @@
       {
         "site": "bangumi",
         "id": "161695"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044350",
+        "begin": "2019-12-15T03:00:00.000Z",
+        "broadcast": "R/2019-12-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -292,11 +303,6 @@
     "end": "2009-05-15T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "R5Vv7VW7K2nMSrI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2895"
       },
@@ -305,11 +311,6 @@
         "id": "2855",
         "begin": "2009-03-16T16:00:00.000Z",
         "broadcast": "R/2015-10-15T16:18:00.000Z/P7D"
-      },
-      {
-        "site": "letv",
-        "id": "10388",
-        "begin": ""
       }
     ]
   },
@@ -326,11 +327,6 @@
     "begin": "2009-03-27T16:00:00.000Z",
     "end": "2009-05-29T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "t5dy8FiaibLmzPTbU",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "104950"
@@ -356,15 +352,16 @@
         "id": "3764"
       },
       {
-        "site": "pptv",
-        "id": "9LQdmwNp2Rd6ibGA",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "28220982",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014740",
+        "begin": "2019-03-15T03:00:00.000Z",
+        "broadcast": "R/2019-03-15T03:00:00.000Z/P7D"
       }
     ]
   }

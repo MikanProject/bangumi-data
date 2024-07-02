@@ -26,12 +26,6 @@
         "begin": "2013-08-22T08:07:35.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "583",
-        "begin": "2013-06-07T16:00:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi",
         "id": "62281"
       },
@@ -42,15 +36,16 @@
         "broadcast": "R/2016-01-24T15:00:00.000Z/P7D"
       },
       {
-        "site": "acfun",
-        "id": "6002598",
-        "begin": ""
-      },
-      {
         "site": "gamer",
         "id": "61678",
         "begin": "2020-06-26T02:00:00.000Z",
         "broadcast": "R/2020-06-26T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014599",
+        "begin": "2013-06-12T06:00:00.000Z",
+        "broadcast": "R/2013-06-12T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -67,11 +62,6 @@
     "begin": "2013-06-22T16:00:00.000Z",
     "end": "2013-06-22T17:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "YfLeXMQqmtg7uSE",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "81145"
@@ -122,11 +112,6 @@
     "end": "2013-06-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "SzIenARq2hh7ibWE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "66523"
       },
@@ -159,6 +144,12 @@
         "id": "donyatsu",
         "begin": "2013-06-30T15:00:00.000Z",
         "broadcast": "R/2013-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003185",
+        "begin": "2019-11-27T03:00:00.000Z",
+        "broadcast": "R/2019-11-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -183,12 +174,6 @@
         "id": "61498"
       },
       {
-        "site": "netflix",
-        "id": "80002073",
-        "begin": "2017-01-31T08:00:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "5180",
         "begin": "2013-06-21T16:00:00.000Z",
@@ -199,6 +184,12 @@
         "id": "kokaku-arise",
         "begin": "2022-10-31T15:00:00.000Z",
         "broadcast": "R/2022-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014767",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -224,6 +215,131 @@
         "site": "youku",
         "id": "c307a7b8dc4111e296ac",
         "begin": "2013-06-23T21:18:13.000Z"
+      }
+    ]
+  },
+  {
+    "title": "パパのいうことを聞きなさい! OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "听爸爸的话！OAD",
+        "要听爸爸的话! OAD",
+        "听爸爸的话！OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://king-cr.jp/special/papakiki",
+    "begin": "2013-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "65565"
+      }
+    ]
+  },
+  {
+    "title": "Peeping Life 手塚プロ・タツノコプロ ワンダーランド",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/peeping-life-tezukatatsunoko-wonderland",
+    "begin": "2013-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-06-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310514"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013577",
+        "begin": "2013-08-02T06:00:00.000Z",
+        "broadcast": "R/2013-08-02T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ゆうとくんがいく",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GOGO佑都"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://gogo-yuto.com/index.html",
+    "begin": "2013-06-13T16:00:00.000Z",
+    "broadcast": "R/2013-06-13T16:00:00.000Z/P7D",
+    "end": "2013-12-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93717"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020282",
+        "begin": "2015-11-19T03:00:00.000Z",
+        "broadcast": "R/2015-11-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ターニングガールズ",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-06-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-06-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112496"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013621",
+        "begin": "2015-06-16T05:00:00.000Z",
+        "broadcast": "R/2015-06-16T05:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ハル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HAL",
+        "春",
+        "京都爱情故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://hal-anime.com",
+    "begin": "2013-06-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-06-07T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56849"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235301",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -13,23 +13,19 @@
     "end": "2003-06-12T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "g6iaTEXnfT43wbtY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7366"
-      },
-      {
-        "site": "letv",
-        "id": "10004746",
-        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "1975",
         "begin": "2003-05-07T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002676",
+        "begin": "2019-05-19T03:00:00.000Z",
+        "broadcast": "R/2019-05-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -50,18 +46,8 @@
     "end": "2003-11-11T13:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wHBLyTGXB0WoJo4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "26391"
-      },
-      {
-        "site": "letv",
-        "id": "19106",
-        "begin": ""
       }
     ]
   },
@@ -98,13 +84,35 @@
     "end": "2004-02-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "rN6qKJD2ZqQHhe0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "8300"
+      }
+    ]
+  },
+  {
+    "title": "PARASITE DOLLS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寄生魔偶"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-05-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-07-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46954"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016402",
+        "begin": "2023-05-22T03:00:00.000Z",
+        "broadcast": "R/2023-05-22T03:00:00.000Z/P7D"
       }
     ]
   }

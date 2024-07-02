@@ -13,11 +13,6 @@
     "end": "2012-01-30T12:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "iciakTkflfzw1w7lY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "20113"
       },
@@ -68,11 +63,6 @@
     "end": "2012-10-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "pe7aWMAmltQ3tR0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "12697"
       },
@@ -86,6 +76,12 @@
         "site": "bilibili",
         "id": "3976",
         "begin": "2011-11-22T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003383",
+        "begin": "2020-02-27T03:00:00.000Z",
+        "broadcast": "R/2020-02-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -103,11 +99,6 @@
     "end": "2012-02-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "QJNt61O5KWfKSLA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "14952"
       },
@@ -121,11 +112,6 @@
         "site": "bilibili",
         "id": "2882",
         "begin": "2011-11-24T16:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "50781",
-        "begin": ""
       }
     ]
   },
@@ -172,6 +158,12 @@
         "id": "konodan",
         "begin": "2012-04-27T06:00:00.000Z",
         "broadcast": "R/2012-04-27T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013574",
+        "begin": "2015-06-04T06:00:00.000Z",
+        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -191,11 +183,6 @@
       {
         "site": "bangumi",
         "id": "47728"
-      },
-      {
-        "site": "letv",
-        "id": "46312",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -220,11 +207,6 @@
       {
         "site": "bangumi",
         "id": "47729"
-      },
-      {
-        "site": "letv",
-        "id": "46312",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -310,6 +292,12 @@
       {
         "site": "nicovideo",
         "id": "ikkitousen-ova1",
+        "begin": "2022-06-23T15:00:00.000Z",
+        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069651",
         "begin": "2022-06-23T15:00:00.000Z",
         "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
       }

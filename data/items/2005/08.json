@@ -16,11 +16,6 @@
     "end": "2006-02-18T10:24:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "6CIenARq2hh7ibWE",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "2/2oxwe76p4ko9gm2",
         "begin": ""
@@ -28,11 +23,6 @@
       {
         "site": "bangumi",
         "id": "15353"
-      },
-      {
-        "site": "letv",
-        "id": "16262",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -54,6 +44,12 @@
       {
         "site": "bangumi",
         "id": "209767"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004910",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -102,6 +98,13 @@
       {
         "site": "bangumi",
         "id": "2127"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003419",
+        "begin": "2022-04-01T03:00:00.000Z",
+        "broadcast": "R/2022-04-01T03:00:00.000Z/P7D",
+        "comment": "後編 あめつち ～universe～: SID0003427"
       }
     ]
   },
@@ -126,6 +129,12 @@
         "site": "nicovideo",
         "id": "amg-players",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003404",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -153,12 +162,6 @@
         "id": "22109"
       },
       {
-        "site": "netflix",
-        "id": "70101321",
-        "begin": "2017-09-01T07:00:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "gamer",
         "id": "38165",
         "begin": "2021-08-06T07:00:00.000Z",
@@ -182,11 +185,6 @@
       {
         "site": "bangumi",
         "id": "2893"
-      },
-      {
-        "site": "letv",
-        "id": "10765",
-        "begin": ""
       },
       {
         "site": "qq",

@@ -13,11 +13,6 @@
     "end": "1994-11-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "bPrWVLwiaktAzsRk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37274"
       }
@@ -37,13 +32,35 @@
     "end": "2007-10-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "aMK9O6MJebcamAA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "38470"
+      }
+    ]
+  },
+  {
+    "title": "おいら宇宙の探鉱夫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙采矿夫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-11-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-01-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61700"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012608",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
       }
     ]
   }

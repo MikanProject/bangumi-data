@@ -15,6 +15,12 @@
       {
         "site": "bangumi",
         "id": "74933"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003362",
+        "begin": "2019-08-31T03:00:00.000Z",
+        "broadcast": "R/2019-08-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -31,7 +37,8 @@
       ],
       "zh-Hant": [
         "遊戲王－怪獸之決鬥",
-        "遊戲王怪獸之決鬥"
+        "遊戲王怪獸之決鬥",
+        "遊戲王 怪獸之決鬥"
       ]
     },
     "type": "tv",
@@ -40,16 +47,6 @@
     "begin": "2000-04-18T10:28:00.000Z",
     "end": "2004-09-29T10:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "3nBLyTGXB0WoJo4",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "46857",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "6390"
@@ -106,6 +103,18 @@
         "id": "203-5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0011816",
+        "begin": "2020-03-12T03:00:00.000Z",
+        "broadcast": "R/2020-03-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "20292",
+        "begin": "2024-03-29T04:00:00.000Z",
+        "broadcast": "R/2024-03-29T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -126,25 +135,20 @@
     "end": "2000-09-23T15:01:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "icUMibvCSKibjiabGYE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2060"
-      },
-      {
-        "site": "gamer",
-        "id": "533",
-        "begin": "2021-09-24T08:00:00.000Z",
-        "broadcast": "R/2021-09-24T08:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "2290",
         "begin": "2013-09-03T12:22:00.000Z",
         "broadcast": "R/2013-09-03T12:22:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004964",
+        "begin": "2022-04-27T03:00:00.000Z",
+        "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -166,11 +170,6 @@
     "end": "2000-09-18T15:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "l9mjIYnvX50AfuY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19039"
       },
@@ -189,6 +188,12 @@
         "id": "33677",
         "begin": "2019-08-20T09:00:00.000Z",
         "broadcast": "R/2019-08-20T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044567",
+        "begin": "2019-12-30T03:00:00.000Z",
+        "broadcast": "R/2019-12-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -224,11 +229,6 @@
     "begin": "2000-04-14T04:30:00.000Z",
     "end": "2000-07-14T05:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "6hicpZ881peNGxCw",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "9617"
@@ -306,6 +306,12 @@
         "site": "youku",
         "id": "c86614a69b1511e1b16f",
         "begin": "2013-01-27T08:10:38.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002928",
+        "begin": "2017-07-06T03:00:00.000Z",
+        "broadcast": "R/2017-07-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -322,11 +328,6 @@
     "begin": "2000-04-26T02:00:00.000Z",
     "end": "2000-07-19T02:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "IRnkYsowoN5Bvyc",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "3795"
@@ -375,11 +376,6 @@
     "end": "2000-09-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "qYJ9ib2PJOXfaWMA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "6375"
       },
@@ -388,11 +384,6 @@
         "id": "2152",
         "begin": "2000-04-19T16:00:00.000Z",
         "broadcast": "R/2011-04-02T16:09:00.000Z/P7D"
-      },
-      {
-        "site": "letv",
-        "id": "13097",
-        "begin": ""
       }
     ]
   },
@@ -423,6 +414,12 @@
         "site": "nicovideo",
         "id": "digimon-adventure02",
         "begin": "2015-09-16T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011447",
+        "begin": "2018-05-01T03:00:00.000Z",
+        "broadcast": "R/2018-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -439,11 +436,6 @@
     "begin": "2000-04-22T16:00:00.000Z",
     "end": "2000-04-22T17:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "3aGLCXHXR4XoZs4",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "begin": "",
@@ -474,6 +466,12 @@
         "id": "35-55",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010788",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -500,11 +498,6 @@
         "id": "823"
       },
       {
-        "site": "pptv",
-        "id": "NQHradE3pibVIxia4",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
@@ -519,6 +512,12 @@
         "id": "28228944",
         "begin": "2020-05-21T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010674",
+        "begin": "2024-04-11T15:00:00.000Z",
+        "broadcast": "R/2024-04-11T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -556,11 +555,6 @@
     "end": "2001-03-16T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "TicPOTLQaiasgrqRE",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "2988",
         "begin": "2015-11-10T12:02:00.000Z",
@@ -579,6 +573,12 @@
         "site": "nicovideo",
         "id": "flcl-anime",
         "begin": "2018-07-11T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002845",
+        "begin": "2018-07-01T03:00:00.000Z",
+        "broadcast": "R/2018-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -596,11 +596,6 @@
     "end": "2001-03-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "mbSPDXXbS4nsatI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "5977"
       },
@@ -616,9 +611,10 @@
         "broadcast": "R/2013-02-16T14:30:00.000Z/P7D"
       },
       {
-        "site": "letv",
-        "id": "38600",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0002409",
+        "begin": "2022-01-05T15:00:00.000Z",
+        "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -644,6 +640,138 @@
         "id": "4006",
         "begin": "2016-05-17T09:08:00.000Z",
         "broadcast": "R/2016-05-17T09:08:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説外伝 叛乱者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说外传 叛乱者"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-04-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-04-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79682"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012540",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "陽だまりの樹",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阳光之树"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-04-03T16:00:00.000Z",
+    "broadcast": "R/2000-04-03T16:00:00.000Z/P7D",
+    "end": "2000-09-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37232"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002820",
+        "begin": "2022-06-14T03:00:00.000Z",
+        "broadcast": "R/2022-06-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀装騎攻オーディアン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银装骑攻Ordian",
+        "银装骑攻队"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-04-03T16:00:00.000Z",
+    "broadcast": "R/2000-04-03T16:00:00.000Z/P7D",
+    "end": "2000-09-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4202"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002551",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "モンスターファーム ～伝説への道～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物农场～通向传说的道路～",
+        "怪物农场 ～传说中之道～",
+        "怪獸農場 傳說之道"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-03-31T16:00:00.000Z",
+    "broadcast": "R/2000-03-31T16:00:00.000Z/P7D",
+    "end": "2000-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "96865"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054159",
+        "begin": "2020-12-30T03:00:00.000Z",
+        "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "星界の紋章 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星界的纹章 特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sunrise-inc.co.jp/work/detail.php?cid=195",
+    "begin": "2000-04-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-04-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "445940"
       }
     ]
   }

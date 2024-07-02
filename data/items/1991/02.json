@@ -16,11 +16,6 @@
     "end": "1992-02-01T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Y62XFX3jU5H0cto",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37246"
       }
@@ -47,6 +42,12 @@
         "site": "nicovideo",
         "id": "saverkids",
         "begin": "2011-11-09T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0026309",
+        "begin": "2016-10-27T03:00:00.000Z",
+        "broadcast": "R/2016-10-27T03:00:00.000Z/P7D"
       }
     ]
   }

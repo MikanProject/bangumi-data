@@ -39,6 +39,12 @@
       {
         "site": "bangumi",
         "id": "1904"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011127",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -59,18 +65,8 @@
     "end": "2003-03-08T17:40:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80963",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "469"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -94,6 +90,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099872",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -115,15 +117,16 @@
         "id": "20932"
       },
       {
-        "site": "pptv",
-        "id": "0BnjYckvn91AviaY",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3408",
         "begin": "2003-03-18T16:00:01.000Z",
         "broadcast": "R/2016-03-09T04:10:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047109",
+        "begin": "2020-04-02T03:00:00.000Z",
+        "broadcast": "R/2020-04-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -143,11 +146,6 @@
       {
         "site": "bangumi",
         "id": "38217"
-      },
-      {
-        "site": "pptv",
-        "id": "yvicJR68VhcMmpAw",
-        "begin": ""
       }
     ]
   },

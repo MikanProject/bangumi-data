@@ -13,11 +13,6 @@
     "end": "2006-02-12T10:55:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "1mVg3kasHFq9O6M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19519"
       },
@@ -26,6 +21,12 @@
         "id": "5081",
         "begin": "2005-05-21T16:00:01.000Z",
         "broadcast": "R/2016-06-23T04:23:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027663",
+        "begin": "2017-01-09T03:00:00.000Z",
+        "broadcast": "R/2017-01-09T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -69,11 +70,6 @@
     "end": "2005-07-23T10:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ESEcmgJo2BZ5918",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "102525"
       }
@@ -95,11 +91,6 @@
       {
         "site": "qq",
         "id": "4/4lz3b5jl9iaf2hm",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "22161",
         "begin": ""
       },
       {
@@ -129,6 +120,12 @@
       {
         "site": "bangumi",
         "id": "5378"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012903",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -148,11 +145,6 @@
       {
         "site": "bangumi",
         "id": "16357"
-      },
-      {
-        "site": "letv",
-        "id": "10008174",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -176,24 +168,47 @@
     "end": "2007-10-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VdibqKJD2ZqQHhe0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2135"
-      },
-      {
-        "site": "letv",
-        "id": "29095",
-        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "1857",
         "begin": "2005-05-27T16:00:00.000Z",
         "broadcast": "R/2013-04-13T21:04:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014392",
+        "begin": "2020-11-26T15:00:00.000Z",
+        "broadcast": "R/2020-11-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "円盤皇女ワるきゅーレ 星霊節の花嫁",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圆盘皇女 星灵节的新娘"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-05-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18613"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017282",
+        "begin": "2020-11-19T15:00:00.000Z",
+        "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
       }
     ]
   }

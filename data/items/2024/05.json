@@ -1,0 +1,148 @@
+[
+  {
+    "title": "僕のヒーローアカデミア(第7期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 第七季"
+      ],
+      "zh-Hant": [
+        "我的英雄學院 第七季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://heroaca.com/",
+    "begin": "2024-05-04T08:30:00.000Z",
+    "broadcast": "R/2024-05-04T08:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425587"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100079",
+        "begin": "2024-04-06T09:00:00.000Z",
+        "broadcast": "R/2024-04-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131287",
+        "begin": "2024-04-06T09:30:00.000Z",
+        "broadcast": "R/2024-04-06T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjQCsqEtHctp6vciETdooSg",
+        "begin": "",
+        "broadcast": "",
+        "comment": "Memories: PLxSscENEp7JhZzlOqZupbg_TRdfU5dk9D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQT7s1soDpUQH2cQvGgmdrP",
+        "begin": "",
+        "broadcast": "",
+        "comment": "Memories: PLC18xlbCdwtQT6X5pGJ1Q1efk7NmVuFYO"
+      },
+      {
+        "site": "viu",
+        "id": "2339109",
+        "begin": "2024-04-06T09:30:29.000Z",
+        "broadcast": "R/2024-04-06T09:30:29.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃 柱稽古編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 柱训练篇"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 柱訓練篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kimetsu.com/anime/hashirageikohen/",
+    "begin": "2024-05-12T14:15:00.000Z",
+    "broadcast": "R/2024-05-12T14:15:00.000Z/P7D",
+    "end": "2024-06-30T15:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "441939"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100064",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kimetsu-hashirageikohen",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2354709",
+        "begin": "2024-05-12T17:35:02.000Z",
+        "broadcast": "R/2024-05-12T17:35:02.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133416",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-75",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "T・Pぼん シーズン1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光巡逻队",
+        "时光巡逻队 第一季",
+        "T·P 時光特警 第一季"
+      ],
+      "zh-Hant": [
+        "時光巡邏隊",
+        "T·P 時光特警"
+      ],
+      "en": [
+        "T・P BON"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-05-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "457956"
+      },
+      {
+        "site": "netflix",
+        "id": "81497635",
+        "begin": "2024-05-01T16:00:00.000Z",
+        "broadcast": "R/2024-05-01T16:00:00.000Z/P7D"
+      }
+    ]
+  }
+]

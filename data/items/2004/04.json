@@ -28,11 +28,6 @@
     "end": "2004-09-28T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "BSEcmgJo2BZ5918",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "q/q2vw7kszrhwwask",
         "begin": ""
@@ -63,11 +58,6 @@
     "end": "2004-09-21T18:44:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "a8OibPKQKergbmQE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "329"
       },
@@ -76,6 +66,12 @@
         "id": "1900",
         "begin": "2004-04-05T16:00:00.000Z",
         "broadcast": "R/2010-12-31T16:02:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043044",
+        "begin": "2019-11-26T03:00:00.000Z",
+        "broadcast": "R/2019-11-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -94,11 +90,6 @@
     "end": "2004-06-17T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "pOfhX8ctndsibvCQ",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "t/tk3anhnbwweipfm",
         "begin": ""
@@ -106,6 +97,12 @@
       {
         "site": "bangumi",
         "id": "2167"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014844",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -123,11 +120,6 @@
     "begin": "2004-04-12T16:00:00.000Z",
     "end": "2004-07-05T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "zgD8euJIuPZZ1z8",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "28169"
@@ -149,11 +141,6 @@
     "end": "2004-10-09T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "uJ9591icFNXPWVLw",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "i/iz6m1djp4h2xrsa",
         "begin": ""
@@ -163,15 +150,16 @@
         "id": "7354"
       },
       {
-        "site": "letv",
-        "id": "9279",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "1905",
         "begin": "2004-04-02T16:00:00.000Z",
         "broadcast": "R/2012-09-13T05:42:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042355",
+        "begin": "2020-09-30T03:00:00.000Z",
+        "broadcast": "R/2020-09-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -189,11 +177,6 @@
     "end": "2004-06-27T11:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "4CkTkflfzw1w7lY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "16190"
       },
@@ -204,9 +187,10 @@
         "broadcast": "R/2011-04-09T17:38:00.000Z/P7D"
       },
       {
-        "site": "letv",
-        "id": "7556",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0002302",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -252,11 +236,6 @@
     "end": "2005-09-27T17:20:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "pibnTUbkfj80wrhY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1959"
       },
@@ -265,6 +244,12 @@
         "id": "81409869",
         "begin": "2022-12-31T00:00:00.000Z",
         "broadcast": "R/2022-12-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002905",
+        "begin": "2022-04-26T15:00:00.000Z",
+        "broadcast": "R/2022-04-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -283,16 +268,6 @@
     "begin": "2004-04-03T15:30:00.000Z",
     "end": "2004-06-26T16:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "qoJ9ib2PJOXfaWMA",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "13932",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "2126"
@@ -334,6 +309,13 @@
         "id": "17730",
         "begin": "2020-10-29T03:00:00.000Z",
         "broadcast": "R/2020-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012965",
+        "begin": "2023-01-22T15:00:00.000Z",
+        "broadcast": "R/2023-01-22T15:00:00.000Z/P7D",
+        "comment": "#52-103: SID0012964, #104-154: SID0012963, #155-205: SID0012967, #206-256: SID0012966, #257-307: SID0014736, #308-358: SID0014738"
       }
     ]
   },
@@ -352,13 +334,14 @@
     "end": "2005-03-25T09:20:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "icjMNiaicNZyQdq6FA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7904"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017008",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -405,6 +388,12 @@
       {
         "site": "bangumi",
         "id": "84547"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002289",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -422,11 +411,6 @@
     "begin": "2004-04-04T16:30:00.000Z",
     "end": "2004-06-27T18:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "cb6JB2icVRYPmZMw",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "22517"
@@ -454,12 +438,6 @@
       {
         "site": "bangumi",
         "id": "9731"
-      },
-      {
-        "site": "bilibili",
-        "id": "1901",
-        "begin": "2004-03-31T16:00:00.000Z",
-        "broadcast": ""
       }
     ]
   },
@@ -481,15 +459,16 @@
         "id": "4371"
       },
       {
-        "site": "letv",
-        "id": "20755",
-        "begin": ""
-      },
-      {
         "site": "nicovideo",
         "id": "tenten-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0058299",
+        "begin": "2021-06-14T03:00:00.000Z",
+        "broadcast": "R/2021-06-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -509,6 +488,12 @@
       {
         "site": "bangumi",
         "id": "19703"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003142",
+        "begin": "2020-01-31T03:00:00.000Z",
+        "broadcast": "R/2020-01-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -527,18 +512,8 @@
     "end": "2005-02-12T00:25:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "XvHMSrIYiaMYppw8",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "2/2pqukl3ql245jfw",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "8356",
         "begin": ""
       },
       {
@@ -550,6 +525,12 @@
         "id": "3764",
         "begin": "2020-05-27T07:59:00.000Z",
         "broadcast": "R/2020-05-27T07:59:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002189",
+        "begin": "2020-04-22T03:00:00.000Z",
+        "broadcast": "R/2020-04-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -567,19 +548,8 @@
     "end": "2004-06-29T16:35:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "1WVg3kasHFq9O6M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "31258"
-      },
-      {
-        "site": "bilibili",
-        "id": "3985",
-        "begin": "2004-04-04T16:00:01.000Z",
-        "broadcast": "R/2016-05-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -597,11 +567,6 @@
     "end": "2004-09-28T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "9jsFgibtRwf9ia4Eg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "20996"
       },
@@ -610,6 +575,12 @@
         "id": "1904",
         "begin": "2004-04-05T16:00:00.000Z",
         "broadcast": "R/2019-01-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002336",
+        "begin": "2019-05-26T03:00:00.000Z",
+        "broadcast": "R/2019-05-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -638,10 +609,10 @@
         "id": "2750"
       },
       {
-        "site": "netflix",
-        "id": "80133769",
-        "begin": "2019-04-23T16:00:00.000Z",
-        "broadcast": "R/2019-04-23T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0012880",
+        "begin": "2017-10-19T03:00:00.000Z",
+        "broadcast": "R/2017-10-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -683,6 +654,12 @@
       {
         "site": "bangumi",
         "id": "133219"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011088",
+        "begin": "2023-04-30T03:00:00.000Z",
+        "broadcast": "R/2023-04-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -723,11 +700,6 @@
     "end": "2004-12-24T23:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8UZBvyeNicTueHIQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "67990"
       },
@@ -753,11 +725,6 @@
     "begin": "2004-04-03T00:30:00.000Z",
     "end": "2004-09-25T01:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "b9ynJY3zY6EEguo",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "27711"
@@ -797,6 +764,12 @@
       {
         "site": "bangumi",
         "id": "188894"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002398",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -818,11 +791,6 @@
     "end": "2004-09-27T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "KBfycNgibruxPzTU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1418"
       },
@@ -831,6 +799,12 @@
         "id": "1902",
         "begin": "2004-04-04T16:00:00.000Z",
         "broadcast": "R/2011-05-21T15:00:38.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002331",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -874,11 +848,6 @@
     "end": "2004-09-23T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "mLWQDnbcTIrta9M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "6997"
       },
@@ -892,6 +861,12 @@
         "id": "2146",
         "begin": "2004-03-31T16:00:00.000Z",
         "broadcast": "R/2010-12-31T16:02:19.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002609",
+        "begin": "2022-01-05T15:00:00.000Z",
+        "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -911,6 +886,12 @@
       {
         "site": "bangumi",
         "id": "139340"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032914",
+        "begin": "2024-01-17T03:00:00.000Z",
+        "broadcast": "R/2024-01-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -931,18 +912,8 @@
     "end": "2006-02-18T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "QPTPTbUbia8ksqhI",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "m/mypnbgb1fsnnk0a",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "41918",
         "begin": ""
       },
       {
@@ -960,6 +931,12 @@
         "id": "168-49",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002969",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -984,6 +961,12 @@
       {
         "site": "bangumi",
         "id": "472"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002438",
+        "begin": "2023-07-21T03:00:00.000Z",
+        "broadcast": "R/2023-07-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -992,6 +975,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新 呼风唤雨！夕阳下的春日部男孩"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：時空大冒險"
       ]
     },
     "type": "movie",
@@ -1000,11 +986,6 @@
     "begin": "2004-04-17T16:00:00.000Z",
     "end": "2004-04-17T17:35:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "3aGLCXHXR4XoZs4",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "begin": "",
@@ -1040,6 +1021,18 @@
         "id": "35-55",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "52586",
+        "begin": "2024-02-01T04:00:00.000Z",
+        "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010791",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1066,11 +1059,6 @@
         "id": "2974"
       },
       {
-        "site": "pptv",
-        "id": "NQHradE3pibVIxia4",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
@@ -1085,6 +1073,12 @@
         "id": "28228949",
         "begin": "2020-05-21T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010678",
+        "begin": "2024-04-11T15:00:00.000Z",
+        "broadcast": "R/2024-04-11T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1121,11 +1115,6 @@
     "end": "2004-09-10T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "YaqWFHziaUpDzcdk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "25920"
       },
@@ -1151,13 +1140,14 @@
     "end": "2004-07-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "lreSEHjeTozvbdU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "14153"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003242",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1177,11 +1167,54 @@
       {
         "site": "bangumi",
         "id": "25414"
+      }
+    ]
+  },
+  {
+    "title": "らいむいろ戦奇譚 南国夢浪漫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "礼武战奇谭 南国梦浪漫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-04-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-06-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "91790"
+      }
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ チャージ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师Charge"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-04-18T16:00:00.000Z",
+    "broadcast": "R/2004-04-18T16:00:00.000Z/P7D",
+    "end": "2006-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293614"
       },
       {
-        "site": "pptv",
-        "id": "ddiajIYnvX50AfuY",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0062034",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
       }
     ]
   }

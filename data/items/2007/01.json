@@ -13,11 +13,6 @@
     "end": "2007-07-06T14:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "0xbycNgibruxPzTU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37203"
       },
@@ -26,6 +21,12 @@
         "id": "4815",
         "begin": "2007-01-18T16:00:01.000Z",
         "broadcast": "R/2016-12-01T09:47:52.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002620",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -42,11 +43,6 @@
     "begin": "2007-01-07T16:30:00.000Z",
     "end": "2007-03-25T17:06:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "sicbSULgejswvrRU",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "2470"
@@ -108,11 +104,6 @@
     "end": "2008-03-28T23:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "sfrGRKwSgsAjoQk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "38536"
       }
@@ -136,11 +127,6 @@
     "end": "2007-06-30T09:25:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "MhrlY8sxod9CwCg",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhbziyh",
         "begin": "2014-12-24T06:17:42.000Z"
@@ -154,6 +140,12 @@
         "id": "38847",
         "begin": "2022-03-04T08:00:00.000Z",
         "broadcast": "R/2022-03-04T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002341",
+        "begin": "2023-03-07T15:00:00.000Z",
+        "broadcast": "R/2023-03-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -174,11 +166,6 @@
     "end": "2008-07-11T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "N3lDwSmPicz2gHoY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "896"
       },
@@ -197,6 +184,12 @@
         "site": "iqiyi",
         "id": "a_19rrh2hh1h",
         "begin": "2018-11-30T16:05:22.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004813",
+        "begin": "2022-04-01T03:00:00.000Z",
+        "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -214,11 +207,6 @@
     "end": "2007-03-23T05:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "LV4qqBB25iaSHBW0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7617"
       },
@@ -227,6 +215,12 @@
         "id": "2992",
         "begin": "2007-01-04T16:00:00.000Z",
         "broadcast": "R/2015-11-12T14:02:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011068",
+        "begin": "2011-05-31T15:00:00.000Z",
+        "broadcast": "R/2011-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -245,11 +239,6 @@
     "begin": "2007-01-06T15:30:00.000Z",
     "end": "2007-03-31T16:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "QPHMSrIYiaMYppw8",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "j/jzlxtdawrpcvsui",
@@ -284,16 +273,6 @@
     "end": "2007-06-28T16:15:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "lLmEAmrQQH7hX8c",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2013/jxqrm",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "443"
       },
@@ -304,10 +283,10 @@
         "broadcast": "R/2010-09-21T09:36:33.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-158",
-        "begin": "",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0002278",
+        "begin": "2021-03-23T03:00:00.000Z",
+        "broadcast": "R/2021-03-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -329,11 +308,6 @@
     "end": "2007-03-25T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "r4l08lrAMG7RT7c",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2938"
       },
@@ -342,6 +316,12 @@
         "id": "28220991",
         "begin": "2016-04-18T03:41:00.000Z",
         "broadcast": "R/2016-04-18T03:41:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042781",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -361,13 +341,14 @@
     "end": "2007-03-29T17:29:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "2XtGxCySAkCjIYk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3400"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044570",
+        "begin": "2019-12-21T03:00:00.000Z",
+        "broadcast": "R/2019-12-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -393,6 +374,12 @@
         "id": "1322",
         "begin": "2007-01-12T16:00:00.000Z",
         "broadcast": "R/2013-08-01T12:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002572",
+        "begin": "2015-02-17T06:00:00.000Z",
+        "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -411,11 +398,6 @@
     "end": "2007-12-30T11:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "eLSQDnbcTIrta9M",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrifu8mo",
         "begin": "2014-09-12T06:32:44.000Z"
@@ -429,6 +411,12 @@
         "id": "1314",
         "begin": "2007-01-06T16:00:00.000Z",
         "broadcast": "R/2017-05-23T11:04:48.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002359",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -449,6 +437,12 @@
       {
         "site": "bangumi",
         "id": "21037"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013561",
+        "begin": "2019-09-19T03:00:00.000Z",
+        "broadcast": "R/2019-09-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -475,9 +469,10 @@
         "id": "4100"
       },
       {
-        "site": "letv",
-        "id": "46653",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0015874",
+        "begin": "2008-07-18T06:00:00.000Z",
+        "broadcast": "R/2008-07-18T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -498,11 +493,6 @@
     "end": "2007-03-25T17:36:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ecG8OqIIeLYZlic8",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "40543"
       },
@@ -511,6 +501,12 @@
         "id": "4817",
         "begin": "2007-01-06T16:00:01.000Z",
         "broadcast": "R/2016-06-14T07:10:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003154",
+        "begin": "2015-02-17T06:00:00.000Z",
+        "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -527,11 +523,6 @@
     "begin": "2007-01-24T16:00:00.000Z",
     "end": "2007-04-25T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "Roh08lrAMG7RT7c",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "49267"
@@ -583,6 +574,34 @@
         "id": "4814",
         "begin": "2016-06-14T06:56:00.000Z",
         "broadcast": "R/2016-06-14T06:56:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Afro Samurai",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆炸头武士",
+        "阿非武士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.afrosamurai.com/",
+    "begin": "2007-01-03T16:00:00.000Z",
+    "broadcast": "R/2007-01-03T16:00:00.000Z/P7D",
+    "end": "2007-01-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "875"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002145",
+        "begin": "2015-02-17T06:00:00.000Z",
+        "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
   }

@@ -101,7 +101,8 @@
         "公主殿下，「拷問」的時間到了"
       ],
       "en": [
-        "'Tis Time for \"Torture\", Princess"
+        "'Tis Time for \"Torture\", Princess",
+        "Tis Time for \"Torture,\" Princess"
       ]
     },
     "type": "tv",
@@ -151,6 +152,12 @@
         "id": "SID0095998",
         "begin": "2024-01-11T15:00:00.000Z",
         "broadcast": "R/2024-01-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81751935",
+        "begin": "2024-04-29T16:00:00.000Z",
+        "broadcast": "R/2024-04-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -203,6 +210,9 @@
       ],
       "zh-Hant": [
         "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 第二季"
+      ],
+      "en": [
+        "Banished from the brave man's group, I decided to lead a slow life in the back country. 2nd"
       ]
     },
     "type": "tv",
@@ -228,6 +238,18 @@
         "id": "21176059",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "shinnonakama2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0101648",
+        "begin": "2024-04-30T15:00:00.000Z",
+        "broadcast": "R/2024-04-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -304,12 +326,6 @@
         "id": "mahoako-anime",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0096007",
-        "begin": "2024-01-06T15:00:00.000Z",
-        "broadcast": "R/2024-01-06T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -392,7 +408,8 @@
     "title": "悪役令嬢レベル99～私は裏ボスですが魔王ではありません～",
     "titleTranslate": {
       "zh-Hans": [
-        "反派大小姐等级99～我是隐藏BOSS但不是魔王～"
+        "反派大小姐等级99～我是隐藏BOSS但不是魔王～",
+        "反派千金等级99～我是隐藏头目但不是魔王～"
       ],
       "zh-Hant": [
         "反派千金等級99～我是隱藏頭目但不是魔王～"
@@ -428,12 +445,6 @@
       {
         "site": "abema",
         "id": "25-250",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "nowPlayer",
-        "id": "S202312270173666",
         "begin": "",
         "broadcast": ""
       },
@@ -572,6 +583,9 @@
       ],
       "zh-Hant": [
         "佐佐木與文鳥小嗶"
+      ],
+      "en": [
+        "Sasaki and Peeps"
       ]
     },
     "type": "tv",
@@ -637,7 +651,7 @@
     "officialSite": "https://tsukimichi.com/",
     "begin": "2024-01-08T14:00:00.000Z",
     "broadcast": "R/2024-01-08T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-24T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -695,7 +709,7 @@
     "officialSite": "https://metallicrouge.jp/",
     "begin": "2024-01-10T16:25:00.000Z",
     "broadcast": "R/2024-01-10T16:25:00.000Z/P7D",
-    "end": "2024-03-30T16:25:00.000Z",
+    "end": "2024-04-03T16:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -741,6 +755,12 @@
       {
         "site": "abema",
         "id": "19-187",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21176389",
         "begin": "",
         "broadcast": ""
       }
@@ -856,6 +876,9 @@
       ],
       "zh-Hant": [
         "指尖相觸，戀戀不捨"
+      ],
+      "en": [
+        "A SIGN OF AFFECTION"
       ]
     },
     "type": "tv",
@@ -900,6 +923,18 @@
         "id": "133896",
         "begin": "2024-01-06T13:30:00.000Z",
         "broadcast": "R/2024-01-06T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81748453",
+        "begin": "2024-04-23T16:00:00.000Z",
+        "broadcast": "R/2024-04-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "HPjNjSf03z0Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -908,6 +943,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "王者天下 第五季"
+      ],
+      "zh-Hant": [
+        "王者天下 第五季"
       ]
     },
     "type": "tv",
@@ -915,7 +953,7 @@
     "officialSite": "https://kingdom-anime.com/",
     "begin": "2024-01-06T15:00:00.000Z",
     "broadcast": "R/2024-01-06T15:00:00.000Z/P7D",
-    "end": "2024-03-30T15:00:00.000Z",
+    "end": "2024-03-23T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -933,6 +971,12 @@
         "id": "15-2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "134333",
+        "begin": "2024-03-24T01:00:00.000Z",
+        "broadcast": "R/2024-03-24T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -980,6 +1024,12 @@
       {
         "site": "abema",
         "id": "26-216",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21194681",
         "begin": "",
         "broadcast": ""
       }
@@ -1053,7 +1103,8 @@
     "title": "ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する",
     "titleTranslate": {
       "zh-Hans": [
-        "轮回七次的反派大小姐，在前敌国享受随心所欲的新婚生活"
+        "轮回七次的反派大小姐，在前敌国享受随心所欲的新婚生活",
+        "轮回七次的恶役千金，在前敌国享受随心所欲的新婚生活"
       ],
       "zh-Hant": [
         "輪迴7次的惡役千金，在前敵國享受隨心所欲的新婚生活"
@@ -1133,12 +1184,6 @@
         "id": "SID0096695",
         "begin": "2024-01-14T14:00:00.000Z",
         "broadcast": "R/2024-01-14T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "nowPlayer",
-        "id": "S202312270173664",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -1293,6 +1338,18 @@
         "id": "133422",
         "begin": "2024-01-06T18:00:00.000Z",
         "broadcast": "R/2024-01-06T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096010",
+        "begin": "2024-01-27T15:00:00.000Z",
+        "broadcast": "R/2024-01-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bokuyaba-anime2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1395,6 +1452,9 @@
       ],
       "zh-Hans": [
         "通灵王 FLOWERS"
+      ],
+      "zh-Hant": [
+        "通靈王 FLOWERS"
       ]
     },
     "type": "tv",
@@ -1402,7 +1462,7 @@
     "officialSite": "https://shamanking-project.com/",
     "begin": "2024-01-09T15:00:00.000Z",
     "broadcast": "R/2024-01-09T15:00:00.000Z/P7D",
-    "end": "2024-03-26T15:00:00.000Z",
+    "end": "2024-04-02T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1426,6 +1486,12 @@
         "id": "115-107",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81749969",
+        "begin": "2024-04-19T16:00:00.000Z",
+        "broadcast": "R/2024-04-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1433,10 +1499,12 @@
     "title": "30歳まで童貞だと魔法使いになれるらしい",
     "titleTranslate": {
       "zh-Hans": [
-        "到了30岁还是处男，似乎会变成魔法师"
+        "到了30岁还是处男，似乎会变成魔法师",
+        "到了 30 岁还是处男，似乎会变成魔法师"
       ],
       "zh-Hant": [
-        "如果30歲還是處男，似乎就能成為魔法師"
+        "如果30歲還是處男，似乎就能成為魔法師",
+        "如果 30 歲還是處男，似乎就能成為魔法師"
       ],
       "en": [
         "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!"
@@ -1489,6 +1557,12 @@
         "id": "198-10",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81750730",
+        "begin": "2024-04-29T16:00:00.000Z",
+        "broadcast": "R/2024-04-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1513,7 +1587,7 @@
     "officialSite": "https://sengoku-youko.com/",
     "begin": "2024-01-10T15:00:00.000Z",
     "broadcast": "R/2024-01-10T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-04-03T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1594,6 +1668,13 @@
         "id": "19-188",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0072223",
+        "begin": "2022-08-31T15:00:00.000Z",
+        "broadcast": "R/2022-08-31T15:00:00.000Z/P7D",
+        "comment": "日本語吹替版: SID0097416"
       }
     ]
   },
@@ -1650,7 +1731,8 @@
     "title": "勇気爆発バーンブレイバーン",
     "titleTranslate": {
       "zh-Hans": [
-        "勇气爆发BangBravern"
+        "勇气爆发BangBravern",
+        "勇气爆发 Bang Bravern"
       ],
       "zh-Hant": [
         "勇氣爆發 BANG BRAVERN"
@@ -1690,12 +1772,6 @@
         "broadcast": "R/2024-01-11T15:30:00.000Z/P7D"
       },
       {
-        "site": "nowPlayer",
-        "id": "S202312270173645",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "abema",
         "id": "512-11",
         "begin": "",
@@ -1707,7 +1783,8 @@
     "title": "最弱テイマーはゴミ拾いの旅を始めました。",
     "titleTranslate": {
       "zh-Hans": [
-        "最弱的驯养师开启的捡垃圾的旅途。"
+        "最弱的驯养师开启的捡垃圾的旅途。",
+        "最弱魔物使开始了捡垃圾之旅。"
       ],
       "zh-Hant": [
         "最弱魔物使開始了撿垃圾之旅。"
@@ -1768,13 +1845,20 @@
   },
   {
     "title": "ぶっちぎり?!",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "绽裂?!",
+        "一痞当千",
+        "无人能敌",
+        "天方本气谭"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://bucchigiri.jp/",
     "begin": "2024-01-13T14:00:00.000Z",
     "broadcast": "R/2024-01-13T14:00:00.000Z/P7D",
-    "end": "2024-03-30T14:00:00.000Z",
+    "end": "2024-04-06T14:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1834,6 +1918,12 @@
         "id": "SID0096437",
         "begin": "2024-01-14T14:30:00.000Z",
         "broadcast": "R/2024-01-14T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "169-138",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1849,7 +1939,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai12/",
     "begin": "2024-01-14T17:35:00.000Z",
     "broadcast": "R/2024-01-14T17:35:00.000Z/P7D",
-    "end": "2024-03-31T17:35:00.000Z",
+    "end": "2024-04-07T17:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1924,6 +2014,12 @@
         "id": "26-215",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21194555",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1939,7 +2035,7 @@
     "officialSite": "https://4th.chofutsu.com/",
     "begin": "2024-01-05T12:54:00.000Z",
     "broadcast": "R/2024-01-05T12:54:00.000Z/P7D",
-    "end": "2024-03-29T12:54:00.000Z",
+    "end": "2024-03-29T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2000,7 +2096,9 @@
     "title": "スナックバス江",
     "titleTranslate": {
       "zh-Hans": [
-        "Basue小酒馆"
+        "Basue小酒馆",
+        "小酒馆Basue",
+        "零食八江"
       ],
       "zh-Hant": [
         "小酒館Basue"
@@ -2078,7 +2176,7 @@
     "officialSite": "https://anime.cf-vanguard.com/vgd/",
     "begin": "2024-01-12T23:00:00.000Z",
     "broadcast": "R/2024-01-12T23:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-04-19T23:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2108,12 +2206,6 @@
         "id": "136407",
         "begin": "2024-01-13T10:00:00.000Z",
         "broadcast": "R/2024-01-13T10:00:00.000Z/P7D"
-      },
-      {
-        "site": "nowPlayer",
-        "id": "S202401170174404",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -2135,7 +2227,7 @@
     "officialSite": "https://uy-allstars.com/",
     "begin": "2024-01-11T15:55:00.000Z",
     "broadcast": "R/2024-01-11T15:55:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-20T16:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2171,6 +2263,12 @@
         "id": "SID0097415",
         "begin": "2024-01-15T03:00:00.000Z",
         "broadcast": "R/2024-01-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7ZgZAIjAwjsK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2185,7 +2283,8 @@
         "外科醫生愛麗絲"
       ],
       "en": [
-        "Doctor Elise: The Royal Lady with the Lamp"
+        "Doctor Elise: The Royal Lady with the Lamp",
+        "Surgeon Elise"
       ]
     },
     "type": "tv",
@@ -2217,12 +2316,6 @@
         "id": "130648",
         "begin": "2024-01-10T13:30:00.000Z",
         "broadcast": "R/2024-01-10T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "nowPlayer",
-        "id": "S202312270173646",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "abema",
@@ -2298,7 +2391,7 @@
     "officialSite": "https://delicious-in-dungeon.com/",
     "begin": "2024-01-04T13:30:00.000Z",
     "broadcast": "R/2024-01-04T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-13T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2334,6 +2427,12 @@
         "id": "21174614",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "2jIp8QbnjKy7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2356,7 +2455,7 @@
     "officialSite": "https://www.tbs.co.jp/anime/majo/",
     "begin": "2024-01-11T16:28:00.000Z",
     "broadcast": "R/2024-01-11T16:28:00.000Z/P7D",
-    "end": "2024-03-28T16:28:00.000Z",
+    "end": "2024-04-04T17:28:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2386,12 +2485,6 @@
         "id": "11-57",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "nowPlayer",
-        "id": "S202312270173665",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -2401,7 +2494,9 @@
       "zh-Hans": [
         "物理魔法使马修 第二季",
         "物理魔法使-马修- 第二季",
-        "肌肉魔法使-MASHLE- 第二季"
+        "肌肉魔法使-MASHLE- 第二季",
+        "物理魔法使-马修- 神觉者候选人选拔考试篇",
+        "物理魔法使马修 神觉者候补选拔试验篇"
       ],
       "zh-Hant": [
         "肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇"
@@ -2452,6 +2547,12 @@
         "id": "SID0097561",
         "begin": "2024-01-09T03:00:00.000Z",
         "broadcast": "R/2024-01-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21194297",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2479,12 +2580,6 @@
         "id": "adamkun",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0097523",
-        "begin": "2024-01-07T16:00:00.000Z",
-        "broadcast": "R/2024-01-07T16:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2531,7 +2626,8 @@
     "title": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
     "titleTranslate": {
       "zh-Hans": [
-        "人气温泉『异世界温泉』开拓记 ～40岁左右的温泉爱好者转世到了悠闲的温泉天堂～"
+        "人气温泉『异世界温泉』开拓记 ～40岁左右的温泉爱好者转世到了悠闲的温泉天堂～",
+        "名汤『异世界温泉』开拓记 ～30多岁温泉狂热者，转生到悠闲的温泉天国～"
       ],
       "zh-Hant": [
         "名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～"
@@ -2560,12 +2656,6 @@
         "id": "136721",
         "begin": "2024-01-11T16:00:00.000Z",
         "broadcast": "R/2024-01-11T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0096009",
-        "begin": "2024-01-15T03:00:00.000Z",
-        "broadcast": "R/2024-01-15T03:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2640,8 +2730,8 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "25-255",
+        "site": "bilibili",
+        "id": "21176277",
         "begin": "",
         "broadcast": ""
       }
@@ -2713,6 +2803,62 @@
         "id": "81733654",
         "begin": "2024-01-20T16:00:00.000Z",
         "broadcast": "R/2024-01-20T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "忍ばない！クリプトニンジャ咲耶 弐ノ巻",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://cryptoninja-sakuya.xyz/",
+    "begin": "2024-01-08T16:00:00.000Z",
+    "broadcast": "R/2024-01-08T16:00:00.000Z/P7D",
+    "end": "2024-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "471792"
+      },
+      {
+        "site": "abema",
+        "id": "482-39",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "名探侦コナンvs.怪盗キッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南VS怪盗基德"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/2024/tvspecial/",
+    "begin": "2024-01-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-01-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "467955"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100687",
+        "begin": "2024-04-05T15:00:00.000Z",
+        "broadcast": "R/2024-04-05T15:00:00.000Z/P7D"
       }
     ]
   }

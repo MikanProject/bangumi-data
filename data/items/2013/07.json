@@ -16,12 +16,6 @@
     "end": "2013-12-28T15:30:00.000Z",
     "sites": [
       {
-        "url": "http://comic.le.com/zt/wuyu/index.shtml",
-        "site": "letv",
-        "id": "91561",
-        "begin": "2013-07-11T16:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "68812"
       },
@@ -36,6 +30,12 @@
         "id": "26-2mzbynr-cph",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0017168",
+        "begin": "2018-11-08T03:00:00.000Z",
+        "broadcast": "R/2018-11-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -52,16 +52,6 @@
     "begin": "2013-07-08T16:59:00.000Z",
     "end": "2013-12-23T17:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "Zib3HRa0Tg8Ekogo",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "91812",
-        "begin": ""
-      },
       {
         "site": "youku",
         "id": "3e50f242de5111e2b356",
@@ -82,6 +72,12 @@
         "id": "kakusen-kun",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013568",
+        "begin": "2015-04-23T05:15:00.000Z",
+        "broadcast": "R/2015-04-23T05:15:00.000Z/P7D"
       }
     ]
   },
@@ -125,9 +121,10 @@
         "begin": ""
       },
       {
-        "site": "acfun",
-        "id": "6002265",
-        "begin": "2020-04-30T16:00:00.000Z"
+        "site": "unext",
+        "id": "SID0013604",
+        "begin": "2014-05-23T06:00:00.000Z",
+        "broadcast": "R/2014-05-23T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -165,6 +162,12 @@
         "id": "530",
         "begin": "2013-07-11T16:00:00.000Z",
         "broadcast": "R/2013-07-12T19:37:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003384",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -185,11 +188,6 @@
     "begin": "2013-07-04T16:59:00.000Z",
     "end": "2013-09-26T17:28:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "NTUfnQVr2xl8ibmI",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "69942"
@@ -215,6 +213,12 @@
         "site": "qq",
         "id": "e/ec1vw2y6kpw3xv0",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0004860",
+        "begin": "2022-04-27T03:00:00.000Z",
+        "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -261,6 +265,12 @@
         "id": "60985",
         "begin": "2021-02-01T03:00:00.000Z",
         "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014890",
+        "begin": "2023-05-07T03:00:00.000Z",
+        "broadcast": "R/2023-05-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -293,6 +303,12 @@
         "id": "519",
         "begin": "2013-07-05T16:00:00.000Z",
         "broadcast": "R/2015-06-24T07:36:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002577",
+        "begin": "2019-04-08T03:00:00.000Z",
+        "broadcast": "R/2019-04-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -325,6 +341,12 @@
         "id": "2783",
         "begin": "2013-06-30T16:00:00.000Z",
         "broadcast": "R/2015-09-29T02:53:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002155",
+        "begin": "2015-02-17T06:00:00.000Z",
+        "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -366,6 +388,12 @@
         "id": "515",
         "begin": "2013-07-02T16:00:00.000Z",
         "broadcast": "R/2013-07-04T01:36:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013566",
+        "begin": "2015-05-28T05:15:00.000Z",
+        "broadcast": "R/2015-05-28T05:15:00.000Z/P7D"
       }
     ]
   },
@@ -405,6 +433,12 @@
         "id": "25-17mhiuakxewg",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0017671",
+        "begin": "2019-09-07T03:00:00.000Z",
+        "broadcast": "R/2019-09-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -434,10 +468,10 @@
         "broadcast": "R/2013-07-14T14:30:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "2714",
-        "begin": "2013-07-12T16:00:00.000Z",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0011053",
+        "begin": "2020-12-04T15:00:00.000Z",
+        "broadcast": "R/2020-12-04T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -455,11 +489,6 @@
     "end": "2013-09-22T13:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "oYlj4UmvH13APqY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "69943"
       },
@@ -474,6 +503,18 @@
         "id": "18",
         "begin": "2013-07-06T16:00:00.000Z",
         "broadcast": "R/2013-07-08T01:41:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003346",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "158-12",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -492,11 +533,6 @@
     "end": "2013-09-23T13:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "0lM9uyOJibTeaGIA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "68757"
       },
@@ -505,11 +541,6 @@
         "id": "rikoran3",
         "begin": "2013-07-11T16:00:00.000Z",
         "broadcast": "R/2013-07-11T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "letv",
-        "id": "91472",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -550,10 +581,10 @@
         "begin": "2013-07-06T07:54:07.000Z"
       },
       {
-        "site": "abema",
-        "id": "11-18",
-        "begin": "",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0014378",
+        "begin": "2020-02-25T03:00:00.000Z",
+        "broadcast": "R/2020-02-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -573,11 +604,6 @@
     "end": "2013-09-23T17:35:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "cvXfXcUrm9k8uiaI",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "p/pz9nim110g6rdfy",
         "begin": ""
@@ -591,6 +617,18 @@
         "id": "watamote",
         "begin": "2013-07-13T16:00:00.000Z",
         "broadcast": "R/2013-07-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002946",
+        "begin": "2019-12-21T03:00:00.000Z",
+        "broadcast": "R/2019-12-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-96",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -608,11 +646,6 @@
     "end": "2013-09-29T13:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "de7KSLAWhsQnpQ0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "68035"
       },
@@ -628,9 +661,10 @@
         "begin": "2017-03-31T15:58:54.000Z"
       },
       {
-        "site": "acfun",
-        "id": "6000036",
-        "begin": "2019-09-05T05:35:46.000Z"
+        "site": "unext",
+        "id": "SID0013997",
+        "begin": "2020-02-24T03:00:00.000Z",
+        "broadcast": "R/2020-02-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -677,10 +711,10 @@
         "broadcast": "R/2019-01-14T06:09:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "fantasistadoll_109266",
-        "begin": "2016-11-14T16:00:00.000Z",
-        "broadcast": "R/2016-11-14T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0002306",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -729,6 +763,12 @@
         "id": "61469",
         "begin": "2018-07-18T03:00:00.000Z",
         "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016679",
+        "begin": "2017-07-01T03:00:00.000Z",
+        "broadcast": "R/2017-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -775,10 +815,10 @@
         "broadcast": "R/2023-03-31T02:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili_hk_mo_tw",
-        "id": "28221610",
-        "begin": "2019-07-15T03:43:20.000Z",
-        "broadcast": "R/2019-07-15T03:43:20.000Z/P7D"
+        "site": "unext",
+        "id": "SID0011858",
+        "begin": "2018-05-31T03:00:00.000Z",
+        "broadcast": "R/2018-05-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -835,6 +875,12 @@
         "id": "47281",
         "begin": "2017-05-23T07:00:00.000Z",
         "broadcast": "R/2017-05-23T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027695",
+        "begin": "2017-02-16T03:00:00.000Z",
+        "broadcast": "R/2017-02-16T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -903,6 +949,12 @@
         "id": "haremking2",
         "begin": "2013-07-11T16:30:00.000Z",
         "broadcast": "R/2013-07-11T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017746",
+        "begin": "2014-09-19T06:00:00.000Z",
+        "broadcast": "R/2014-09-19T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -940,6 +992,12 @@
         "id": "3145",
         "begin": "2013-07-05T16:00:00.000Z",
         "broadcast": "R/2015-12-10T07:52:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014374",
+        "begin": "2023-09-15T03:00:00.000Z",
+        "broadcast": "R/2023-09-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -981,6 +1039,18 @@
         "id": "2683",
         "begin": "2013-07-04T16:00:00.000Z",
         "broadcast": "R/2015-10-04T08:23:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017493",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-68",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1001,11 +1071,6 @@
     "end": "2013-09-26T16:58:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "zLCcGoLoWJb5d98",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "i/iteevv3orfr22it",
         "begin": ""
@@ -1025,6 +1090,12 @@
         "id": "548",
         "begin": "2013-07-03T16:00:00.000Z",
         "broadcast": "R/2013-07-05T02:17:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003224",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1043,11 +1114,6 @@
     "end": "2013-09-26T17:35:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "lJJibicGTKOnjbWcE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "58850"
       },
@@ -1058,10 +1124,10 @@
         "broadcast": "R/2013-07-14T14:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "451",
-        "begin": "2013-07-03T16:00:00.000Z",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0017368",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1085,11 +1151,6 @@
     "end": "2013-09-26T17:05:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ZibDMSrIYiaMYppw8",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "56093"
       },
@@ -1098,11 +1159,6 @@
         "id": "danganronpa-anime",
         "begin": "2013-07-06T16:30:00.000Z",
         "broadcast": "R/2013-07-06T16:30:00.000Z/P7D"
-      },
-      {
-        "site": "sohu",
-        "id": "s2013/dwlp",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -1127,6 +1183,12 @@
         "id": "59228",
         "begin": "2021-06-01T03:00:00.000Z",
         "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015621",
+        "begin": "2020-01-17T03:00:00.000Z",
+        "broadcast": "R/2020-01-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1144,11 +1206,6 @@
     "begin": "2013-07-13T13:00:00.000Z",
     "end": "2013-09-28T13:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "fvTgXsYsnNo9uyM",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "62948"
@@ -1222,16 +1279,16 @@
         "id": "59664"
       },
       {
-        "site": "bilibili",
-        "id": "239",
-        "begin": "2013-07-10T16:00:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "gamer",
         "id": "59546",
         "begin": "2020-11-28T06:00:00.000Z",
         "broadcast": "R/2020-11-28T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014606",
+        "begin": "2021-11-11T03:00:00.000Z",
+        "broadcast": "R/2021-11-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1267,12 +1324,6 @@
         "broadcast": "R/2015-06-28T15:30:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "80041161",
-        "begin": "2015-08-01T07:00:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "520",
         "begin": "2013-07-11T16:00:00.000Z",
@@ -1280,15 +1331,16 @@
         "comment": "SP: 5421"
       },
       {
-        "site": "acfun",
-        "id": "6003896",
-        "begin": ""
-      },
-      {
         "site": "gamer",
         "id": "61305",
         "begin": "2020-02-27T03:00:00.000Z",
         "broadcast": "R/2020-02-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002523",
+        "begin": "2019-08-26T03:00:00.000Z",
+        "broadcast": "R/2019-08-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1319,6 +1371,12 @@
         "site": "youku",
         "id": "f0ab2acccfe011e296ac",
         "begin": "2013-07-05T10:39:22.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016933",
+        "begin": "2016-10-13T03:00:00.000Z",
+        "broadcast": "R/2016-10-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1387,6 +1445,12 @@
         "id": "131112",
         "begin": "2013-07-01T16:00:00.000Z",
         "broadcast": "R/2018-09-06T10:37:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045451",
+        "begin": "2020-01-31T03:00:00.000Z",
+        "broadcast": "R/2020-01-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1411,6 +1475,12 @@
         "site": "youku",
         "id": "efe2cb68cf4a11e2a19e",
         "begin": "2013-06-28T12:00:08.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011052",
+        "begin": "2019-06-13T03:00:00.000Z",
+        "broadcast": "R/2019-06-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1450,11 +1520,6 @@
     "end": "2013-09-06T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "KB76eOBGtvRX1T0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "77048"
       }
@@ -1491,6 +1556,12 @@
         "id": "64453",
         "begin": "2020-08-21T09:00:00.000Z",
         "broadcast": "R/2020-08-21T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013459",
+        "begin": "2019-04-05T03:00:00.000Z",
+        "broadcast": "R/2019-04-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1507,11 +1578,6 @@
     "begin": "2013-07-02T14:30:00.000Z",
     "end": "2013-12-26T14:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "g4lj4UmvH13APqY",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "78032"
@@ -1543,19 +1609,9 @@
     "end": "2013-07-13T17:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "91w4th6E9DKVE3s",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb8sh9",
         "begin": "2015-09-17T05:39:45.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "95245",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -1571,6 +1627,12 @@
         "id": "5744",
         "begin": "2013-07-12T16:00:01.000Z",
         "broadcast": "R/2016-12-06T08:46:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028823",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1587,11 +1649,6 @@
     "begin": "2013-07-05T16:00:00.000Z",
     "end": "2013-09-27T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "KyELiafFXxwVo5k4",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "r/rfgkivnu2k0ylyb",
@@ -1622,11 +1679,6 @@
     "begin": "2013-07-01T16:00:00.000Z",
     "end": "2014-04-01T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "MDwYlv5k1BJ181s",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrhaeetp",
@@ -1663,11 +1715,6 @@
     "end": "2013-07-27T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "paqGBGzSQoDjYck",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rro3s6vk",
         "begin": ""
@@ -1675,6 +1722,12 @@
       {
         "site": "bangumi",
         "id": "94259"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089836",
+        "begin": "2023-08-09T03:00:00.000Z",
+        "broadcast": "R/2023-08-09T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1683,6 +1736,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "银魂剧场版 完结篇 万事屋永不落"
+      ],
+      "zh-Hant": [
+        "銀魂劇場版 完結篇：永遠的萬事屋"
       ]
     },
     "type": "movie",
@@ -1699,6 +1755,18 @@
       {
         "site": "bangumi",
         "id": "67217"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019025",
+        "begin": "2021-09-06T15:00:00.000Z",
+        "broadcast": "R/2021-09-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "57470",
+        "begin": "2024-03-15T04:00:00.000Z",
+        "broadcast": "R/2024-03-15T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1723,6 +1791,12 @@
         "site": "youku",
         "id": "00b0d4906c6611e3a705",
         "begin": "2013-12-24T05:52:43.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028832",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1739,11 +1813,6 @@
     "begin": "2013-07-15T16:00:00.000Z",
     "end": "2014-12-29T16:05:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "PTUfnQVr2xl8ibmI",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "80768"
@@ -1776,11 +1845,6 @@
     "end": "2013-07-20T18:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "p6yIBm7URILlY8s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "56846"
       },
@@ -1806,13 +1870,14 @@
     "end": "2013-07-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "HB33dd1DsicFU0jo",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "65601"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014495",
+        "begin": "2014-06-13T06:00:00.000Z",
+        "broadcast": "R/2014-06-13T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -1829,11 +1894,6 @@
     "begin": "2013-07-21T16:00:00.000Z",
     "end": "2013-07-21T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "CgHradE3pibVIxia4",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "61276"
@@ -1867,11 +1927,6 @@
       {
         "site": "bangumi",
         "id": "75180"
-      },
-      {
-        "site": "pptv",
-        "id": "ic29JxyibVBUOmJIw",
-        "begin": ""
       }
     ]
   },
@@ -1891,11 +1946,6 @@
       {
         "site": "bangumi",
         "id": "80985"
-      },
-      {
-        "site": "pptv",
-        "id": "KCAMiavJYyAZp508",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -1926,11 +1976,6 @@
       {
         "site": "bangumi",
         "id": "66449"
-      },
-      {
-        "site": "letv",
-        "id": "10002046",
-        "begin": ""
       }
     ]
   },
@@ -1958,6 +2003,112 @@
         "id": "28235187",
         "begin": "2021-10-22T10:00:01.000Z",
         "broadcast": "R/2021-10-22T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020720",
+        "begin": "2021-08-25T03:00:00.000Z",
+        "broadcast": "R/2021-08-25T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ミュウツー ~覚醒への序章[プロローグ]～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦 超梦 觉醒之路的序章",
+        "口袋妖怪 超梦 觉醒之路的序章"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-07-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-07-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "75899"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028835",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "恋騎士 Purely☆Kiss The Animation",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋骑士"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.pinkpineapple.co.jp/detail.php?did=400&cid=4",
+    "begin": "2013-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74478"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン みんなでてあそび アンパンマンといたずらオバケ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060357.html",
+    "begin": "2013-07-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-07-05T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "455926"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018565",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ! アンパンマン とばせ! 希望のハンカチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冲啊！面包超人跳跃吧！希望的手绢",
+        "面包超人 跳跃吧！希望的手绢"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-07-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-07-05T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "335297"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018564",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }
