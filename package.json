@@ -13,7 +13,6 @@
     "lint": "eslint script/ --quiet",
     "validate": "node script/validate.js",
     "test": "npm run lint && npm run validate",
-    "prepublishOnly": "npm run build",
     "create": "bdh create",
     "end": "bdh end"
   },
@@ -31,6 +30,7 @@
   "author": "Botao <wxt2005@gmail.com>, MikanProject <admin@mikanani.me>",
   "license": "CC-BY-4.0",
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "eslint": "^8.6.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",

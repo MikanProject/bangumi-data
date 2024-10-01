@@ -16,6 +16,12 @@
       {
         "site": "bangumi",
         "id": "119364"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013614",
+        "begin": "2015-06-04T06:00:00.000Z",
+        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -33,11 +39,6 @@
     "begin": "2014-11-07T16:00:00.000Z",
     "end": "2015-10-09T16:15:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "10006626",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "116370"
@@ -72,19 +73,18 @@
     "end": "2014-11-15T17:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "PiawIhu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37395"
       },
       {
-        "site": "netflix",
-        "id": "80038207",
-        "begin": "2015-06-01T07:00:00.000Z",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0027233",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5596f468a0b788232ee352f3"
       }
     ]
   },
@@ -101,11 +101,6 @@
     "begin": "2014-11-28T16:00:00.000Z",
     "end": "2014-11-28T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "JQDsatI4qOZJxy8",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "93258"
@@ -126,11 +121,6 @@
     "end": "2015-04-04T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wWFLyTGXB0WoJo4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "86870"
       },
@@ -144,6 +134,10 @@
         "site": "youku",
         "id": "6cada7784adb11e4b432",
         "begin": "2014-10-02T05:31:42.000Z"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "551374991fe5c31a190a0720"
       }
     ]
   },
@@ -188,11 +182,6 @@
       {
         "site": "bangumi",
         "id": "108595"
-      },
-      {
-        "site": "pptv",
-        "id": "OBz4dt5EtPJV0zs",
-        "begin": ""
       }
     ]
   },
@@ -208,11 +197,6 @@
       {
         "site": "bangumi",
         "id": "103813"
-      },
-      {
-        "site": "pptv",
-        "id": "1nBc2kKoGFa5N58",
-        "begin": ""
       }
     ]
   },
@@ -228,11 +212,6 @@
       {
         "site": "bangumi",
         "id": "144637"
-      },
-      {
-        "site": "letv",
-        "id": "10008560",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -310,6 +289,47 @@
         "id": "30-8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0018728",
+        "begin": "2018-09-01T03:00:00.000Z",
+        "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "68751",
+        "begin": "2022-08-18T09:00:00.000Z",
+        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "IS〈インフィニット・ストラトス〉2 OVA ワールド・パージ編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IS2 OVA 世界清洗篇",
+        "IS〈无限斯特拉托斯〉2 世界清洗篇",
+        "Infinite Stratos 2 OVA World Purge篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/is2",
+    "begin": "2014-11-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90967"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017768",
+        "begin": "2023-02-12T03:00:00.000Z",
+        "broadcast": "R/2023-02-12T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -27,6 +27,26 @@
         "site": "iqiyi",
         "id": "a_19rrh0tfud",
         "begin": "2018-02-04T03:22:10.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054383",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5a4338fccc0a83c72ff58849"
+      },
+      {
+        "site": "mikan",
+        "id": "1538"
+      },
+      {
+        "site": "abema",
+        "id": "5-59",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -81,6 +101,12 @@
         "site": "nicovideo",
         "id": "spiritpact2",
         "begin": "2018-02-24T13:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033619",
+        "begin": "2018-02-25T03:00:00.000Z",
+        "broadcast": "R/2018-02-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -129,6 +155,10 @@
         "site": "youku",
         "id": "092eefbfbdefbfbd0d72",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1873"
       }
     ]
   },
@@ -153,6 +183,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Code Geass 反叛的鲁路修 II 叛道"
+      ],
+      "en": [
+        "Code Geass: Lelouch of the Rebellion II -Transgression-"
       ]
     },
     "type": "movie",
@@ -167,10 +200,21 @@
         "id": "199230"
       },
       {
-        "site": "nicovideo",
-        "id": "geass-movie2",
+        "site": "unext",
+        "id": "SID0035259",
+        "begin": "2018-07-18T03:00:00.000Z",
+        "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "OQ3OkN24meQu",
+        "url": "https://www.disneyplus.com/movies/code-geass-lelouch-of-the-rebellion-ii-transgression/OQ3OkN24meQu",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1577"
       }
     ]
   },
@@ -205,6 +249,61 @@
         "id": "90088",
         "begin": "2020-05-01T09:00:00.000Z",
         "broadcast": "R/2020-05-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0037524",
+        "begin": "2018-10-26T03:00:00.000Z",
+        "broadcast": "R/2018-10-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1749"
+      }
+    ]
+  },
+  {
+    "title": "劇場版マクロスΔ 激情のワルキューレ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 超时空要塞Δ 激情的Walküre",
+        "剧场版 MACROSS Δ 激情的Walküre"
+      ],
+      "zh-Hant": [
+        "超時空要塞Delta 激情的Walküre"
+      ],
+      "en": [
+        "Macross Delta: Passionate Walküre"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://macross.jp/",
+    "begin": "2018-02-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-02-08T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221637"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061276",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "e7WHRFTU9pwz",
+        "url": "https://www.disneyplus.com/movies/macross-delta-passionate-walkure/e7WHRFTU9pwz",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1661"
       }
     ]
   }

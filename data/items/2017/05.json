@@ -28,11 +28,6 @@
         "begin": "2017-06-05T15:00:00.000Z"
       },
       {
-        "site": "pptv",
-        "id": "IxYCgOhOvvxf3UU",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "cc91efbfbd44354211ef",
         "begin": ""
@@ -42,7 +37,17 @@
         "id": "PLxSscENEp7JgMHHFetJnMxR68TykBw4ig",
         "begin": "2023-08-09T16:00:00.000Z",
         "broadcast": "R/2023-08-09T16:00:00.000Z/P7D",
-        "comment": "#47-#82: PLxSscENEp7JixdkoigUIr6T05Za90NNhA"
+        "comment": "#47-#82: PLxSscENEp7JixdkoigUIr6T05Za90NNhA, #83-#120: PLxSscENEp7Jjg_rqQf5MEv_V3Id3NIJmE"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029658",
+        "begin": "2020-04-28T03:00:00.000Z",
+        "broadcast": "R/2020-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1318"
       }
     ]
   },
@@ -64,14 +69,19 @@
         "id": "133975"
       },
       {
-        "site": "nicovideo",
-        "id": "fairytail-dragoncry",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "151a7befbfbdefbfbdef",
         "begin": "2017-11-30T04:30:12.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032234",
+        "begin": "2017-12-01T03:00:00.000Z",
+        "broadcast": "R/2017-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1447"
       }
     ]
   },
@@ -98,6 +108,20 @@
         "id": "80115466",
         "begin": "2017-05-19T15:00:00.000Z",
         "broadcast": "R/2017-05-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042822",
+        "begin": "2019-10-04T03:00:00.000Z",
+        "broadcast": "R/2019-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5517c70936cc53397d02a9ae"
+      },
+      {
+        "site": "mikan",
+        "id": "1323"
       }
     ]
   },
@@ -126,15 +150,22 @@
         "id": "148729"
       },
       {
-        "site": "letv",
-        "id": "10037456",
-        "begin": ""
-      },
-      {
         "site": "netflix",
         "id": "80190911",
         "begin": "2022-03-29T16:00:00.000Z",
         "broadcast": "R/2022-03-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031942",
+        "begin": "2017-11-10T03:00:00.000Z",
+        "broadcast": "R/2017-11-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237255",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -155,6 +186,12 @@
         "site": "nicovideo",
         "id": "caribadix",
         "begin": "2018-04-27T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077585",
+        "begin": "2023-01-25T03:00:00.000Z",
+        "broadcast": "R/2023-01-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -191,11 +228,6 @@
       {
         "site": "bangumi",
         "id": "215096"
-      },
-      {
-        "site": "bilibili",
-        "id": "6184",
-        "begin": "2017-05-12T16:00:00.000Z"
       }
     ]
   },
@@ -223,13 +255,18 @@
       {
         "site": "bilibili",
         "id": "6408",
-        "begin": "2017-08-24T16:00:00.000Z"
+        "begin": "2017-08-24T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjCJqSxL2mNygVVDyuPKn7y",
         "begin": "2020-11-06T16:00:00.000Z",
         "broadcast": "R/2020-11-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1399"
       }
     ]
   },
@@ -261,13 +298,12 @@
       {
         "site": "bilibili",
         "id": "7792",
-        "begin": "2017-05-18T16:00:00.000Z"
+        "begin": "2017-05-18T16:00:00.000Z",
+        "broadcast": ""
       },
       {
-        "site": "netflix",
-        "id": "80238911",
-        "begin": "2021-12-30T00:00:00.000Z",
-        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
+        "site": "mikan",
+        "id": "1443"
       }
     ]
   }

@@ -54,22 +54,28 @@
         "begin": ""
       },
       {
-        "site": "mytv",
-        "id": "myteenromanticcomedysnafuclimax0001_127890",
-        "begin": "2020-07-10T07:00:00.000Z",
-        "broadcast": "R/2020-07-10T07:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "104549",
-        "begin": "2020-07-10T07:00:00.000Z",
-        "broadcast": "R/2020-07-10T07:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28228474",
         "begin": "2020-07-10T07:00:01.000Z",
         "broadcast": "R/2020-07-10T07:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047120",
+        "begin": "2020-07-24T03:00:00.000Z",
+        "broadcast": "R/2020-07-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "我的青春戀愛 完"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5e822875657e22f4195cc78c"
+      },
+      {
+        "site": "mikan",
+        "id": "2186"
       },
       {
         "site": "abema",
@@ -131,6 +137,14 @@
         "id": "25-1nzan-whrxe",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5e822894657e22f4195cc7aa"
+      },
+      {
+        "site": "mikan",
+        "id": "2192"
       }
     ]
   },
@@ -186,6 +200,24 @@
         "id": "28228524",
         "begin": "2020-07-09T18:00:01.000Z",
         "broadcast": "R/2020-07-09T18:00:01.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "非槍"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5e822870657e22f4195cc788"
+      },
+      {
+        "site": "mikan",
+        "id": "2223"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "109320",
+        "begin": "2020-07-09T18:00:00.000Z",
+        "broadcast": "R/2020-07-09T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -230,10 +262,22 @@
         "broadcast": "R/2020-07-10T12:30:01.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-149",
-        "begin": "",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0047128",
+        "begin": "2020-07-15T13:00:00.000Z",
+        "broadcast": "R/2020-07-15T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "宇崎"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb4d3d656e43622cacc5"
+      },
+      {
+        "site": "mikan",
+        "id": "2251"
       }
     ]
   },
@@ -276,16 +320,11 @@
         "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchpB3_9Rr4W5xzGYr1VzEMF",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mytv",
-        "id": "rentagirlfriend0001_136684",
+        "id": "rentagirlfriend2426_141233",
         "begin": "2022-10-07T19:00:00.000Z",
-        "broadcast": "R/2022-10-07T19:00:00.000Z/P7D"
+        "broadcast": "R/2022-10-07T19:00:00.000Z/P7D",
+        "comment": "粵語: rentagirlfriend0001_136684"
       },
       {
         "site": "gamer",
@@ -304,6 +343,36 @@
         "id": "194-15",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047356",
+        "begin": "2020-07-15T17:00:00.000Z",
+        "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "62UPJ0liFk8K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "出租|租借 女友"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb4f3d656e43622cacc9"
+      },
+      {
+        "site": "mikan",
+        "id": "2252"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "109203",
+        "begin": "2020-07-10T18:00:00.000Z",
+        "broadcast": "R/2020-07-10T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -315,7 +384,8 @@
         "魔王学院的不适合者"
       ],
       "zh-Hant": [
-        "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～"
+        "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～",
+        "魔王學院的不適任者：史上最強的魔王始祖，轉生就讀子孫們的學校"
       ]
     },
     "type": "tv",
@@ -363,6 +433,36 @@
         "id": "25-147",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047136",
+        "begin": "2020-07-09T14:30:00.000Z",
+        "broadcast": "R/2020-07-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81299326",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "108067",
+        "begin": "2020-07-04T16:00:00.000Z",
+        "broadcast": "R/2020-07-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "魔王學院"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb503d656e43622cacd3"
+      },
+      {
+        "site": "mikan",
+        "id": "2253"
       }
     ]
   },
@@ -420,22 +520,10 @@
         "begin": ""
       },
       {
-        "site": "viu",
-        "id": "280718",
-        "begin": "2020-07-06T16:00:00.000Z",
-        "broadcast": "R/2020-07-06T16:00:00.000Z/P7D"
-      },
-      {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgAYf3IG6hFYEDlmbLeCv-1",
         "begin": "2022-05-25T16:00:00.000Z",
         "broadcast": "R/2022-05-25T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "rezerostartinglifeinanotherworldseason2_137311",
-        "begin": "2022-12-31T16:00:00.000Z",
-        "broadcast": "R/2022-12-31T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -454,6 +542,30 @@
         "id": "25-139",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047153",
+        "begin": "2020-07-13T14:00:00.000Z",
+        "broadcast": "R/2020-07-13T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "104687",
+        "begin": "2020-07-08T15:00:00.000Z",
+        "broadcast": "R/2020-07-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "從零 2季|二季|2期|二期|S02|S2|2nd"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2fbc4be624128fcd348"
+      },
+      {
+        "site": "mikan",
+        "id": "2259"
       }
     ]
   },
@@ -479,18 +591,6 @@
         "id": "294654"
       },
       {
-        "site": "bilibili",
-        "id": "28229235",
-        "begin": "2020-07-04T11:30:00.000Z",
-        "broadcast": ""
-      },
-      {
-        "site": "nicovideo",
-        "id": "mon-isha",
-        "begin": "2020-07-17T03:00:00.000Z",
-        "broadcast": "R/2020-07-17T03:00:00.000Z/P7D"
-      },
-      {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgpnORnaGJAzzB8e2bW8OZe",
         "begin": "2020-07-03T16:00:00.000Z",
@@ -501,6 +601,24 @@
         "id": "108673",
         "begin": "2020-07-04T11:30:00.000Z",
         "broadcast": "R/2020-07-04T11:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "108673",
+        "begin": "2020-07-04T11:30:00.000Z",
+        "broadcast": "R/2020-07-04T11:30:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "魔物娘的醫生"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2f8c4be624128fcd338"
+      },
+      {
+        "site": "mikan",
+        "id": "2254"
       }
     ]
   },
@@ -543,6 +661,30 @@
         "id": "28229301",
         "begin": "2020-07-03T16:30:01.000Z",
         "broadcast": "R/2020-07-03T16:30:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049161",
+        "begin": "2020-07-03T03:00:00.000Z",
+        "broadcast": "R/2020-07-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "弩級"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb4e3d656e43622cacc7"
+      },
+      {
+        "site": "mikan",
+        "id": "2255"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "108367",
+        "begin": "2020-07-03T16:30:00.000Z",
+        "broadcast": "R/2020-07-03T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -608,10 +750,28 @@
         "broadcast": "R/2020-06-28T11:30:01.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81299341",
-        "begin": "2021-08-11T16:00:00.000Z",
-        "broadcast": "R/2021-08-11T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0047131",
+        "begin": "2020-07-13T15:00:00.000Z",
+        "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "DECA DENCE"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2fbc4be624128fcd34a"
+      },
+      {
+        "site": "mikan",
+        "id": "2245"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "106466",
+        "begin": "2020-06-28T11:30:00.000Z",
+        "broadcast": "R/2020-06-28T11:30:00.000Z/P7D"
       }
     ]
   },
@@ -638,6 +798,30 @@
         "id": "koipro-anime",
         "begin": "2020-07-18T03:00:00.000Z",
         "broadcast": "R/2020-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049165",
+        "begin": "2020-07-15T15:00:00.000Z",
+        "broadcast": "R/2020-07-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "481-4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "戀與製作人"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2fcc4be624128fcd34c"
+      },
+      {
+        "site": "mikan",
+        "id": "2256"
       }
     ]
   },
@@ -697,6 +881,30 @@
         "id": "28229297",
         "begin": "2020-07-04T14:30:01.000Z",
         "broadcast": "R/2020-07-04T14:30:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047348",
+        "begin": "2020-07-07T13:00:00.000Z",
+        "broadcast": "R/2020-07-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "Lapis"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb503d656e43622cacd1"
+      },
+      {
+        "site": "mikan",
+        "id": "2246"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "110567",
+        "begin": "2020-07-04T14:30:00.000Z",
+        "broadcast": "R/2020-07-04T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -740,6 +948,30 @@
         "id": "28229302",
         "begin": "2020-07-10T18:05:01.000Z",
         "broadcast": "R/2020-07-10T18:05:01.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "107915",
+        "begin": "2020-07-10T17:50:00.000Z",
+        "broadcast": "R/2020-07-10T17:50:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "賢者時間"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb4f3d656e43622caccb"
+      },
+      {
+        "site": "mikan",
+        "id": "2257"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047148",
+        "begin": "2020-07-03T03:00:00.000Z",
+        "broadcast": "R/2020-07-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -786,6 +1018,30 @@
         "id": "28229290",
         "begin": "2020-07-06T16:00:01.000Z",
         "broadcast": "R/2020-07-06T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049166",
+        "begin": "2020-07-07T03:00:00.000Z",
+        "broadcast": "R/2020-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "GOD SCHOOL"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2f9c4be624128fcd33e"
+      },
+      {
+        "site": "mikan",
+        "id": "2261"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "111121",
+        "begin": "2020-07-06T16:00:00.000Z",
+        "broadcast": "R/2020-07-06T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -834,6 +1090,20 @@
         "id": "28229348",
         "begin": "2020-07-07T13:00:01.000Z",
         "broadcast": "R/2020-07-07T13:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049158",
+        "begin": "2020-07-07T12:54:00.000Z",
+        "broadcast": "R/2020-07-07T12:54:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2fac4be624128fcd340"
+      },
+      {
+        "site": "mikan",
+        "id": "2266"
       }
     ]
   },
@@ -859,12 +1129,6 @@
         "id": "308997"
       },
       {
-        "site": "bilibili",
-        "id": "28229300",
-        "begin": "2020-07-12T19:05:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "youku",
         "id": "aabfb55e50634aafb9ba",
         "begin": "2020-07-12T19:05:00.000Z"
@@ -877,6 +1141,22 @@
       },
       {
         "site": "gamer",
+        "id": "112409",
+        "begin": "2020-07-12T19:10:00.000Z",
+        "broadcast": "R/2020-07-12T19:10:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049157",
+        "begin": "2020-07-13T03:00:00.000Z",
+        "broadcast": "R/2020-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2275"
+      },
+      {
+        "site": "gamer_hk",
         "id": "112409",
         "begin": "2020-07-12T19:10:00.000Z",
         "broadcast": "R/2020-07-12T19:10:00.000Z/P7D"
@@ -924,12 +1204,6 @@
         "broadcast": "R/2020-07-16T03:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "gibiate_127881",
-        "begin": "2020-07-08T14:00:00.000Z",
-        "broadcast": "R/2020-07-08T14:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "106527",
         "begin": "2020-07-15T14:00:00.000Z",
@@ -946,6 +1220,30 @@
         "id": "PLxSscENEp7JipHQ11BNQDHfVq4pLEUQCv",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047352",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "106527",
+        "begin": "2020-07-15T14:00:00.000Z",
+        "broadcast": "R/2020-07-15T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "Gibiate"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2fbc4be624128fcd346"
+      },
+      {
+        "site": "mikan",
+        "id": "2269"
       }
     ]
   },
@@ -977,10 +1275,16 @@
         "broadcast": "R/2020-07-05T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "111487",
-        "begin": "2020-07-05T17:05:00.000Z",
-        "broadcast": "R/2020-07-05T17:05:00.000Z/P7D"
+        "site": "dmhy",
+        "id": "巨人族的新娘"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2f8c4be624128fcd33a"
+      },
+      {
+        "site": "mikan",
+        "id": "2270"
       }
     ]
   },
@@ -1007,6 +1311,16 @@
       },
       {
         "site": "gamer",
+        "id": "112206",
+        "begin": "2020-07-10T17:52:00.000Z",
+        "broadcast": "R/2020-07-10T17:52:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb4f3d656e43622caccd"
+      },
+      {
+        "site": "gamer_hk",
         "id": "112206",
         "begin": "2020-07-10T17:52:00.000Z",
         "broadcast": "R/2020-07-10T17:52:00.000Z/P7D"
@@ -1064,12 +1378,6 @@
         "broadcast": "R/2022-12-15T16:00:00.000Z/P7D"
       },
       {
-        "site": "nowPlayer",
-        "id": "S202010070115964",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer",
         "id": "109386",
         "begin": "2022-08-05T05:10:00.000Z",
@@ -1082,10 +1390,22 @@
         "broadcast": "R/2020-07-03T16:55:01.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "194-17",
-        "begin": "",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0049156",
+        "begin": "2020-07-03T17:30:00.000Z",
+        "broadcast": "R/2020-07-03T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "炎炎消防隊 2季|二季|2期|二期|S02|S2|2nd"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb4f3d656e43622caccf"
+      },
+      {
+        "site": "mikan",
+        "id": "2267"
       }
     ]
   },
@@ -1127,6 +1447,24 @@
         "site": "acfun",
         "id": "6002662",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0049159",
+        "begin": "2024-03-09T03:00:00.000Z",
+        "broadcast": "R/2024-03-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "大欺詐師"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5ed5f525306f1a0007da872c"
+      },
+      {
+        "site": "mikan",
+        "id": "2242"
       }
     ]
   },
@@ -1149,12 +1487,6 @@
         "id": "278202"
       },
       {
-        "site": "bilibili",
-        "id": "28229398",
-        "begin": "2020-07-05T16:00:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "qq",
         "id": "m/mzc00200hoxig81",
         "begin": ""
@@ -1164,6 +1496,16 @@
         "id": "80204451",
         "begin": "2018-12-18T00:00:00.000Z",
         "broadcast": "R/2018-12-18T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064421",
+        "begin": "2021-12-20T03:00:00.000Z",
+        "broadcast": "R/2021-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2243"
       }
     ]
   },
@@ -1196,6 +1538,12 @@
         "id": "28228566",
         "begin": "2020-05-06T16:00:00.000Z",
         "broadcast": "R/2020-05-07T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054277",
+        "begin": "2020-12-25T03:00:00.000Z",
+        "broadcast": "R/2020-12-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1249,6 +1597,20 @@
         "id": "28229294",
         "begin": "2020-07-07T11:42:10.000Z",
         "broadcast": "R/2020-07-07T11:42:10.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2fac4be624128fcd342"
+      },
+      {
+        "site": "mikan",
+        "id": "2272"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "106136",
+        "begin": "2020-07-07T11:30:00.000Z",
+        "broadcast": "R/2020-07-07T11:30:00.000Z/P7D"
       }
     ]
   },
@@ -1287,10 +1649,12 @@
         "begin": ""
       },
       {
-        "site": "nicovideo",
-        "id": "japansinks2020",
-        "begin": "2022-10-27T15:00:00.000Z",
-        "broadcast": "R/2022-10-27T15:00:00.000Z/P7D"
+        "site": "bangumi_moe",
+        "id": "5f13d7c732f14c000704bb1a"
+      },
+      {
+        "site": "mikan",
+        "id": "2273"
       }
     ]
   },
@@ -1342,6 +1706,18 @@
         "id": "30-12",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0058629",
+        "begin": "2021-06-08T15:00:00.000Z",
+        "broadcast": "R/2021-06-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki-movie-chronicle",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1368,6 +1744,20 @@
       },
       {
         "site": "gamer",
+        "id": "112205",
+        "begin": "2020-06-30T23:30:00.000Z",
+        "broadcast": "R/2020-06-30T23:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efff2fac4be624128fcd344"
+      },
+      {
+        "site": "mikan",
+        "id": "2271"
+      },
+      {
+        "site": "gamer_hk",
         "id": "112205",
         "begin": "2020-06-30T23:30:00.000Z",
         "broadcast": "R/2020-06-30T23:30:00.000Z/P7D"

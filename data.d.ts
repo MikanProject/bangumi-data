@@ -179,26 +179,26 @@ type SiteList =
     | "bilibili_hk_mo_tw"
     | "bilibili_hk_mo"
     | "bilibili_tw"
-    | "sohu"
     | "youku"
     | "qq"
     | "iqiyi"
     | "letv"
-    | "pptv"
     | "mgtv"
     | "nicovideo"
     | "netflix"
     | "gamer"
+    | "gamer_hk"
     | "muse_hk"
     | "ani_one"
     | "ani_one_asia"
     | "viu"
     | "mytv"
     | "disneyplus"
-    | "nowPlayer"
     | "abema"
     | "unext"
-    | "dmhy";
+    | "dmhy"
+    | "mikan"
+    | "bangumi_moe";
 
 export const siteMeta: Record<SiteList, SiteMeta>;
 

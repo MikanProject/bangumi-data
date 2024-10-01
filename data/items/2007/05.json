@@ -23,12 +23,6 @@
         "id": "794"
       },
       {
-        "site": "bilibili",
-        "id": "1294",
-        "begin": "2007-05-11T16:00:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "netflix",
         "id": "81299264",
         "begin": "2022-01-25T16:00:00.000Z",
@@ -36,6 +30,18 @@
       },
       {
         "site": "gamer",
+        "id": "17954",
+        "begin": "2022-07-15T03:00:00.000Z",
+        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015834",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
         "id": "17954",
         "begin": "2022-07-15T03:00:00.000Z",
         "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
@@ -68,6 +74,13 @@
         "site": "nicovideo",
         "id": "aquarion-betrayal",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0011350",
+        "begin": "2008-10-16T06:00:00.000Z",
+        "broadcast": "R/2008-10-16T06:00:00.000Z/P7D",
+        "comment": "後編: SID0011351"
       }
     ]
   },
@@ -84,11 +97,6 @@
     "begin": "2007-05-25T16:00:00.000Z",
     "end": "2007-09-25T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "AUs1sxuB8SibSEHg",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "4008"
@@ -108,11 +116,6 @@
     "begin": "2007-05-07T16:00:00.000Z",
     "end": "2007-12-10T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "pUwopg505CKFA2s",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "4193"

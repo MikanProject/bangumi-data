@@ -19,19 +19,9 @@
     "end": "1988-03-28T19:05:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "fauVE3vhUYicycNg",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrk7f6i9",
         "begin": "2012-08-24T05:26:39.000Z"
-      },
-      {
-        "site": "sohu",
-        "id": "s2012/cslr",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -53,6 +43,18 @@
         "id": "2416",
         "begin": "2020-04-26T09:57:00.000Z",
         "broadcast": "R/2020-04-26T09:57:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013052",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "19171",
+        "begin": "2019-07-24T09:00:00.000Z",
+        "broadcast": "R/2019-07-24T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -69,11 +71,6 @@
     "begin": "1987-04-06T12:00:00.000Z",
     "end": "1988-03-07T12:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "jsC8OqIIeLYZlic8",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "r/rr57uvmizpiqd67",
@@ -107,6 +104,12 @@
       {
         "site": "bangumi",
         "id": "26798"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028516",
+        "begin": "2019-08-30T03:00:00.000Z",
+        "broadcast": "R/2019-08-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -123,11 +126,6 @@
     "begin": "1987-04-07T16:00:00.000Z",
     "end": "1989-10-26T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "kIdx71e9LWvOTLQ",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "75182"
@@ -154,13 +152,14 @@
     "end": "1987-04-15T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "cqaiaIIjuXpzicfeU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "57567"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004309",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -192,6 +191,12 @@
         "id": "2426",
         "begin": "2013-02-25T15:50:34.000Z",
         "broadcast": "R/2013-02-25T15:50:34.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040175",
+        "begin": "2019-03-31T03:00:00.000Z",
+        "broadcast": "R/2019-03-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -223,6 +228,34 @@
         "id": "79322",
         "begin": "2022-06-10T04:00:00.000Z",
         "broadcast": "R/2022-06-10T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ウルトラB",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太空儿UB",
+        "超能婴儿"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-04-04T16:00:00.000Z",
+    "broadcast": "R/1987-04-04T16:00:00.000Z/P7D",
+    "end": "1989-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189678"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004902",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ]
   }

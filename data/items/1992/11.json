@@ -16,11 +16,6 @@
     "end": "1993-06-01T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "HU46uCCG9jSXFX0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1955"
       },
@@ -34,6 +29,12 @@
         "id": "PLxSscENEp7Jgvd7Mh1tBfgWmitzhSZk8n",
         "begin": "2021-10-07T16:00:00.000Z",
         "broadcast": "R/2021-10-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016639",
+        "begin": "2023-02-14T03:00:00.000Z",
+        "broadcast": "R/2023-02-14T03:00:00.000Z/P7D"
       }
     ]
   }

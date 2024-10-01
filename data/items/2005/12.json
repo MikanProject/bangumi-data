@@ -36,11 +36,6 @@
     "end": "2006-06-10T09:25:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Igr1c9tBse9S0Dg",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhc03et",
         "begin": "2014-11-07T07:21:10.000Z"
@@ -54,6 +49,16 @@
         "id": "38846",
         "begin": "2021-10-15T06:00:00.000Z",
         "broadcast": "R/2021-10-15T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002342",
+        "begin": "2023-03-07T15:00:00.000Z",
+        "broadcast": "R/2023-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5ac0aab1395e2a122f10f081"
       }
     ]
   },
@@ -105,6 +110,12 @@
         "id": "3752",
         "begin": "2005-12-21T16:00:01.000Z",
         "broadcast": "R/2016-04-15T07:28:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002233",
+        "begin": "2019-05-23T03:00:00.000Z",
+        "broadcast": "R/2019-05-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -122,11 +133,6 @@
     "begin": "2005-12-29T16:00:00.000Z",
     "end": "2005-12-29T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "yHxY1j6kFFK1M5s",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrha3e7d",
@@ -146,6 +152,12 @@
         "id": "3743",
         "begin": "2016-04-14T08:04:00.000Z",
         "broadcast": "R/2016-04-14T08:04:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017771",
+        "begin": "2018-12-01T03:00:00.000Z",
+        "broadcast": "R/2018-12-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -171,6 +183,12 @@
       {
         "site": "bangumi",
         "id": "20232"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011330",
+        "begin": "2018-05-18T03:00:00.000Z",
+        "broadcast": "R/2018-05-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -207,19 +225,8 @@
     "end": "2006-03-18T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "6Folowtx4RibCAGg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7365"
-      },
-      {
-        "site": "bilibili",
-        "id": "1976",
-        "begin": "2005-12-16T16:00:00.000Z",
-        "broadcast": ""
       }
     ]
   },
@@ -240,6 +247,12 @@
         "site": "nicovideo",
         "id": "mushiking-movie01",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014776",
+        "begin": "2019-01-31T03:00:00.000Z",
+        "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -261,14 +274,15 @@
         "id": "4397"
       },
       {
-        "site": "letv",
-        "id": "89803",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016627",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -294,6 +308,90 @@
         "id": "4984",
         "begin": "2016-07-05T09:47:00.000Z",
         "broadcast": "R/2016-07-05T09:47:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "NAGASAKI・1945 ～アンゼラスの鐘～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "长崎1945 天使之钟"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-12-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-12-09T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188858"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096496",
+        "begin": "2024-01-12T03:00:00.000Z",
+        "broadcast": "R/2024-01-12T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "あらしのよるに",
+    "titleTranslate": {
+      "zh-Hans": [
+        "翡翠森林狼与羊",
+        "狼羊物语",
+        "翡翠森林",
+        "暴风雨之夜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-12-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-12-09T17:47:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13809"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029892",
+        "begin": "2021-11-26T03:00:00.000Z",
+        "broadcast": "R/2021-11-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Dr.ピノコの森の冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪医黑杰克：皮诺可博士的森林冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/132.html",
+    "begin": "2005-12-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-12-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "284370"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003376",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

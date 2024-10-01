@@ -22,6 +22,14 @@
         "site": "nicovideo",
         "id": "miniyuri",
         "begin": "2019-10-25T03:00:00.000Z"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5d9a9acb306f1a0007beb928"
+      },
+      {
+        "site": "mikan",
+        "id": "2029"
       }
     ]
   },
@@ -89,6 +97,26 @@
         "id": "28222835",
         "begin": "2019-09-30T23:33:00.000Z",
         "broadcast": "R/2019-09-30T23:33:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043444",
+        "begin": "2019-10-01T03:00:00.000Z",
+        "broadcast": "R/2019-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "107629",
+        "begin": "2019-09-30T23:35:00.000Z",
+        "broadcast": "R/2019-09-30T23:35:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5d9392b94e9c003faceb5c6e"
+      },
+      {
+        "site": "mikan",
+        "id": "2071"
       }
     ]
   },
@@ -154,12 +182,32 @@
         "id": "101412",
         "begin": "2019-12-19T16:00:00.000Z",
         "broadcast": "R/2019-12-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044959",
+        "begin": "2020-01-01T03:00:00.000Z",
+        "broadcast": "R/2020-01-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "101412",
+        "begin": "2019-12-19T16:00:00.000Z",
+        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2017"
       }
     ]
   },
   {
     "title": "BanG Dream! FILM LIVE",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "BanG Dream！FILM LIVE"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/filmlive/",
@@ -188,6 +236,22 @@
         "id": "106512",
         "begin": "2020-05-19T06:30:00.000Z",
         "broadcast": "R/2020-05-19T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060951",
+        "begin": "2021-08-24T15:00:00.000Z",
+        "broadcast": "R/2021-08-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "106512",
+        "begin": "2020-05-19T06:30:00.000Z",
+        "broadcast": "R/2020-05-19T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2389"
       }
     ]
   },
@@ -236,6 +300,16 @@
         "id": "131761",
         "begin": "2023-04-28T03:00:00.000Z",
         "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051059",
+        "begin": "2020-09-01T03:00:00.000Z",
+        "broadcast": "R/2020-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5d9392c74e9c003faceb5ca2"
       }
     ]
   },
@@ -268,6 +342,22 @@
         "id": "104025",
         "begin": "2022-12-16T03:00:00.000Z",
         "broadcast": "R/2022-12-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049399",
+        "begin": "2020-07-15T03:00:00.000Z",
+        "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2070"
+      },
+      {
+        "site": "abema",
+        "id": "30-13",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -294,6 +384,12 @@
         "id": "28222715",
         "begin": "2019-09-24T16:00:00.000Z",
         "broadcast": "R/2019-09-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047250",
+        "begin": "2020-04-01T03:00:00.000Z",
+        "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -333,6 +429,72 @@
         "id": "28226644",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2168"
+      }
+    ]
+  },
+  {
+    "title": "鬼灯の冷徹 第弐期 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灯的冷彻 第二季 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.hozukino-reitetsu.com/oad2/",
+    "begin": "2019-09-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-09-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278449"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050895",
+        "begin": "2020-09-12T03:00:00.000Z",
+        "broadcast": "R/2020-09-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2405"
+      }
+    ]
+  },
+  {
+    "title": "HELLO WORLD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "你好 世界"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://hello-world-movie.com",
+    "begin": "2019-09-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-09-19T17:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "269090"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046073",
+        "begin": "2022-04-20T03:00:00.000Z",
+        "broadcast": "R/2022-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2176"
       }
     ]
   }

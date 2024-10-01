@@ -16,11 +16,6 @@
     "end": "1991-03-08T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "XOvWVLwiaktAzsRk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1973"
       },
@@ -36,6 +31,12 @@
       },
       {
         "site": "gamer",
+        "id": "31779",
+        "begin": "2020-10-26T05:00:00.000Z",
+        "broadcast": "R/2020-10-26T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
         "id": "31779",
         "begin": "2020-10-26T05:00:00.000Z",
         "broadcast": "R/2020-10-26T05:00:00.000Z/P7D"
@@ -68,6 +69,18 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010763",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "184-159",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -87,11 +100,6 @@
     "begin": "1990-03-10T16:00:00.000Z",
     "end": "1990-03-10T17:30:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "80869",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "449"
@@ -118,6 +126,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099855",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -170,6 +184,56 @@
         "id": "3279",
         "begin": "2016-01-09T03:54:00.000Z",
         "broadcast": "R/2016-01-09T03:54:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔法使いサリー 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使莎莉 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "403045"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003374",
+        "begin": "2020-01-19T03:00:00.000Z",
+        "broadcast": "R/2020-01-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "悪魔くん ようこそ悪魔ランドへ！！",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/movie/movie_akuma_akumaland",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:26:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414961"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002432",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
       }
     ]
   }

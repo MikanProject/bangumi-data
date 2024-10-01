@@ -15,11 +15,6 @@
     "end": "2014-08-07T15:36:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "1HVf3UWrG1m8OqI",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "84",
         "begin": "2014-08-04T16:00:00.000Z",
@@ -29,11 +24,6 @@
         "site": "youku",
         "id": "a9b52a10241b11e4a705",
         "begin": "2014-08-17T02:29:19.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10004046",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -55,11 +45,6 @@
     "end": "2014-08-16T13:00:00.000Z",
     "sites": [
       {
-        "site": "sohu",
-        "id": "s2014/hwy",
-        "begin": "2014-08-22T01:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "82322"
       },
@@ -72,6 +57,10 @@
         "site": "acfun",
         "id": "6003043",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "362"
       }
     ]
   },
@@ -130,11 +119,6 @@
         "id": "95800"
       },
       {
-        "site": "pptv",
-        "id": "BiaELiafFXxwVo5k4",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "c/ciw1zkqfr3cjfv7",
         "begin": ""
@@ -144,6 +128,18 @@
         "id": "80158156",
         "begin": "2023-09-29T16:00:00.000Z",
         "broadcast": "R/2023-09-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017985",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28236943",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -160,11 +156,6 @@
     "begin": "2014-08-29T16:00:00.000Z",
     "end": "2014-08-29T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "SuzIRq4UhMIlows",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "100450"
@@ -203,11 +194,6 @@
         "id": "90502"
       },
       {
-        "site": "pptv",
-        "id": "fsmjIYnvX50AfuY",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "q/qcx1frbiv572go5",
         "begin": "",
@@ -224,6 +210,12 @@
         "id": "28233695",
         "begin": "2021-02-18T04:25:00.000Z",
         "broadcast": "R/2021-02-18T04:25:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027831",
+        "begin": "2019-11-23T03:00:00.000Z",
+        "broadcast": "R/2019-11-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -252,21 +244,10 @@
         "id": "78796"
       },
       {
-        "site": "pptv",
-        "id": "cOzIRq4UhMIlows",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3838",
         "begin": "2014-08-22T16:00:01.000Z",
         "broadcast": "R/2021-05-16T10:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "initialdthemovielegend1_107413",
-        "begin": "1999-12-31T16:00:00.000Z",
-        "broadcast": "R/1999-12-31T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -279,6 +260,12 @@
         "id": "168-48",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0012056",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -298,11 +285,6 @@
       {
         "site": "bangumi",
         "id": "103812"
-      },
-      {
-        "site": "pptv",
-        "id": "xWpGxCySAkCjIYk",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -334,6 +316,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4d6x",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0018852",
+        "begin": "2015-07-01T06:00:00.000Z",
+        "broadcast": "R/2015-07-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ノゾ×キミ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "望实与君雄",
+        "美男和小希"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-02-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103824"
       }
     ]
   }

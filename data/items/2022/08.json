@@ -41,6 +41,26 @@
         "id": "PLuxqoToY7UcicT-1ToKgzWzzS5BxjbQFi",
         "begin": "2023-03-07T16:00:00.000Z",
         "broadcast": "R/2023-03-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069660",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "118966",
+        "begin": "2022-07-31T16:00:00.000Z",
+        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "風都偵探"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "62c125a72fc3ee0d0016bf34"
       }
     ]
   },
@@ -77,6 +97,10 @@
         "id": "28338797",
         "begin": "2022-08-03T18:00:00.000Z",
         "broadcast": "R/2022-08-03T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "62c125ae2fc3ee0d0016bf50"
       }
     ]
   },
@@ -213,6 +237,12 @@
         "id": "129504",
         "begin": "2023-01-06T15:30:00.000Z",
         "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0072510",
+        "begin": "2022-08-19T14:00:00.000Z",
+        "broadcast": "R/2022-08-19T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -262,7 +292,8 @@
     "title": "ONE PIECE FILM RED",
     "titleTranslate": {
       "zh-Hans": [
-        "海贼王 红发歌姬"
+        "海贼王 红发歌姬",
+        "航海王：红发歌姬"
       ],
       "zh-Hant": [
         "航海王劇場版：紅髮歌姬"
@@ -284,6 +315,22 @@
         "id": "81700392",
         "begin": "2023-12-14T00:00:00.000Z",
         "broadcast": "R/2023-12-14T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099619",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28368476",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2955"
       }
     ]
   },
@@ -307,8 +354,60 @@
         "id": "286127"
       },
       {
-        "site": "nicovideo",
-        "id": "g-reco-movie5",
+        "site": "unext",
+        "id": "SID0076422",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ツルネ －はじまりの一射－",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 弦音 -起始的一箭-",
+        "剧场版 弦音 -最初的一射-",
+        "剧场版 弦音 -开始的一射-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tsurune.com/movie/",
+    "begin": "2022-08-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-08-18T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317376"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078089",
+        "begin": "2023-01-18T03:00:00.000Z",
+        "broadcast": "R/2023-01-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2937"
+      }
+    ]
+  },
+  {
+    "title": "がんばれ！長州くん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-08-01T01:15:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-08T01:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0076025",
         "begin": "2022-12-22T15:00:00.000Z",
         "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
       }

@@ -26,6 +26,24 @@
         "site": "youku",
         "id": "4ed9814aaab111e5b692",
         "begin": "2016-02-07T08:22:12.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0022250",
+        "begin": "2016-03-04T03:00:00.000Z",
+        "broadcast": "R/2016-03-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "男子+魔法"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "56855ac62555b5145b45a8ce"
+      },
+      {
+        "site": "mikan",
+        "id": "673"
       }
     ]
   },
@@ -46,11 +64,6 @@
     "end": "2017-03-25T01:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "s4lj4UmvH13APqY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "162663"
       },
@@ -59,6 +72,16 @@
         "id": "3574",
         "begin": "2016-02-05T16:00:01.000Z",
         "broadcast": "R/2016-04-13T02:44:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073295",
+        "begin": "2022-09-29T03:00:00.000Z",
+        "broadcast": "R/2022-09-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "674"
       }
     ]
   },
@@ -89,6 +112,22 @@
       {
         "site": "bangumi",
         "id": "159826"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030300",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "679"
+      },
+      {
+        "site": "abema",
+        "id": "5-57",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -109,16 +148,6 @@
     "end": "2016-02-20T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "4Ucxrxd97SuODHQ",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "10022758",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "128239"
       },
@@ -134,6 +163,12 @@
       },
       {
         "site": "gamer",
+        "id": "76012",
+        "begin": "2022-03-25T04:00:00.000Z",
+        "broadcast": "R/2022-03-25T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
         "id": "76012",
         "begin": "2022-03-25T04:00:00.000Z",
         "broadcast": "R/2022-03-25T04:00:00.000Z/P7D"
@@ -154,19 +189,9 @@
     "end": "2016-02-06T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "otmjIYnvX50AfuY",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrh9mhz9",
         "begin": "2016-08-31T16:02:16.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "82177",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -177,6 +202,12 @@
         "id": "1659",
         "begin": "2012-08-03T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013602",
+        "begin": "2015-03-19T15:00:00.000Z",
+        "broadcast": "R/2015-03-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -211,11 +242,6 @@
       {
         "site": "bangumi",
         "id": "144465"
-      },
-      {
-        "site": "pptv",
-        "id": "TicbiaYMguntwicvSU",
-        "begin": ""
       }
     ]
   },
@@ -237,9 +263,8 @@
         "id": "131540"
       },
       {
-        "site": "pptv",
-        "id": "kbqWFHziaUpDzcdk",
-        "begin": ""
+        "site": "mikan",
+        "id": "807"
       }
     ]
   },
@@ -261,11 +286,6 @@
         "id": "111761"
       },
       {
-        "site": "pptv",
-        "id": "cOzIRq4UhMIlows",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5126",
         "begin": "2016-02-05T16:00:01.000Z",
@@ -276,6 +296,64 @@
         "id": "168-48",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0025657",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/nintama-cosmic/",
+    "begin": "2016-02-10T16:00:00.000Z",
+    "broadcast": "R/2016-02-10T16:00:00.000Z/P7D",
+    "end": "2019-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279478"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044351",
+        "begin": "2019-12-15T03:00:00.000Z",
+        "broadcast": "R/2019-12-15T03:00:00.000Z/P7D",
+        "comment": "#3-#4: SID0044352, #5-#6: SID0044353, #7-#8: SID0046414, #9-#10: SID0068755"
+      }
+    ]
+  },
+  {
+    "title": "ラストエグザイル -銀翼のファム- Over the Wishes",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终流放-银翼的飞梦 Over the wishes",
+        "最终流放-银翼之法姆"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-02-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-02-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148846"
+      },
+      {
+        "site": "unext",
+        "id": "SID0023861",
+        "begin": "2019-11-21T03:00:00.000Z",
+        "broadcast": "R/2019-11-21T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -13,11 +13,6 @@
     "end": "2009-09-05T22:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VZZy8FiaibLmzPTbU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "55144"
       }
@@ -37,11 +32,6 @@
     "end": "2008-12-23T16:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "yGpV0zuhEUibyMJg",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "p/pk87sfhwvxamsxd",
         "begin": ""
@@ -55,6 +45,12 @@
         "id": "1220",
         "begin": "2008-10-06T16:00:00.000Z",
         "broadcast": "R/2013-08-21T04:20:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003181",
+        "begin": "2015-10-29T06:00:00.000Z",
+        "broadcast": "R/2015-10-29T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -72,11 +68,6 @@
     "end": "2009-02-04T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "E0RAviaaMicDqdG4M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "917"
       },
@@ -85,6 +76,12 @@
         "id": "1206",
         "begin": "2008-09-23T16:00:00.000Z",
         "broadcast": "R/2011-08-26T03:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054846",
+        "begin": "2021-01-29T03:00:00.000Z",
+        "broadcast": "R/2021-01-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -102,24 +99,14 @@
     "end": "2008-09-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "XYSAicmbMPHrdW8M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "13557"
       },
       {
-        "site": "bilibili",
-        "id": "3548",
-        "begin": "2008-09-25T16:00:01.000Z",
-        "broadcast": ""
-      },
-      {
-        "site": "acfun",
-        "id": "6000137",
-        "begin": "2019-09-19T10:58:48.000Z"
+        "site": "unext",
+        "id": "SID0035659",
+        "begin": "2018-08-01T03:00:00.000Z",
+        "broadcast": "R/2018-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -139,11 +126,6 @@
       {
         "site": "bangumi",
         "id": "22599"
-      },
-      {
-        "site": "pptv",
-        "id": "WpJu7FS6KmjLSbE",
-        "begin": ""
       }
     ]
   },
@@ -163,12 +145,6 @@
       {
         "site": "bangumi",
         "id": "162688"
-      },
-      {
-        "site": "nicovideo",
-        "id": "jump-ani-gintama",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -188,16 +164,6 @@
       {
         "site": "bangumi",
         "id": "4663"
-      },
-      {
-        "site": "pptv",
-        "id": "KQUAfuZMvPpd20M",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "18248",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -254,6 +220,74 @@
       {
         "site": "abema",
         "id": "26-48",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091702",
+        "begin": "2023-08-24T15:00:00.000Z",
+        "broadcast": "R/2023-08-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "22664",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マッハガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Mach Girl"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/machgirl/",
+    "begin": "2008-09-12T16:00:00.000Z",
+    "broadcast": "R/2008-09-12T16:00:00.000Z/P7D",
+    "end": "2008-09-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139469"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017886",
+        "begin": "2019-09-09T03:00:00.000Z",
+        "broadcast": "R/2019-09-09T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "游戏王5D's 进化的决斗！星尘龙VS真红魔龙",
+        "游☆戏☆王5D's 进化的决斗！星尘龙VS真红魔龙",
+        "游☆戏☆王 5D's OVA 进化的决斗！星尘龙 VS 真红魔龙"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "464474"
+      },
+      {
+        "site": "bilibili",
+        "id": "1721",
         "begin": "",
         "broadcast": ""
       }

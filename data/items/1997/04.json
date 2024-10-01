@@ -26,11 +26,6 @@
     "end": "2002-11-14T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ASUPjfVbywls6lI",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrifpgxp",
         "begin": "2014-04-09T23:55:28.000Z"
@@ -38,11 +33,6 @@
       {
         "site": "qq",
         "id": "t/tyeqdw6rof7t5ow",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2017/jlbkm1",
         "begin": ""
       },
       {
@@ -65,6 +55,12 @@
         "id": "2-14",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0103146",
+        "begin": "2024-06-01T03:00:00.000Z",
+        "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -82,13 +78,14 @@
     "end": "1997-09-23T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "TibDbWcEnl9U4th4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19542"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003236",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -106,11 +103,6 @@
     "end": "1997-12-24T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ToB8ibmLIOHbZV78",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1453"
       },
@@ -120,10 +112,10 @@
         "begin": "2018-03-07T21:00:00.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "2277",
-        "begin": "1997-04-01T16:00:00.000Z",
-        "broadcast": "R/2013-05-11T10:54:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0002637",
+        "begin": "2019-10-08T03:00:00.000Z",
+        "broadcast": "R/2019-10-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -146,6 +138,12 @@
       {
         "site": "bangumi",
         "id": "105129"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003377",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -164,11 +162,6 @@
     "end": "1997-09-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "QicTPTbUbia8ksqhI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2097"
       },
@@ -177,6 +170,12 @@
         "id": "1114",
         "begin": "2011-02-09T07:23:00.000Z",
         "broadcast": "R/2011-02-09T07:23:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002668",
+        "begin": "2019-11-22T03:00:00.000Z",
+        "broadcast": "R/2019-11-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -222,11 +221,6 @@
         "begin": "2014-04-09T23:58:56.000Z"
       },
       {
-        "site": "letv",
-        "id": "46119",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1934"
       },
@@ -248,6 +242,18 @@
       },
       {
         "site": "gamer",
+        "id": "18487",
+        "begin": "2021-08-01T04:00:00.000Z",
+        "broadcast": "R/2021-08-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002715",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
         "id": "18487",
         "begin": "2021-08-01T04:00:00.000Z",
         "broadcast": "R/2021-08-01T04:00:00.000Z/P7D"
@@ -275,11 +281,6 @@
       {
         "site": "bangumi",
         "id": "53939"
-      },
-      {
-        "site": "letv",
-        "id": "10004313",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -316,6 +317,12 @@
         "id": "5-11",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0011081",
+        "begin": "2019-12-13T03:00:00.000Z",
+        "broadcast": "R/2019-12-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -332,11 +339,6 @@
     "begin": "1997-04-19T16:00:00.000Z",
     "end": "1997-04-19T17:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "3aGLCXHXR4XoZs4",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "begin": "",
@@ -367,6 +369,12 @@
         "id": "35-55",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010785",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -393,11 +401,6 @@
         "id": "2968"
       },
       {
-        "site": "pptv",
-        "id": "NQHradE3pibVIxia4",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "7/7yps65l58q1djte",
         "begin": "",
@@ -412,6 +415,18 @@
         "site": "bilibili",
         "id": "28228964",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010671",
+        "begin": "2024-04-04T15:00:00.000Z",
+        "broadcast": "R/2024-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
         "broadcast": ""
       }
     ]
@@ -430,11 +445,6 @@
     "begin": "1997-04-02T16:00:00.000Z",
     "end": "1997-06-25T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "JmlT0TmfD02wLpY",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "19454"
@@ -461,11 +471,6 @@
     "end": "2000-03-29T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "3WpV0zuhEUibyMJg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "8412"
       },
@@ -474,6 +479,69 @@
         "id": "2031",
         "begin": "1997-04-01T16:00:00.000Z",
         "broadcast": "R/2011-12-28T20:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "スーパーフィッシング グランダー武蔵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才钓鱼郎",
+        "天才小鱼郎",
+        "极速鱼技",
+        "小钓手武藏"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-04-01T16:00:00.000Z",
+    "broadcast": "R/1997-04-01T16:00:00.000Z/P7D",
+    "end": "1997-09-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36013"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003339",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "HARELUYA II BØY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣子到"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-04-07T16:00:00.000Z",
+    "broadcast": "R/1997-04-07T16:00:00.000Z/P7D",
+    "end": "1997-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "87630"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046015",
+        "begin": "2020-02-01T03:00:00.000Z",
+        "broadcast": "R/2020-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "4297005",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

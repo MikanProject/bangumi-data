@@ -20,18 +20,8 @@
     "end": "1991-11-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NgD7eeFHticVY1j4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1954"
-      },
-      {
-        "site": "letv",
-        "id": "21118",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -40,16 +30,10 @@
         "broadcast": "R/2012-10-13T14:26:00.000Z/P7D"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgRTB106KfQHKncVda6Z4gs",
-        "begin": "2021-09-28T16:00:00.000Z",
-        "broadcast": "R/2021-09-28T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "526",
-        "begin": "2022-02-18T03:00:00.000Z",
-        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0016635",
+        "begin": "2023-02-14T03:00:00.000Z",
+        "broadcast": "R/2023-02-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -74,6 +58,12 @@
       {
         "site": "bangumi",
         "id": "4482"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012889",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -103,6 +93,18 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010765",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "184-166",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -122,11 +124,6 @@
     "begin": "1991-03-09T16:00:00.000Z",
     "end": "1991-03-09T17:40:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "80870",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "450"
@@ -153,6 +150,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099856",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -172,11 +175,6 @@
       {
         "site": "bangumi",
         "id": "121742"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       }
     ]
   },
@@ -213,6 +211,78 @@
         "id": "57732",
         "begin": "2018-01-19T02:34:00.000Z",
         "broadcast": "R/2018-01-19T02:34:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "BURN-UP",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀人科"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36808"
+      }
+    ]
+  },
+  {
+    "title": "武者・騎士・コマンド SDガンダム緊急出撃",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-03-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-15T16:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279055"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077807",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "まじかる☆タルるートくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔星",
+        "幻法小魔星剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-03-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-08T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "416781"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016948",
+        "begin": "2022-10-18T03:00:00.000Z",
+        "broadcast": "R/2022-10-18T03:00:00.000Z/P7D"
       }
     ]
   }

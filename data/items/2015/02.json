@@ -19,12 +19,6 @@
         "begin": "2015-02-12T20:35:00.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "1528",
-        "begin": "2015-02-12T20:35:00.000Z",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi",
         "id": "115338"
       },
@@ -33,6 +27,20 @@
         "id": "mental-anime",
         "begin": "2015-02-12T20:00:00.000Z",
         "broadcast": "R/2015-02-12T20:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010793",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "心療"
+      },
+      {
+        "site": "mikan",
+        "id": "466"
       }
     ]
   },
@@ -52,11 +60,6 @@
     "begin": "2015-02-28T16:00:00.000Z",
     "end": "2018-05-05T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "samDAWnPP33gXsY",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "62680"
@@ -83,10 +86,15 @@
         "comment": "II：悲傷的阿爾黛西亞: mobilesuitgundamtheoriginiblueeyedcasval_115943, III：破曉起義: mobilesuitgundamtheoriginiii0001_115985, IV：命運的前夜: mobilesuitgundamtheoriginiv0001_115986, V：激戰 魯姆會戰: mobilesuitgundamtheoriginvcanjapversion_120371, VI：紅彗星的誕生: mobilesuitgundamtheoriginvicanjapversion_120374"
       },
       {
-        "site": "nicovideo",
-        "id": "gundam-the-origin",
-        "begin": "2022-05-31T15:00:00.000Z",
-        "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0030668",
+        "begin": "2019-01-15T03:00:00.000Z",
+        "broadcast": "R/2019-01-15T03:00:00.000Z/P7D",
+        "comment": "II 哀しみのアルテイシア: SID0030669, III 暁の蜂起: SID0030670, IV 運命の前夜: SID0030671, V 激突 ルウム会戦: SID0030615, VI 誕生 赤い彗星: SID0034825"
+      },
+      {
+        "site": "mikan",
+        "id": "1135"
       }
     ]
   },
@@ -104,13 +112,14 @@
     "end": "2015-02-20T17:40:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "OhXicfeVLuiclc2kI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "115732"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019198",
+        "begin": "2022-01-21T03:00:00.000Z",
+        "broadcast": "R/2022-01-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -128,11 +137,6 @@
     "end": "2015-02-18T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "LgTwbtY8rOpNyzM",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "99796"
       },
@@ -141,6 +145,12 @@
         "id": "nachuyachumi",
         "begin": "2015-03-08T15:00:00.000Z",
         "broadcast": "R/2015-03-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012727",
+        "begin": "2015-04-16T05:00:00.000Z",
+        "broadcast": "R/2015-04-16T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -157,11 +167,6 @@
     "begin": "2015-02-25T16:00:00.000Z",
     "end": "2015-02-25T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "PRP9eibNJufda2EA",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "120205"
@@ -196,11 +201,6 @@
         "id": "105191"
       },
       {
-        "site": "pptv",
-        "id": "hqCMCnLYSIbpZ88",
-        "begin": ""
-      },
-      {
         "site": "nicovideo",
         "id": "hozukino-reitetsu-oad",
         "begin": "2020-10-15T03:00:00.000Z",
@@ -211,6 +211,17 @@
         "id": "115-7yjdnebupe-",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0032300",
+        "begin": "2017-12-28T03:00:00.000Z",
+        "broadcast": "R/2017-12-28T03:00:00.000Z/P7D",
+        "comment": "花咲前線/三者三様の男: SID0050894"
+      },
+      {
+        "site": "mikan",
+        "id": "1650"
       }
     ]
   },
@@ -230,11 +241,6 @@
       {
         "site": "bangumi",
         "id": "112822"
-      },
-      {
-        "site": "pptv",
-        "id": "WvDcWsIomNY5tx8",
-        "begin": ""
       },
       {
         "site": "youku",

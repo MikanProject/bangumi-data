@@ -13,11 +13,6 @@
     "end": "1983-05-19T14:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "X5Bs6lK4KGbJR68",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "67756"
       },
@@ -25,6 +20,12 @@
         "site": "nicovideo",
         "id": "cobra",
         "begin": "2011-09-20T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011312",
+        "begin": "2016-04-14T03:00:00.000Z",
+        "broadcast": "R/2016-04-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -52,6 +53,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "超时空要塞"
+      ],
+      "en": [
+        "The Super Dimension Fortress Macross"
       ]
     },
     "type": "tv",
@@ -61,11 +65,6 @@
     "end": "1983-06-26T11:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VJdx71e9LWvOTLQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3166"
       },
@@ -73,6 +72,18 @@
         "site": "bilibili",
         "id": "1187",
         "begin": "1982-10-03T10:30:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015689",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4oCgXeoegN8W",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -103,6 +114,66 @@
         "site": "bilibili",
         "id": "2442",
         "begin": "1982-10-06T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051551",
+        "begin": "2023-07-28T03:00:00.000Z",
+        "broadcast": "R/2023-07-28T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "FUTURE WAR 198X年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "未来战争 198X年"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-10-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-10-29T18:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "210920"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091508",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "プロゴルファー猿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "球场小神将"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-10-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189443"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004906",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ]
   }

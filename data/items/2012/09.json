@@ -13,11 +13,6 @@
     "end": "2013-09-07T22:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "icnVf3UWrG1m8OqI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "45337"
       }
@@ -40,19 +35,9 @@
     "end": "2013-03-22T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "yzAMiavJYyAZp508",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjqp109",
         "begin": "2014-09-12T06:41:31.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "81938",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -74,6 +59,16 @@
         "site": "qq",
         "id": "r/r9r36ir1vwxdvpo",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013096",
+        "begin": "2019-06-05T03:00:00.000Z",
+        "broadcast": "R/2019-06-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "自新|Shinseka"
       }
     ]
   },
@@ -111,16 +106,6 @@
     "end": "2012-12-23T13:27:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "4RbycNgibruxPzTU",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "81939",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "43118"
       },
@@ -129,6 +114,10 @@
         "id": "743",
         "begin": "2012-09-29T16:00:00.000Z",
         "broadcast": "R/2012-09-30T20:57:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "绯色|Hiiro"
       }
     ]
   },
@@ -145,16 +134,6 @@
     "begin": "2012-09-13T16:00:00.000Z",
     "end": "2012-09-13T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "Klslowtx4RibCAGg",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "81965",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "48997"
@@ -181,11 +160,6 @@
     "end": "2012-09-29T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "87629",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "32817"
       },
@@ -194,6 +168,12 @@
         "id": "asura-movie",
         "begin": "2012-09-21T12:55:49.000Z",
         "broadcast": "R/2012-09-21T12:55:49.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019453",
+        "begin": "2022-09-30T03:00:00.000Z",
+        "broadcast": "R/2022-09-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -210,11 +190,6 @@
     "begin": "2012-09-14T16:00:00.000Z",
     "end": "2012-09-14T16:20:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "TbiaEAmrQQH7hX8c",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "49057"
@@ -301,22 +276,10 @@
         "id": "26013"
       },
       {
-        "site": "bilibili",
-        "id": "4464",
-        "begin": "2012-09-21T16:00:00.000Z",
-        "broadcast": ""
-      },
-      {
-        "site": "netflix",
-        "id": "81579322",
-        "begin": "2022-03-30T16:00:00.000Z",
-        "broadcast": "R/2022-03-30T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "nicovideo",
-        "id": "tiger_and_bunny_beginning",
-        "begin": "2022-01-31T15:00:00.000Z",
-        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0015521",
+        "begin": "2014-08-01T06:00:00.000Z",
+        "broadcast": "R/2014-08-01T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -369,6 +332,33 @@
         "id": "4471",
         "begin": "2012-09-18T16:00:00.000Z",
         "broadcast": "R/2017-05-03T05:43:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マルドゥック・スクランブル 排気",
+    "titleTranslate": {
+      "zh-Hans": [
+        "壳中少女 排气"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://m-scramble.jp/",
+    "begin": "2012-09-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-09-28T17:06:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "44691"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046020",
+        "begin": "2020-04-01T03:00:00.000Z",
+        "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -18,6 +18,12 @@
       {
         "site": "bangumi",
         "id": "37299"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017868",
+        "begin": "2019-09-18T03:00:00.000Z",
+        "broadcast": "R/2019-09-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -34,11 +40,6 @@
     "begin": "1982-02-06T14:30:00.000Z",
     "end": "1983-01-29T15:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "abGLCXHXR4XoZs4",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "34281"

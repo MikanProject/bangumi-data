@@ -45,12 +45,6 @@
         "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "anime-umamusume3",
-        "begin": "2023-10-04T15:30:00.000Z",
-        "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "19-71",
         "begin": "",
@@ -61,6 +55,30 @@
         "id": "21086401",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093788",
+        "begin": "2023-10-04T15:30:00.000Z",
+        "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "124277",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "賽馬 Pretty 第三|Season 第三|3"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7e4c90aa63daeaa209"
+      },
+      {
+        "site": "mikan",
+        "id": "3195"
       }
     ]
   },
@@ -97,16 +115,34 @@
         "broadcast": "R/2023-10-21T00:00:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "kusuriyanohitorigoto",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "abema",
         "id": "19-174",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091755",
+        "begin": "2023-10-21T17:40:00.000Z",
+        "broadcast": "R/2023-10-21T17:40:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1Mw6AaFMAfzE",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "藥師|藥屋 獨語|呢喃"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8e4c90aa63daeaa251"
+      },
+      {
+        "site": "mikan",
+        "id": "3203"
       }
     ]
   },
@@ -165,6 +201,26 @@
         "id": "115-104",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093571",
+        "begin": "2023-10-01T13:00:00.000Z",
+        "broadcast": "R/2023-10-01T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129879",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f754c90aa63daeaa1db"
+      },
+      {
+        "site": "mikan",
+        "id": "3198"
       }
     ]
   },
@@ -173,7 +229,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "捡走被人悔婚的千金，教会她坏坏的幸福生活",
-        "捡到被退婚大小姐的我，教会她做坏坏的事"
+        "捡到被退婚大小姐的我，教会她做坏坏的事",
+        "捡到退婚大小姐的我，教她幸福的事"
       ],
       "zh-Hant": [
         "撿走被人悔婚的千金，教會她壞壞的幸福生活"
@@ -214,6 +271,26 @@
         "id": "189-56",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091711",
+        "begin": "2023-10-07T15:00:00.000Z",
+        "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21086113",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7e4c90aa63daeaa205"
+      },
+      {
+        "site": "mikan",
+        "id": "3199"
       }
     ]
   },
@@ -265,6 +342,26 @@
         "id": "168-56",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091750",
+        "begin": "2023-10-05T14:30:00.000Z",
+        "broadcast": "R/2023-10-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "132044",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f824c90aa63daeaa21b"
+      },
+      {
+        "site": "mikan",
+        "id": "3200"
       }
     ]
   },
@@ -292,6 +389,20 @@
         "id": "5-43",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091733",
+        "begin": "2023-10-08T03:00:00.000Z",
+        "broadcast": "R/2023-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f894c90aa63daeaa23f"
+      },
+      {
+        "site": "mikan",
+        "id": "3201"
       }
     ]
   },
@@ -301,10 +412,15 @@
       "zh-Hans": [
         "香格里拉·弗陇提亚～屎作猎人向神作发起挑战～",
         "香格里拉边境~粪作猎人向神作游戏发起挑战~",
-        "『香格里拉边境』"
+        "『香格里拉边境』",
+        "香格里拉·开拓异境～粪作猎手挑战神作～"
       ],
       "zh-Hant": [
-        "香格里拉・開拓異境～糞作獵手挑戰神作～"
+        "香格里拉・開拓異境～糞作獵手挑戰神作～",
+        "香格里拉·開拓異境～糞作獵手挑戰神作～"
+      ],
+      "en": [
+        "Shangri-La Frontier"
       ]
     },
     "type": "tv",
@@ -348,6 +464,48 @@
         "id": "21086747",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091715",
+        "begin": "2023-10-01T09:00:00.000Z",
+        "broadcast": "R/2023-10-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81727242",
+        "begin": "2024-01-23T16:00:00.000Z",
+        "broadcast": "R/2024-01-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "67NJTGASIVBY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "125604",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchsC07RsjyzrcyZyqUo6Mtp",
+        "begin": "2024-06-24T12:30:00.000Z",
+        "broadcast": "R/2024-06-24T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "香格里拉 神作"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f744c90aa63daeaa1d5"
+      },
+      {
+        "site": "mikan",
+        "id": "3202"
       }
     ]
   },
@@ -356,7 +514,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "足球小将 第二季 世少篇",
-        "隊長小翼 第二季 青少年篇"
+        "队长小翼 第二季 青少年篇",
+        "队长小翼 世少篇"
       ],
       "zh-Hant": [
         "隊長小翼第二季  青少年篇",
@@ -368,7 +527,7 @@
     "officialSite": "https://ball-ha-tomodachi.com/jryouth/",
     "begin": "2023-10-01T08:30:00.000Z",
     "broadcast": "R/2023-10-01T08:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-06-30T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -392,6 +551,26 @@
         "id": "397-28",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091747",
+        "begin": "2023-10-04T09:00:00.000Z",
+        "broadcast": "R/2023-10-04T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21173161",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f754c90aa63daeaa1d9"
+      },
+      {
+        "site": "mikan",
+        "id": "3197"
       }
     ]
   },
@@ -403,7 +582,8 @@
         "竞速！"
       ],
       "zh-Hant": [
-        "Overtake!"
+        "Overtake!",
+        "競速 OVERTAKE!"
       ]
     },
     "type": "tv",
@@ -447,6 +627,30 @@
         "id": "25-247",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091726",
+        "begin": "2023-10-06T14:00:00.000Z",
+        "broadcast": "R/2023-10-06T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129734",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "OVERTAKE"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f764c90aa63daeaa1dd"
+      },
+      {
+        "site": "mikan",
+        "id": "3204"
       }
     ]
   },
@@ -489,6 +693,26 @@
         "id": "413-10",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091759",
+        "begin": "2023-10-05T17:30:00.000Z",
+        "broadcast": "R/2023-10-05T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "135307",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f784c90aa63daeaa1e9"
+      },
+      {
+        "site": "mikan",
+        "id": "3187"
       }
     ]
   },
@@ -526,12 +750,6 @@
         "broadcast": "R/2023-10-02T14:00:00.000Z/P7D"
       },
       {
-        "site": "nowPlayer",
-        "id": "S202309220170004",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "migitodali",
         "begin": "2023-10-06T13:00:00.000Z",
@@ -548,6 +766,32 @@
         "id": "21089341",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091708",
+        "begin": "2023-10-06T13:00:00.000Z",
+        "broadcast": "R/2023-10-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "131296",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81729724",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7b4c90aa63daeaa1f9"
+      },
+      {
+        "site": "mikan",
+        "id": "3143"
       }
     ]
   },
@@ -569,6 +813,20 @@
       {
         "site": "bangumi",
         "id": "451559"
+      },
+      {
+        "site": "abema",
+        "id": "482-39",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7d4c90aa63daeaa201"
+      },
+      {
+        "site": "mikan",
+        "id": "3185"
       }
     ]
   },
@@ -616,6 +874,32 @@
         "id": "128675",
         "begin": "2023-10-04T13:00:00.000Z",
         "broadcast": "R/2023-10-04T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091727",
+        "begin": "2024-02-05T03:00:00.000Z",
+        "broadcast": "R/2024-02-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bullbuster",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "128675",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7d4c90aa63daeaa203"
+      },
+      {
+        "site": "mikan",
+        "id": "3163"
       }
     ]
   },
@@ -646,6 +930,20 @@
         "id": "133650",
         "begin": "2023-10-04T16:00:00.000Z",
         "broadcast": "R/2023-10-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133650",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7f4c90aa63daeaa20b"
+      },
+      {
+        "site": "mikan",
+        "id": "3161"
       }
     ]
   },
@@ -673,6 +971,20 @@
         "id": "railromanesque2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091793",
+        "begin": "2023-12-28T16:05:00.000Z",
+        "broadcast": "R/2023-12-28T16:05:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f834c90aa63daeaa21f"
+      },
+      {
+        "site": "mikan",
+        "id": "3160"
       }
     ]
   },
@@ -684,6 +996,9 @@
       ],
       "zh-Hant": [
         "地下忍者"
+      ],
+      "en": [
+        "Under Ninja"
       ]
     },
     "type": "tv",
@@ -715,6 +1030,32 @@
         "id": "19-173",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091753",
+        "begin": "2023-10-05T18:00:00.000Z",
+        "broadcast": "R/2023-10-05T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6GIjMYqWpV5g",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130540",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f844c90aa63daeaa221"
+      },
+      {
+        "site": "mikan",
+        "id": "3159"
       }
     ]
   },
@@ -748,6 +1089,16 @@
         "id": "25-246",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0092053",
+        "begin": "2023-10-11T14:00:00.000Z",
+        "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3158"
       }
     ]
   },
@@ -790,6 +1141,26 @@
         "id": "26-108",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091740",
+        "begin": "2023-10-10T03:00:00.000Z",
+        "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "131282",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f864c90aa63daeaa22d"
+      },
+      {
+        "site": "mikan",
+        "id": "3157"
       }
     ]
   },
@@ -848,6 +1219,30 @@
         "id": "81719269",
         "begin": "2024-01-18T16:00:00.000Z",
         "broadcast": "R/2024-01-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093575",
+        "begin": "2023-10-06T17:00:00.000Z",
+        "broadcast": "R/2023-10-06T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "126781",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "不死不"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f864c90aa63daeaa22f"
+      },
+      {
+        "site": "mikan",
+        "id": "3156"
       }
     ]
   },
@@ -906,6 +1301,26 @@
         "id": "564-8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091707",
+        "begin": "2023-10-10T03:00:00.000Z",
+        "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129907",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f874c90aa63daeaa235"
+      },
+      {
+        "site": "mikan",
+        "id": "3155"
       }
     ]
   },
@@ -921,7 +1336,7 @@
     "officialSite": "https://matsuinu-anime.com/",
     "begin": "2023-10-12T13:05:00.000Z",
     "broadcast": "R/2023-10-12T13:05:00.000Z/P7D",
-    "end": "2023-12-23T13:05:00.000Z",
+    "end": "2023-12-28T13:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -929,10 +1344,14 @@
         "id": "452511"
       },
       {
-        "site": "nicovideo",
-        "id": "matsuinu-anime",
+        "site": "unext",
+        "id": "SID0091749",
         "begin": "2023-10-12T23:00:00.000Z",
         "broadcast": "R/2023-10-12T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f884c90aa63daeaa239"
       }
     ]
   },
@@ -997,6 +1416,20 @@
         "id": "54-64",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091757",
+        "begin": "2023-10-10T13:00:00.000Z",
+        "broadcast": "R/2023-10-10T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8a4c90aa63daeaa241"
+      },
+      {
+        "site": "mikan",
+        "id": "3162"
       }
     ]
   },
@@ -1042,6 +1475,26 @@
         "id": "174-29",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0092059",
+        "begin": "2023-10-10T15:00:00.000Z",
+        "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129505",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8a4c90aa63daeaa243"
+      },
+      {
+        "site": "mikan",
+        "id": "3153"
       }
     ]
   },
@@ -1091,6 +1544,16 @@
         "id": "115-103",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093573",
+        "begin": "2023-10-07T16:00:00.000Z",
+        "broadcast": "R/2023-10-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8d4c90aa63daeaa24f"
       }
     ]
   },
@@ -1124,6 +1587,20 @@
         "id": "189-57",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091710",
+        "begin": "2023-10-10T15:00:00.000Z",
+        "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8f4c90aa63daeaa257"
+      },
+      {
+        "site": "mikan",
+        "id": "3150"
       }
     ]
   },
@@ -1132,7 +1609,14 @@
     "titleTranslate": {
       "zh-Hans": [
         "七大罪 默示录的四骑士",
+        "七大罪：默示录的四骑士",
         "默示录的四骑士"
+      ],
+      "zh-Hant": [
+        "七大罪：啟示錄四騎士"
+      ],
+      "en": [
+        "The Seven Deadly Sins: Four Knights of the Apocalypse"
       ]
     },
     "type": "tv",
@@ -1158,6 +1642,32 @@
         "id": "632-4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091716",
+        "begin": "2023-10-15T08:10:00.000Z",
+        "broadcast": "R/2023-10-15T08:10:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81562396",
+        "begin": "2024-01-30T16:00:00.000Z",
+        "broadcast": "R/2024-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "75nHOiRubGRL",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f734c90aa63daeaa1d3"
+      },
+      {
+        "site": "mikan",
+        "id": "3149"
       }
     ]
   },
@@ -1191,6 +1701,20 @@
         "id": "19-175",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093789",
+        "begin": "2023-10-13T03:00:00.000Z",
+        "broadcast": "R/2023-10-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f844c90aa63daeaa223"
+      },
+      {
+        "site": "mikan",
+        "id": "3148"
       }
     ]
   },
@@ -1231,16 +1755,24 @@
         "broadcast": "R/2023-10-02T16:00:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "shy-anime",
-        "begin": "2023-10-08T11:30:00.000Z",
-        "broadcast": "R/2023-10-08T11:30:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "420-61",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091760",
+        "begin": "2023-10-03T03:00:00.000Z",
+        "broadcast": "R/2023-10-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7a4c90aa63daeaa1f1"
+      },
+      {
+        "site": "mikan",
+        "id": "3147"
       }
     ]
   },
@@ -1300,6 +1832,36 @@
         "id": "25-221",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091728",
+        "begin": "2023-10-11T14:00:00.000Z",
+        "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5I6JkWfEmf0M",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130538",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "影 強者|實力者 S2|二季"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7e4c90aa63daeaa207"
+      },
+      {
+        "site": "mikan",
+        "id": "3146"
       }
     ]
   },
@@ -1334,6 +1896,20 @@
         "id": "tokyo-revengers-tenjikuhen",
         "begin": "2023-10-03T18:00:00.000Z",
         "broadcast": "R/2023-10-03T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091712",
+        "begin": "2023-10-03T18:00:00.000Z",
+        "broadcast": "R/2023-10-03T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7c4c90aa63daeaa1ff"
+      },
+      {
+        "site": "mikan",
+        "id": "3145"
       }
     ]
   },
@@ -1379,6 +1955,26 @@
         "id": "hoshitele-anime",
         "begin": "2023-10-09T15:00:00.000Z",
         "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093578",
+        "begin": "2023-10-09T15:00:00.000Z",
+        "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f784c90aa63daeaa1e7"
+      },
+      {
+        "site": "mikan",
+        "id": "3144"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "127847",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1400,7 +1996,7 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/ochibisan/",
     "begin": "2023-10-07T15:00:00.000Z",
     "broadcast": "R/2023-10-07T15:00:00.000Z/P7D",
-    "end": "2024-03-31T15:00:00.000Z",
+    "end": "2024-03-30T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1424,6 +2020,26 @@
         "id": "135403",
         "begin": "2023-10-08T03:00:00.000Z",
         "broadcast": "R/2023-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091744",
+        "begin": "2023-10-11T03:00:00.000Z",
+        "broadcast": "R/2023-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "135403",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8b4c90aa63daeaa24b"
+      },
+      {
+        "site": "mikan",
+        "id": "3152"
       }
     ]
   },
@@ -1475,6 +2091,24 @@
         "id": "174-10",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0092057",
+        "begin": "2023-10-09T15:00:00.000Z",
+        "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "哥布林殺手 二季|II"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f854c90aa63daeaa229"
+      },
+      {
+        "site": "mikan",
+        "id": "3164"
       }
     ]
   },
@@ -1550,6 +2184,32 @@
         "id": "25-248",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091729",
+        "begin": "2023-10-02T13:30:00.000Z",
+        "broadcast": "R/2023-10-02T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2QO24tyPdtdq",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129279",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f794c90aa63daeaa1eb"
+      },
+      {
+        "site": "mikan",
+        "id": "3174"
       }
     ]
   },
@@ -1593,6 +2253,30 @@
         "id": "25-245",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091732",
+        "begin": "2023-10-12T15:30:00.000Z",
+        "broadcast": "R/2023-10-12T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "豬肝"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8c4c90aa63daeaa24d"
+      },
+      {
+        "site": "mikan",
+        "id": "3165"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "121004",
+        "begin": "2023-10-07T17:00:00.000Z",
+        "broadcast": "R/2023-10-07T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -1634,16 +2318,40 @@
         "broadcast": "R/2023-10-08T14:00:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "hyakkano",
-        "begin": "2023-10-14T11:30:00.000Z",
-        "broadcast": "R/2023-10-14T11:30:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "420-60",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091761",
+        "begin": "2023-10-11T14:00:00.000Z",
+        "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130911",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "超超超超超"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f764c90aa63daeaa1df"
+      },
+      {
+        "site": "mikan",
+        "id": "3183"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciqVroTsOluxKfoNlN6kCYv",
+        "begin": "2024-07-01T13:30:06.000Z",
+        "broadcast": "R/2024-07-01T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -1671,6 +2379,14 @@
         "id": "secretmission",
         "begin": "2023-10-01T16:00:00.000Z",
         "broadcast": "R/2023-10-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f774c90aa63daeaa1e3"
+      },
+      {
+        "site": "mikan",
+        "id": "3138"
       }
     ]
   },
@@ -1720,6 +2436,26 @@
         "id": "115-105",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093572",
+        "begin": "2023-10-02T16:00:00.000Z",
+        "broadcast": "R/2023-10-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130212",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7a4c90aa63daeaa1f5"
+      },
+      {
+        "site": "mikan",
+        "id": "3182"
       }
     ]
   },
@@ -1779,6 +2515,26 @@
         "id": "25-167",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091731",
+        "begin": "2023-10-08T15:00:00.000Z",
+        "broadcast": "R/2023-10-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "123304",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7b4c90aa63daeaa1fb"
+      },
+      {
+        "site": "mikan",
+        "id": "3181"
       }
     ]
   },
@@ -1813,6 +2569,20 @@
         "id": "19-172",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091751",
+        "begin": "2023-10-10T03:00:00.000Z",
+        "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f804c90aa63daeaa20f"
+      },
+      {
+        "site": "mikan",
+        "id": "3180"
       }
     ]
   },
@@ -1863,6 +2633,38 @@
         "id": "189-58",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091713",
+        "begin": "2023-10-01T15:00:00.000Z",
+        "broadcast": "R/2023-10-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "128251",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgGTUGgE4JvuJoRndoJd1Zo",
+        "begin": "2024-06-24T13:00:00.000Z",
+        "broadcast": "R/2024-06-24T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f804c90aa63daeaa211"
+      },
+      {
+        "site": "mikan",
+        "id": "3179"
+      },
+      {
+        "site": "bilibili",
+        "id": "22222048",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1906,6 +2708,30 @@
         "id": "26-208",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091739",
+        "begin": "2023-10-08T03:00:00.000Z",
+        "broadcast": "R/2023-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129460",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "ANOTHER LAYER"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7f4c90aa63daeaa20d"
+      },
+      {
+        "site": "mikan",
+        "id": "3178"
       }
     ]
   },
@@ -1943,16 +2769,30 @@
         "broadcast": "R/2023-10-02T16:00:00.000Z/P7D"
       },
       {
-        "site": "nowPlayer",
-        "id": "S202309220170024",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "abema",
         "id": "169-137",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093577",
+        "begin": "2023-10-06T15:00:00.000Z",
+        "broadcast": "R/2023-10-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129191",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7a4c90aa63daeaa1f3"
+      },
+      {
+        "site": "mikan",
+        "id": "3177"
       }
     ]
   },
@@ -1996,6 +2836,26 @@
         "id": "26-207",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091741",
+        "begin": "2023-10-07T15:30:00.000Z",
+        "broadcast": "R/2023-10-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133844",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8b4c90aa63daeaa249"
+      },
+      {
+        "site": "mikan",
+        "id": "3176"
       }
     ]
   },
@@ -2007,6 +2867,9 @@
       ],
       "zh-Hant": [
         "我的新上司是天然呆"
+      ],
+      "en": [
+        "My New Boss is Goofy"
       ]
     },
     "type": "tv",
@@ -2038,6 +2901,32 @@
         "id": "26-209",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091742",
+        "begin": "2023-10-07T15:00:00.000Z",
+        "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81726496",
+        "begin": "2024-01-30T16:00:00.000Z",
+        "broadcast": "R/2024-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "132483",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8b4c90aa63daeaa247"
+      },
+      {
+        "site": "mikan",
+        "id": "3184"
       }
     ]
   },
@@ -2086,16 +2975,30 @@
         "broadcast": "R/2023-10-05T15:30:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "anime-bikkuri-men",
-        "begin": "2023-10-05T15:00:00.000Z",
-        "broadcast": "R/2023-10-05T15:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "168-54",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091748",
+        "begin": "2023-10-05T15:00:00.000Z",
+        "broadcast": "R/2023-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "131472",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f824c90aa63daeaa219"
+      },
+      {
+        "site": "mikan",
+        "id": "3175"
       }
     ]
   },
@@ -2167,6 +3070,26 @@
         "id": "21086581",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091730",
+        "begin": "2023-10-11T13:00:00.000Z",
+        "broadcast": "R/2023-10-11T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "107525",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f854c90aa63daeaa227"
+      },
+      {
+        "site": "mikan",
+        "id": "3173"
       }
     ]
   },
@@ -2212,6 +3135,36 @@
         "id": "11-54",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091735",
+        "begin": "2023-10-02T17:00:00.000Z",
+        "broadcast": "R/2023-10-02T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81758318",
+        "begin": "2024-04-29T16:00:00.000Z",
+        "broadcast": "R/2024-04-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "120243",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "聖劍學院"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7b4c90aa63daeaa1f7"
+      },
+      {
+        "site": "mikan",
+        "id": "3172"
       }
     ]
   },
@@ -2246,6 +3199,20 @@
         "id": "beybladex_139812",
         "begin": "2023-11-19T12:30:00.000Z",
         "broadcast": "R/2023-11-19T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091758",
+        "begin": "2023-10-06T10:00:00.000Z",
+        "broadcast": "R/2023-10-06T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f844c90aa63daeaa225"
+      },
+      {
+        "site": "mikan",
+        "id": "3171"
       }
     ]
   },
@@ -2293,6 +3260,26 @@
       {
         "site": "abema",
         "id": "54-87",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091756",
+        "begin": "2023-10-09T14:00:00.000Z",
+        "broadcast": "R/2023-10-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f874c90aa63daeaa233"
+      },
+      {
+        "site": "mikan",
+        "id": "3170"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129306",
         "begin": "",
         "broadcast": ""
       }
@@ -2343,6 +3330,26 @@
         "id": "656-1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091714",
+        "begin": "2023-10-10T16:30:00.000Z",
+        "broadcast": "R/2023-10-10T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8f4c90aa63daeaa255"
+      },
+      {
+        "site": "mikan",
+        "id": "3169"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133987",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2389,6 +3396,26 @@
         "id": "134389",
         "begin": "2023-10-23T12:00:00.000Z",
         "broadcast": "R/2023-10-23T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093570",
+        "begin": "2023-10-25T03:00:00.000Z",
+        "broadcast": "R/2023-10-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "134389",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f744c90aa63daeaa1d7"
+      },
+      {
+        "site": "mikan",
+        "id": "3168"
       }
     ]
   },
@@ -2424,16 +3451,30 @@
         "broadcast": "R/2023-10-03T15:00:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "paradoxlive",
-        "begin": "2023-10-03T16:00:00.000Z",
-        "broadcast": "R/2023-10-03T16:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "168-52",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091746",
+        "begin": "2023-10-06T14:00:00.000Z",
+        "broadcast": "R/2023-10-06T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "128479",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7c4c90aa63daeaa1fd"
+      },
+      {
+        "site": "mikan",
+        "id": "3167"
       }
     ]
   },
@@ -2480,6 +3521,26 @@
         "id": "11-55",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091736",
+        "begin": "2023-10-09T14:30:00.000Z",
+        "broadcast": "R/2023-10-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130658",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f794c90aa63daeaa1ed"
+      },
+      {
+        "site": "mikan",
+        "id": "3166"
       }
     ]
   },
@@ -2532,6 +3593,24 @@
         "id": "210-9",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0093579",
+        "begin": "2023-10-07T01:00:00.000Z",
+        "broadcast": "R/2023-10-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "冬隱"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f864c90aa63daeaa231"
+      },
+      {
+        "site": "mikan",
+        "id": "3188"
       }
     ]
   },
@@ -2553,6 +3632,12 @@
       {
         "site": "bangumi",
         "id": "368833"
+      },
+      {
+        "site": "unext",
+        "id": "SID0094364",
+        "begin": "2023-10-14T22:00:00.000Z",
+        "broadcast": "R/2023-10-14T22:00:00.000Z/P7D"
       }
     ]
   },
@@ -2592,6 +3677,10 @@
         "id": "20197734",
         "begin": "2023-10-05T13:00:00.000Z",
         "broadcast": "R/2023-10-05T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f804c90aa63daeaa213"
       }
     ]
   },
@@ -2641,6 +3730,30 @@
         "id": "11-38",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091734",
+        "begin": "2023-10-12T17:23:00.000Z",
+        "broadcast": "R/2023-10-12T17:23:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "127294",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "女 友 成|and S2|S02|第2"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f884c90aa63daeaa237"
+      },
+      {
+        "site": "mikan",
+        "id": "3206"
       }
     ]
   },
@@ -2688,6 +3801,16 @@
         "id": "128617",
         "begin": "2023-10-09T16:00:00.000Z",
         "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5XUijmc2pLy9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f7a4c90aa63daeaa1ef"
       }
     ]
   },
@@ -2736,6 +3859,20 @@
         "id": "81046193",
         "begin": "2023-10-12T13:30:00.000Z",
         "broadcast": "R/2023-10-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2icwhag0ihkG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "Dr STONE S3|S03|三季"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f814c90aa63daeaa215"
       }
     ]
   },
@@ -2770,7 +3907,8 @@
         "site": "bilibili",
         "id": "21086686",
         "begin": "2023-11-11T12:00:01.000Z",
-        "broadcast": "R/2023-11-11T12:00:01.000Z/P7D"
+        "broadcast": "R/2023-11-11T12:00:01.000Z/P7D",
+        "comment": "中配版: 21618488"
       },
       {
         "site": "viu",
@@ -2799,16 +3937,34 @@
         "broadcast": "R/2023-10-07T14:00:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "spy-family_2",
-        "begin": "2023-10-07T14:30:00.000Z",
-        "broadcast": "R/2023-10-07T14:30:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "19-86",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091752",
+        "begin": "2023-10-07T14:30:00.000Z",
+        "broadcast": "R/2023-10-07T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129280",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "SPY FAMILY"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8a4c90aa63daeaa245"
+      },
+      {
+        "site": "mikan",
+        "id": "3207"
       }
     ]
   },
@@ -2848,6 +4004,10 @@
         "id": "21086918",
         "begin": "2023-10-12T20:00:00.000Z",
         "broadcast": "R/2023-10-12T20:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3209"
       }
     ]
   },
@@ -2916,16 +4076,26 @@
         "broadcast": "R/2023-10-31T15:30:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "ten-sura-coleus",
-        "begin": "2023-10-31T15:00:00.000Z",
-        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "420-62",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0094541",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "132289",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3210"
       }
     ]
   },
@@ -2960,16 +4130,16 @@
         "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "myheroacademiauaherosbattle_139995",
+        "site": "unext",
+        "id": "SID0096210",
         "begin": "2023-11-30T15:00:00.000Z",
         "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "heroaca-ova",
-        "begin": "2023-12-04T15:00:00.000Z",
-        "broadcast": "R/2023-12-04T15:00:00.000Z/P7D"
+        "site": "gamer_hk",
+        "id": "136608",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2997,6 +4167,18 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "21095592",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099235",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21095481",
         "begin": "",
         "broadcast": ""
       }
@@ -3030,6 +4212,197 @@
       {
         "site": "abema",
         "id": "13-184",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091738",
+        "begin": "2023-10-12T15:00:00.000Z",
+        "broadcast": "R/2023-10-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "偶像大師 百萬"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f734c90aa63daeaa1d1"
+      },
+      {
+        "site": "mikan",
+        "id": "3208"
+      }
+    ]
+  },
+  {
+    "title": "ガンダムビルドメタバース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高达创战元宇宙"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://gundam-bm.net/",
+    "begin": "2023-10-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "434818"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093569",
+        "begin": "2023-10-06T09:00:00.000Z",
+        "broadcast": "R/2023-10-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3205"
+      }
+    ]
+  },
+  {
+    "title": "天官賜福 貮",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天官赐福 第二季",
+        "天官賜福 貳"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://tgcf-anime.com/",
+    "begin": "2023-10-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-01-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289102"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096001",
+        "begin": "2024-01-10T03:00:00.000Z",
+        "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-144",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tgcf-anime2",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&パンツァー 最終章 第4話",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 最终章 第4话"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer-finale.jp",
+    "begin": "2023-10-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208827"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099901",
+        "begin": "2024-03-26T15:00:00.000Z",
+        "broadcast": "R/2024-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3211"
+      }
+    ]
+  },
+  {
+    "title": "マスク男子は恋したくないのに",
+    "titleTranslate": {
+      "zh-Hans": [
+        "口罩男生明明不想恋爱"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.b-boy.jp/special/maskdanshi/oad.html",
+    "begin": "2023-10-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425606"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102034",
+        "begin": "2024-04-18T15:00:00.000Z",
+        "broadcast": "R/2024-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maskdanshi",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー02 THE BEGINNING",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码宝贝02：最初的召唤",
+        "数码宝贝大冒险02：起源",
+        "数码宝贝02：起源",
+        "数码宝贝02 THE BEGINNING",
+        "数码暴龙02 THE BEGINNING",
+        "数码兽大冒险02 THE BEGINNING"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/movie/digimon-adventure/",
+    "begin": "2023-10-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-26T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341141"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148285",
+        "begin": "2024-07-31T15:00:00.000Z",
+        "broadcast": "R/2024-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21225247",
         "begin": "",
         "broadcast": ""
       }

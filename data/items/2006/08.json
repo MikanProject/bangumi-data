@@ -35,11 +35,6 @@
     "end": "2006-10-21T13:37:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "OnRQzjacDEqtK5M",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrgjb8bl",
         "begin": "2014-09-12T06:42:56.000Z"
@@ -47,11 +42,6 @@
       {
         "site": "qq",
         "id": "2/2w0n7vwp4l18dj4",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "15960",
         "begin": ""
       },
       {
@@ -106,6 +96,12 @@
       {
         "site": "bangumi",
         "id": "90612"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088540",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -155,6 +151,12 @@
         "id": "2776",
         "begin": "2006-08-18T16:00:00.000Z",
         "broadcast": "R/2015-09-27T05:48:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002635",
+        "begin": "2019-05-01T03:00:00.000Z",
+        "broadcast": "R/2019-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -180,12 +182,6 @@
       {
         "site": "bangumi",
         "id": "22108"
-      },
-      {
-        "site": "netflix",
-        "id": "70108386",
-        "begin": "2017-09-01T07:00:00.000Z",
-        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -267,6 +263,52 @@
         "id": "4900",
         "begin": "2016-06-17T03:30:00.000Z",
         "broadcast": "R/2016-06-17T03:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "円盤皇女ワるきゅーレ 時と夢と銀河の宴",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圆盘皇女 时空与梦想的银河之宴"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tokinoyu.net/",
+    "begin": "2006-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73259"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017283",
+        "begin": "2020-11-19T15:00:00.000Z",
+        "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "焼跡の、お菓子の木",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-10-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0004911",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ]
   }

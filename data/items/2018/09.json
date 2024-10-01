@@ -29,6 +29,16 @@
         "id": "102370",
         "begin": "2020-06-30T16:00:00.000Z",
         "broadcast": "R/2020-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035462",
+        "begin": "2018-09-01T03:00:00.000Z",
+        "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1821"
       }
     ]
   },
@@ -62,6 +72,10 @@
         "id": "106938",
         "begin": "2021-08-20T05:00:00.000Z",
         "broadcast": "R/2021-08-20T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5b38c4b9b3d4e8ef387d7ee3"
       }
     ]
   },
@@ -97,16 +111,18 @@
         "broadcast": "R/2018-09-03T14:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "doubledeckerdougandkirill_118754",
-        "begin": "2018-10-05T14:00:00.000Z",
-        "broadcast": "R/2018-10-05T14:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "95255",
         "begin": "2021-03-18T03:00:00.000Z",
         "broadcast": "R/2021-03-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5bb19cd39b9493607ff72673"
+      },
+      {
+        "site": "mikan",
+        "id": "1736"
       }
     ]
   },
@@ -131,6 +147,16 @@
         "site": "nicovideo",
         "id": "kimisui-anime",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0038200",
+        "begin": "2018-12-03T03:00:00.000Z",
+        "broadcast": "R/2018-12-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1817"
       }
     ]
   },
@@ -155,6 +181,16 @@
         "site": "nicovideo",
         "id": "flcl_alterna_progre",
         "begin": "2019-02-01T03:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038185",
+        "begin": "2019-02-01T03:00:00.000Z",
+        "broadcast": "R/2019-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1738"
       }
     ]
   },
@@ -179,6 +215,16 @@
         "site": "nicovideo",
         "id": "flcl_alterna_progre",
         "begin": "2019-02-01T03:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038186",
+        "begin": "2019-02-01T03:00:00.000Z",
+        "broadcast": "R/2019-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1724"
       }
     ]
   },
@@ -213,6 +259,22 @@
         "id": "91974",
         "begin": "2019-06-25T02:30:00.000Z",
         "broadcast": "R/2019-06-25T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042220",
+        "begin": "2019-07-15T03:00:00.000Z",
+        "broadcast": "R/2019-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "91974",
+        "begin": "2023-10-06T02:10:00.000Z",
+        "broadcast": "R/2023-10-06T02:10:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1903"
       }
     ]
   },
@@ -239,6 +301,12 @@
         "id": "128432",
         "begin": "2018-09-01T03:00:00.000Z",
         "broadcast": "R/2018-09-01T03:07:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0037091",
+        "begin": "2018-09-15T03:00:00.000Z",
+        "broadcast": "R/2018-09-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -259,6 +327,12 @@
       {
         "site": "bangumi",
         "id": "292449"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031979",
+        "begin": "2022-01-25T15:00:00.000Z",
+        "broadcast": "R/2022-01-25T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -281,10 +355,10 @@
         "id": "242483"
       },
       {
-        "site": "nicovideo",
-        "id": "waka-okami-movie",
-        "begin": "",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0039863",
+        "begin": "2020-06-29T03:00:00.000Z",
+        "broadcast": "R/2020-06-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -312,6 +386,13 @@
         "id": "11-56",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0063520",
+        "begin": "2022-01-28T03:00:00.000Z",
+        "broadcast": "R/2022-01-28T03:00:00.000Z/P7D",
+        "comment": "第二弾: SID0063521, 第三弾: SID0075199"
       }
     ]
   }

@@ -25,6 +25,26 @@
       {
         "site": "bangumi",
         "id": "320857"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089800",
+        "begin": "2023-07-23T03:00:00.000Z",
+        "broadcast": "R/2023-07-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5ff0433484202e4c2e99e1a8"
+      },
+      {
+        "site": "mikan",
+        "id": "2419"
+      },
+      {
+        "site": "abema",
+        "id": "5-62",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -51,6 +71,20 @@
         "id": "ichigo-animation",
         "begin": "2021-02-13T15:00:00.000Z",
         "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050920",
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "602dabb432f14c0007448b1c"
+      },
+      {
+        "site": "mikan",
+        "id": "2340"
       }
     ]
   },
@@ -87,24 +121,11 @@
         "broadcast": "R/2021-03-15T03:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81572035",
-        "begin": "2022-02-05T16:00:00.000Z",
-        "broadcast": "R/2022-02-05T16:00:00.000Z/P7D"
-      },
-      {
         "site": "viu",
         "id": "420329",
         "begin": "2022-01-23T16:00:00.000Z",
         "broadcast": "R/2022-01-23T16:00:00.000Z/P7D",
         "comment": "粵語版: 420391"
-      },
-      {
-        "site": "mytv",
-        "id": "juniorhighandhighschoolkimetsuacademystory_134699",
-        "begin": "2022-02-11T16:00:00.000Z",
-        "broadcast": "R/2022-02-11T16:00:00.000Z/P7D",
-        "comment": "粵語版: juniorhighandhighschoolkimetsuacademystory0001_140179"
       },
       {
         "site": "gamer",
@@ -117,6 +138,16 @@
         "id": "28234839",
         "begin": "2021-07-26T10:00:00.000Z",
         "broadcast": "R/2021-07-26T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056317",
+        "begin": "2021-03-15T03:00:00.000Z",
+        "broadcast": "R/2021-03-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2413"
       }
     ]
   },
@@ -149,6 +180,12 @@
         "id": "81214399",
         "begin": "2021-06-02T16:00:00.000Z",
         "broadcast": "R/2021-06-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060711",
+        "begin": "2021-08-29T15:00:00.000Z",
+        "broadcast": "R/2021-08-29T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -184,6 +221,24 @@
         "id": "28233853",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0058175",
+        "begin": "2024-04-04T15:00:00.000Z",
+        "broadcast": "R/2024-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "115438",
+        "begin": "2022-03-04T09:00:00.000Z",
+        "broadcast": "R/2022-03-04T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -191,7 +246,8 @@
     "title": "新テニスの王子様 氷帝vs立海 Game of Future",
     "titleTranslate": {
       "zh-Hans": [
-        "新网球王子 冰帝 vs 立海 Game of Future"
+        "新网球王子 冰帝 vs 立海 Game of Future",
+        "新网球王子 冰帝 vs 立海 未来之战"
       ],
       "zh-Hant": [
         "新網球王子 冰帝 vs 立海 Game of Future"
@@ -218,6 +274,25 @@
         "id": "tenipuri-game-of-future",
         "begin": "2022-09-30T15:00:00.000Z",
         "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054281",
+        "begin": "2021-02-13T05:30:00.000Z",
+        "broadcast": "R/2021-02-13T05:30:00.000Z/P7D",
+        "comment": "後篇: SID0055586"
+      },
+      {
+        "site": "bilibili",
+        "id": "28236482",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "120583",
+        "begin": "2021-11-19T08:00:00.000Z",
+        "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -247,6 +322,40 @@
         "id": "116199",
         "begin": "2023-10-20T04:00:00.000Z",
         "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "プリンセス・プリンシパル Crown Handler 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Princess Principal Crown Handler 第1章",
+        "公主代理人 Crown Handler 第1章",
+        "公主委托人 Crown Handler 第1章",
+        "公主准则 Crown Handler 第1章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pripri-anime.jp",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-02-10T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244928"
+      },
+      {
+        "site": "unext",
+        "id": "SID0057920",
+        "begin": "2021-09-27T15:00:00.000Z",
+        "broadcast": "R/2021-09-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2519"
       }
     ]
   }

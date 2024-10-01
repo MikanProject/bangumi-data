@@ -16,11 +16,6 @@
     "end": "1998-03-25T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "H1AsqhJ46CaJB28",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "u/udqfni7dwdkdt70",
         "begin": ""
@@ -52,6 +47,12 @@
         "site": "qq",
         "id": "f/fcirunt4i2j1kuz",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002284",
+        "begin": "2021-11-21T03:00:00.000Z",
+        "broadcast": "R/2021-11-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -95,11 +96,6 @@
     "end": "1998-03-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "KhvmZMwyouBDwSk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "81173"
       },
@@ -108,6 +104,12 @@
         "id": "4030",
         "begin": "2016-05-20T07:31:00.000Z",
         "broadcast": "R/2016-05-20T07:31:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014111",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
       }
     ]
   }

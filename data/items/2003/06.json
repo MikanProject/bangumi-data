@@ -15,11 +15,6 @@
     "end": "2003-09-13T02:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "bqGbGYHnV5X4dt4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "47145"
       }
@@ -40,11 +35,6 @@
     "end": "2003-04-23T15:35:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "kKCbGYHnV5X4dt4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "4882"
       },
@@ -53,6 +43,29 @@
         "id": "1990",
         "begin": "2010-11-04T15:54:00.000Z",
         "broadcast": "R/2010-11-04T15:54:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "エイケン エイケンヴより愛をこめて",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乳旋风",
+        "巨乳学院",
+        "巨乳学园"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-06-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22584"
       }
     ]
   }

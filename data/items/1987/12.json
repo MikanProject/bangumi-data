@@ -17,11 +17,6 @@
         "id": "67760"
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3927",
         "begin": "1987-12-17T16:00:01.000Z",
@@ -51,6 +46,33 @@
         "id": "2893",
         "begin": "2015-10-23T05:55:00.000Z",
         "broadcast": "R/2015-10-23T05:55:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "メタルスキンパニック MADOX-01",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金属外壳MADOX-01"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-12-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-12-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37385"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003403",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   }

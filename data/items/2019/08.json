@@ -22,12 +22,6 @@
       {
         "site": "bangumi",
         "id": "290591"
-      },
-      {
-        "site": "gamer",
-        "id": "108925",
-        "begin": "2020-05-06T07:00:00.000Z",
-        "broadcast": "R/2020-05-06T07:00:00.000Z/P7D"
       }
     ]
   },
@@ -66,6 +60,16 @@
         "id": "81240764",
         "begin": "2023-12-14T00:00:00.000Z",
         "broadcast": "R/2023-12-14T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046128",
+        "begin": "2020-03-18T03:00:00.000Z",
+        "broadcast": "R/2020-03-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2109"
       }
     ]
   },
@@ -103,6 +107,9 @@
       ],
       "zh-Hant": [
         "為美好的世界獻上祝福！紅傳說"
+      ],
+      "en": [
+        "KONOSUBA - God's Blessing on This Wonderful World!- Legend of Crimson"
       ]
     },
     "type": "movie",
@@ -115,12 +122,6 @@
       {
         "site": "bangumi",
         "id": "220631"
-      },
-      {
-        "site": "bilibili",
-        "id": "28228680",
-        "begin": "2020-04-18T16:00:00.000Z",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -139,6 +140,23 @@
         "id": "25-157",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0055027",
+        "begin": "2021-01-31T15:00:00.000Z",
+        "broadcast": "R/2021-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6T0s2ltfId57",
+        "url": "https://www.disneyplus.com/movies/konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson/6T0s2ltfId57",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2110"
       }
     ]
   },
@@ -301,6 +319,33 @@
         "id": "ninjabox",
         "begin": "2019-11-22T15:00:00.000Z",
         "broadcast": "R/2019-11-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔道祖师 羡云篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔道祖师 第2季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-08-02T16:00:00.000Z",
+    "broadcast": "R/2019-08-02T16:00:00.000Z/P7D",
+    "end": "2019-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262519"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052896",
+        "begin": "2021-01-13T03:00:00.000Z",
+        "broadcast": "R/2021-01-13T03:00:00.000Z/P7D"
       }
     ]
   }

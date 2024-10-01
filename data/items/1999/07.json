@@ -37,11 +37,6 @@
     "end": "2000-10-07T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7yIenARq2hh7ibWE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "12749"
       }
@@ -89,14 +84,21 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3947",
         "begin": "1999-07-29T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012743",
+        "begin": "2019-03-14T03:00:00.000Z",
+        "broadcast": "R/2019-03-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-18",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -114,19 +116,9 @@
     "end": "1999-07-17T17:10:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "91w4th6E9DKVE3s",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb8sh9",
         "begin": "2015-09-17T05:39:45.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "71806",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -141,6 +133,12 @@
         "site": "bilibili",
         "id": "5757",
         "begin": "1999-07-16T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028808",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -170,6 +168,12 @@
         "site": "bilibili",
         "id": "2210",
         "begin": "1999-07-02T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035448",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -215,6 +219,12 @@
       {
         "site": "bangumi",
         "id": "27773"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028827",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -232,11 +242,6 @@
     "begin": "1999-07-05T16:00:00.000Z",
     "end": "2000-03-03T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "SvzHRa0Tg8Ekogo",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "54158"
@@ -297,6 +302,137 @@
         "id": "70035035",
         "begin": "2020-02-28T16:00:00.000Z",
         "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "下級生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "下级生"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-06-30T16:00:00.000Z",
+    "broadcast": "R/1999-06-30T16:00:00.000Z/P7D",
+    "end": "1999-09-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13342"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003200",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キョロちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "福星大嘴鸟"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-06-30T16:00:00.000Z",
+    "broadcast": "R/1999-06-30T16:00:00.000Z/P7D",
+    "end": "2001-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36011"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044174",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 第08MS小隊 特別編 ラスト・リゾート",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 第08MS小队 最后的休憩"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-07-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-07-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36358"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012895",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン アンパンマンとたのしい仲間たち",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-07-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-07-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89709"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018537",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン 勇気の花がひらくとき",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：当勇气之花朵绽放时"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-07-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-07-23T16:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318328"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018536",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }

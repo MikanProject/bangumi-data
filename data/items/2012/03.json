@@ -14,13 +14,12 @@
     "end": "2012-04-20T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "BFslowtx4RibCAGg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "31417"
+      },
+      {
+        "site": "dmhy",
+        "id": "Ozuma"
       }
     ]
   },
@@ -38,11 +37,6 @@
     "end": "2012-06-24T13:27:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "3ALibfORKuvhb2UE",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjt8kf9",
         "begin": "2013-01-09T06:48:52.000Z"
@@ -50,11 +44,6 @@
       {
         "site": "qq",
         "id": "r/rmm0kjl92tv7eu2",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "72997",
         "begin": ""
       },
       {
@@ -71,6 +60,10 @@
         "id": "742",
         "begin": "2012-04-01T16:00:00.000Z",
         "broadcast": "R/2012-03-06T09:41:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "绯色的欠片"
       }
     ]
   },
@@ -95,6 +88,20 @@
       {
         "site": "bangumi",
         "id": "33446"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011321",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "星矢Ω"
+      },
+      {
+        "site": "mikan",
+        "id": "237"
       }
     ]
   },
@@ -111,11 +118,6 @@
     "begin": "2012-03-01T16:00:00.000Z",
     "end": "2012-05-24T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "2P7KSLAWhsQnpQ0",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "29813"
@@ -136,11 +138,6 @@
     "end": "2012-03-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "EAvlY8sxod9CwCg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "39637"
       }
@@ -160,11 +157,6 @@
     "end": "2012-03-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "EAvlY8sxod9CwCg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "40247"
       }
@@ -183,11 +175,6 @@
     "begin": "2012-03-05T16:00:00.000Z",
     "end": "2012-03-05T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "EAvlY8sxod9CwCg",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "38434"
@@ -214,16 +201,6 @@
     "end": "2012-03-12T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "EAvlY8sxod9CwCg",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "76279",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "39303"
       },
@@ -232,6 +209,12 @@
         "id": "5947",
         "begin": "2012-03-11T16:00:01.000Z",
         "broadcast": "R/2017-03-19T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046989",
+        "begin": "2020-03-19T03:00:00.000Z",
+        "broadcast": "R/2020-03-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -249,11 +232,6 @@
     "end": "2012-03-17T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "83122",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "18016"
       },
@@ -262,6 +240,12 @@
         "id": "3843",
         "begin": "2012-03-16T16:00:01.000Z",
         "broadcast": "R/2016-04-25T07:44:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012260",
+        "begin": "2018-08-30T03:00:00.000Z",
+        "broadcast": "R/2018-08-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -279,11 +263,6 @@
     "end": "2012-03-17T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "79497",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37855"
       },
@@ -291,6 +270,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016687",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -311,18 +296,8 @@
     "end": "2012-03-03T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "79885",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "24815"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -351,6 +326,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099885",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -392,11 +373,6 @@
     "end": "2012-03-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8gP9eibNJufda2EA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "49314"
       },
@@ -425,11 +401,6 @@
     "end": "2012-08-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "InlDwSmPicz2gHoY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "24544"
       },
@@ -457,6 +428,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "A频道+smile"
+      ],
+      "zh-Hant": [
+        "A 頻道 OVA"
       ]
     },
     "type": "ova",
@@ -466,19 +440,26 @@
     "end": "2012-03-21T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "OV4qqBB25iaSHBW0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "29432"
       },
       {
-        "site": "bilibili",
-        "id": "916",
-        "begin": "2012-03-20T16:00:00.000Z",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0046915",
+        "begin": "2020-03-24T03:00:00.000Z",
+        "broadcast": "R/2020-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -495,11 +476,6 @@
     "begin": "2012-03-21T16:00:00.000Z",
     "end": "2012-03-21T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "IXZS0DiaeDkyvLZU",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "37416"
@@ -524,9 +500,10 @@
         "id": "26806"
       },
       {
-        "site": "nicovideo",
-        "id": "kiminoirumachi_OAD",
-        "begin": "2018-10-18T15:00:00.000Z"
+        "site": "unext",
+        "id": "SID0037691",
+        "begin": "2018-10-19T03:00:00.000Z",
+        "broadcast": "R/2018-10-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -569,12 +546,6 @@
       {
         "site": "bangumi",
         "id": "84122"
-      },
-      {
-        "site": "bilibili",
-        "id": "4600",
-        "begin": "2012-03-19T16:00:00.000Z",
-        "broadcast": ""
       }
     ]
   },

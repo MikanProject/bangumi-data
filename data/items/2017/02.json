@@ -24,6 +24,22 @@
       {
         "site": "bangumi",
         "id": "196053"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054382",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1223"
+      },
+      {
+        "site": "abema",
+        "id": "5-58",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -58,6 +74,16 @@
         "site": "nicovideo",
         "id": "anime-ryu",
         "begin": "2017-02-10T09:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028480",
+        "begin": "2017-02-26T03:00:00.000Z",
+        "broadcast": "R/2017-02-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1226"
       }
     ]
   },
@@ -75,11 +101,6 @@
     "end": "2017-02-11T17:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "IhQAfuZMvPpd20M",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrha8tqp",
         "begin": "2016-12-16T08:55:22.000Z"
@@ -95,6 +116,12 @@
       },
       {
         "site": "gamer",
+        "id": "74561",
+        "begin": "2016-12-16T09:20:00.000Z",
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
         "id": "74561",
         "begin": "2016-12-16T09:20:00.000Z",
         "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
@@ -132,6 +159,16 @@
         "site": "youku",
         "id": "9b274b3ad30811e6b9bb",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0028761",
+        "begin": "2021-05-01T03:00:00.000Z",
+        "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1202"
       }
     ]
   },
@@ -172,6 +209,16 @@
         "site": "youku",
         "id": "8635adbbee8a11e68ce4",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0029754",
+        "begin": "2017-08-02T03:00:00.000Z",
+        "broadcast": "R/2017-08-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "青鬼"
       }
     ]
   },
@@ -191,6 +238,10 @@
       {
         "site": "bangumi",
         "id": "100447"
+      },
+      {
+        "site": "mikan",
+        "id": "1444"
       }
     ]
   },
@@ -214,6 +265,12 @@
       {
         "site": "bangumi",
         "id": "210806"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028168",
+        "begin": "2019-11-23T03:00:00.000Z",
+        "broadcast": "R/2019-11-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -231,13 +288,14 @@
     "end": "2017-02-22T16:40:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "m6CMCnLYSIbpZ88",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "203325"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039472",
+        "begin": "2019-05-02T03:00:00.000Z",
+        "broadcast": "R/2019-05-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -249,6 +307,9 @@
       ],
       "zh-Hant": [
         "刀劍神域 劇場版 序列爭戰"
+      ],
+      "en": [
+        "Sword Art Online the Movie -Ordinal Scale-"
       ]
     },
     "type": "movie",
@@ -283,6 +344,29 @@
         "id": "15132",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0032241",
+        "begin": "2017-12-20T03:00:00.000Z",
+        "broadcast": "R/2017-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "79961",
+        "begin": "2019-01-16T06:30:00.000Z",
+        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4bJ80OEt6odH",
+        "url": "https://www.disneyplus.com/movies/sword-art-online-the-movie-ordinal-scale/4bJ80OEt6odH",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1384"
       }
     ]
   },
@@ -309,14 +393,19 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "naiaEAmrQQH7hX8c",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "d08b10cad89e11e6967c",
         "begin": "2017-03-17T02:58:05.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028804",
+        "begin": "2017-03-24T03:00:00.000Z",
+        "broadcast": "R/2017-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1229"
       }
     ]
   },
@@ -338,9 +427,10 @@
         "id": "202156"
       },
       {
-        "site": "letv",
-        "id": "10037653",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0049599",
+        "begin": "2020-07-20T03:00:00.000Z",
+        "broadcast": "R/2020-07-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -418,10 +508,101 @@
         "broadcast": "R/2022-10-22T16:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "h3CMH0G3ouOB",
-        "begin": "",
-        "broadcast": ""
+        "site": "unext",
+        "id": "SID0047061",
+        "begin": "2020-03-13T03:00:00.000Z",
+        "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ゆゆ式 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "悠悠式 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.yuyushiki.net/",
+    "begin": "2017-02-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-02-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175533"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045127",
+        "begin": "2019-12-24T03:00:00.000Z",
+        "broadcast": "R/2019-12-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1309"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 血烟的石川五右卫门"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://goemon-ishikawa.com/",
+    "begin": "2017-02-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-02-03T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192442"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032581",
+        "begin": "2017-12-27T03:00:00.000Z",
+        "broadcast": "R/2017-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1234"
+      }
+    ]
+  },
+  {
+    "title": "インド版 忍者ハットリくん",
+    "titleTranslate": {
+      "zh-Hant": [
+        "新 忍者哈特利 第四季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-02-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "gamer",
+        "id": "122880",
+        "begin": "2022-03-01T08:00:00.000Z",
+        "broadcast": "R/2022-03-01T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "122880",
+        "begin": "2022-03-01T08:00:00.000Z",
+        "broadcast": "R/2022-03-01T08:00:00.000Z/P7D"
       }
     ]
   }

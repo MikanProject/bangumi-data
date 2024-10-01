@@ -7,7 +7,8 @@
         "我的英雄学院：世界英雄任务"
       ],
       "zh-Hant": [
-        "我的英雄學院劇場版：世界英雄任務"
+        "我的英雄學院劇場版：世界英雄任務",
+        "我的英雄學院：世界英雄任務"
       ],
       "en": [
         "My Hero Academia: World Heroes' Mission"
@@ -29,6 +30,24 @@
         "id": "81642996",
         "begin": "2022-11-24T00:00:00.000Z",
         "broadcast": "R/2022-11-24T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065169",
+        "begin": "2022-02-16T03:00:00.000Z",
+        "broadcast": "R/2022-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "114751",
+        "begin": "2024-04-19T04:00:00.000Z",
+        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "114751",
+        "begin": "2024-04-19T04:00:00.000Z",
+        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -58,12 +77,22 @@
         "id": "114474",
         "begin": "2022-12-23T04:00:00.000Z",
         "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237005",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
   {
     "title": "BanG Dream! FILM LIVE 2nd Stage",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "BanG Dream！FILM LIVE 2nd Stage"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/filmlive2/",
@@ -80,6 +109,12 @@
         "id": "110501",
         "begin": "2022-07-21T06:00:00.000Z",
         "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "110501",
+        "begin": "2022-07-21T06:00:00.000Z",
+        "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -91,7 +126,8 @@
         "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 没有名字的少女"
       ],
       "zh-Hant": [
-        "魔法少女伊莉雅：Licht 無名的少女"
+        "魔法少女伊莉雅：Licht 無名的少女",
+        "Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女"
       ]
     },
     "type": "movie",
@@ -116,6 +152,24 @@
         "id": "prisma-illya-movie-licht",
         "begin": "2022-04-30T15:00:00.000Z",
         "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065326",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "115033",
+        "begin": "2024-05-03T04:00:00.000Z",
+        "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "115033",
+        "begin": "2024-05-03T04:00:00.000Z",
+        "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -150,6 +204,16 @@
         "id": "planetarian-snow-globe",
         "begin": "2022-02-24T15:00:00.000Z",
         "broadcast": "R/2022-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066473",
+        "begin": "2022-02-25T03:00:00.000Z",
+        "broadcast": "R/2022-02-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2416"
       }
     ]
   },
@@ -185,6 +249,130 @@
         "id": "25-205",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0068375",
+        "begin": "2022-04-26T15:00:00.000Z",
+        "broadcast": "R/2022-04-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "トニカクカワイイ ～SNS～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "总之就是非常可爱 ～SNS～",
+        "总之就是非常可爱 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://tonikawa.com/",
+    "begin": "2021-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "322899"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061820",
+        "begin": "2021-10-11T03:00:00.000Z",
+        "broadcast": "R/2021-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2541"
+      }
+    ]
+  },
+  {
+    "title": "深海のサバイバル！",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.toei-mangamatsuri.jp/",
+    "begin": "2021-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338262"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093662",
+        "begin": "2023-10-09T03:00:00.000Z",
+        "broadcast": "R/2023-10-09T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画おしりたんてい スフーレ島のひみつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影屁屁侦探 舒芙蕾岛的秘密"
+      ],
+      "zh-Hant": [
+        "屁屁偵探：舒芙蕾島的秘密"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2021-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-12T16:37:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338261"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067129",
+        "begin": "2022-03-01T03:00:00.000Z",
+        "broadcast": "R/2022-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "117090",
+        "begin": "2023-09-20T02:30:00.000Z",
+        "broadcast": "R/2023-09-20T02:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Re:STARS 〜未来へ繋ぐ2つのきらぼし〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "今天开始做明星之天使情歌"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://re-stars.com/movie/",
+    "begin": "2021-08-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-02T17:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "364866"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103352",
+        "begin": "2024-06-07T03:00:00.000Z",
+        "broadcast": "R/2024-06-07T03:00:00.000Z/P7D"
       }
     ]
   }

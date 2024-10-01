@@ -61,7 +61,7 @@
         "id": "demonslayerkimetsunoyaibaentertainmentdistrictarc0001_133873",
         "begin": "2022-01-12T16:00:00.000Z",
         "broadcast": "R/2022-01-12T16:00:00.000Z/P7D",
-        "comment": "雙語版"
+        "comment": "雙語版, 粵語版: demonslayerkimetsunoyaibaentertainmentdistrictarc0004_140918"
       },
       {
         "site": "nicovideo",
@@ -74,6 +74,30 @@
         "id": "26-75",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0061983",
+        "begin": "2021-12-05T16:00:00.000Z",
+        "broadcast": "R/2021-12-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "115835",
+        "begin": "2021-12-05T15:45:00.000Z",
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼滅之刃 遊郭篇|列車篇"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "615bb91fd7f73dd4ed5c4403"
+      },
+      {
+        "site": "mikan",
+        "id": "2604"
       }
     ]
   },
@@ -133,6 +157,18 @@
         "id": "mahouka-tsuiokuhen",
         "begin": "2022-01-05T15:00:00.000Z",
         "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0063372",
+        "begin": "2022-01-05T15:00:00.000Z",
+        "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "120950",
+        "begin": "2021-12-31T16:30:00.000Z",
+        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -185,6 +221,19 @@
         "id": "536-4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0078792",
+        "begin": "2023-02-23T15:00:00.000Z",
+        "broadcast": "R/2023-02-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4JOgJLmNQnNr",
+        "url": "https://www.disneyplus.com/movies/jujutsu-kaisen-0/4JOgJLmNQnNr",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -222,6 +271,18 @@
         "id": "anime_elmelloi_special",
         "begin": "2022-04-30T03:00:00.000Z",
         "broadcast": "R/2022-04-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067492",
+        "begin": "2022-03-30T03:00:00.000Z",
+        "broadcast": "R/2022-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "121152",
+        "begin": "2021-12-31T14:30:00.000Z",
+        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -256,6 +317,18 @@
         "id": "aria-benedizione",
         "begin": "2022-07-27T03:00:00.000Z",
         "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068989",
+        "begin": "2022-07-27T03:00:00.000Z",
+        "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "116200",
+        "begin": "2022-07-27T04:00:00.000Z",
+        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -284,6 +357,12 @@
         "id": "120753",
         "begin": "2022-06-24T04:00:00.000Z",
         "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0097079",
+        "begin": "2024-01-13T03:00:00.000Z",
+        "broadcast": "R/2024-01-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -313,6 +392,16 @@
         "id": "115483",
         "begin": "2022-12-23T04:00:00.000Z",
         "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065387",
+        "begin": "2022-01-25T15:00:00.000Z",
+        "broadcast": "R/2022-01-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2951"
       }
     ]
   },
@@ -369,6 +458,33 @@
         "id": "114473",
         "begin": "2023-08-03T16:00:00.000Z",
         "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "雄狮少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雄狮少年"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/lionshonen/",
+    "begin": "2021-12-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-12-16T17:44:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338424"
+      },
+      {
+        "site": "unext",
+        "id": "SID0086302",
+        "begin": "2023-11-08T03:00:00.000Z",
+        "broadcast": "R/2023-11-08T03:00:00.000Z/P7D"
       }
     ]
   }
