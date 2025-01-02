@@ -588,10 +588,52 @@
     ]
   },
   {
+    "title": "劇場版 モノノ怪 唐傘",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 唐伞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2024-07-26T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-12-18T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "388469"
+      }
+    ]
+  },
+  {
     "title": "刀剣乱舞 廻 -々伝 近し侍らうものら-",
     "titleTranslate": {
       "zh-Hans": [
         "刀剣乱舞 廻 -々伝 近し侍らうものら-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://touken-kai.jp/",
+    "begin": "2024-08-16T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-12-18T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "495674"
+      }
+    ]
+  },
+  {
+    "title": "刀剣乱舞 廻 -々伝 近し侍らうものら-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刀剑乱舞 回 -旋传 亲近的侍从们-"
       ]
     },
     "type": "movie",
@@ -626,27 +668,6 @@
       {
         "site": "bangumi",
         "id": "337586"
-      }
-    ]
-  },
-  {
-    "title": "トラペジウム",
-    "titleTranslate": {
-      "zh-Hans": [
-        "四重星"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "https://trapezium-movie.com/",
-    "begin": "2024-05-10T00:00:00Z",
-    "end": "",
-    "bdReleaseDate": "2024-12-25T00:00:00Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "469877"
       }
     ]
   },
