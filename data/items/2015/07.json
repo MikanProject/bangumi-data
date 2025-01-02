@@ -22,7 +22,8 @@
       {
         "site": "nicovideo",
         "id": "okusama",
-        "begin": "2015-07-08T12:00:00.000Z"
+        "begin": "2015-07-08T12:00:00.000Z",
+        "broadcast": "R/2015-07-08T12:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -35,6 +36,12 @@
       {
         "site": "mikan",
         "id": "525"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018917",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -249,7 +256,8 @@
       {
         "site": "nicovideo",
         "id": "aqlogos",
-        "begin": "2015-07-20T15:30:00.000Z"
+        "begin": "2015-07-20T15:30:00.000Z",
+        "broadcast": "R/2015-07-20T15:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -306,7 +314,8 @@
       {
         "site": "nicovideo",
         "id": "dande",
-        "begin": "2015-07-27T16:00:00.000Z"
+        "begin": "2015-07-27T16:00:00.000Z",
+        "broadcast": "R/2015-07-27T16:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -368,7 +377,8 @@
       {
         "site": "nicovideo",
         "id": "hetalia-World-Twinkle",
-        "begin": "2015-07-09T15:00:00.000Z"
+        "begin": "2015-07-09T15:00:00.000Z",
+        "broadcast": "R/2015-07-09T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -476,7 +486,8 @@
       {
         "site": "nicovideo",
         "id": "wooser-tv-mugen",
-        "begin": "2015-07-03T14:30:00.000Z"
+        "begin": "2015-07-03T14:30:00.000Z",
+        "broadcast": "R/2015-07-03T14:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -567,6 +578,9 @@
       "zh-Hans": [
         "青春×机关枪"
       ],
+      "zh-Hant": [
+        "青春 x 機關槍"
+      ],
       "en": [
         "Aoharu x Kikanjuu"
       ]
@@ -605,13 +619,8 @@
       {
         "site": "nicovideo",
         "id": "aoharu",
-        "begin": "2015-07-13T03:00:00.000Z"
-      },
-      {
-        "site": "unext",
-        "id": "SID0018944",
-        "begin": "2023-09-22T03:00:00.000Z",
-        "broadcast": "R/2023-09-22T03:00:00.000Z/P7D"
+        "begin": "2015-07-13T03:00:00.000Z",
+        "broadcast": "R/2015-07-13T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -624,6 +633,12 @@
       {
         "site": "mikan",
         "id": "530"
+      },
+      {
+        "site": "gamer",
+        "id": "75748",
+        "begin": "2024-10-18T04:00:00.000Z",
+        "broadcast": "R/2024-10-18T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -663,7 +678,8 @@
       {
         "site": "nicovideo",
         "id": "wakabagirl",
-        "begin": "2015-07-11T15:00:00.000Z"
+        "begin": "2015-07-11T15:00:00.000Z",
+        "broadcast": "R/2015-07-11T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -719,7 +735,8 @@
       {
         "site": "nicovideo",
         "id": "miss-monochrome2",
-        "begin": "2015-07-07T03:00:00.000Z"
+        "begin": "2015-07-07T03:00:00.000Z",
+        "broadcast": "R/2015-07-07T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -771,7 +788,8 @@
       {
         "site": "nicovideo",
         "id": "symphogear-gx",
-        "begin": "2015-07-08T14:30:00.000Z"
+        "begin": "2015-07-08T14:30:00.000Z",
+        "broadcast": "R/2015-07-08T14:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -830,7 +848,8 @@
       {
         "site": "nicovideo",
         "id": "working-03",
-        "begin": "2015-07-07T03:00:00.000Z"
+        "begin": "2015-07-07T03:00:00.000Z",
+        "broadcast": "R/2015-07-07T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -905,7 +924,8 @@
       {
         "site": "nicovideo",
         "id": "durarara03",
-        "begin": "2015-07-09T03:00:00.000Z"
+        "begin": "2015-07-09T03:00:00.000Z",
+        "broadcast": "R/2015-07-09T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -976,7 +996,8 @@
       {
         "site": "nicovideo",
         "id": "shimoseka",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -1064,7 +1085,8 @@
       {
         "site": "nicovideo",
         "id": "charlotte-anime",
-        "begin": "2015-07-06T13:30:00.000Z"
+        "begin": "2015-07-06T13:30:00.000Z",
+        "broadcast": "R/2015-07-06T13:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1132,7 +1154,8 @@
       {
         "site": "nicovideo",
         "id": "classroom-crisis",
-        "begin": "2015-07-10T03:00:00.000Z"
+        "begin": "2015-07-10T03:00:00.000Z",
+        "broadcast": "R/2015-07-10T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1145,6 +1168,12 @@
       {
         "site": "mikan",
         "id": "538"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018968",
+        "begin": "2024-10-18T03:00:00.000Z",
+        "broadcast": "R/2024-10-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1182,7 +1211,8 @@
       {
         "site": "nicovideo",
         "id": "GC_insight",
-        "begin": "2015-07-05T03:00:00.000Z"
+        "begin": "2015-07-05T03:00:00.000Z",
+        "broadcast": "R/2015-07-05T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1264,7 +1294,8 @@
       {
         "site": "nicovideo",
         "id": "godeater-anime",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -1330,7 +1361,8 @@
       {
         "site": "nicovideo",
         "id": "rokka",
-        "begin": "2015-07-08T15:30:00.000Z"
+        "begin": "2015-07-08T15:30:00.000Z",
+        "broadcast": "R/2015-07-08T15:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1387,7 +1419,8 @@
       {
         "site": "nicovideo",
         "id": "venus-project-tv",
-        "begin": "2015-07-05T13:30:00.000Z"
+        "begin": "2015-07-05T13:30:00.000Z",
+        "broadcast": "R/2015-07-05T13:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1437,7 +1470,8 @@
       {
         "site": "nicovideo",
         "id": "wakakozake_anime",
-        "begin": "2015-07-07T15:00:00.000Z"
+        "begin": "2015-07-07T15:00:00.000Z",
+        "broadcast": "R/2015-07-07T15:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1564,7 +1598,8 @@
       {
         "site": "nicovideo",
         "id": "to-love-ru4",
-        "begin": "2015-07-08T03:00:00.000Z"
+        "begin": "2015-07-08T03:00:00.000Z",
+        "broadcast": "R/2015-07-08T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1642,7 +1677,8 @@
       {
         "site": "nicovideo",
         "id": "clarines-kingdom",
-        "begin": "2015-07-18T14:30:00.000Z"
+        "begin": "2015-07-18T14:30:00.000Z",
+        "broadcast": "R/2015-07-18T14:30:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1705,7 +1741,8 @@
       {
         "site": "nicovideo",
         "id": "qtransformers",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1739,7 +1776,8 @@
       {
         "site": "nicovideo",
         "id": "nonnontv02",
-        "begin": "2015-07-16T16:00:00.000Z"
+        "begin": "2015-07-16T16:00:00.000Z",
+        "broadcast": "R/2015-07-16T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1799,7 +1837,8 @@
       {
         "site": "nicovideo",
         "id": "overlord-anime",
-        "begin": "2015-07-16T17:00:00.000Z"
+        "begin": "2015-07-16T17:00:00.000Z",
+        "broadcast": "R/2015-07-16T17:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -1903,7 +1942,8 @@
       {
         "site": "nicovideo",
         "id": "soregaseiyu",
-        "begin": "2015-07-10T13:30:00.000Z"
+        "begin": "2015-07-10T13:30:00.000Z",
+        "broadcast": "R/2015-07-10T13:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1954,7 +1994,8 @@
       {
         "site": "nicovideo",
         "id": "jitsuwata",
-        "begin": "2015-07-13T03:00:00.000Z"
+        "begin": "2015-07-13T03:00:00.000Z",
+        "broadcast": "R/2015-07-13T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2005,7 +2046,8 @@
       {
         "site": "nicovideo",
         "id": "animemd",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2104,7 +2146,8 @@
       {
         "site": "nicovideo",
         "id": "te-kyu5",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2212,7 +2255,8 @@
       {
         "site": "nicovideo",
         "id": "ku-sen",
-        "begin": "2015-07-25T03:00:00.000Z"
+        "begin": "2015-07-25T03:00:00.000Z",
+        "broadcast": "R/2015-07-25T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2259,7 +2303,8 @@
       {
         "site": "nicovideo",
         "id": "bikini-warriors",
-        "begin": "2015-07-07T16:35:00.000Z"
+        "begin": "2015-07-07T16:35:00.000Z",
+        "broadcast": "R/2015-07-07T16:35:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2316,7 +2361,8 @@
       {
         "site": "nicovideo",
         "id": "suzakinishi",
-        "begin": "2015-07-09T03:00:00.000Z"
+        "begin": "2015-07-09T03:00:00.000Z",
+        "broadcast": "R/2015-07-09T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2387,7 +2433,8 @@
       {
         "site": "nicovideo",
         "id": "gakkougurashi",
-        "begin": "2015-07-09T16:00:00.000Z"
+        "begin": "2015-07-09T16:00:00.000Z",
+        "broadcast": "R/2015-07-09T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -2561,6 +2608,12 @@
       {
         "site": "mikan",
         "id": "565"
+      },
+      {
+        "site": "nicovideo",
+        "id": "umaru-anime",
+        "begin": "2015-07-20T13:00:00.000Z",
+        "broadcast": "R/2015-07-20T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -2592,7 +2645,8 @@
       {
         "site": "nicovideo",
         "id": "danchigai",
-        "begin": "2015-07-14T12:00:00.000Z"
+        "begin": "2015-07-14T12:00:00.000Z",
+        "broadcast": "R/2015-07-14T12:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2705,7 +2759,8 @@
       {
         "site": "nicovideo",
         "id": "makuranodanshi",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2816,7 +2871,8 @@
       {
         "site": "nicovideo",
         "id": "prisma-illya02",
-        "begin": "2015-08-13T03:00:00.000Z"
+        "begin": "2015-08-13T03:00:00.000Z",
+        "broadcast": "R/2015-08-13T03:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -3092,7 +3148,8 @@
       {
         "site": "nicovideo",
         "id": "peepingk",
-        "begin": "2015-07-10T06:00:00.000Z"
+        "begin": "2015-07-10T06:00:00.000Z",
+        "broadcast": "R/2015-07-10T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3124,7 +3181,8 @@
       {
         "site": "nicovideo",
         "id": "kinyoru-abereiji",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3373,12 +3431,6 @@
       {
         "site": "bangumi",
         "id": "83067"
-      },
-      {
-        "site": "netflix",
-        "id": "80100171",
-        "begin": "2020-09-29T16:00:00.000Z",
-        "broadcast": "R/2020-09-29T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",

@@ -778,6 +778,12 @@
       {
         "site": "dmhy",
         "id": "世界 漏洞"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157563",
+        "begin": "2024-10-05T03:00:00.000Z",
+        "broadcast": "R/2024-10-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1019,6 +1025,12 @@
       {
         "site": "dmhy",
         "id": "異世界自殺"
+      },
+      {
+        "site": "netflix",
+        "id": "81767643",
+        "begin": "2024-10-31T00:00:00.000Z",
+        "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1215,7 +1227,7 @@
     "officialSite": "https://monogatari-series.com/oms/",
     "begin": "2024-07-06T13:00:00.000Z",
     "broadcast": "R/2024-07-06T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-10-19T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1576,7 +1588,7 @@
     "officialSite": "https://atri-anime.com/",
     "begin": "2024-07-13T15:00:00.000Z",
     "broadcast": "R/2024-07-13T15:00:00.000Z/P7D",
-    "end": "2024-09-28T15:00:00.000Z",
+    "end": "2024-10-05T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1913,8 +1925,8 @@
       {
         "site": "netflix",
         "id": "81566401",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-12T16:00:00.000Z",
+        "broadcast": "R/2024-07-12T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -2022,6 +2034,12 @@
       {
         "site": "mikan",
         "id": "3392"
+      },
+      {
+        "site": "netflix",
+        "id": "81566407",
+        "begin": "2024-10-31T00:00:00.000Z",
+        "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2132,8 +2150,8 @@
       {
         "site": "netflix",
         "id": "81909977",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-04T16:00:00.000Z",
+        "broadcast": "R/2024-07-04T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -2154,6 +2172,12 @@
       {
         "site": "dmhy",
         "id": "2.5次元"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ririsa-official",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2271,6 +2295,12 @@
       {
         "site": "mikan",
         "id": "3396"
+      },
+      {
+        "site": "bilibili",
+        "id": "21854215",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2329,7 +2359,7 @@
     "officialSite": "https://anime.cf-vanguard.com/vgd/",
     "begin": "2024-07-05T23:00:00.000Z",
     "broadcast": "R/2024-07-05T23:00:00.000Z/P7D",
-    "end": "2024-07-05T23:00:00.000Z",
+    "end": "2024-10-12T23:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2357,6 +2387,16 @@
       {
         "site": "gamer_hk",
         "id": "138936",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3398"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cf-vanguard_divinez2",
         "begin": "",
         "broadcast": ""
       }
@@ -2439,7 +2479,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "神之塔 第二季",
-        "神之塔 -Tower of God- 工房戦"
+        "神之塔 -Tower of God- 工房戦",
+        "神之塔 王子的归来"
       ]
     },
     "type": "tv",
@@ -2458,7 +2499,8 @@
         "site": "unext",
         "id": "SID0104525",
         "begin": "2024-07-07T14:30:00.000Z",
-        "broadcast": "R/2024-07-07T14:30:00.000Z/P7D"
+        "broadcast": "R/2024-07-07T14:30:00.000Z/P7D",
+        "comment": "工房戦: SID0104526"
       },
       {
         "site": "bangumi_moe",
@@ -2473,6 +2515,12 @@
       {
         "site": "mikan",
         "id": "3400"
+      },
+      {
+        "site": "bilibili",
+        "id": "22806007",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2788,7 +2836,11 @@
         "靠废柴技能【状态异常】成为最强的我将蹂躏一切"
       ],
       "zh-Hant": [
-        "靠廢柴技能【狀態異常】成為最強的我將蹂躪一切"
+        "靠廢柴技能【狀態異常】成為最強的我將蹂躪一切",
+        "靠廢柴技能「狀態異常」成為最強的我將蹂躪一切"
+      ],
+      "en": [
+        "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       ]
     },
     "type": "tv",
@@ -2844,6 +2896,12 @@
       {
         "site": "dmhy",
         "id": "狀態異常"
+      },
+      {
+        "site": "netflix",
+        "id": "81910037",
+        "begin": "2024-10-19T00:00:00.000Z",
+        "broadcast": "R/2024-10-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2974,6 +3032,13 @@
         "begin": "",
         "broadcast": "",
         "comment": "オンエア版"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yoasobigurashi",
+        "begin": "",
+        "broadcast": "",
+        "comment": "オンエア版"
       }
     ]
   },
@@ -3089,6 +3154,12 @@
       {
         "site": "dmhy",
         "id": "魔王 人類"
+      },
+      {
+        "site": "netflix",
+        "id": "81948358",
+        "begin": "2024-10-31T00:00:00.000Z",
+        "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3174,7 +3245,7 @@
     "officialSite": "https://ichigoproduction.com/Season2/",
     "begin": "2024-07-03T14:00:00.000Z",
     "broadcast": "R/2024-07-03T14:00:00.000Z/P7D",
-    "end": "2024-09-25T14:00:00.000Z",
+    "end": "2024-10-06T10:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3435,7 +3506,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai13/",
     "begin": "2024-07-14T17:50:00.000Z",
     "broadcast": "R/2024-07-14T17:50:00.000Z/P7D",
-    "end": "2024-09-29T17:50:00.000Z",
+    "end": "2024-10-06T17:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3451,6 +3522,10 @@
         "id": "SID0104468",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3492"
       }
     ]
   },
@@ -3485,6 +3560,33 @@
         "id": "81712502",
         "begin": "2024-07-17T16:00:00.000Z",
         "broadcast": "R/2024-07-17T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ヤマトよ永遠に REBEL3199 第一章 黒の侵略",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第一章 黑之侵略"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2024-07-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-07-18T17:09:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "366256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159850",
+        "begin": "2024-11-07T15:00:00.000Z",
+        "broadcast": "R/2024-11-07T15:00:00.000Z/P7D"
       }
     ]
   }

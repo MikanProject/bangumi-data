@@ -303,6 +303,18 @@
       {
         "site": "mikan",
         "id": "3292"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanteiskill",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81769856",
+        "begin": "2024-10-24T00:00:00.000Z",
+        "broadcast": "R/2024-10-24T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -636,6 +648,12 @@
       {
         "site": "mikan",
         "id": "3297"
+      },
+      {
+        "site": "nicovideo",
+        "id": "niji4anime2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -651,6 +669,10 @@
         "少哭",
         "闺泣",
         "少女五乐哭"
+      ],
+      "zh-Hant": [
+        "GIRLS BAND CRY",
+        "少女樂團 吶喊吧"
       ]
     },
     "type": "tv",
@@ -692,6 +714,12 @@
       {
         "site": "nicovideo",
         "id": "girls-band-cry",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "131960",
         "begin": "",
         "broadcast": ""
       }
@@ -878,7 +906,8 @@
         "怪獸 8 號"
       ],
       "en": [
-        "Kaiju No.8"
+        "Kaiju No.8",
+        "Kaiju No.8 (Season 1)"
       ]
     },
     "type": "tv",
@@ -966,6 +995,18 @@
       {
         "site": "mikan",
         "id": "3301"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaiju-no8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "kaijuno8season1_141571",
+        "begin": "2024-09-24T16:00:00.000Z",
+        "broadcast": "R/2024-09-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1121,7 +1162,7 @@
     "officialSite": "https://mission-yozakura-family.com/",
     "begin": "2024-04-07T08:00:00.000Z",
     "broadcast": "R/2024-04-07T08:00:00.000Z/P7D",
-    "end": "2024-09-29T08:00:00.000Z",
+    "end": "2024-10-06T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1161,8 +1202,8 @@
       {
         "site": "netflix",
         "id": "81766575",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-04-06T16:00:00.000Z",
+        "broadcast": "R/2024-04-06T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -1779,6 +1820,12 @@
       {
         "site": "mikan",
         "id": "3313"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dainanaoji",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2292,6 +2339,12 @@
       {
         "site": "mikan",
         "id": "3321"
+      },
+      {
+        "site": "nicovideo",
+        "id": "touken-honnouji",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2374,6 +2427,12 @@
       {
         "site": "mikan",
         "id": "3322"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bartender-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3295,6 +3354,12 @@
       {
         "site": "mikan",
         "id": "3336"
+      },
+      {
+        "site": "netflix",
+        "id": "81768229",
+        "begin": "2024-10-24T00:00:00.000Z",
+        "broadcast": "R/2024-10-24T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3473,6 +3538,39 @@
       {
         "site": "mikan",
         "id": "3339"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100083",
+        "begin": "2024-03-29T03:00:00.000Z",
+        "broadcast": "R/2024-03-29T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ギャビーのドールハウス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "加比的玩偶屋"
+      ],
+      "en": [
+        "Gabby's Dollhouse"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://gabbysdollhouse.jp/",
+    "begin": "2024-04-07T00:00:00.000Z",
+    "broadcast": "R/2024-04-07T00:00:00.000Z/P7D",
+    "end": "2024-04-07T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "23033385",
+        "begin": "",
+        "broadcast": "",
+        "comment": "中文配音: 23033523"
       }
     ]
   },
@@ -3581,6 +3679,34 @@
         "id": "3340"
       }
     ]
+  },
+  {
+    "title": "おしりたんてい(第8シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 第八季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2024-04-06T00:00:00.000Z",
+    "broadcast": "R/2024-04-06T00:00:00.000Z/P7D",
+    "end": "2024-11-16T00:20:00.000Z",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "ARNOLD & PUPPETS",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://twitter.com/ARNOLD_PUPPETS",
+    "begin": "2024-04-01T16:00:00.000Z",
+    "broadcast": "R/2024-04-01T16:00:00.000Z/P7D",
+    "end": "2024-06-04T16:05:00.000Z",
+    "comment": "",
+    "sites": []
   },
   {
     "title": "無職転生Ⅱ ～異世界行ったら本気だす～(第2クール)",
@@ -3728,6 +3854,12 @@
       {
         "site": "mikan",
         "id": "3341"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura_03",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3989,6 +4121,63 @@
         "id": "21232815",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版ブルーロック -EPISODE 凪-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版蓝色监狱 -EPISODE 凪-",
+        "蓝色禁区：凪"
+      ],
+      "en": [
+        "Blue Lock The Movie -Episode Nagi-"
+      ],
+      "zh-Hant": [
+        "劇場版藍色監獄：EPISODE 凪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.bluelock-pr.com/",
+    "begin": "2024-04-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-04-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "426124"
+      },
+      {
+        "site": "disneyplus",
+        "id": "65pPeJ1orwsg",
+        "url": "https://www.disneyplus.com/movies/blue-lock-the-movie-episode-nagi/65pPeJ1orwsg",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157267",
+        "begin": "2024-10-05T15:00:00.000Z",
+        "broadcast": "R/2024-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-70",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3479"
+      },
+      {
+        "site": "netflix",
+        "id": "81940376",
+        "begin": "2024-10-19T00:00:00.000Z",
+        "broadcast": "R/2024-10-19T00:00:00.000Z/P7D"
       }
     ]
   }
