@@ -63,6 +63,48 @@
     ]
   },
   {
+    "title": "クラユカバ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "昏行者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.kurayukaba.jp/kurayukaba/",
+    "begin": "2024-04-12T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-04-12T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469357"
+      }
+    ]
+  },
+  {
+    "title": "クラメルカガリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "炫目篝火"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kurayukaba.com/",
+    "begin": "2024-04-12T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-04-12T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "284235"
+      }
+    ]
+  },
+  {
     "title": "北極百貨店のコンシェルジュさん",
     "titleTranslate": {
       "zh-Hans": [
@@ -273,6 +315,27 @@
     ]
   },
   {
+    "title": "ヤマトよ永遠に REBEL3199 第一章 黒の侵略",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第一章 黑之侵略"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2024-07-19T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-07-19T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "366256"
+      }
+    ]
+  },
+  {
     "title": "傷物語-こよみヴァンプ-",
     "titleTranslate": {
       "zh-Hans": [
@@ -290,48 +353,6 @@
       {
         "site": "bangumi",
         "id": "454045"
-      }
-    ]
-  },
-  {
-    "title": "クラユカバ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "昏行者"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "https://www.kurayukaba.jp/kurayukaba/",
-    "begin": "2024-04-12T00:00:00Z",
-    "end": "",
-    "bdReleaseDate": "2024-07-24T00:00:00Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "469357"
-      }
-    ]
-  },
-  {
-    "title": "クラメルカガリ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "炫目篝火"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://kurayukaba.com/",
-    "begin": "2024-04-12T00:00:00Z",
-    "end": "",
-    "bdReleaseDate": "2024-07-24T00:00:00Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "284235"
       }
     ]
   },
@@ -504,6 +525,27 @@
     ]
   },
   {
+    "title": "ヤマトよ永遠に REBEL3199 第二章 赤日の出撃",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第二章 赤日的出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2024-11-22T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-11-22T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473412"
+      }
+    ]
+  },
+  {
     "title": "名探偵コナン 100万ドルの五稜星",
     "titleTranslate": {
       "zh-Hans": [
@@ -542,6 +584,48 @@
       {
         "site": "bangumi",
         "id": "448657"
+      }
+    ]
+  },
+  {
+    "title": "デッドデッドデーモンズデデデデデストラクション 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔的破坏 DEAD DEAD DEAMON'S DEDEDEDE DESTRUCTION 前篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://dededede.jp/",
+    "begin": "2024-03-22T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-12-04T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375425"
+      }
+    ]
+  },
+  {
+    "title": "デッドデッドデーモンズデデデデデストラクション 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔的破坏 DEAD DEAD DEAMON'S DEDEDEDE DESTRUCTION 后篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://dededede.jp/",
+    "begin": "2024-05-24T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2024-12-04T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "452432"
       }
     ]
   },
