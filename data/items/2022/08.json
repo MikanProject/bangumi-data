@@ -61,6 +61,28 @@
       {
         "site": "bangumi_moe",
         "id": "62c125a72fc3ee0d0016bf34"
+      },
+      {
+        "site": "mikan",
+        "id": "2786"
+      },
+      {
+        "site": "danime",
+        "id": "27135",
+        "begin": "2024-06-30T15:00:00.000Z",
+        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqngwlvkXxNdzW6V0w0Mkv9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0B8NDF9F5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -101,6 +123,10 @@
       {
         "site": "bangumi_moe",
         "id": "62c125ae2fc3ee0d0016bf50"
+      },
+      {
+        "site": "mikan",
+        "id": "2796"
       }
     ]
   },
@@ -145,6 +171,10 @@
         "id": "81176966",
         "begin": "2022-08-03T16:00:00.000Z",
         "broadcast": "R/2022-08-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2797"
       }
     ]
   },
@@ -243,6 +273,16 @@
         "id": "SID0072510",
         "begin": "2022-08-19T14:00:00.000Z",
         "broadcast": "R/2022-08-19T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2803"
+      },
+      {
+        "site": "danime",
+        "id": "25765",
+        "begin": "2022-08-19T14:00:00.000Z",
+        "broadcast": "R/2022-08-19T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -285,6 +325,10 @@
         "id": "sekashiba_anime",
         "begin": "2023-10-27T10:00:00.000Z",
         "broadcast": "R/2023-10-27T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2799"
       }
     ]
   },
@@ -331,6 +375,18 @@
       {
         "site": "mikan",
         "id": "2955"
+      },
+      {
+        "site": "abema",
+        "id": "184-185",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0B66J8GVM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -416,6 +472,12 @@
         "id": "SID0076025",
         "begin": "2022-12-22T15:00:00.000Z",
         "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25797",
+        "begin": "2022-09-15T15:00:00.000Z",
+        "broadcast": "R/2022-09-15T15:00:00.000Z/P7D"
       }
     ]
   }

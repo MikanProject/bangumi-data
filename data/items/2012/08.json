@@ -91,6 +91,12 @@
         "id": "SID0017794",
         "begin": "2024-01-31T15:00:00.000Z",
         "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20012",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -145,6 +151,18 @@
         "id": "SID0013602",
         "begin": "2015-03-19T15:00:00.000Z",
         "broadcast": "R/2015-03-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21965",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2ihLMmnLHLaW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -201,6 +219,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "妖精的尾巴 剧场版 凤凰巫女"
+      ],
+      "zh-Hant": [
+        "魔導少年-劇場版【鳳凰巫女】"
       ]
     },
     "type": "movie",
@@ -239,6 +260,19 @@
         "id": "fairytail_houou",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21603",
+        "begin": "2022-06-01T01:00:00.000Z",
+        "broadcast": "R/2022-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfocRW08G88BXLigPBUkkVen",
+        "begin": "2019-08-22T23:00:07.000Z",
+        "broadcast": "R/2019-08-22T23:00:07.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfrTmLGtFt3KsF8EjxXR8P-T"
       }
     ]
   },
@@ -264,6 +298,13 @@
         "id": "ikamusume-ova-01",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "11394",
+        "begin": "2014-08-01T01:00:00.000Z",
+        "broadcast": "R/2014-08-01T01:00:00.000Z/P7D",
+        "comment": "OAD 2: 11395"
       }
     ]
   },
@@ -362,6 +403,12 @@
         "id": "SID0044565",
         "begin": "2020-05-14T03:00:00.000Z",
         "broadcast": "R/2020-05-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10997",
+        "begin": "2013-10-04T01:00:00.000Z",
+        "broadcast": "R/2013-10-04T01:00:00.000Z/P7D"
       }
     ]
   },

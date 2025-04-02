@@ -73,6 +73,11 @@
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK","MO"]
   },
+  "muse_tw": {
+    "title": "木棉花 TW",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["TW"]
+  },
   "ani_one": {
     "title": "Ani-One中文官方動畫頻道",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
@@ -106,5 +111,23 @@
     "title": "U-NEXT",
     "urlTemplate": "https://video.unext.jp/title/{{id}}",
     "regions": ["JP"]
+  },
+  "crunchyroll": {
+    "title": "Crunchyroll",
+    "urlTemplate": "https://www.crunchyroll.com/series/{{id}}/"
+  },
+  "danime": {
+    "title": "dアニメストア",
+    "urlTemplate": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId={{id}}",
+    "regions": ["JP"]
+  },
+  "tropics": {
+    "title": "回歸線娛樂",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["HK","TW","MO"]
+  },
+  "prime": {
+    "title": "Prime Video",
+    "urlTemplate": "https://www.amazon.co.jp/gp/video/detail/{{id}}"
   }
 }

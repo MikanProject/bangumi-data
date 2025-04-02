@@ -60,8 +60,8 @@
       {
         "site": "gamer_hk",
         "id": "131060",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-01T16:30:00.000Z",
+        "broadcast": "R/2023-07-01T16:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -70,6 +70,12 @@
       {
         "site": "mikan",
         "id": "3055"
+      },
+      {
+        "site": "danime",
+        "id": "26458",
+        "begin": "2023-07-01T16:00:00.000Z",
+        "broadcast": "R/2023-07-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,7 +83,8 @@
     "title": "ライアー・ライアー",
     "titleTranslate": {
       "en": [
-        "Liar Liar"
+        "Liar Liar",
+        "Liar, Liar"
       ],
       "zh-Hans": [
         "谎言游戏"
@@ -137,8 +144,8 @@
       {
         "site": "gamer_hk",
         "id": "116734",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-08T14:30:00.000Z",
+        "broadcast": "R/2023-07-08T14:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -147,6 +154,18 @@
       {
         "site": "mikan",
         "id": "3115"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GXJHM3G34",
+        "begin": "2023-07-08T14:00:00.000Z",
+        "broadcast": "R/2023-07-08T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26441",
+        "begin": "2023-07-08T13:30:00.000Z",
+        "broadcast": "R/2023-07-08T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -220,8 +239,8 @@
       {
         "site": "gamer_hk",
         "id": "124645",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-07T18:00:00.000Z",
+        "broadcast": "R/2023-07-07T18:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -240,6 +259,12 @@
         "id": "20332046",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26455",
+        "begin": "2023-07-07T17:53:00.000Z",
+        "broadcast": "R/2023-07-07T17:53:00.000Z/P7D"
       }
     ]
   },
@@ -285,12 +310,6 @@
         "broadcast": "R/2023-07-14T13:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "564-6",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0087605",
         "begin": "2023-07-07T17:25:00.000Z",
@@ -317,8 +336,20 @@
       {
         "site": "gamer_hk",
         "id": "129036",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-07T18:00:00.000Z",
+        "broadcast": "R/2023-07-07T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26486",
+        "begin": "2023-07-11T15:00:00.000Z",
+        "broadcast": "R/2023-07-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqjAUDhsIbXuXCZQckEO7H8",
+        "begin": "2024-02-19T11:00:13.000Z",
+        "broadcast": "R/2024-02-19T11:00:13.000Z/P7D"
       }
     ]
   },
@@ -384,16 +415,10 @@
         "broadcast": "R/2024-03-06T13:30:10.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "3Nwug66q3ByD",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "129516",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-09T09:00:00.000Z",
+        "broadcast": "R/2023-07-09T09:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -406,6 +431,12 @@
       {
         "site": "mikan",
         "id": "3099"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzforHrtf9YJqeIyQPGL7oHsf",
+        "begin": "2024-01-30T10:00:42.000Z",
+        "broadcast": "R/2024-01-30T10:00:42.000Z/P7D"
       }
     ]
   },
@@ -485,8 +516,8 @@
       {
         "site": "gamer_hk",
         "id": "129175",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-09T15:05:00.000Z",
+        "broadcast": "R/2023-07-09T15:05:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -495,6 +526,24 @@
       {
         "site": "mikan",
         "id": "3060"
+      },
+      {
+        "site": "danime",
+        "id": "26424",
+        "begin": "2023-07-02T15:00:00.000Z",
+        "broadcast": "R/2023-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfozU6PKHlOwbskdUTFKnGrK",
+        "begin": "2024-06-30T15:00:06.000Z",
+        "broadcast": "R/2024-06-30T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0C9PD3KCL",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -530,6 +579,18 @@
       {
         "site": "mikan",
         "id": "3059"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088438",
+        "begin": "2024-11-22T03:00:00.000Z",
+        "broadcast": "R/2024-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "643-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -538,6 +599,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "转生成自动贩卖机的我今天也在迷宫徘徊"
+      ],
+      "en": [
+        "Reborn as a Vending Machine, I Now Wander the Dungeon"
       ]
     },
     "type": "tv",
@@ -577,6 +641,18 @@
       {
         "site": "mikan",
         "id": "3075"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GVDHX8504",
+        "begin": "2023-07-05T13:00:00.000Z",
+        "broadcast": "R/2023-07-05T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26426",
+        "begin": "2023-07-05T13:00:00.000Z",
+        "broadcast": "R/2023-07-05T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -670,8 +746,8 @@
       {
         "site": "gamer_hk",
         "id": "122778",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-06T15:56:00.000Z",
+        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -684,6 +760,18 @@
       {
         "site": "mikan",
         "id": "3074"
+      },
+      {
+        "site": "danime",
+        "id": "26467",
+        "begin": "2023-07-06T15:30:00.000Z",
+        "broadcast": "R/2023-07-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0C9QXPFTQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -736,8 +824,8 @@
       {
         "site": "gamer_hk",
         "id": "121097",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-06T17:35:00.000Z",
+        "broadcast": "R/2023-07-06T17:35:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -780,8 +868,8 @@
       {
         "site": "gamer_hk",
         "id": "128228",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-09-28T10:00:00.000Z",
+        "broadcast": "R/2023-09-28T10:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -796,6 +884,24 @@
         "id": "SID0158898",
         "begin": "2024-11-09T03:00:00.000Z",
         "broadcast": "R/2024-11-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "600-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27401",
+        "begin": "2024-10-03T15:00:00.000Z",
+        "broadcast": "R/2024-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DN8FCF2Q",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -834,34 +940,16 @@
         "broadcast": "R/2023-07-11T17:29:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "130209",
-        "begin": "2023-07-18T11:00:00.000Z",
-        "broadcast": "R/2023-07-18T11:00:00.000Z/P7D"
-      },
-      {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSow1ByrUAkL12nhNTDDmvx",
         "begin": "2023-07-25T18:30:00.000Z",
         "broadcast": "R/2023-07-25T18:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "143-42",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0087616",
         "begin": "2023-07-16T17:00:00.000Z",
         "broadcast": "R/2023-07-16T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "130209",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -874,6 +962,18 @@
       {
         "site": "mikan",
         "id": "3071"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130209",
+        "begin": "2025-01-15T08:00:00.000Z",
+        "broadcast": "R/2025-01-15T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "130209",
+        "begin": "2025-01-15T08:00:00.000Z",
+        "broadcast": "R/2025-01-15T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -925,6 +1025,9 @@
       "zh-Hans": [
         "公司里的小小前辈",
         "公司的小小前辈"
+      ],
+      "en": [
+        "My Tiny Senpai"
       ]
     },
     "type": "tv",
@@ -952,12 +1055,6 @@
         "broadcast": "R/2023-07-07T17:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "194-34",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0087612",
         "begin": "2023-07-07T17:00:00.000Z",
@@ -974,6 +1071,18 @@
       {
         "site": "mikan",
         "id": "3057"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G79H23Z45",
+        "begin": "2023-07-01T16:30:00.000Z",
+        "broadcast": "R/2023-07-01T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26454",
+        "begin": "2023-07-04T16:30:00.000Z",
+        "broadcast": "R/2023-07-04T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1028,8 +1137,14 @@
       {
         "site": "gamer_hk",
         "id": "129252",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-03T16:30:00.000Z",
+        "broadcast": "R/2023-07-03T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26447",
+        "begin": "2023-07-03T16:30:00.000Z",
+        "broadcast": "R/2023-07-03T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1099,8 +1214,8 @@
       {
         "site": "gamer_hk",
         "id": "123766",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-03T14:00:00.000Z",
+        "broadcast": "R/2023-07-03T14:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1109,6 +1224,18 @@
       {
         "site": "mikan",
         "id": "3067"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYX02P3MR",
+        "begin": "2023-07-03T12:00:00.000Z",
+        "broadcast": "R/2023-07-03T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26429",
+        "begin": "2023-07-10T14:30:00.000Z",
+        "broadcast": "R/2023-07-10T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1126,6 +1253,12 @@
       {
         "site": "nicovideo",
         "id": "fafner-beyond",
+        "begin": "2023-07-05T14:30:00.000Z",
+        "broadcast": "R/2023-07-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26489",
         "begin": "2023-07-05T14:30:00.000Z",
         "broadcast": "R/2023-07-05T14:30:00.000Z/P7D"
       }
@@ -1201,6 +1334,19 @@
       {
         "site": "mikan",
         "id": "3046"
+      },
+      {
+        "site": "danime",
+        "id": "26472",
+        "begin": "2023-07-05T14:30:00.000Z",
+        "broadcast": "R/2023-07-05T14:30:00.000Z/P7D",
+        "comment": "第十三話: 27485"
+      },
+      {
+        "site": "prime",
+        "id": "B0C9S3Y7CR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1284,12 +1430,6 @@
         "broadcast": "R/2023-07-07T16:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "121023",
-        "begin": "2023-07-19T03:50:00.000Z",
-        "broadcast": "R/2023-07-19T03:50:00.000Z/P7D"
-      },
-      {
         "site": "ani_one",
         "id": "PLC18xlbCdwtS8J9aJ3pizzS7bCUHbWeFm",
         "begin": "2023-07-28T17:00:00.000Z",
@@ -1302,22 +1442,10 @@
         "broadcast": "R/2023-07-11T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "199-57",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0087599",
         "begin": "2023-07-11T03:00:00.000Z",
         "broadcast": "R/2023-07-11T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "121023",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -1326,6 +1454,18 @@
       {
         "site": "mikan",
         "id": "3064"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "121023",
+        "begin": "2025-01-15T08:00:00.000Z",
+        "broadcast": "R/2025-01-15T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "121023",
+        "begin": "2025-01-15T08:00:00.000Z",
+        "broadcast": "R/2025-01-15T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -1380,8 +1520,8 @@
       {
         "site": "gamer_hk",
         "id": "127820",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-08T13:30:00.000Z",
+        "broadcast": "R/2023-07-08T13:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1390,6 +1530,24 @@
       {
         "site": "mikan",
         "id": "3063"
+      },
+      {
+        "site": "danime",
+        "id": "26425",
+        "begin": "2023-07-08T13:30:00.000Z",
+        "broadcast": "R/2023-07-08T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrQhsZtxx3JALpCj5mLU2I4",
+        "begin": "2024-01-06T10:00:04.000Z",
+        "broadcast": "R/2024-01-06T10:00:04.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0C9PHFB5M",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1447,8 +1605,8 @@
       {
         "site": "gamer_hk",
         "id": "133657",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-08T15:30:00.000Z",
+        "broadcast": "R/2023-07-08T15:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1457,6 +1615,12 @@
       {
         "site": "mikan",
         "id": "3062"
+      },
+      {
+        "site": "prime",
+        "id": "B0C9P2GDNJ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1509,8 +1673,8 @@
       {
         "site": "gamer_hk",
         "id": "119837",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-25T03:30:00.000Z",
+        "broadcast": "R/2023-07-25T03:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1525,6 +1689,12 @@
         "id": "eiyukyoushitsu-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26460",
+        "begin": "2023-07-09T14:30:00.000Z",
+        "broadcast": "R/2023-07-09T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1578,28 +1748,16 @@
         "broadcast": "R/2023-07-14T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "189-54",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0087607",
         "begin": "2023-07-14T15:00:00.000Z",
         "broadcast": "R/2023-07-14T15:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "3t5vKAnolC2X",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "128537",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-09T17:05:00.000Z",
+        "broadcast": "R/2023-07-09T17:05:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1612,6 +1770,24 @@
       {
         "site": "mikan",
         "id": "3078"
+      },
+      {
+        "site": "danime",
+        "id": "26513",
+        "begin": "2023-07-14T15:00:00.000Z",
+        "broadcast": "R/2023-07-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqAzIsqdo0wQ8FGXiLMfTLe",
+        "begin": "2024-03-26T10:00:41.000Z",
+        "broadcast": "R/2024-03-26T10:00:41.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0C9QLV1RR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1675,8 +1851,8 @@
       {
         "site": "gamer_hk",
         "id": "131385",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-08-14T06:10:00.000Z",
+        "broadcast": "R/2023-08-14T06:10:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1760,8 +1936,8 @@
       {
         "site": "gamer_hk",
         "id": "123631",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-03T13:30:00.000Z",
+        "broadcast": "R/2023-07-03T13:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1770,6 +1946,12 @@
       {
         "site": "mikan",
         "id": "3080"
+      },
+      {
+        "site": "danime",
+        "id": "26448",
+        "begin": "2023-07-03T13:00:00.000Z",
+        "broadcast": "R/2023-07-03T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -1779,6 +1961,9 @@
       "zh-Hans": [
         "物物语 第二章",
         "物之古物奇谭 第二章"
+      ],
+      "zh-Hant": [
+        "物之古物奇譚 Part2"
       ]
     },
     "type": "tv",
@@ -1842,6 +2027,18 @@
       {
         "site": "mikan",
         "id": "3096"
+      },
+      {
+        "site": "danime",
+        "id": "26483",
+        "begin": "2023-07-08T15:00:00.000Z",
+        "broadcast": "R/2023-07-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfoaOLmIpz2Mn6kp1MTdd0fz",
+        "begin": "2023-09-18T16:30:07.000Z",
+        "broadcast": "R/2023-09-18T16:30:07.000Z/P7D"
       }
     ]
   },
@@ -1904,8 +2101,8 @@
       {
         "site": "gamer_hk",
         "id": "128227",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-01T17:00:00.000Z",
+        "broadcast": "R/2023-07-01T17:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1914,6 +2111,12 @@
       {
         "site": "mikan",
         "id": "3054"
+      },
+      {
+        "site": "danime",
+        "id": "26452",
+        "begin": "2023-07-05T16:00:00.000Z",
+        "broadcast": "R/2023-07-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1924,7 +2127,8 @@
         "堀与宫村 -piece-"
       ],
       "en": [
-        "Horimiya -The Missing Pieces-"
+        "Horimiya -The Missing Pieces-",
+        "Horimiya: The Missing Pieces"
       ],
       "zh-Hant": [
         "堀與宮村 -piece-"
@@ -1981,8 +2185,8 @@
       {
         "site": "gamer_hk",
         "id": "131250",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-01T16:00:00.000Z",
+        "broadcast": "R/2023-07-01T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1991,6 +2195,18 @@
       {
         "site": "mikan",
         "id": "3094"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G9VHN9P43",
+        "begin": "2022-03-01T06:00:00.000Z",
+        "broadcast": "R/2022-03-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26427",
+        "begin": "2023-07-05T03:00:00.000Z",
+        "broadcast": "R/2023-07-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2008,6 +2224,12 @@
       {
         "site": "unext",
         "id": "SID0088436",
+        "begin": "2023-07-04T15:00:00.000Z",
+        "broadcast": "R/2023-07-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26488",
         "begin": "2023-07-04T15:00:00.000Z",
         "broadcast": "R/2023-07-04T15:00:00.000Z/P7D"
       }
@@ -2084,8 +2306,8 @@
       {
         "site": "gamer_hk",
         "id": "129653",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-04T15:30:00.000Z",
+        "broadcast": "R/2023-07-04T15:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2094,6 +2316,18 @@
       {
         "site": "mikan",
         "id": "3093"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GNVHKN9DE",
+        "begin": "2023-07-04T14:00:00.000Z",
+        "broadcast": "R/2023-07-04T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26450",
+        "begin": "2024-11-30T15:00:00.000Z",
+        "broadcast": "R/2024-11-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2125,6 +2359,12 @@
       {
         "site": "bangumi_moe",
         "id": "649efec968e7233aec4c96ef"
+      },
+      {
+        "site": "danime",
+        "id": "26436",
+        "begin": "2023-07-10T09:00:00.000Z",
+        "broadcast": "R/2023-07-10T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -2190,8 +2430,8 @@
       {
         "site": "gamer_hk",
         "id": "126982",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-18T10:20:00.000Z",
+        "broadcast": "R/2023-07-18T10:20:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2206,6 +2446,12 @@
         "id": "jitsuhaoresaikyo-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26456",
+        "begin": "2023-07-01T17:30:00.000Z",
+        "broadcast": "R/2023-07-01T17:30:00.000Z/P7D"
       }
     ]
   },
@@ -2274,8 +2520,8 @@
       {
         "site": "gamer_hk",
         "id": "128673",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-03T18:00:00.000Z",
+        "broadcast": "R/2023-07-03T18:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2284,6 +2530,12 @@
       {
         "site": "mikan",
         "id": "3090"
+      },
+      {
+        "site": "danime",
+        "id": "26970",
+        "begin": "2024-03-31T15:00:00.000Z",
+        "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2352,8 +2604,20 @@
       {
         "site": "gamer_hk",
         "id": "128249",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-06T15:40:00.000Z",
+        "broadcast": "R/2023-07-06T15:40:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26463",
+        "begin": "2023-07-11T15:30:00.000Z",
+        "broadcast": "R/2023-07-11T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqNmX6DwUR_8W9PxgU4DPGu",
+        "begin": "2024-01-29T10:00:08.000Z",
+        "broadcast": "R/2024-01-29T10:00:08.000Z/P7D"
       }
     ]
   },
@@ -2396,6 +2660,18 @@
       {
         "site": "mikan",
         "id": "3089"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GXJHM3NJ5",
+        "begin": "2021-04-02T23:00:00.000Z",
+        "broadcast": "R/2021-04-02T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26491",
+        "begin": "2023-06-30T23:30:00.000Z",
+        "broadcast": "R/2023-06-30T23:30:00.000Z/P7D"
       }
     ]
   },
@@ -2454,8 +2730,8 @@
       {
         "site": "gamer_hk",
         "id": "127850",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-06T17:30:00.000Z",
+        "broadcast": "R/2023-07-06T17:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2464,6 +2740,18 @@
       {
         "site": "mikan",
         "id": "3087"
+      },
+      {
+        "site": "danime",
+        "id": "27405",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrkyPWD1KwcyC3akYAyWDhx",
+        "begin": "2023-09-21T17:30:11.000Z",
+        "broadcast": "R/2023-09-21T17:30:11.000Z/P7D"
       }
     ]
   },
@@ -2477,7 +2765,8 @@
         "妙廟美少女"
       ],
       "en": [
-        "TenPuru -No one can live on loneliness-"
+        "TenPuru -No one can live on loneliness-",
+        "TenPuru"
       ]
     },
     "type": "tv",
@@ -2525,8 +2814,8 @@
       {
         "site": "gamer_hk",
         "id": "129706",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-08T16:00:00.000Z",
+        "broadcast": "R/2023-07-08T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2535,6 +2824,18 @@
       {
         "site": "mikan",
         "id": "3086"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G4PH0WJWQ",
+        "begin": "2023-07-08T15:00:00.000Z",
+        "broadcast": "R/2023-07-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26471",
+        "begin": "2023-07-08T15:00:00.000Z",
+        "broadcast": "R/2023-07-08T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2596,8 +2897,8 @@
       {
         "site": "gamer_hk",
         "id": "131121",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-05T17:25:00.000Z",
+        "broadcast": "R/2023-07-05T17:25:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2610,6 +2911,12 @@
       {
         "site": "mikan",
         "id": "3085"
+      },
+      {
+        "site": "danime",
+        "id": "26482",
+        "begin": "2023-07-06T03:00:00.000Z",
+        "broadcast": "R/2023-07-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2676,6 +2983,12 @@
         "id": "125081",
         "begin": "2023-07-12T17:00:00.000Z",
         "broadcast": "R/2023-07-12T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26459",
+        "begin": "2023-07-12T16:00:00.000Z",
+        "broadcast": "R/2023-07-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2722,8 +3035,8 @@
       {
         "site": "gamer_hk",
         "id": "125701",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-04-30T04:00:00.000Z",
+        "broadcast": "R/2024-04-30T04:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2732,6 +3045,12 @@
       {
         "site": "mikan",
         "id": "3083"
+      },
+      {
+        "site": "danime",
+        "id": "26480",
+        "begin": "2023-10-10T15:00:00.000Z",
+        "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2767,6 +3086,12 @@
       {
         "site": "mikan",
         "id": "3082"
+      },
+      {
+        "site": "danime",
+        "id": "26507",
+        "begin": "2023-07-10T03:00:00.000Z",
+        "broadcast": "R/2023-07-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2950,6 +3275,18 @@
       {
         "site": "mikan",
         "id": "3129"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6QWV3976",
+        "begin": "2023-07-07T16:23:00.000Z",
+        "broadcast": "R/2023-07-07T16:23:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26453",
+        "begin": "2023-07-10T16:53:00.000Z",
+        "broadcast": "R/2023-07-10T16:53:00.000Z/P7D"
       }
     ]
   },
@@ -3010,8 +3347,8 @@
       {
         "site": "gamer_hk",
         "id": "116225",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-07-14T14:35:00.000Z",
+        "broadcast": "R/2022-07-14T14:35:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -3024,6 +3361,12 @@
       {
         "site": "unext",
         "id": "SID0147598",
+        "begin": "2024-07-13T15:00:00.000Z",
+        "broadcast": "R/2024-07-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27196",
         "begin": "2024-07-13T15:00:00.000Z",
         "broadcast": "R/2024-07-13T15:00:00.000Z/P7D"
       }
@@ -3078,12 +3421,18 @@
       {
         "site": "gamer_hk",
         "id": "127589",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-02T11:30:00.000Z",
+        "broadcast": "R/2023-07-02T11:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
         "id": "3058"
+      },
+      {
+        "site": "danime",
+        "id": "26535",
+        "begin": "2023-07-28T15:00:00.000Z",
+        "broadcast": "R/2023-07-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3109,6 +3458,12 @@
       {
         "site": "unext",
         "id": "SID0088442",
+        "begin": "2023-07-12T03:00:00.000Z",
+        "broadcast": "R/2023-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26413",
         "begin": "2023-07-12T03:00:00.000Z",
         "broadcast": "R/2023-07-12T03:00:00.000Z/P7D"
       }
@@ -3143,6 +3498,12 @@
       {
         "site": "mikan",
         "id": "3134"
+      },
+      {
+        "site": "danime",
+        "id": "26618",
+        "begin": "2023-10-26T15:00:00.000Z",
+        "broadcast": "R/2023-10-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3164,12 +3525,6 @@
       {
         "site": "bangumi",
         "id": "414753"
-      },
-      {
-        "site": "unext",
-        "id": "SID0096739",
-        "begin": "2024-01-30T15:00:00.000Z",
-        "broadcast": "R/2024-01-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3204,6 +3559,62 @@
         "id": "81725555",
         "begin": "2024-10-05T16:00:00.000Z",
         "broadcast": "R/2024-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "23390835",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "範馬刃牙 2期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "范马刃牙 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://baki-anime.jp/",
+    "begin": "2023-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375541"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148315",
+        "begin": "2024-08-31T15:00:00.000Z",
+        "broadcast": "R/2024-08-31T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "シルバニアファミリー フレアのゴー・フォー・ドリーム！",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
+    "begin": "2023-07-05T16:00:00.000Z",
+    "broadcast": "R/2023-07-05T16:00:00.000Z/P7D",
+    "end": "2023-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515300"
+      },
+      {
+        "site": "danime",
+        "id": "26487",
+        "begin": "2023-07-06T10:22:00.000Z",
+        "broadcast": "R/2023-07-06T10:22:00.000Z/P7D"
       }
     ]
   }

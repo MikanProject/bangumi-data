@@ -25,6 +25,18 @@
         "id": "26-176",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0073147",
+        "begin": "2022-10-12T03:00:00.000Z",
+        "broadcast": "R/2022-10-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25803",
+        "begin": "2024-12-03T09:00:00.000Z",
+        "broadcast": "R/2024-12-03T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -83,6 +95,16 @@
       {
         "site": "bangumi_moe",
         "id": "6365f0e36b7b6500076397d6"
+      },
+      {
+        "site": "mikan",
+        "id": "2874"
+      },
+      {
+        "site": "danime",
+        "id": "25861",
+        "begin": "2024-05-31T15:00:00.000Z",
+        "broadcast": "R/2024-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -110,6 +132,12 @@
       {
         "site": "unext",
         "id": "SID0077586",
+        "begin": "2023-01-11T03:00:00.000Z",
+        "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26096",
         "begin": "2023-01-11T03:00:00.000Z",
         "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
       }
@@ -188,6 +216,19 @@
         "id": "ten-sura-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26917",
+        "begin": "2024-02-24T15:00:00.000Z",
+        "broadcast": "R/2024-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpr5R-Q4Kshpozv9At50GFj",
+        "begin": "",
+        "broadcast": "",
+        "comment": "國語: PL12UaAf_xzfrI2ieUbpUUa5YSX-ONtpNf"
       }
     ]
   },
@@ -224,6 +265,16 @@
       {
         "site": "unext",
         "id": "SID0075841",
+        "begin": "2022-11-22T03:00:00.000Z",
+        "broadcast": "R/2022-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2877"
+      },
+      {
+        "site": "danime",
+        "id": "25780",
         "begin": "2022-11-22T03:00:00.000Z",
         "broadcast": "R/2022-11-22T03:00:00.000Z/P7D"
       }
@@ -264,6 +315,18 @@
         "id": "SID0111140",
         "begin": "2024-10-09T03:00:00.000Z",
         "broadcast": "R/2024-10-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27204",
+        "begin": "2024-10-13T03:00:00.000Z",
+        "broadcast": "R/2024-10-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DJQY7DKY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -274,6 +337,12 @@
         "铃芽之旅",
         "铃芽户缔",
         "铃芽的门锁"
+      ],
+      "zh-Hant": [
+        "鈴芽之旅"
+      ],
+      "en": [
+        "Suzume"
       ]
     },
     "type": "movie",
@@ -297,6 +366,23 @@
       {
         "site": "bilibili",
         "id": "28370944",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2876"
+      },
+      {
+        "site": "prime",
+        "id": "B0CGHXK5CN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "53WicvpPfGnH",
+        "url": "https://www.disneyplus.com/movies/suzume/53WicvpPfGnH",
         "begin": "",
         "broadcast": ""
       }

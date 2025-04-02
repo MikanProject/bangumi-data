@@ -82,6 +82,12 @@
       {
         "site": "mikan",
         "id": "1936"
+      },
+      {
+        "site": "danime",
+        "id": "22530",
+        "begin": "2019-04-19T03:00:00.000Z",
+        "broadcast": "R/2019-04-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -117,6 +123,18 @@
       {
         "site": "mikan",
         "id": "1950"
+      },
+      {
+        "site": "danime",
+        "id": "22710",
+        "begin": "2019-04-27T01:00:00.000Z",
+        "broadcast": "R/2019-04-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B8MVPQBS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -175,6 +193,12 @@
         "id": "100703",
         "begin": "2021-04-09T04:00:00.000Z",
         "broadcast": "R/2021-04-09T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23186",
+        "begin": "2019-12-31T15:00:00.000Z",
+        "broadcast": "R/2019-12-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -201,6 +225,12 @@
         "id": "kinpri-movie-sss",
         "begin": "2020-07-13T15:00:00.000Z",
         "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24180",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -227,6 +257,12 @@
         "id": "kinpri-movie-sss",
         "begin": "2020-07-13T15:00:00.000Z",
         "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24180",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -251,12 +287,6 @@
       {
         "site": "bangumi",
         "id": "239926"
-      },
-      {
-        "site": "gamer",
-        "id": "110700",
-        "begin": "2020-04-09T16:00:00.000Z",
-        "broadcast": "R/2020-04-09T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -302,6 +332,12 @@
         "id": "107499",
         "begin": "2021-01-08T04:00:00.000Z",
         "broadcast": "R/2021-01-08T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrTd2siVe6bZqjtv5hdLgka",
+        "begin": "2021-01-14T15:20:10.000Z",
+        "broadcast": "R/2021-01-14T15:20:10.000Z/P7D"
       }
     ]
   },
@@ -372,6 +408,12 @@
       {
         "site": "mikan",
         "id": "2085"
+      },
+      {
+        "site": "danime",
+        "id": "22534",
+        "begin": "2019-01-01T03:00:00.000Z",
+        "broadcast": "R/2019-01-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -393,12 +435,6 @@
       {
         "site": "bangumi",
         "id": "262277"
-      },
-      {
-        "site": "unext",
-        "id": "SID0044181",
-        "begin": "2019-11-29T03:00:00.000Z",
-        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -427,6 +463,12 @@
         "id": "SID0047099",
         "begin": "2020-04-01T03:00:00.000Z",
         "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24399",
+        "begin": "2020-12-25T01:00:00.000Z",
+        "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -481,13 +523,44 @@
         "site": "unext",
         "id": "SID0049034",
         "begin": "2022-10-03T15:00:00.000Z",
-        "broadcast": "R/2022-10-03T15:00:00.000Z/P7D"
+        "broadcast": "R/2022-10-03T15:00:00.000Z/P7D",
+        "comment": "トモダチの距離: SID0162701, 社員旅行と願いごと: SID0162702"
       },
       {
         "site": "abema",
         "id": "19-114",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24120",
+        "begin": "2022-09-01T01:00:00.000Z",
+        "broadcast": "R/2022-09-01T01:00:00.000Z/P7D",
+        "comment": "OAD2: 27543, OAD3: 27544"
+      }
+    ]
+  },
+  {
+    "title": "Hello WeGo!",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://animetamago.jp/",
+    "begin": "2019-03-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-03-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277150"
+      },
+      {
+        "site": "danime",
+        "id": "23992",
+        "begin": "2020-06-12T01:00:00.000Z",
+        "broadcast": "R/2020-06-12T01:00:00.000Z/P7D"
       }
     ]
   }

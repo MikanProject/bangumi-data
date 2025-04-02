@@ -61,12 +61,6 @@
         "id": "81281582",
         "begin": "2022-06-29T16:00:00.000Z",
         "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0077246",
-        "begin": "2023-01-11T03:00:00.000Z",
-        "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -120,6 +114,16 @@
         "id": "123482",
         "begin": "2023-01-10T04:00:00.000Z",
         "broadcast": "R/2023-01-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2865"
+      },
+      {
+        "site": "prime",
+        "id": "B0B6GQ5JMX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -173,6 +177,16 @@
         "id": "118547",
         "begin": "2023-02-01T04:00:00.000Z",
         "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2858"
+      },
+      {
+        "site": "danime",
+        "id": "26688",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -220,6 +234,16 @@
       {
         "site": "nicovideo",
         "id": "gundam-cucuruz-doan",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2737"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH9CBF79",
         "begin": "",
         "broadcast": ""
       }
@@ -277,6 +301,16 @@
         "id": "SID0076942",
         "begin": "2022-12-20T15:00:00.000Z",
         "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2853"
+      },
+      {
+        "site": "danime",
+        "id": "26465",
+        "begin": "2023-06-23T15:00:00.000Z",
+        "broadcast": "R/2023-06-23T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -310,6 +344,22 @@
       {
         "site": "abema",
         "id": "184-171",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2856"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GQWH0M1GG",
+        "begin": "2023-07-12T17:00:00.000Z",
+        "broadcast": "R/2023-07-12T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0C944P198",
         "begin": "",
         "broadcast": ""
       }

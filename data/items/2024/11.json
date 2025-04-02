@@ -14,7 +14,7 @@
     "officialSite": "https://one-piece.com/",
     "begin": "2024-11-03T00:30:00.000Z",
     "broadcast": "R/2024-11-03T00:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-03-30T01:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -36,6 +36,18 @@
       {
         "site": "abema",
         "id": "5-71",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27403",
+        "begin": "2024-11-07T03:00:00.000Z",
+        "broadcast": "R/2024-11-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DKRFXL3D",
         "begin": "",
         "broadcast": ""
       }
@@ -77,6 +89,26 @@
         "id": "248-22",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3499"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "66fb601889c3a6ce864cbcbf"
+      },
+      {
+        "site": "danime",
+        "id": "27439",
+        "begin": "2024-11-08T16:30:00.000Z",
+        "broadcast": "R/2024-11-08T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DBXZW5ZM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -92,7 +124,7 @@
     "officialSite": "https://www.rakuten-ipcontent.com/Anime-Okaimonopanda/",
     "begin": "2024-11-06T12:54:00.000Z",
     "broadcast": "R/2024-11-06T12:54:00.000Z/P7D",
-    "end": "",
+    "end": "2025-03-26T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -102,6 +134,12 @@
       {
         "site": "unext",
         "id": "SID0157068",
+        "begin": "2024-11-06T13:00:00.000Z",
+        "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27423",
         "begin": "2024-11-06T13:00:00.000Z",
         "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
       }
@@ -137,6 +175,175 @@
         "id": "81153111",
         "begin": "2024-11-21T00:00:00.000Z",
         "broadcast": "R/2024-11-21T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アサティール２ 未来の昔ばなし",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/asateer2/",
+    "begin": "2024-11-02T22:00:00.000Z",
+    "broadcast": "R/2024-11-02T22:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487318"
+      }
+    ]
+  },
+  {
+    "title": "まぁるい彼女と残念な彼氏(第2期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棉花糖女孩遇上闷骚男孩"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://animationid.com/marukano/",
+    "begin": "2024-11-15T18:08:00.000Z",
+    "broadcast": "R/2024-11-15T18:08:00.000Z/P7D",
+    "end": "2024-12-20T17:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505080"
+      }
+    ]
+  },
+  {
+    "title": "そろ谷のけいばっち",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/sp/sorotani/",
+    "begin": "2024-11-28T14:10:00.000Z",
+    "broadcast": "R/2024-11-28T14:10:00.000Z/P7D",
+    "end": "2024-12-19T14:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "526102"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 風都探偵 仮面ライダースカルの肖像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 风都侦探 假面骑士Skull的肖像",
+        "剧场版 风都侦探 假面骑士颅骨的肖像"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.kamen-rider-official.com/fuuto-movie/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501859"
+      },
+      {
+        "site": "unext",
+        "id": "SID0164430",
+        "begin": "2024-12-17T09:00:00.000Z",
+        "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "シルバニアファミリー フレアのピース・オブ・シークレット",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
+    "begin": "2024-11-20T16:00:00.000Z",
+    "broadcast": "R/2024-11-20T16:00:00.000Z/P7D",
+    "end": "2024-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515201"
+      },
+      {
+        "site": "danime",
+        "id": "27443",
+        "begin": "2024-11-21T10:40:00.000Z",
+        "broadcast": "R/2024-11-21T10:40:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Arcane Season 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄联盟：双城之战 第二季",
+        "英雄联盟：双城之战 最终季",
+        "奥术 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.arcane.com/",
+    "begin": "2024-11-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358801"
+      },
+      {
+        "site": "bilibili",
+        "id": "20189753",
+        "begin": "",
+        "broadcast": "",
+        "comment": "中文配音: 23431028"
+      }
+    ]
+  },
+  {
+    "title": "ヤマトよ永遠に REBEL3199 第二章 赤日の出撃",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第二章 赤日的出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2024-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473412"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamato-rebel3199",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0167296",
+        "begin": "2025-01-28T15:00:00.000Z",
+        "broadcast": "R/2025-01-28T15:00:00.000Z/P7D"
       }
     ]
   }
