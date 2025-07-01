@@ -93,7 +93,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "暗杀女仆冥土小姐。",
-        "暗杀女仆冥土酱"
+        "暗杀女仆冥土酱",
+        "暗杀女仆冥土小姐"
       ],
       "zh-Hant": [
         "女僕冥土小姐"
@@ -173,6 +174,12 @@
         "id": "B0DJHN7856",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81945102",
+        "begin": "2025-03-08T16:00:00.000Z",
+        "broadcast": "R/2025-03-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -319,12 +326,6 @@
         "broadcast": ""
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgbowJqjeqtQTk6SmE3IPku",
-        "begin": "2024-10-04T16:30:00.000Z",
-        "broadcast": "R/2024-10-04T16:30:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "刀劍 Gun II"
       },
@@ -457,7 +458,8 @@
         "噗妮露是可愛史萊姆"
       ],
       "en": [
-        "Puniru is a Kawaii Slime"
+        "Puniru is a Kawaii Slime",
+        "Puniru Is a Cute Slime"
       ]
     },
     "type": "tv",
@@ -543,6 +545,12 @@
         "id": "B0DHT8FV6K",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81975106",
+        "begin": "2025-02-25T16:00:00.000Z",
+        "broadcast": "R/2025-02-25T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -563,7 +571,7 @@
     "officialSite": "https://arifureta.com/",
     "begin": "2024-10-14T14:00:00.000Z",
     "broadcast": "R/2024-10-14T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-02-17T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -874,7 +882,8 @@
         "site": "bilibili",
         "id": "23013233",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "中配: 25690070"
       },
       {
         "site": "dmhy",
@@ -897,6 +906,12 @@
         "id": "B0D9ZMRP65",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchYXhbYjj-Iuo0GEIDSAGBZ",
+        "begin": "2025-06-01T13:30:06.000Z",
+        "broadcast": "R/2025-06-01T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -1050,6 +1065,12 @@
       {
         "site": "dmhy",
         "id": "村井之戀"
+      },
+      {
+        "site": "abema",
+        "id": "182-1448",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1659,7 +1680,8 @@
         "妻子變成小學生。"
       ],
       "en": [
-        "TSUMASHO"
+        "TSUMASHO",
+        "Tsumasho"
       ]
     },
     "type": "tv",
@@ -1739,6 +1761,12 @@
         "id": "B0CVW62BLB",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81941628",
+        "begin": "2025-03-08T16:00:00.000Z",
+        "broadcast": "R/2025-03-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1825,6 +1853,12 @@
       {
         "site": "prime",
         "id": "B0DDCTWH8K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81988381",
         "begin": "",
         "broadcast": ""
       }
@@ -2158,13 +2192,15 @@
     "title": "パーティーから追放されたその治癒師、実は最強につき",
     "titleTranslate": {
       "zh-Hans": [
-        "被队伍驱逐的治愈师，其实是最强的"
+        "被队伍驱逐的治愈师，其实是最强的",
+        "被逐出队伍的治愈师，其实是最强的"
       ],
       "zh-Hant": [
         "被逐出隊伍的治癒師，其實是最強"
       ],
       "en": [
-        "The Healer who was Banished from his Party is in fact the Strongest"
+        "The Healer who was Banished from his Party is in fact the Strongest",
+        "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest"
       ]
     },
     "type": "tv",
@@ -2226,6 +2262,12 @@
       {
         "site": "dmhy",
         "id": "治癒師|治愈师"
+      },
+      {
+        "site": "netflix",
+        "id": "81988364",
+        "begin": "2025-03-08T16:00:00.000Z",
+        "broadcast": "R/2025-03-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2561,6 +2603,12 @@
         "id": "B0DK43QBYX",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "23352239",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2660,7 +2708,7 @@
     "officialSite": "https://tohai-anime.com/",
     "begin": "2024-10-04T17:23:00.000Z",
     "broadcast": "R/2024-10-04T17:23:00.000Z/P7D",
-    "end": "",
+    "end": "2025-04-04T17:53:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3053,6 +3101,12 @@
         "id": "PL12UaAf_xzfrSrT9LP_IDcH09ZKec53vK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0DHGTCXCF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3160,7 +3214,7 @@
     "officialSite": "https://tonotoinu.com/",
     "begin": "2024-10-10T12:54:00.000Z",
     "broadcast": "R/2024-10-10T12:54:00.000Z/P7D",
-    "end": "",
+    "end": "2025-03-27T12:54:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3462,7 +3516,7 @@
     "officialSite": "https://rurouni-kenshin.com/",
     "begin": "2024-10-03T15:55:00.000Z",
     "broadcast": "R/2024-10-03T15:55:00.000Z/P7D",
-    "end": "",
+    "end": "2025-03-20T15:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4048,6 +4102,12 @@
         "id": "81955440",
         "begin": "2025-01-23T16:00:00.000Z",
         "broadcast": "R/2025-01-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchALEhJL7Yjdl1mETa2RwWz",
+        "begin": "2025-05-01T04:00:49.000Z",
+        "broadcast": "R/2025-05-01T04:00:49.000Z/P7D"
       }
     ]
   },
@@ -4130,13 +4190,16 @@
     "title": "嘆きの亡霊は引退したい",
     "titleTranslate": {
       "zh-Hans": [
-        "叹息的亡灵好想隐退"
+        "叹息的亡灵好想隐退",
+        "叹气的亡灵想隐退"
       ],
       "zh-Hant": [
-        "嘆氣的亡靈想隱退"
+        "嘆氣的亡靈想隱退",
+        "嘆氣的亡靈想隱退：最弱獵人的最強隊伍育成術"
       ],
       "en": [
-        "Let This Grieving Soul Retire"
+        "Let This Grieving Soul Retire",
+        "Let This Grieving Soul Retire!"
       ]
     },
     "type": "tv",
@@ -4177,8 +4240,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7Ucj22Vu3BkP9EUDGY58fFvtW",
-        "begin": "2024-09-29T15:30:21.000Z",
-        "broadcast": "R/2024-09-29T15:30:21.000Z/P7D"
+        "begin": "2024-09-29T15:30:00.000Z",
+        "broadcast": "R/2024-09-29T15:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -4218,6 +4281,12 @@
         "id": "B0CVMZ7RT6",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81946855",
+        "begin": "2025-03-23T16:00:00.000Z",
+        "broadcast": "R/2025-03-23T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -4716,6 +4785,12 @@
         "id": "SID0166163",
         "begin": "2025-01-03T15:00:00.000Z",
         "broadcast": "R/2025-01-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DNJPK6SK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5135,14 +5210,14 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtShEw-JJjUB5uGL_TDv5AoX",
-        "begin": "2024-10-14T08:15:06.000Z",
-        "broadcast": "R/2024-10-14T08:15:06.000Z/P7D"
+        "begin": "2024-10-14T07:30:00.000Z",
+        "broadcast": "R/2024-10-14T07:30:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jjvn-QSq2pOOwltUAUJx7pT",
-        "begin": "2024-10-14T08:15:06.000Z",
-        "broadcast": "R/2024-10-14T08:15:06.000Z/P7D"
+        "begin": "2024-10-14T07:30:00.000Z",
+        "broadcast": "R/2024-10-14T07:30:00.000Z/P1M"
       },
       {
         "site": "gamer",
@@ -5298,6 +5373,44 @@
         "id": "SID0157784",
         "begin": "2024-10-04T22:30:00.000Z",
         "broadcast": "R/2024-10-04T22:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "がんばっていきまっしょい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一起加油吧",
+        "击浪青春"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/ganbatte-anime/",
+    "begin": "2024-10-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "485868"
+      },
+      {
+        "site": "mikan",
+        "id": "3573"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ganbatte-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0181802",
+        "begin": "2025-04-15T15:00:00.000Z",
+        "broadcast": "R/2025-04-15T15:00:00.000Z/P7D"
       }
     ]
   }

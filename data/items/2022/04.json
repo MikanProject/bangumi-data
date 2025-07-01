@@ -386,6 +386,12 @@
       "zh-Hans": [
         "测不准的阿波连同学",
         "不会拿捏距离的阿波连同学"
+      ],
+      "zh-Hant": [
+        "不會拿捏距離的阿波連同學"
+      ],
+      "en": [
+        "Aharen-san wa Hakarenai"
       ]
     },
     "type": "tv",
@@ -442,6 +448,30 @@
         "id": "25411",
         "begin": "2022-04-08T03:00:00.000Z",
         "broadcast": "R/2022-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "593-1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B09TKTBBVV",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "2nf9RP94zWtE",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GNVHKN72N",
+        "begin": "2025-04-07T13:00:00.000Z",
+        "broadcast": "R/2025-04-07T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -629,8 +659,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jhzv3dEqiEWHhlXoQfWAk0w",
-        "begin": "2022-04-04T15:00:00.000Z",
-        "broadcast": "R/2022-04-04T15:00:00.000Z/P7D"
+        "begin": "2022-04-05T15:00:00.000Z",
+        "broadcast": "R/2022-04-05T15:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -640,9 +670,10 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtQ_5d-HQokIZBsnnsoQ-yVD",
-        "begin": "2022-07-28T16:00:00.000Z",
-        "broadcast": "R/2022-07-28T16:00:00.000Z/P7D"
+        "id": "PLC18xlbCdwtR24jC7TTFXQoVuk7ilTQjl",
+        "begin": "2025-05-20T12:30:06.000Z",
+        "broadcast": "R/2025-05-20T12:30:06.000Z/P7D",
+        "comment": "粵語: PLC18xlbCdwtQ_5d-HQokIZBsnnsoQ-yVD"
       },
       {
         "site": "netflix",
@@ -695,10 +726,14 @@
         "这个医师超麻烦",
         "这个治疗有点烦",
         "这个僧侣有够烦",
-        "这个补师有够麻烦"
+        "这个补师有够麻烦",
+        "这个医师有够烦"
       ],
       "zh-Hant": [
         "這個僧侶有夠煩"
+      ],
+      "en": [
+        "Don't Hurt Me, My Healer!"
       ]
     },
     "type": "tv",
@@ -728,8 +763,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Ji_dqdq_OJX1NNW2ER9u6Tt",
-        "begin": "2022-04-09T14:00:00.000Z",
-        "broadcast": "R/2022-04-09T14:00:00.000Z/P7D"
+        "begin": "2022-04-10T12:00:00.000Z",
+        "broadcast": "R/2022-04-10T12:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -778,6 +813,12 @@
         "id": "25341",
         "begin": "2022-04-10T12:30:00.000Z",
         "broadcast": "R/2022-04-10T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81975291",
+        "begin": "2025-03-13T16:00:00.000Z",
+        "broadcast": "R/2025-03-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1478,8 +1519,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JiNzLbx2do5nOpObPMy6BGu",
-        "begin": "2022-04-07T14:00:00.000Z",
-        "broadcast": "R/2022-04-07T14:00:00.000Z/P7D"
+        "begin": "2022-04-08T14:00:00.000Z",
+        "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -2507,8 +2548,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Ji1XCAnJ_2Nt_1G2tejMnKZ",
-        "begin": "2022-04-05T08:00:00.000Z",
-        "broadcast": "R/2022-04-05T08:00:00.000Z/P7D"
+        "begin": "2022-04-06T08:00:00.000Z",
+        "broadcast": "R/2022-04-06T08:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2614,6 +2655,12 @@
       {
         "site": "mikan",
         "id": "2701"
+      },
+      {
+        "site": "netflix",
+        "id": "81595495",
+        "begin": "2025-03-13T16:00:00.000Z",
+        "broadcast": "R/2025-03-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -3045,12 +3092,6 @@
         "broadcast": "R/2022-08-29T13:00:01.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgsAH4CbibXza4Iup44_5t2",
-        "begin": "2022-04-06T04:05:00.000Z",
-        "broadcast": "R/2022-04-06T04:05:00.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81598010",
         "begin": "2023-08-30T16:00:00.000Z",
@@ -3103,6 +3144,12 @@
         "id": "PL12UaAf_xzfoBeJ6rXz9a1PcuIMpljtBN",
         "begin": "2022-08-19T04:00:17.000Z",
         "broadcast": "R/2022-08-19T04:00:17.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GKEH2G4KD",
+        "begin": "2022-04-06T11:45:00.000Z",
+        "broadcast": "R/2022-04-06T11:45:00.000Z/P7D"
       }
     ]
   },
@@ -3317,8 +3364,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjNkIQKVsmSuz4iGnM2TCME",
-        "begin": "2022-04-11T16:00:00.000Z",
-        "broadcast": "R/2022-04-11T16:00:00.000Z/P7D"
+        "begin": "2022-04-12T16:05:00.000Z",
+        "broadcast": "R/2022-04-12T16:05:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3512,6 +3559,12 @@
         "id": "26578",
         "begin": "2023-09-08T15:00:00.000Z",
         "broadcast": "R/2023-09-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH49M3LQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3584,6 +3637,18 @@
         "id": "125095",
         "begin": "2022-06-24T04:00:00.000Z",
         "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068116",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3689,7 +3754,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "小可爱",
-        "Chiikawa"
+        "Chiikawa",
+        "吉伊卡哇"
       ],
       "zh-Hant": [
         "吉伊卡哇",
@@ -3733,7 +3799,20 @@
         "site": "danime",
         "id": "26310",
         "begin": "2023-04-10T15:00:00.000Z",
-        "broadcast": "R/2023-04-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2023-04-10T15:00:00.000Z/P7D",
+        "comment": "#1-240, #241-:27692"
+      },
+      {
+        "site": "bilibili",
+        "id": "25417818",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2623311",
+        "begin": "2025-06-01T04:00:17.000Z",
+        "broadcast": "R/2025-06-01T04:00:17.000Z/P7D"
       }
     ]
   },
@@ -4040,6 +4119,13 @@
       "zh-Hans": [
         "名侦探柯南 万圣节的新娘",
         "名侦探柯南 万圣节新娘"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：萬聖節的新娘"
+      ],
+      "en": [
+        "Detective Conan: The Bride of Halloween",
+        "Detective Conan the Movie: The Bride of Halloween"
       ]
     },
     "type": "movie",
@@ -4063,6 +4149,37 @@
       {
         "site": "mikan",
         "id": "2860"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100686",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "PMB103ZVE9eU",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-bride-of-halloween/PMB103ZVE9eU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81757621",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0DXPW38BS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

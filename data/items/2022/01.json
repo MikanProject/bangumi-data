@@ -366,12 +366,6 @@
         "broadcast": "R/2022-01-11T14:30:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "418918",
-        "begin": "2022-01-04T16:00:00.000Z",
-        "broadcast": "R/2022-01-04T16:00:00.000Z/P7D"
-      },
-      {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjQSyJxw72Fg15A9sZaoN43",
         "begin": "2022-07-12T16:00:00.000Z",
@@ -608,6 +602,9 @@
       "zh-Hant": [
         "擅長捉弄人的高木同學 第3季",
         "擅長捉弄人的高木同學 第三季"
+      ],
+      "en": [
+        "Teasing Master Takagi-san Season 3"
       ]
     },
     "type": "tv",
@@ -631,8 +628,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UchoubY9j9znAPdWQLn5IhjM",
-        "begin": "2022-01-01T16:00:00.000Z",
-        "broadcast": "R/2022-01-01T16:00:00.000Z/P7D"
+        "begin": "2022-07-08T14:00:00.000Z",
+        "broadcast": "R/2022-07-08T14:00:00.000Z/P1D"
       },
       {
         "site": "gamer",
@@ -675,6 +672,12 @@
         "id": "PL12UaAf_xzfoy0YU-yiND4M-7Mf1-AgW6",
         "begin": "2022-09-08T12:00:36.000Z",
         "broadcast": "R/2022-09-08T12:00:36.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "teasingmastertakagisanseason3_142496",
+        "begin": "2025-02-19T16:00:00.000Z",
+        "broadcast": "R/2025-02-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -757,6 +760,12 @@
         "id": "25202",
         "begin": "2022-01-08T15:30:00.000Z",
         "broadcast": "R/2022-01-08T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GQWH0M9N8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1244,6 +1253,12 @@
         "id": "G1XHJV3MV",
         "begin": "2021-07-03T16:30:00.000Z",
         "broadcast": "R/2021-07-03T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "howarealistherorebuiltthekingdom_143253",
+        "begin": "2025-06-01T02:00:00.000Z",
+        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -1884,12 +1899,6 @@
         "broadcast": "R/2022-01-11T15:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "418911",
-        "begin": "2022-01-10T16:00:00.000Z",
-        "broadcast": "R/2022-01-10T16:00:00.000Z/P7D"
-      },
-      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JizHNDj5kgVbs6qr3Bw95ie",
         "begin": "2022-01-12T15:30:00.000Z",
@@ -2297,6 +2306,12 @@
         "id": "25156",
         "begin": "2022-01-10T13:30:00.000Z",
         "broadcast": "R/2022-01-10T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "119925",
+        "begin": "2022-01-10T13:30:00.000Z",
+        "broadcast": "R/2022-01-10T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -2565,8 +2580,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrMeRvKrk2OnxkpTArc_4HN",
-        "begin": "2021-11-29T05:00:08.000Z",
-        "broadcast": "R/2021-11-29T05:00:08.000Z/P7D",
+        "begin": "2023-03-01T14:00:00.000Z",
+        "broadcast": "R/2023-03-01T14:00:00.000Z/P1D",
         "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
       },
       {
@@ -2740,18 +2755,6 @@
         "id": "363033"
       },
       {
-        "site": "gamer",
-        "id": "120394",
-        "begin": "2022-08-18T04:00:00.000Z",
-        "broadcast": "R/2022-08-18T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "120394",
-        "begin": "2022-08-18T04:00:00.000Z",
-        "broadcast": "R/2022-08-18T04:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0164941",
         "begin": "2024-12-20T03:00:00.000Z",
@@ -2762,6 +2765,12 @@
         "id": "27587",
         "begin": "2024-12-20T03:00:00.000Z",
         "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wataru-movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2837,6 +2846,30 @@
       {
         "site": "mikan",
         "id": "2806"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bang-dream-popipa-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "283-29",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27963",
+        "begin": "2025-05-23T15:00:00.000Z",
+        "broadcast": "R/2025-05-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0195532",
+        "begin": "2025-05-23T15:00:00.000Z",
+        "broadcast": "R/2025-05-23T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2887,6 +2920,12 @@
         "id": "G79H230XN",
         "begin": "2022-07-12T10:00:00.000Z",
         "broadcast": "R/2022-07-12T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25195",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
       }
     ]
   },

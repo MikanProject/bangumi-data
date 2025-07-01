@@ -206,6 +206,12 @@
         "id": "10777",
         "begin": "2013-04-05T01:00:00.000Z",
         "broadcast": "R/2013-04-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B074RB234S",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -301,6 +307,12 @@
         "id": "B07VJJFRBQ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26772",
+        "begin": "2025-05-31T15:00:00.000Z",
+        "broadcast": "R/2025-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -562,12 +574,6 @@
       {
         "site": "bangumi_moe",
         "id": "5a433669cc0a83c72ff58845"
-      },
-      {
-        "site": "abema",
-        "id": "5-13xzfeczjjsc",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",

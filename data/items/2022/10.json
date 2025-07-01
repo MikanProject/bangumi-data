@@ -198,6 +198,18 @@
       {
         "site": "mikan",
         "id": "2857"
+      },
+      {
+        "site": "danime",
+        "id": "26681",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B673R1CP",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -311,7 +323,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B8JWQVFJ",
+        "id": "B0B8JYKZGY",
         "begin": "",
         "broadcast": ""
       }
@@ -527,6 +539,12 @@
         "id": "B0B8QGRBB4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "beasttamer0004_143245",
+        "begin": "2025-06-01T02:00:00.000Z",
+        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -578,12 +596,6 @@
         "id": "PLC18xlbCdwtStjt2-GriwPCoL2b0_lQ_B",
         "begin": "2022-10-09T14:00:00.000Z",
         "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81643020",
-        "begin": "2023-01-15T16:00:00.000Z",
-        "broadcast": "R/2023-01-15T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -897,7 +909,7 @@
       },
       {
         "site": "prime",
-        "id": "B09QFZWJ69",
+        "id": "B0B8JR162D",
         "begin": "",
         "broadcast": ""
       }
@@ -1170,6 +1182,12 @@
       {
         "site": "mikan",
         "id": "2820"
+      },
+      {
+        "site": "danime",
+        "id": "25816",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1588,14 +1606,16 @@
     "title": "機動戦士ガンダム 水星の魔女",
     "titleTranslate": {
       "en": [
-        "Mobile Suit Gundam THE WITCH FROM MERCURY"
+        "Mobile Suit Gundam THE WITCH FROM MERCURY",
+        "Mobile Suit Gundam: The Witch From Mercury"
       ],
       "zh-Hans": [
         "机动战士高达 水星的魔女"
       ],
       "zh-Hant": [
         "機動戰士高達：水星的魔女",
-        "機動戰士鋼彈 水星的魔女"
+        "機動戰士鋼彈 水星的魔女",
+        "機動戰士高達 水星的魔女"
       ]
     },
     "type": "tv",
@@ -1693,6 +1713,24 @@
         "id": "25767",
         "begin": "2022-09-04T09:00:00.000Z",
         "broadcast": "R/2022-09-04T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "119702",
+        "begin": "2022-09-25T09:00:00.000Z",
+        "broadcast": "R/2022-09-25T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-158",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "mobilesuitgundamthewitchfrommercury0001_143264",
+        "begin": "2025-06-01T02:00:00.000Z",
+        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -1916,6 +1954,12 @@
       {
         "site": "mikan",
         "id": "2869"
+      },
+      {
+        "site": "danime",
+        "id": "27668",
+        "begin": "2025-02-07T15:00:00.000Z",
+        "broadcast": "R/2025-02-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2006,6 +2050,12 @@
         "id": "B0B65XZ6RD",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRpQflBd7eCDUZwkeszGfbH",
+        "begin": "2025-05-09T11:45:06.000Z",
+        "broadcast": "R/2025-05-09T11:45:06.000Z/P7D"
       }
     ]
   },
@@ -2102,7 +2152,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B6Q9G1GT",
+        "id": "B0DL1C6BR2",
         "begin": "",
         "broadcast": ""
       }
@@ -2257,6 +2307,12 @@
         "id": "B0B746FTHQ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "119140",
+        "begin": "2022-10-08T17:00:00.000Z",
+        "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -2463,7 +2519,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B79X3MDP",
+        "id": "B0B7B76RHL",
         "begin": "",
         "broadcast": ""
       }
@@ -2726,8 +2782,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jg3pUga3XbHeMfWLXRMGVQY",
-        "begin": "2021-10-10T16:30:00.000Z",
-        "broadcast": "R/2021-10-10T16:30:00.000Z/P7D"
+        "begin": "2022-10-10T16:30:00.000Z",
+        "broadcast": "R/2022-10-10T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -3285,6 +3341,12 @@
         "id": "25837",
         "begin": "2022-10-29T01:00:00.000Z",
         "broadcast": "R/2022-10-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B76TBQS1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3362,8 +3424,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UchdR42E4k42wn6q1rnu8fve",
-        "begin": "2022-10-06T16:00:00.000Z",
-        "broadcast": "R/2022-10-06T16:00:00.000Z/P7D"
+        "begin": "2022-10-07T23:00:00.000Z",
+        "broadcast": "R/2022-10-07T23:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3907,6 +3969,12 @@
         "id": "26308",
         "begin": "2023-07-01T01:00:00.000Z",
         "broadcast": "R/2023-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "youtube",
+        "id": "PLzFNGS7Rcf-NQHlzyeN_TL_xsvKThT7hz",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3969,6 +4037,18 @@
         "begin": "",
         "broadcast": "",
         "comment": "luoxiaohei-movie"
+      },
+      {
+        "site": "danime",
+        "id": "27735",
+        "begin": "2025-03-18T03:00:00.000Z",
+        "broadcast": "R/2025-03-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073663",
+        "begin": "2025-03-18T03:00:00.000Z",
+        "broadcast": "R/2025-03-18T03:00:00.000Z/P7D"
       }
     ]
   },

@@ -88,6 +88,18 @@
         "id": "24973",
         "begin": "2024-12-31T15:00:00.000Z",
         "broadcast": "R/2024-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "104549",
+        "begin": "2025-03-05T04:00:00.000Z",
+        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "104549",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -192,8 +204,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgGV-PHu1LGFmKtUWwe-Plw",
-        "begin": "2020-07-08T16:00:00.000Z",
-        "broadcast": "R/2020-07-08T16:00:00.000Z/P7D"
+        "begin": "2020-07-09T18:00:00.000Z",
+        "broadcast": "R/2020-07-09T18:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -598,12 +610,6 @@
         "id": "2259"
       },
       {
-        "site": "netflix",
-        "id": "80131659",
-        "begin": "2023-07-28T16:00:00.000Z",
-        "broadcast": "R/2023-07-28T16:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "24024",
         "begin": "2020-07-08T14:00:00.000Z",
@@ -647,8 +653,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgpnORnaGJAzzB8e2bW8OZe",
-        "begin": "2020-07-03T16:00:00.000Z",
-        "broadcast": "R/2020-07-03T16:00:00.000Z/P7D"
+        "begin": "2020-07-04T11:30:00.000Z",
+        "broadcast": "R/2020-07-04T11:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -913,6 +919,12 @@
         "id": "24106",
         "begin": "2020-07-15T15:00:00.000Z",
         "broadcast": "R/2020-07-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B08CVSLKLB",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1199,8 +1211,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgoFyk6x8eQATBy4o_VUEs6",
-        "begin": "2020-07-06T16:00:00.000Z",
-        "broadcast": "R/2020-07-06T16:00:00.000Z/P7D"
+        "begin": "2020-07-07T13:00:00.000Z",
+        "broadcast": "R/2020-07-07T13:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
@@ -1642,6 +1654,12 @@
         "id": "B08R9MTPWR",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-251",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1766,8 +1784,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgSIiXaZVb8UgfAemqTGskj",
-        "begin": "2020-07-06T16:00:00.000Z",
-        "broadcast": "R/2020-07-06T16:00:00.000Z/P7D"
+        "begin": "2020-07-07T11:30:00.000Z",
+        "broadcast": "R/2020-07-07T11:30:00.000Z/P7D"
       },
       {
         "site": "gamer",

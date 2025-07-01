@@ -359,6 +359,18 @@
       {
         "site": "dmhy",
         "id": "交响诗篇AO"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014050",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21850",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -690,6 +702,12 @@
       {
         "site": "dmhy",
         "id": "ZETMAN"
+      },
+      {
+        "site": "danime",
+        "id": "24717",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2143,6 +2161,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 第11位前锋"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：第 11 位前鋒"
+      ],
+      "en": [
+        "Detective Conan the Movie: Eleventh Striker"
       ]
     },
     "type": "movie",
@@ -2174,6 +2198,18 @@
         "site": "bilibili",
         "id": "28228958",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0004857",
+        "begin": "2025-04-18T15:00:00.000Z",
+        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81757602",
+        "begin": "",
         "broadcast": ""
       }
     ]
@@ -2339,6 +2375,40 @@
         "id": "26927",
         "begin": "2024-03-31T15:00:00.000Z",
         "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "しまじろうのわお!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎 WAO！",
+        "巧虎 的 WOW"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.webtsc.com/prog/anime/shimajiro/",
+    "begin": "2012-04-01T16:00:00.000Z",
+    "broadcast": "R/2012-04-01T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212153"
+      },
+      {
+        "site": "abema",
+        "id": "19-234",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0147596",
+        "begin": "2024-09-01T03:00:00.000Z",
+        "broadcast": "R/2024-09-01T03:00:00.000Z/P7D"
       }
     ]
   }

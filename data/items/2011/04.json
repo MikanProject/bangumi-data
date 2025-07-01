@@ -722,6 +722,12 @@
       "zh-Hans": [
         "世界第一初恋",
         "世界第一的初恋"
+      ],
+      "zh-Hant": [
+        "世界一初戀"
+      ],
+      "en": [
+        "Sekai Ichi Hatsukoi - World's Greatest First Love"
       ]
     },
     "type": "tv",
@@ -749,6 +755,12 @@
         "id": "11158",
         "begin": "2014-02-15T01:00:00.000Z",
         "broadcast": "R/2014-02-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhZqTnEbmmDAXh0HBOVZ-4h",
+        "begin": "2025-05-21T12:30:06.000Z",
+        "broadcast": "R/2025-05-21T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -1106,6 +1118,12 @@
       {
         "site": "dmhy",
         "id": "sket|學園救援"
+      },
+      {
+        "site": "danime",
+        "id": "25129",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1392,7 +1410,7 @@
       },
       {
         "site": "prime",
-        "id": "B019EGC7II",
+        "id": "B0DVF3FQZB",
         "begin": "",
         "broadcast": ""
       }
@@ -1547,12 +1565,6 @@
         "id": "SID0011509",
         "begin": "2019-12-13T03:00:00.000Z",
         "broadcast": "R/2019-12-13T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "5-8",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -1794,6 +1806,12 @@
         "id": "21545",
         "begin": "2017-04-07T01:00:00.000Z",
         "broadcast": "R/2017-04-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhr-Or-HSWFpPvjAsFdAKkR",
+        "begin": "2025-02-27T05:21:15.000Z",
+        "broadcast": "R/2025-02-27T05:21:15.000Z/P7D"
       }
     ]
   },
@@ -2035,6 +2053,14 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 沉默的15分钟"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：沈默的 15 分鐘",
+        "名偵探柯南：沈默的15分鐘"
+      ],
+      "en": [
+        "Detective Conan: Quarter of Silence",
+        "Detective Conan the Movie: Quarter of Silence"
       ]
     },
     "type": "movie",
@@ -2066,6 +2092,25 @@
         "site": "bilibili",
         "id": "28228957",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "GCRrwSWx5QaS",
+        "url": "https://www.disneyplus.com/movies/detective-conan-quarter-of-silence/GCRrwSWx5QaS",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010685",
+        "begin": "2025-04-11T15:00:00.000Z",
+        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81757580",
+        "begin": "",
         "broadcast": ""
       }
     ]
