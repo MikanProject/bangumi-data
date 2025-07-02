@@ -378,6 +378,69 @@
     ]
   },
   {
+    "title": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 忍者乱太郎 毒竹忍者队最强的军师"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/nintama-movie/",
+    "begin": "2024-12-20T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-06-25T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "481866"
+      }
+    ]
+  },
+  {
+    "title": "メイクアガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "创造一个少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://make-a-girl.com/",
+    "begin": "2025-01-31T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-08-27T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "398556"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の絵世界物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的绘世界物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2025/",
+    "begin": "2025-03-07T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-08-27T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515422"
+      }
+    ]
+  },
+  {
     "title": "PUI PUI モルカー ザ・ムービー MOLMAX",
     "titleTranslate": {
       "zh-Hans": [
@@ -395,6 +458,27 @@
       {
         "site": "bangumi",
         "id": "476683"
+      }
+    ]
+  },
+  {
+    "title": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版世界计划 破碎的世界与唱不出歌的未来"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/pjsekai-movie/",
+    "begin": "2025-01-17T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-10-29T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505776"
       }
     ]
   }
