@@ -34,8 +34,8 @@
       {
         "site": "bilibili",
         "id": "21084663",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-09-29T08:00:00.000Z",
+        "broadcast": "R/2023-09-29T08:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -180,7 +180,8 @@
         "再见了，橡果兄弟！"
       ],
       "zh-Hant": [
-        "再見了，橡果兄弟！"
+        "再見了，橡果兄弟！",
+        "再見了，橡果兄弟！－奇蹟的暑假－"
       ],
       "en": [
         "Goodbye,DonGlees!"
@@ -218,8 +219,8 @@
       {
         "site": "bilibili",
         "id": "28403211",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-06-09T02:00:00.000Z",
+        "broadcast": "R/2023-06-09T02:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -236,6 +237,13 @@
         "id": "26570",
         "begin": "2023-08-31T15:00:00.000Z",
         "broadcast": "R/2023-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=U_cYS9Thhak",
+        "begin": "2023-06-25T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -350,12 +358,6 @@
       {
         "site": "bangumi",
         "id": "352905"
-      },
-      {
-        "site": "abema",
-        "id": "420-64",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },

@@ -344,8 +344,8 @@
       {
         "site": "bilibili",
         "id": "23352451",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-22T12:00:00.000Z",
+        "broadcast": "R/2024-11-22T12:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -881,8 +881,8 @@
       {
         "site": "bilibili",
         "id": "23013233",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2024-10-03T16:00:03.000Z",
+        "broadcast": "R/2024-10-03T16:00:03.000Z/P7D",
         "comment": "中配: 25690070"
       },
       {
@@ -899,7 +899,8 @@
         "site": "muse_tw",
         "id": "PL12UaAf_xzfq5SwaJ7I9QsUglCml7_HDn",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "國語: PL12UaAf_xzfqXi3JvOG1z6QTHBcGKfgDp"
       },
       {
         "site": "prime",
@@ -911,7 +912,8 @@
         "site": "muse_hk",
         "id": "PLuxqoToY7UchYXhbYjj-Iuo0GEIDSAGBZ",
         "begin": "2025-06-01T13:30:06.000Z",
-        "broadcast": "R/2025-06-01T13:30:06.000Z/P7D"
+        "broadcast": "R/2025-06-01T13:30:06.000Z/P7D",
+        "comment": "粵語配音: PLuxqoToY7Ucjhxm54hGpN7tQef5yBb8wQ"
       }
     ]
   },
@@ -1012,8 +1014,8 @@
       {
         "site": "bilibili",
         "id": "23104788",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-23T10:00:00.000Z",
+        "broadcast": "R/2024-11-23T10:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1065,12 +1067,6 @@
       {
         "site": "dmhy",
         "id": "村井之戀"
-      },
-      {
-        "site": "abema",
-        "id": "182-1448",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -1121,8 +1117,8 @@
       {
         "site": "bilibili",
         "id": "23053814",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-12T15:00:00.000Z",
+        "broadcast": "R/2024-11-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1314,8 +1310,8 @@
       {
         "site": "bilibili",
         "id": "22952096",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-07T13:30:00.000Z",
+        "broadcast": "R/2024-10-07T13:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1407,8 +1403,8 @@
       {
         "site": "bilibili",
         "id": "22927587",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-07T12:00:00.000Z",
+        "broadcast": "R/2024-11-07T12:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1503,8 +1499,8 @@
       {
         "site": "bilibili",
         "id": "22953943",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-31T12:00:00.000Z",
+        "broadcast": "R/2024-10-31T12:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1964,8 +1960,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "22953753",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-03T13:00:00.000Z",
+        "broadcast": "R/2024-10-03T13:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1990,8 +1986,8 @@
       {
         "site": "bilibili",
         "id": "22953075",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-03T13:00:00.000Z",
+        "broadcast": "R/2024-10-03T13:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2092,8 +2088,8 @@
       {
         "site": "bilibili",
         "id": "23352572",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-19T10:30:00.000Z",
+        "broadcast": "R/2024-11-19T10:30:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -2341,8 +2337,8 @@
       {
         "site": "bilibili",
         "id": "22878145",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2365,6 +2361,12 @@
         "id": "81955421",
         "begin": "2025-01-23T16:00:00.000Z",
         "broadcast": "R/2025-01-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchsHUrEW5gQLVJ-srlTdDHb",
+        "begin": "2025-06-10T13:00:06.000Z",
+        "broadcast": "R/2025-06-10T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -2607,8 +2609,8 @@
       {
         "site": "bilibili",
         "id": "23352239",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-01T12:00:00.000Z",
+        "broadcast": "R/2025-03-01T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -2670,8 +2672,8 @@
       {
         "site": "bilibili",
         "id": "22953313",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-07T16:30:00.000Z",
+        "broadcast": "R/2024-10-07T16:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3421,8 +3423,8 @@
       {
         "site": "bilibili",
         "id": "22995448",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-02T16:00:01.000Z",
+        "broadcast": "R/2024-10-02T16:00:01.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3564,8 +3566,8 @@
       {
         "site": "bilibili",
         "id": "23352102",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-12-26T12:00:00.000Z",
+        "broadcast": "R/2024-12-26T12:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -3842,8 +3844,8 @@
       {
         "site": "bilibili",
         "id": "23053907",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-03T10:00:00.000Z",
+        "broadcast": "R/2024-11-03T10:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -4171,8 +4173,8 @@
       {
         "site": "bilibili",
         "id": "22951781",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-09-28T14:00:00.000Z",
+        "broadcast": "R/2024-09-28T14:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4608,8 +4610,8 @@
       {
         "site": "bilibili",
         "id": "23352818",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-19T08:00:00.000Z",
+        "broadcast": "R/2024-11-19T08:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -4689,8 +4691,8 @@
       {
         "site": "bilibili",
         "id": "22878448",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-04T14:30:01.000Z",
+        "broadcast": "R/2024-11-04T14:30:01.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4767,8 +4769,8 @@
       {
         "site": "bilibili",
         "id": "22953531",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-05T15:50:00.000Z",
+        "broadcast": "R/2024-10-05T15:50:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4873,8 +4875,8 @@
       {
         "site": "bilibili",
         "id": "23148723",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-08T16:00:01.000Z",
+        "broadcast": "R/2024-10-08T16:00:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -5411,6 +5413,113 @@
         "id": "SID0181802",
         "begin": "2025-04-15T15:00:00.000Z",
         "broadcast": "R/2025-04-15T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぬいストーリー2",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://pisostudio.com/nuistory/",
+    "begin": "2024-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "556307"
+      },
+      {
+        "site": "prime",
+        "id": "B0DHGXM656",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157780",
+        "begin": "2024-10-25T03:00:00.000Z",
+        "broadcast": "R/2024-10-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27305",
+        "begin": "2024-10-19T03:00:00.000Z",
+        "broadcast": "R/2024-10-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ふれる。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "触碰。",
+        "心之觸碰。",
+        "触碰你"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://fureru-movie.com/",
+    "begin": "2024-10-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-10-03T17:47:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469033"
+      },
+      {
+        "site": "mikan",
+        "id": "3574"
+      },
+      {
+        "site": "unext",
+        "id": "SID0209607",
+        "begin": "2025-07-24T15:00:00.000Z",
+        "broadcast": "R/2025-07-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "鬼太郎誕生 ゲゲゲの謎 真生版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎诞生 咯咯咯之谜 真生版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/kitaro-akumakun/",
+    "begin": "2024-10-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-10-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "509290"
+      },
+      {
+        "site": "unext",
+        "id": "SID0204631",
+        "begin": "2025-07-12T15:00:00.000Z",
+        "broadcast": "R/2025-07-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28132",
+        "begin": "2025-07-12T15:00:00.000Z",
+        "broadcast": "R/2025-07-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DSR4Y4L5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

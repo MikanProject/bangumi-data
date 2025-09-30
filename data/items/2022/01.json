@@ -672,12 +672,6 @@
         "id": "PL12UaAf_xzfoy0YU-yiND4M-7Mf1-AgW6",
         "begin": "2022-09-08T12:00:36.000Z",
         "broadcast": "R/2022-09-08T12:00:36.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "teasingmastertakagisanseason3_142496",
-        "begin": "2025-02-19T16:00:00.000Z",
-        "broadcast": "R/2025-02-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -764,6 +758,18 @@
       {
         "site": "crunchyroll",
         "id": "GQWH0M9N8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchDTvM25SPs5f4e_9ViM1xr",
+        "begin": "2025-06-15T13:30:06.000Z",
+        "broadcast": "R/2025-06-15T13:30:06.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2acpp30VYtWd",
         "begin": "",
         "broadcast": ""
       }
@@ -1231,12 +1237,6 @@
         "broadcast": "R/2022-01-08T17:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "115-99",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "重建記 2季|二季|2期|二期|S02|S2|2nd"
       },
@@ -1325,12 +1325,6 @@
         "id": "115286",
         "begin": "2022-01-06T15:00:00.000Z",
         "broadcast": "R/2022-01-06T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "saiyukireloadzeroin0002_141947",
-        "begin": "2024-10-09T16:00:00.000Z",
-        "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1841,12 +1835,6 @@
         "id": "116264",
         "begin": "2022-01-10T15:35:00.000Z",
         "broadcast": "R/2022-01-10T15:35:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "sabikuibisco0001_141935",
-        "begin": "2024-10-09T16:00:00.000Z",
-        "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2850,12 +2838,6 @@
       {
         "site": "nicovideo",
         "id": "bang-dream-popipa-movie",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "283-29",
         "begin": "",
         "broadcast": ""
       },

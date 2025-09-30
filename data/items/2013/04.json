@@ -151,12 +151,6 @@
         "id": "我的青"
       },
       {
-        "site": "abema",
-        "id": "19-77",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "22967",
         "begin": "2019-09-06T01:00:00.000Z",
@@ -357,12 +351,6 @@
         "id": "58111",
         "begin": "2021-12-24T05:00:00.000Z",
         "broadcast": "R/2021-12-24T05:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "174-1",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -1551,6 +1539,12 @@
         "id": "10805",
         "begin": "2013-04-08T01:00:00.000Z",
         "broadcast": "R/2013-04-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B073G59FK7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1775,12 +1769,6 @@
       {
         "site": "bangumi",
         "id": "69253"
-      },
-      {
-        "site": "unext",
-        "id": "SID0091483",
-        "begin": "2023-09-02T03:00:00.000Z",
-        "broadcast": "R/2023-09-02T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2142,12 +2130,6 @@
         "id": "B0D3Y9W4Z2",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "13-97",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -2155,7 +2137,11 @@
     "title": "クレヨンしんちゃん バカうまっ！B級グルメサバイバル!!",
     "titleTranslate": {
       "zh-Hans": [
-        "蜡笔小新 超级美味B级美食大逃亡"
+        "蜡笔小新 超级美味B级美食大逃亡",
+        "蜡笔小新：超级美味！B 级美食大逃亡！"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：超級美味！B 級美食大逃亡！！"
       ]
     },
     "type": "movie",
@@ -2200,6 +2186,18 @@
         "id": "SID0099811",
         "begin": "2024-03-06T03:00:00.000Z",
         "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "59700",
+        "begin": "2025-07-23T04:00:00.000Z",
+        "broadcast": "R/2025-07-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80243209",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2256,6 +2254,19 @@
       {
         "site": "netflix",
         "id": "81757603",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B06Y2593G5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "6BfOmsdixkg9",
+        "url": "https://www.disneyplus.com/movies/detective-conan-private-eye-in-the-distant-sea/6BfOmsdixkg9",
         "begin": "",
         "broadcast": ""
       }

@@ -257,6 +257,12 @@
         "id": "PL12UaAf_xzfpzEh7jEV_0rjzh-vuWxBDz",
         "begin": "2020-01-30T14:05:00.000Z",
         "broadcast": "R/2020-01-30T14:05:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81196818",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -887,8 +893,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrXphrK71q6KyBDSMKTV2ct",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-03-15T13:30:10.000Z",
+        "broadcast": "R/2022-03-15T13:30:10.000Z/P7D"
       }
     ]
   },
@@ -1252,12 +1258,6 @@
         "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "92073",
-        "begin": "2019-10-04T16:30:00.000Z",
-        "broadcast": "R/2019-10-04T16:30:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28222669",
         "begin": "2019-10-04T16:38:45.000Z",
@@ -1542,8 +1542,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfq4BbWz5owh7vYRM6K8b9H6",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-03-25T13:00:07.000Z",
+        "broadcast": "R/2023-03-25T13:00:07.000Z/P7D"
       }
     ]
   },
@@ -1863,6 +1863,12 @@
         "begin": "",
         "broadcast": "",
         "comment": "國語: PL12UaAf_xzfoTgp8RxRN87552Xqsl13DX"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6NVG970Y",
+        "begin": "2019-10-05T08:35:00.000Z",
+        "broadcast": "R/2019-10-05T08:35:00.000Z/P7D"
       }
     ]
   },
@@ -1966,12 +1972,6 @@
         "id": "SID0043573",
         "begin": "2019-10-19T04:00:00.000Z",
         "broadcast": "R/2019-10-19T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-124",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -2250,7 +2250,8 @@
       "zh-Hant": [
         "七大罪：眾神的逆鱗",
         "七大罪 眾神的逆鱗",
-        "眾神的逆鱗"
+        "眾神的逆鱗",
+        "七大罪S3：眾神的逆鱗"
       ]
     },
     "type": "tv",
@@ -2317,6 +2318,12 @@
         "id": "23029",
         "begin": "2023-03-01T01:00:00.000Z",
         "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqx7Nmvr0fnTFIcbCyHVeJn",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2657,8 +2664,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpuPofM8mNXUkD6qUlHPeB6",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-04-18T14:00:06.000Z",
+        "broadcast": "R/2024-04-18T14:00:06.000Z/P7D"
       }
     ]
   },
@@ -2843,8 +2850,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfp7nEryeNi_iVf0p3T0Gy98",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-02-06T13:00:10.000Z",
+        "broadcast": "R/2020-02-06T13:00:10.000Z/P7D"
       }
     ]
   },
@@ -3494,12 +3501,6 @@
         "broadcast": "R/2020-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-107",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "PSYCHO PASS 3"
       },
@@ -3658,8 +3659,8 @@
       {
         "site": "bilibili",
         "id": "28229655",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-08-21T16:00:01.000Z",
+        "broadcast": "R/2020-08-21T16:00:01.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3670,12 +3671,6 @@
       {
         "site": "mikan",
         "id": "2178"
-      },
-      {
-        "site": "abema",
-        "id": "26-229",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -3803,7 +3798,7 @@
         "site": "bilibili",
         "id": "28228701",
         "begin": "2019-10-24T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2020-04-20T11:22:00.000Z/P7D"
       }
     ]
   },
@@ -3828,14 +3823,8 @@
       {
         "site": "bilibili",
         "id": "28229860",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "19-141",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-09-23T03:00:01.000Z",
+        "broadcast": "R/2020-09-23T03:00:01.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -3846,6 +3835,12 @@
         "id": "SID0051544",
         "begin": "2024-10-31T15:00:00.000Z",
         "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24568",
+        "begin": "2025-08-17T15:00:00.000Z",
+        "broadcast": "R/2025-08-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3960,8 +3955,8 @@
       {
         "site": "bilibili",
         "id": "28224153",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-01-05T10:00:00.000Z",
+        "broadcast": "R/2020-01-05T10:00:00.000Z/P7D"
       },
       {
         "site": "unext",

@@ -32,12 +32,29 @@
         "id": "SID0052758",
         "begin": "2020-11-06T15:00:00.000Z",
         "broadcast": "R/2020-11-06T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 とっとこハム太郎 はむはむぱらだいちゅ! ハム太郎とふしぎのオニの絵本塔",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-12-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-12-22T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "417398"
       },
       {
-        "site": "gamer",
-        "id": "21913",
-        "begin": "2024-04-26T04:00:00.000Z",
-        "broadcast": "R/2024-04-26T04:00:00.000Z/P7D"
+        "site": "abema",
+        "id": "2-33",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -101,28 +101,10 @@
         "broadcast": "R/2019-11-15T10:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili_tw",
-        "id": "5551",
-        "begin": "2016-10-05T16:00:10.000Z",
-        "broadcast": "R/2016-10-05T16:00:10.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "106-1zxpewrca-r",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0026753",
         "begin": "2020-04-04T03:00:00.000Z",
         "broadcast": "R/2020-04-04T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "3KeTikthDRwH",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -394,6 +376,12 @@
       {
         "site": "mikan",
         "id": "868"
+      },
+      {
+        "site": "unext",
+        "id": "SID0026529",
+        "begin": "2016-10-25T03:00:00.000Z",
+        "broadcast": "R/2016-10-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -587,7 +575,7 @@
       },
       {
         "site": "prime",
-        "id": "B0D54QMQ9B",
+        "id": "B0F11MHLST",
         "begin": "",
         "broadcast": ""
       },
@@ -1054,12 +1042,6 @@
         "id": "SID0026766",
         "begin": "2019-03-31T15:00:00.000Z",
         "broadcast": "R/2019-03-31T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "158-12",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -3183,6 +3165,9 @@
       ],
       "zh-Hant": [
         "YURI!!!on ICE"
+      ],
+      "en": [
+        "Yuri!!! On ICE"
       ]
     },
     "type": "tv",
@@ -3234,6 +3219,12 @@
         "id": "21186",
         "begin": "2018-07-14T01:00:00.000Z",
         "broadcast": "R/2018-07-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5T2NkOiKJ8Hy",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4350,12 +4341,6 @@
       {
         "site": "mikan",
         "id": "1146"
-      },
-      {
-        "site": "unext",
-        "id": "SID0147999",
-        "begin": "2024-08-03T03:00:00.000Z",
-        "broadcast": "R/2024-08-03T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",

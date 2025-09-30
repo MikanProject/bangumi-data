@@ -78,12 +78,6 @@
         "id": "2186"
       },
       {
-        "site": "abema",
-        "id": "171-24",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "24973",
         "begin": "2024-12-31T15:00:00.000Z",
@@ -318,7 +312,8 @@
         "出租女友"
       ],
       "en": [
-        "Rent a Girlfriend"
+        "Rent a Girlfriend",
+        "Rent-a-Girlfriend"
       ]
     },
     "type": "tv",
@@ -342,13 +337,6 @@
         "id": "kanokari",
         "begin": "2020-07-15T17:00:00.000Z",
         "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "rentagirlfriend2426_141233",
-        "begin": "2022-10-07T19:00:00.000Z",
-        "broadcast": "R/2022-10-07T19:00:00.000Z/P7D",
-        "comment": "粵語: rentagirlfriend0001_136684"
       },
       {
         "site": "gamer",
@@ -403,6 +391,18 @@
         "id": "PL12UaAf_xzfoxCuTU2vrsofiavF-Uj2oW",
         "begin": "2022-06-29T12:30:04.000Z",
         "broadcast": "R/2022-06-29T12:30:04.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "62UPJ0liFk8K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "rentagirlfriend0001_136684",
+        "begin": "2022-10-07T19:00:00.000Z",
+        "broadcast": "R/2022-10-07T19:00:00.000Z/P7D"
       }
     ]
   },
@@ -439,12 +439,6 @@
         "id": "maohgakuin",
         "begin": "2020-07-09T14:30:00.000Z",
         "broadcast": "R/2020-07-09T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "279592",
-        "begin": "2020-07-03T16:00:00.000Z",
-        "broadcast": "R/2020-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -723,12 +717,6 @@
         "broadcast": "R/2020-07-06T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "108367",
-        "begin": "2020-07-03T16:30:00.000Z",
-        "broadcast": "R/2020-07-03T16:30:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28229301",
         "begin": "2020-07-03T16:30:01.000Z",
@@ -751,12 +739,6 @@
       {
         "site": "mikan",
         "id": "2255"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "108367",
-        "begin": "2020-07-03T16:30:00.000Z",
-        "broadcast": "R/2020-07-03T16:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -895,12 +877,6 @@
         "id": "SID0049165",
         "begin": "2020-07-15T15:00:00.000Z",
         "broadcast": "R/2020-07-15T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "481-4",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -1209,12 +1185,6 @@
         "broadcast": "R/2020-07-10T12:54:00.000Z/P7D"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgoFyk6x8eQATBy4o_VUEs6",
-        "begin": "2020-07-07T13:00:00.000Z",
-        "broadcast": "R/2020-07-07T13:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28229348",
         "begin": "2020-07-07T13:00:01.000Z",
@@ -1275,12 +1245,6 @@
         "broadcast": "R/2020-07-13T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "112409",
-        "begin": "2020-07-12T19:10:00.000Z",
-        "broadcast": "R/2020-07-12T19:10:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0049157",
         "begin": "2020-07-13T03:00:00.000Z",
@@ -1289,12 +1253,6 @@
       {
         "site": "mikan",
         "id": "2275"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "112409",
-        "begin": "2020-07-12T19:10:00.000Z",
-        "broadcast": "R/2020-07-12T19:10:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1915,12 +1873,6 @@
         "id": "310656"
       },
       {
-        "site": "gamer",
-        "id": "111652",
-        "begin": "2020-07-17T03:00:00.000Z",
-        "broadcast": "R/2020-07-17T03:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0058629",
         "begin": "2021-06-08T15:00:00.000Z",
@@ -1969,24 +1921,12 @@
         "id": "301477"
       },
       {
-        "site": "gamer",
-        "id": "112205",
-        "begin": "2020-06-30T23:30:00.000Z",
-        "broadcast": "R/2020-06-30T23:30:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5efff2fac4be624128fcd344"
       },
       {
         "site": "mikan",
         "id": "2271"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "112205",
-        "begin": "2020-06-30T23:30:00.000Z",
-        "broadcast": "R/2020-06-30T23:30:00.000Z/P7D"
       },
       {
         "site": "danime",

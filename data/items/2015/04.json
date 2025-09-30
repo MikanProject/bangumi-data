@@ -89,12 +89,6 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "69017",
-        "begin": "2016-05-04T08:52:00.000Z",
-        "broadcast": "R/2016-05-04T08:52:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "的青+續"
       },
@@ -105,12 +99,6 @@
       {
         "site": "mikan",
         "id": "475"
-      },
-      {
-        "site": "abema",
-        "id": "19-78",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -623,12 +611,6 @@
         "id": "SID0004980",
         "begin": "2019-08-01T03:00:00.000Z",
         "broadcast": "R/2019-08-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "11-35",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -2074,12 +2056,6 @@
         "broadcast": "R/2015-04-11T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "316-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "石王"
       },
@@ -2136,12 +2112,6 @@
         "id": "SID0012725",
         "begin": "2015-04-07T03:00:00.000Z",
         "broadcast": "R/2015-04-07T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "158-12",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -2217,22 +2187,10 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "106-1zxpewrca-r",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0013560",
         "begin": "2020-04-04T03:00:00.000Z",
         "broadcast": "R/2020-04-04T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "3KeTikthDRwH",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2357,12 +2315,6 @@
       {
         "site": "mikan",
         "id": "506"
-      },
-      {
-        "site": "abema",
-        "id": "158-8ukb2pnc72h",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -3652,6 +3604,13 @@
         "id": "B06Y1LQ3Q5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "QEoxrtgEHQBK",
+        "url": "https://www.disneyplus.com/movies/detective-conan-sunflowers-of-inferno/QEoxrtgEHQBK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3849,7 +3808,11 @@
     "title": "クレヨンしんちゃん オラの引越し物語 サボテン大襲撃",
     "titleTranslate": {
       "zh-Hans": [
-        "蜡笔小新 我的搬家物语 仙人掌大袭击"
+        "蜡笔小新 我的搬家物语 仙人掌大袭击",
+        "蜡笔小新：我的搬家物语 仙人掌大袭击！"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：我的搬家物語 仙人掌大襲擊！"
       ]
     },
     "type": "movie",
@@ -3879,6 +3842,12 @@
       {
         "site": "bilibili",
         "id": "28349569",
+        "begin": "2023-07-09T02:00:00.000Z",
+        "broadcast": "R/2023-07-09T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242795",
         "begin": "",
         "broadcast": ""
       }

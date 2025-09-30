@@ -316,6 +316,10 @@
         "id": "27811",
         "begin": "2025-04-11T13:00:00.000Z",
         "broadcast": "R/2025-04-11T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "GQuuu"
       }
     ]
   },
@@ -1219,7 +1223,8 @@
         "site": "danime",
         "id": "27757",
         "begin": "2025-04-06T00:30:00.000Z",
-        "broadcast": "R/2025-04-06T00:30:00.000Z/P7D"
+        "broadcast": "R/2025-04-06T00:30:00.000Z/P7D",
+        "comment": "総集編: 28072"
       },
       {
         "site": "bangumi_moe",
@@ -1422,7 +1427,7 @@
       },
       {
         "site": "prime",
-        "id": "B0F2NSMH3B",
+        "id": "B0FC6C7DH6",
         "begin": "",
         "broadcast": ""
       },
@@ -2278,6 +2283,24 @@
       {
         "site": "dmhy",
         "id": "圣女 完美"
+      },
+      {
+        "site": "danime",
+        "id": "28059",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FCQWSZ5G",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanpekiseijo-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2337,7 +2360,7 @@
       },
       {
         "site": "prime",
-        "id": "B0DG1PYPJM",
+        "id": "B0CGV99HRS",
         "begin": "",
         "broadcast": ""
       },
@@ -2673,6 +2696,12 @@
       {
         "site": "dmhy",
         "id": "紫雲寺"
+      },
+      {
+        "site": "netflix",
+        "id": "82033310",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3414,7 +3443,7 @@
       },
       {
         "site": "prime",
-        "id": "B0F44SH8YZ",
+        "id": "B0FB964WZG",
         "begin": "",
         "broadcast": ""
       },
@@ -3504,13 +3533,19 @@
       },
       {
         "site": "prime",
-        "id": "B0DZY8VCT6",
+        "id": "B0FC7M5LQC",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "dmhy",
         "id": "LAZARUS"
+      },
+      {
+        "site": "netflix",
+        "id": "81986711",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3581,6 +3616,16 @@
       {
         "site": "bangumi_moe",
         "id": "67ed5cc48b961748467f460f"
+      },
+      {
+        "site": "prime",
+        "id": "B0F27HFZ3P",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3626"
       }
     ]
   },
@@ -3890,6 +3935,25 @@
     ]
   },
   {
+    "title": "ゆるかわメルちゃん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.mellchan.com/topics/2025/01/mell2025anime.html",
+    "begin": "2025-04-03T12:54:00.000Z",
+    "broadcast": "R/2025-04-03T12:54:00.000Z/P7D",
+    "end": "2025-06-26T12:54:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "danime",
+        "id": "27987",
+        "begin": "2025-05-22T15:00:00.000Z",
+        "broadcast": "R/2025-05-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
     "title": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～",
     "titleTranslate": {
       "zh-Hans": [
@@ -4007,12 +4071,6 @@
         "id": "504950"
       },
       {
-        "site": "abema",
-        "id": "26-244",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0181260",
         "begin": "2025-04-16T12:00:00.000Z",
@@ -4081,7 +4139,8 @@
       "zh-Hant": [
         "真·武士傳 YAIBA",
         "真・武士傳 YAIBA",
-        "真・武士傳YAIBA"
+        "真・武士傳YAIBA",
+        "真･武士傳 YAIBA"
       ],
       "en": [
         "YAIBA: Samurai Legend"
@@ -4158,6 +4217,24 @@
       {
         "site": "dmhy",
         "id": "真 武士传|侍传"
+      },
+      {
+        "site": "bilibili",
+        "id": "26492554",
+        "begin": "2025-06-14T10:00:00.000Z",
+        "broadcast": "R/2025-06-14T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "139420",
+        "begin": "2025-07-05T10:00:00.000Z",
+        "broadcast": "R/2025-07-05T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "139420",
+        "begin": "2025-07-05T10:00:00.000Z",
+        "broadcast": "R/2025-07-05T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -4262,7 +4339,7 @@
       },
       {
         "site": "prime",
-        "id": "B0F3J6DV8N",
+        "id": "B0FG8L1H8Z",
         "begin": "",
         "broadcast": ""
       },
@@ -4608,7 +4685,7 @@
     "lang": "ja",
     "officialSite": "https://hicbc.com/tv/agaruanime/news/20250305.php",
     "begin": "2025-04-06T14:30:00.000Z",
-    "broadcast": "R/2025-04-06T14:30:00.000Z/P7D",
+    "broadcast": "R/2025-04-06T14:30:00.000Z/P0D",
     "end": "2025-04-06T14:30:00.000Z",
     "comment": "",
     "sites": [
@@ -4662,6 +4739,10 @@
         "id": "204-14",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "怪獸世界征服"
       }
     ]
   },
@@ -4730,7 +4811,7 @@
     "officialSite": "https://saikyoohanime.com/",
     "begin": "2025-04-05T16:00:00.000Z",
     "broadcast": "R/2025-04-05T16:00:00.000Z/P7D",
-    "end": "2025-06-29T16:00:00.000Z",
+    "end": "2025-06-28T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4754,6 +4835,12 @@
         "id": "27910",
         "begin": "2025-04-05T23:00:00.000Z",
         "broadcast": "R/2025-04-05T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F3NY711T",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4821,7 +4908,7 @@
     "officialSite": "https://zenryoku-usagi-anime.com/",
     "begin": "2025-04-08T16:00:00.000Z",
     "broadcast": "R/2025-04-08T16:00:00.000Z/P7D",
-    "end": "2025-06-25T16:00:00.000Z",
+    "end": "2025-06-24T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4948,7 +5035,7 @@
     "officialSite": "https://muziktiger-anime.com/",
     "begin": "2025-04-01T16:00:00.000Z",
     "broadcast": "R/2025-04-01T16:00:00.000Z/P7D",
-    "end": "2025-04-01T16:00:00.000Z",
+    "end": "2025-06-25T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5124,6 +5211,39 @@
       {
         "site": "mikan",
         "id": "3572"
+      },
+      {
+        "site": "unext",
+        "id": "SID0182646",
+        "begin": "2025-06-24T15:00:00.000Z",
+        "broadcast": "R/2025-06-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 僕とロボコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我与机器子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://boku-to-roboco.com",
+    "begin": "2025-04-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-04-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "441940"
+      },
+      {
+        "site": "unext",
+        "id": "SID0220206",
+        "begin": "2025-08-18T15:00:00.000Z",
+        "broadcast": "R/2025-08-18T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -655,8 +655,8 @@
       {
         "site": "bilibili",
         "id": "6424",
-        "begin": "2017-10-03T12:54:00.000Z",
-        "broadcast": ""
+        "begin": "2017-10-03T13:54:00.000Z",
+        "broadcast": "R/2017-10-03T13:54:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1389,12 +1389,6 @@
         "id": "87891",
         "begin": "2017-10-07T17:30:00.000Z",
         "broadcast": "R/2017-10-07T17:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "115-7yjdnebupe-",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2460,6 +2454,12 @@
         "id": "21802",
         "begin": "2017-10-05T03:00:00.000Z",
         "broadcast": "R/2017-10-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSQzeoD-ErT9K1ZUczEhRJl",
+        "begin": "2025-08-15T12:00:06.000Z",
+        "broadcast": "R/2025-08-15T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -3076,6 +3076,12 @@
         "id": "19-112",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22492",
+        "begin": "2025-08-08T15:00:00.000Z",
+        "broadcast": "R/2025-08-08T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3763,13 +3769,6 @@
         "id": "SID0033205",
         "begin": "2018-02-23T03:00:00.000Z",
         "broadcast": "R/2018-02-23T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "7lxqnAYbjTCW",
-        "url": "https://www.disneyplus.com/movies/code-geass-lelouch-of-the-rebellion-i-initiation/7lxqnAYbjTCW",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",

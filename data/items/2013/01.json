@@ -297,12 +297,6 @@
         "broadcast": "R/2013-04-01T15:00:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0003214",
-        "begin": "2022-04-27T03:00:00.000Z",
-        "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "鎖鎖美"
       }
@@ -350,12 +344,6 @@
         "id": "SID0002173",
         "begin": "2013-01-31T06:00:00.000Z",
         "broadcast": "R/2013-01-31T06:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "174-6",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -1250,12 +1238,6 @@
         "broadcast": "R/2024-03-26T12:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "143-44",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "56380",
         "begin": "2016-06-06T09:00:00.000Z",
@@ -1321,12 +1303,6 @@
         "id": "SID0002553",
         "begin": "2022-04-26T15:00:00.000Z",
         "broadcast": "R/2022-04-26T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "143-48",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -1687,6 +1663,13 @@
         "site": "prime",
         "id": "B0DVQ9NPVF",
         "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=pY97sDavnGU",
+        "begin": "2025-06-30T16:00:00.000Z",
         "broadcast": ""
       }
     ]

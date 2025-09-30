@@ -235,6 +235,9 @@
       "zh-Hans": [
         "新蔷薇少女",
         "蔷薇少女 第三季"
+      ],
+      "zh-Hant": [
+        "新薔薇少女"
       ]
     },
     "type": "tv",
@@ -274,6 +277,12 @@
         "id": "SID0004860",
         "begin": "2022-04-27T03:00:00.000Z",
         "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "59011",
+        "begin": "2025-07-01T04:00:00.000Z",
+        "broadcast": "R/2025-07-01T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -618,12 +627,6 @@
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "158-12",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "庭球|球并|Teekyu"
       },
@@ -762,12 +765,6 @@
         "broadcast": "R/2019-12-21T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-96",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "喪女"
       },
@@ -822,12 +819,6 @@
         "id": "20075",
         "begin": "2020-02-24T03:00:00.000Z",
         "broadcast": "R/2020-02-24T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjlspAV1Jbu-PnR5Kk0ZnRl",
-        "begin": "2025-03-15T07:06:00.000Z",
-        "broadcast": "R/2025-03-15T07:06:00.000Z/P7D"
       }
     ]
   },
@@ -915,22 +906,10 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "61469",
-        "begin": "2018-07-18T03:00:00.000Z",
-        "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0016679",
         "begin": "2017-07-01T03:00:00.000Z",
         "broadcast": "R/2017-07-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "61469",
-        "begin": "2018-07-18T03:00:00.000Z",
-        "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1267,12 +1246,6 @@
         "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-68",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "蘿球"
       },
@@ -1443,12 +1416,6 @@
       {
         "site": "dmhy",
         "id": "辯駁|論破"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "59228",
-        "begin": "2021-06-01T03:00:00.000Z",
-        "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1900,12 +1867,6 @@
         "broadcast": "R/2022-03-02T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "64453",
-        "begin": "2020-08-21T09:00:00.000Z",
-        "broadcast": "R/2020-08-21T09:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0013459",
         "begin": "2019-04-05T03:00:00.000Z",
@@ -1918,12 +1879,6 @@
       {
         "site": "bangumi_moe",
         "id": "60ecba2a2525b000073423d2"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "64453",
-        "begin": "2020-08-21T09:00:00.000Z",
-        "broadcast": "R/2020-08-21T09:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2155,10 +2110,10 @@
         "broadcast": "R/2024-03-15T04:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "57470",
-        "begin": "2024-03-15T04:00:00.000Z",
-        "broadcast": "R/2024-03-15T04:00:00.000Z/P7D"
+        "site": "nicovideo",
+        "id": "gintama-kanketsuhen",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

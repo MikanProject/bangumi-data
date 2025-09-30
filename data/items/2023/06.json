@@ -76,8 +76,8 @@
       {
         "site": "bilibili",
         "id": "23679123",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-12-07T10:30:00.000Z",
+        "broadcast": "R/2024-12-07T10:30:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -211,8 +211,8 @@
       {
         "site": "bilibili",
         "id": "21483320",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-04-21T10:00:00.000Z",
+        "broadcast": "R/2024-04-21T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -365,6 +365,9 @@
       ],
       "zh-Hant": [
         "青春豬頭少年不會夢到嬌憐外出妹"
+      ],
+      "en": [
+        "Rascal Does Not Dream of a Sister Venturing Out"
       ]
     },
     "type": "movie",
@@ -410,6 +413,31 @@
       {
         "site": "netflix",
         "id": "81765074",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-211",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0CKNQQ825",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28051",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "NuDRSHJePOK8",
+        "url": "https://www.disneyplus.com/movies/rascal-does-not-dream-of-a-sister-venturing-out/NuDRSHJePOK8",
         "begin": "",
         "broadcast": ""
       }
@@ -470,12 +498,6 @@
         "id": "425604"
       },
       {
-        "site": "unext",
-        "id": "SID0099225",
-        "begin": "2024-03-08T15:00:00.000Z",
-        "broadcast": "R/2024-03-08T15:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "26800",
         "begin": "2024-03-08T15:00:00.000Z",
@@ -506,8 +528,8 @@
       {
         "site": "bilibili",
         "id": "20366851",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-13T02:00:00.000Z",
+        "broadcast": "R/2024-07-13T02:00:00.000Z/P7D"
       }
     ]
   },

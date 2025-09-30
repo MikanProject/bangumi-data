@@ -240,12 +240,6 @@
         "begin": "2016-06-09T03:54:36.000Z"
       },
       {
-        "site": "abema",
-        "id": "168-48",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0020410",
         "begin": "2023-04-01T03:00:00.000Z",
@@ -410,6 +404,29 @@
         "id": "20522",
         "begin": "2015-12-25T03:00:00.000Z",
         "broadcast": "R/2015-12-25T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "出番ですよ!オニギリズ",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-05-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-05-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "330864"
+      },
+      {
+        "site": "unext",
+        "id": "SID0190604",
+        "begin": "2025-06-01T03:00:00.000Z",
+        "broadcast": "R/2025-06-01T03:00:00.000Z/P7D"
       }
     ]
   }

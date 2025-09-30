@@ -9,7 +9,8 @@
         "The Seven Deadly Sins -Signs of holy war-"
       ],
       "zh-Hant": [
-        "七大罪 聖戰的預兆"
+        "七大罪 聖戰的預兆",
+        "七大罪SP：聖戰的預兆"
       ]
     },
     "type": "tv",
@@ -25,7 +26,8 @@
       {
         "site": "nicovideo",
         "id": "7-taizai02",
-        "begin": "2016-08-28T09:00:00.000Z"
+        "begin": "2016-08-28T09:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -58,6 +60,12 @@
         "id": "21085",
         "begin": "2016-08-29T03:00:00.000Z",
         "broadcast": "R/2016-08-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpBG6lK1-eacr85jHo8HiPT",
+        "begin": "2025-05-21T13:00:06.000Z",
+        "broadcast": "R/2025-05-21T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -109,7 +117,8 @@
       {
         "site": "nicovideo",
         "id": "kizumonogatari",
-        "begin": "2019-07-14T15:00:00.000Z"
+        "begin": "2019-07-14T15:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -284,6 +293,13 @@
         "begin": "2023-10-31T15:00:00.000Z",
         "broadcast": "R/2023-10-31T15:00:00.000Z/P7D",
         "comment": "後編: 24363"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-aizenkouhen1",
+        "begin": "",
+        "broadcast": "",
+        "comment": "後編: gintama-aizenkouhen2"
       }
     ]
   },

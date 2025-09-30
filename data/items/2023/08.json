@@ -90,8 +90,8 @@
       {
         "site": "bilibili",
         "id": "21139535",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-12-19T15:00:00.000Z",
+        "broadcast": "R/2023-12-19T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo",
@@ -104,12 +104,6 @@
         "id": "SID0096735",
         "begin": "2023-12-19T15:00:00.000Z",
         "broadcast": "R/2023-12-19T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "106-4",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -200,6 +194,40 @@
       {
         "site": "bilibili",
         "id": "21102890",
+        "begin": "2024-04-06T02:00:00.000Z",
+        "broadcast": "R/2024-04-06T02:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "SAND LAND",
+    "titleTranslate": {
+      "zh-Hans": [
+        "沙漠大冒险",
+        "SAND LAND沙漠大追踪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sandland.jp",
+    "begin": "2023-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-08-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411278"
+      },
+      {
+        "site": "unext",
+        "id": "SID0211419",
+        "begin": "2025-08-09T15:00:00.000Z",
+        "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sandland",
         "begin": "",
         "broadcast": ""
       }

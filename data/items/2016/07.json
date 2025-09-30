@@ -49,12 +49,6 @@
         "broadcast": "R/2019-04-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "172-57",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "ReLIFE"
       },
@@ -760,6 +754,10 @@
       {
         "site": "bangumi_moe",
         "id": "57765f06ca607f850f3f9356"
+      },
+      {
+        "site": "mikan",
+        "id": "762"
       }
     ]
   },
@@ -1053,12 +1051,6 @@
         "id": "80256",
         "begin": "2022-10-07T03:30:00.000Z",
         "broadcast": "R/2022-10-07T03:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-43zr98hyeb55",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3836,6 +3828,13 @@
         "begin": "",
         "broadcast": "",
         "comment": "國語: PL12UaAf_xzfr1Ar5QVsVERWSO5Xh-n1CM"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=AF8LiDbznKo",
+        "begin": "2022-04-18T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -3907,8 +3906,8 @@
       {
         "site": "bilibili",
         "id": "70612",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2018-02-08T04:02:59.000Z",
+        "broadcast": "R/2018-02-08T04:02:59.000Z/P7D"
       },
       {
         "site": "mikan",

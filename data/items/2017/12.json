@@ -176,6 +176,12 @@
       {
         "site": "mikan",
         "id": "1483"
+      },
+      {
+        "site": "danime",
+        "id": "22780",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -283,8 +289,8 @@
       {
         "site": "bilibili",
         "id": "28234950",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-09-30T10:00:00.000Z",
+        "broadcast": "R/2021-09-30T10:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -333,8 +339,8 @@
       {
         "site": "bilibili",
         "id": "71992",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2018-02-09T10:30:00.000Z",
+        "broadcast": "R/2018-02-09T10:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -393,12 +399,6 @@
         "id": "SID0033682",
         "begin": "2018-03-02T03:00:00.000Z",
         "broadcast": "R/2018-03-02T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-41",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",

@@ -525,18 +525,6 @@
         "id": "1445",
         "begin": "2006-04-05T16:00:00.000Z",
         "broadcast": "R/2010-11-04T15:58:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0015411",
-        "begin": "2024-08-03T03:00:00.000Z",
-        "broadcast": "R/2024-08-03T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "danime",
-        "id": "11316",
-        "begin": "2024-01-31T15:00:00.000Z",
-        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -839,12 +827,6 @@
         "id": "SID0032911",
         "begin": "2024-08-01T03:00:00.000Z",
         "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "575",
-        "begin": "2023-11-03T04:00:00.000Z",
-        "broadcast": "R/2023-11-03T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -876,12 +858,6 @@
         "id": "3750",
         "begin": "2006-04-01T16:00:01.000Z",
         "broadcast": "R/2016-04-15T07:13:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0002657",
-        "begin": "2019-05-23T03:00:00.000Z",
-        "broadcast": "R/2019-05-23T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1222,12 +1198,6 @@
         "broadcast": "R/2019-09-02T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "143-46",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "20518",
         "begin": "2019-08-30T01:00:00.000Z",
@@ -1297,18 +1267,17 @@
         "comment": "#53-99: PLxSscENEp7JibnGLzxdM-ftMb74lnghSz, #100-150: PLxSscENEp7JiO3ZM-4pFsJ2c8VwnslLJg, #151-201: PLxSscENEp7Jhwyjh_CUvG9Y3Mw2ccdv3q"
       },
       {
-        "site": "mytv",
-        "id": "gintamaseason1_141937",
-        "begin": "2024-10-15T16:00:00.000Z",
-        "broadcast": "R/2024-10-15T16:00:00.000Z/P7D",
-        "comment": "第二季 #53-99: gintamaseason2_142511"
-      },
-      {
         "site": "danime",
         "id": "20573",
         "begin": "2016-01-29T01:00:00.000Z",
         "broadcast": "R/2016-01-29T01:00:00.000Z/P7D",
         "comment": "2年目 #50-99: 20587, 3年目 #100-150: 20588, 4年目 #151-201: 20616"
+      },
+      {
+        "site": "netflix",
+        "id": "80018959",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1518,12 +1487,6 @@
         "id": "192006"
       },
       {
-        "site": "abema",
-        "id": "117-15",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "20947",
         "begin": "2016-06-17T01:00:00.000Z",
@@ -1719,6 +1682,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秘密结社鹰之爪"
+      ],
+      "zh-Hant": [
+        "秘密結社鷹之爪"
       ]
     },
     "type": "tv",
@@ -1805,6 +1771,12 @@
         "begin": "2019-12-06T14:00:19.000Z",
         "broadcast": "R/2019-12-06T14:00:19.000Z/P7D",
         "comment": "國語: PL12UaAf_xzfoEJVysJteg82-jjGEVsvms"
+      },
+      {
+        "site": "prime",
+        "id": "B01D5L0U00",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2001,7 +1973,11 @@
     "title": "クレヨンしんちゃん 伝説を呼ぶ 踊れ!アミーゴ!",
     "titleTranslate": {
       "zh-Hans": [
-        "蜡笔小新 呼唤传说！跳吧！朋友！"
+        "蜡笔小新 呼唤传说！跳吧！朋友！",
+        "蜡笔小新：呼唤传说！跳舞吧！朋友！"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：Amigo！森巴入侵計畫"
       ]
     },
     "type": "movie",
@@ -2040,6 +2016,18 @@
         "id": "SID0099801",
         "begin": "2024-03-06T03:00:00.000Z",
         "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "52588",
+        "begin": "2025-06-13T02:00:00.000Z",
+        "broadcast": "R/2025-06-13T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "26513617",
+        "begin": "2025-06-12T10:00:00.000Z",
+        "broadcast": "R/2025-06-12T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -2184,8 +2172,8 @@
       {
         "site": "bilibili",
         "id": "4926",
-        "begin": "2006-04-04T16:00:01.000Z",
-        "broadcast": ""
+        "begin": "2016-06-19T03:40:00.000Z",
+        "broadcast": "R/2016-06-19T03:40:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2202,6 +2190,12 @@
       {
         "site": "prime",
         "id": "B074T3C1Z6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "daimahoutouge",
         "begin": "",
         "broadcast": ""
       }

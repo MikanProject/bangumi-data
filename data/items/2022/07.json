@@ -205,16 +205,16 @@
         "id": "2777"
       },
       {
-        "site": "danime",
-        "id": "26060",
-        "begin": "2023-01-06T15:00:00.000Z",
-        "broadcast": "R/2023-01-06T15:00:00.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81909544",
         "begin": "2025-02-27T16:00:00.000Z",
         "broadcast": "R/2025-02-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26060",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -317,12 +317,6 @@
         "id": "122954",
         "begin": "2022-07-04T13:00:00.000Z",
         "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "443581",
-        "begin": "2022-07-03T16:00:00.000Z",
-        "broadcast": "R/2022-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -466,12 +460,6 @@
         "id": "62c125b62fc3ee0d0016bf64"
       },
       {
-        "site": "mytv",
-        "id": "rentagirlfriendseason2_141234",
-        "begin": "2024-07-05T02:00:00.000Z",
-        "broadcast": "R/2024-07-05T02:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer_hk",
         "id": "122289",
         "begin": "2022-07-01T17:25:00.000Z",
@@ -539,12 +527,6 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28338638",
-        "begin": "2022-07-08T18:25:00.000Z",
-        "broadcast": "R/2022-07-08T18:25:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "444159",
         "begin": "2022-07-08T18:25:00.000Z",
         "broadcast": "R/2022-07-08T18:25:00.000Z/P7D"
       },
@@ -755,7 +737,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B5PTRLSC",
+        "id": "B0FBKDC2HW",
         "begin": "",
         "broadcast": ""
       }
@@ -914,12 +896,6 @@
         "broadcast": "R/2022-07-11T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "189-41",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0069671",
         "begin": "2022-07-11T15:00:00.000Z",
@@ -968,22 +944,10 @@
         "id": "366793"
       },
       {
-        "site": "gamer",
-        "id": "122565",
-        "begin": "2022-07-08T16:30:00.000Z",
-        "broadcast": "R/2022-07-08T16:30:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "primadoll",
         "begin": "2022-07-08T16:00:00.000Z",
         "broadcast": "R/2022-07-08T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "11-45",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -1054,12 +1018,6 @@
         "id": "80193163",
         "begin": "2022-10-30T00:00:00.000Z",
         "broadcast": "R/2022-10-30T00:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "madeinabyssthegoldencityofthescorchingsun_135904",
-        "begin": "2022-07-06T14:30:00.000Z",
-        "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1406,6 +1364,12 @@
       {
         "site": "abema",
         "id": "19-177",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0F4D74SZ2",
         "begin": "",
         "broadcast": ""
       }
@@ -1778,13 +1742,6 @@
         "broadcast": "R/2022-07-02T16:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "443203",
-        "begin": "2022-07-02T16:00:00.000Z",
-        "broadcast": "R/2022-07-02T16:00:00.000Z/P7D",
-        "comment": "粵語版: 460975"
-      },
-      {
         "site": "bilibili",
         "id": "28338645",
         "begin": "2022-09-03T16:00:01.000Z",
@@ -1852,12 +1809,6 @@
         "begin": "2022-08-06T16:00:00.000Z",
         "broadcast": "R/2022-08-06T16:00:00.000Z/P7D",
         "comment": "因應代理商授權限制，延後至 08/07 播出"
-      },
-      {
-        "site": "viu",
-        "id": "443940",
-        "begin": "2022-07-05T16:00:00.000Z",
-        "broadcast": "R/2022-07-05T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1953,12 +1904,6 @@
         "broadcast": "R/2022-07-05T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-171",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0066876",
         "begin": "2022-07-05T03:00:00.000Z",
@@ -1973,12 +1918,6 @@
         "id": "62c125b92fc3ee0d0016bf70"
       },
       {
-        "site": "netflix",
-        "id": "81620000",
-        "begin": "2024-11-18T00:00:00.000Z",
-        "broadcast": "R/2024-11-18T00:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "2754"
       },
@@ -1987,6 +1926,18 @@
         "id": "25620",
         "begin": "2022-07-05T03:00:00.000Z",
         "broadcast": "R/2022-07-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DQ5YM7FG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81620000",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2026,12 +1977,6 @@
         "id": "PLxSscENEp7JjqetlKeUq9vjhLa8yg4vBx",
         "begin": "2022-07-05T14:00:00.000Z",
         "broadcast": "R/2022-07-05T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "443773",
-        "begin": "2022-07-04T16:00:00.000Z",
-        "broadcast": "R/2022-07-04T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -2249,12 +2194,6 @@
         "id": "62c125a82fc3ee0d0016bf38"
       },
       {
-        "site": "mytv",
-        "id": "orients20001_141232",
-        "begin": "2024-07-05T02:00:00.000Z",
-        "broadcast": "R/2024-07-05T02:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "orient-anime2",
         "begin": "",
@@ -2456,6 +2395,12 @@
         "id": "27455",
         "begin": "2024-11-05T15:00:00.000Z",
         "broadcast": "R/2024-11-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F5FB85QM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2492,12 +2437,6 @@
         "id": "28338720",
         "begin": "2022-07-22T02:29:00.000Z",
         "broadcast": "R/2022-07-22T02:29:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "445552",
-        "begin": "2022-07-20T16:00:00.000Z",
-        "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -3013,12 +2952,6 @@
       {
         "site": "bangumi",
         "id": "342673"
-      },
-      {
-        "site": "gamer",
-        "id": "125321",
-        "begin": "2022-07-03T16:05:00.000Z",
-        "broadcast": "R/2022-07-03T16:05:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -3554,13 +3487,6 @@
         "id": "PLC18xlbCdwtSllszc6cnbB_Ceo4f2QJML",
         "begin": "2022-10-10T16:00:00.000Z",
         "broadcast": "R/2022-10-10T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "6KduKx72wfWS",
-        "url": "https://www.disneyplus.com/movies/dr-stone-ryusui/6KduKx72wfWS",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer",

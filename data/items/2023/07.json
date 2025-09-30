@@ -263,8 +263,8 @@
       {
         "site": "bilibili",
         "id": "20332046",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-09-15T03:00:00.000Z",
+        "broadcast": "R/2024-09-15T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -671,6 +671,18 @@
         "id": "26426",
         "begin": "2023-07-05T13:00:00.000Z",
         "broadcast": "R/2023-07-05T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FC5X1X3J",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "2EPqLHjC056n",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1976,12 +1988,6 @@
       {
         "site": "mikan",
         "id": "3080"
-      },
-      {
-        "site": "danime",
-        "id": "26448",
-        "begin": "2023-07-03T13:00:00.000Z",
-        "broadcast": "R/2023-07-03T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -2262,6 +2268,12 @@
         "id": "26488",
         "begin": "2023-07-04T15:00:00.000Z",
         "broadcast": "R/2023-07-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0C9PB3SKX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2616,12 +2628,6 @@
         "id": "lastame",
         "begin": "2023-07-13T03:00:00.000Z",
         "broadcast": "R/2023-07-13T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "593-3",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3605,8 +3611,8 @@
       {
         "site": "bilibili",
         "id": "23390835",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-16T02:00:00.000Z",
+        "broadcast": "R/2024-11-16T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -3691,6 +3697,12 @@
         "id": "SID0184102",
         "begin": "2025-04-25T03:00:00.000Z",
         "broadcast": "R/2025-04-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F611HYS4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

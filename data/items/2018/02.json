@@ -196,13 +196,6 @@
         "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "OQ3OkN24meQu",
-        "url": "https://www.disneyplus.com/movies/code-geass-lelouch-of-the-rebellion-ii-transgression/OQ3OkN24meQu",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "1577"
       },
@@ -217,6 +210,13 @@
         "id": "22603",
         "begin": "2024-12-25T15:00:00.000Z",
         "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "OQ3OkN24meQu",
+        "url": "https://www.disneyplus.com/movies/code-geass-lelouch-of-the-rebellion-ii-transgression/OQ3OkN24meQu",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -245,12 +245,6 @@
       {
         "site": "bangumi",
         "id": "218971"
-      },
-      {
-        "site": "gamer",
-        "id": "90088",
-        "begin": "2020-05-01T09:00:00.000Z",
-        "broadcast": "R/2020-05-01T09:00:00.000Z/P7D"
       },
       {
         "site": "unext",

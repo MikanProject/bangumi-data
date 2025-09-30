@@ -104,6 +104,9 @@
         "轻音少女 第二季",
         "轻音!!",
         "轻音 第2季"
+      ],
+      "zh-Hant": [
+        "K-ON！！輕音部"
       ]
     },
     "type": "tv",
@@ -149,6 +152,12 @@
         "id": "20329",
         "begin": "2017-05-05T01:00:00.000Z",
         "broadcast": "R/2017-05-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "34713",
+        "begin": "2025-05-31T16:00:00.000Z",
+        "broadcast": "R/2025-05-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -532,12 +541,6 @@
         "broadcast": "R/2019-03-14T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-12wggi-emdez",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "20333",
         "begin": "2015-09-16T06:05:00.000Z",
@@ -694,12 +697,6 @@
       {
         "site": "bangumi",
         "id": "4284"
-      },
-      {
-        "site": "abema",
-        "id": "115-44",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -1151,7 +1148,8 @@
     "title": "クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁",
     "titleTranslate": {
       "zh-Hans": [
-        "蜡笔小新 超时空！呼风唤雨的我的新娘"
+        "蜡笔小新 超时空！呼风唤雨的我的新娘",
+        "蜡笔小新：我的超时空新娘"
       ],
       "zh-Hant": [
         "蠟筆小新：我的超時空新娘"
@@ -1205,6 +1203,12 @@
         "id": "33428",
         "begin": "2024-02-01T04:00:00.000Z",
         "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242793",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1261,6 +1265,19 @@
       {
         "site": "netflix",
         "id": "81757579",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B06Y2B762P",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "15Y6uzyGCn1z",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-lost-ship-in-the-sky/15Y6uzyGCn1z",
         "begin": "",
         "broadcast": ""
       }
@@ -1377,12 +1394,6 @@
         "id": "3005",
         "begin": "2015-11-14T12:12:00.000Z",
         "broadcast": "R/2015-11-14T12:12:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0104928",
-        "begin": "2024-07-08T03:00:00.000Z",
-        "broadcast": "R/2024-07-08T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",

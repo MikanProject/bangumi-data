@@ -125,7 +125,12 @@
     "title": "ふしぎ遊戯",
     "titleTranslate": {
       "zh-Hans": [
-        "不可思议的游戏"
+        "不思议游戏",
+        "不可思议的游戏",
+        "魔幻游戏"
+      ],
+      "zh-Hant": [
+        "夢幻遊戲"
       ]
     },
     "type": "tv",
@@ -142,6 +147,18 @@
       {
         "site": "bangumi",
         "id": "4507"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "15961",
+        "begin": "2025-08-07T16:00:00.000Z",
+        "broadcast": "R/2025-08-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23CZVkx9OCarRtb6fVsG9xZV",
+        "begin": "2025-08-08T12:30:06.000Z",
+        "broadcast": "R/2025-08-08T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -180,16 +197,16 @@
         "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "13-98",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0DJ74FPH2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22234",
+        "begin": "2025-07-24T15:00:00.000Z",
+        "broadcast": "R/2025-07-24T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -341,12 +358,6 @@
         "site": "nicovideo",
         "id": "bonobono",
         "begin": "2014-07-24T06:00:00.000Z"
-      },
-      {
-        "site": "unext",
-        "id": "SID0044423",
-        "begin": "2019-11-30T03:00:00.000Z",
-        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",

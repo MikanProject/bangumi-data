@@ -17,6 +17,18 @@
       {
         "site": "bangumi",
         "id": "536694"
+      },
+      {
+        "site": "unext",
+        "id": "SID0228345",
+        "begin": "2025-08-31T15:00:00.000Z",
+        "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28184",
+        "begin": "2025-08-30T15:00:00.000Z",
+        "broadcast": "R/2025-08-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -30,7 +42,8 @@
         "鬼人幻燈抄"
       ],
       "en": [
-        "Sword of the Demon Hunter"
+        "Sword of the Demon Hunter",
+        "Sword of the Demon Hunter: Kijin Gentosho"
       ]
     },
     "type": "tv",
@@ -110,6 +123,12 @@
       {
         "site": "dmhy",
         "id": "鬼人"
+      },
+      {
+        "site": "netflix",
+        "id": "82040391",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -192,6 +211,161 @@
         "id": "137495",
         "begin": "2025-04-18T16:00:00.000Z",
         "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第33シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第33季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/nintama/",
+    "begin": "2025-03-30T16:00:00.000Z",
+    "broadcast": "R/2025-03-30T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "541423"
+      },
+      {
+        "site": "unext",
+        "id": "SID0197203",
+        "begin": "2025-06-27T03:00:00.000Z",
+        "broadcast": "R/2025-06-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27997",
+        "begin": "2025-06-05T15:00:00.000Z",
+        "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "怪獣8号 保科の休日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽8号 保科的假期"
+      ],
+      "zh-Hant": [
+        "怪獸8號 保科特休日",
+        "怪獸8號 保科放大假"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kaiju-no8.net/",
+    "begin": "2025-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "507122"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140244",
+        "begin": "2025-07-05T15:00:00.000Z",
+        "broadcast": "R/2025-07-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRBg1e_l8hZxxGPIT9V-jcL",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjBFTyOmpLiobwouSY2fCJM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "26648621",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28123",
+        "begin": "2025-07-05T14:30:00.000Z",
+        "broadcast": "R/2025-07-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F62XC8CF",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の絵世界物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的绘画奇遇记",
+        "哆啦A梦：大雄的绘世界物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2025/",
+    "begin": "2025-03-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-06T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515422"
+      },
+      {
+        "site": "mikan",
+        "id": "3653"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 モノノ怪 火鼠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 火鼠",
+        "剧场版 物怪 第二章",
+        "剧场版 物怪 第二章 火鼠"
+      ],
+      "zh-Hant": [
+        "劇場版物怪：第 2 章：火鼠"
+      ],
+      "en": [
+        "Mononoke The Movie: Chapter II - The Ashes of Rage"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2025-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505488"
+      },
+      {
+        "site": "netflix",
+        "id": "81580575",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

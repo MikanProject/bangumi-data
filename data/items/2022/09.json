@@ -340,12 +340,6 @@
         "id": "396487"
       },
       {
-        "site": "abema",
-        "id": "169-122",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0085854",
         "begin": "2023-04-21T03:00:00.000Z",
@@ -396,6 +390,10 @@
       {
         "site": "bangumi_moe",
         "id": "6352b9686b7b650007317bb7"
+      },
+      {
+        "site": "mikan",
+        "id": "2804"
       }
     ]
   },
@@ -433,8 +431,8 @@
       {
         "site": "bilibili",
         "id": "20139816",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-03-17T04:00:00.000Z",
+        "broadcast": "R/2023-03-17T04:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -580,12 +578,6 @@
         "id": "B0DJQY7DKY",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "mytv",
-        "id": "legendofthegalacticheroesdieneuetheseintrigue0001_142513",
-        "begin": "2025-01-15T02:00:00.000Z",
-        "broadcast": "R/2025-01-15T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -690,7 +682,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B7G4RNR2",
+        "id": "B0FMGLQM3L",
         "begin": "",
         "broadcast": ""
       }
@@ -770,6 +762,12 @@
         "id": "27027",
         "begin": "2024-03-31T15:00:00.000Z",
         "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "26358263",
+        "begin": "2025-06-16T02:00:00.000Z",
+        "broadcast": "R/2025-06-16T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -803,8 +801,8 @@
       {
         "site": "bilibili",
         "id": "21103333",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-29T02:00:00.000Z",
+        "broadcast": "R/2023-10-29T02:00:00.000Z/P7D"
       },
       {
         "site": "mikan",

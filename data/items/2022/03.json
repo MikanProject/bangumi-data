@@ -327,12 +327,6 @@
         "id": "27203",
         "begin": "2024-07-07T03:00:00.000Z",
         "broadcast": "R/2024-07-07T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "legendofthegalacticheroesdieneuethesecollision0002_142512",
-        "begin": "2025-01-15T02:00:00.000Z",
-        "broadcast": "R/2025-01-15T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -407,8 +401,8 @@
       {
         "site": "bilibili",
         "id": "28237281",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-02T04:00:00.000Z",
+        "broadcast": "R/2023-07-02T04:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -425,6 +419,12 @@
         "id": "27452",
         "begin": "2024-10-29T15:00:00.000Z",
         "broadcast": "R/2024-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0BX1RQKGK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -573,8 +573,8 @@
       {
         "site": "bilibili",
         "id": "25038104",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-27T10:00:01.000Z",
+        "broadcast": "R/2025-01-27T10:00:01.000Z/P7D"
       }
     ]
   },
