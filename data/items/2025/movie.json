@@ -420,6 +420,27 @@
     ]
   },
   {
+    "title": "映画 先輩はおとこのこ あめのち晴れ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 前辈是男孩子 雨过天晴"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://senpaiha-otokonoko.com/",
+    "begin": "2025-02-14T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-08-27T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515392"
+      }
+    ]
+  },
+  {
     "title": "映画ドラえもん のび太の絵世界物語",
     "titleTranslate": {
       "zh-Hans": [
@@ -437,6 +458,27 @@
       {
         "site": "bangumi",
         "id": "515422"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 モノノ怪 火鼠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 火鼠"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2025-03-14T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-09-10T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505488"
       }
     ]
   },
@@ -479,6 +521,90 @@
       {
         "site": "bangumi",
         "id": "505776"
+      }
+    ]
+  },
+  {
+    "title": "ChaO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ChaO"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://chao-movie.com/",
+    "begin": "2025-08-15T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-11-07T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "533246"
+      }
+    ]
+  },
+  {
+    "title": "劇場アニメ ベルサイユのばら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场动画 凡尔赛玫瑰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://verbara-movie.jp/",
+    "begin": "2025-01-31T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-11-26T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "400216"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 隻眼の残像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 独眼的残像"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/2025/",
+    "begin": "2025-04-18T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-11-26T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "489499"
+      }
+    ]
+  },
+  {
+    "title": "無名の人生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无名的人生"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mumei-no-jinsei.jp",
+    "begin": "2025-05-16T00:00:00Z",
+    "end": "",
+    "bdReleaseDate": "2025-12-10T00:00:00Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "540411"
       }
     ]
   }
