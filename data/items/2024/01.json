@@ -444,6 +444,12 @@
         "id": "27749",
         "begin": "2025-03-28T15:00:00.000Z",
         "broadcast": "R/2025-03-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FHQT41Q3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -614,9 +620,10 @@
       },
       {
         "site": "danime",
-        "id": "26814",
+        "id": "28240",
         "begin": "2024-01-09T13:00:00.000Z",
-        "broadcast": "R/2024-01-09T13:00:00.000Z/P7D"
+        "broadcast": "R/2024-01-09T13:00:00.000Z/P7D",
+        "comment": "丸見えバージョン, 通常版: 26814"
       },
       {
         "site": "prime",
@@ -796,8 +803,8 @@
       {
         "site": "mytv",
         "id": "thefoolishangeldanceswiththedevil0001_143274",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-06-15T02:00:00.000Z",
+        "broadcast": "R/2025-06-15T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -849,12 +856,6 @@
         "id": "PLuxqoToY7Uchnb-yxolTDbTWsnZyhn42k",
         "begin": "2024-01-04T16:30:09.000Z",
         "broadcast": "R/2024-01-04T16:30:09.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "593-4",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -945,12 +946,6 @@
         "id": "134321",
         "begin": "2024-01-05T12:30:00.000Z",
         "broadcast": "R/2024-01-05T12:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-254",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -1306,6 +1301,9 @@
       ],
       "zh-Hant": [
         "碰之道"
+      ],
+      "en": [
+        "Pon no Michi"
       ]
     },
     "type": "tv",
@@ -1339,12 +1337,6 @@
         "broadcast": "R/2024-01-05T17:53:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "194-38",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "132685",
         "begin": "2024-01-05T17:53:00.000Z",
@@ -1373,6 +1365,12 @@
         "id": "B0CKC3S629",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "ponnomichi_144421",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -1488,6 +1486,9 @@
       ],
       "zh-Hant": [
         "王者天下 第五季"
+      ],
+      "en": [
+        "Kingdom Season 5"
       ]
     },
     "type": "tv",
@@ -1539,6 +1540,12 @@
         "id": "B0CNQK4SHC",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "1DBCGH2ZW2Wn",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1584,12 +1591,6 @@
         "id": "129285",
         "begin": "2024-01-06T17:00:00.000Z",
         "broadcast": "R/2024-01-06T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-216",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -2811,12 +2812,6 @@
         "broadcast": "R/2024-01-12T14:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "248-17",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "128539",
         "begin": "2024-01-12T14:30:00.000Z",
@@ -3341,12 +3336,6 @@
         "broadcast": "R/2024-01-12T23:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "283-24",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3243"
       },
@@ -3512,12 +3501,6 @@
         "broadcast": "R/2024-01-10T13:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-251",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "130648",
         "begin": "2024-01-10T13:30:00.000Z",
@@ -3655,12 +3638,6 @@
         "id": "81564899",
         "begin": "2024-01-03T16:00:00.000Z",
         "broadcast": "R/2024-01-03T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-253",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -4041,12 +4018,6 @@
         "broadcast": "R/2024-01-09T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "15-31",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "659142b0b885a81efda115fe"
       },
@@ -4267,12 +4238,6 @@
         "id": "B0F1J9DNKM",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0100687",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4313,8 +4278,8 @@
       {
         "site": "gamer",
         "id": "131122",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-25T04:00:00.000Z",
+        "broadcast": "R/2025-07-25T04:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4392,6 +4357,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "电影 GIVEN 柊mix"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版：柊 mix"
       ]
     },
     "type": "movie",
@@ -4427,6 +4395,12 @@
         "id": "B0D9SRN21L",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "131119",
+        "begin": "2025-08-06T04:00:00.000Z",
+        "broadcast": "R/2025-08-06T04:00:00.000Z/P7D"
       }
     ]
   },

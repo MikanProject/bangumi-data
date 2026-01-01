@@ -48,6 +48,18 @@
       {
         "site": "bangumi",
         "id": "26017"
+      },
+      {
+        "site": "danime",
+        "id": "28373",
+        "begin": "2025-10-30T15:00:00.000Z",
+        "broadcast": "R/2025-10-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0240447",
+        "begin": "2025-10-30T15:00:00.000Z",
+        "broadcast": "R/2025-10-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -124,7 +136,13 @@
       },
       {
         "site": "prime",
-        "id": "B099WKGP9X",
+        "id": "B0FSQ3XTS8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "168-49",
         "begin": "",
         "broadcast": ""
       }

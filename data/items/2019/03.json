@@ -20,7 +20,14 @@
   },
   {
     "title": "Cannon Busters",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "大炮破坏者"
+      ],
+      "zh-Hant": [
+        "火炮剋星"
+      ]
+    },
     "type": "web",
     "lang": "ja",
     "officialSite": "http://www.cannonbusters.com/",
@@ -36,6 +43,12 @@
         "id": "22020937",
         "begin": "2019-08-29T04:00:00.000Z",
         "broadcast": "R/2019-08-29T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80195357",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -342,6 +355,12 @@
         "哆啦A梦：大雄的月球探险记",
         "哆啦A梦：大雄的月球探测记",
         "哆啦A梦 野比的月面探査记"
+      ],
+      "zh-Hant": [
+        "電影哆啦A夢: 大雄的月球探測記"
+      ],
+      "en": [
+        "Doraemon the Movie: Nobita's Chronicle of the Moon Exploration"
       ]
     },
     "type": "movie",

@@ -229,12 +229,6 @@
         "broadcast": "R/2019-06-04T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-153",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B07R3W3FD9",
         "begin": "",
@@ -380,6 +374,36 @@
         "id": "B097QV6R14",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ソロモン 叡智の魔術王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "所罗门 睿智的魔术王"
+      ],
+      "zh-Hant": [
+        "所羅門　睿智魔術王"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2018-12-30T16:00:00.000Z",
+    "broadcast": "R/2018-12-30T16:00:00.000Z/P7D",
+    "end": "2019-04-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270505"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+        "begin": "2018-12-30T16:00:00.000Z",
+        "broadcast": "R/2018-12-30T16:00:00.000Z/P7D"
       }
     ]
   }

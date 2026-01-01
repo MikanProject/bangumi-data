@@ -140,7 +140,7 @@
     "officialSite": "https://silentwitch.net/",
     "begin": "2025-07-04T15:00:00.000Z",
     "broadcast": "R/2025-07-04T15:00:00.000Z/P7D",
-    "end": "2025-09-26T15:00:00.000Z",
+    "end": "2025-10-04T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -676,7 +676,8 @@
         "site": "bilibili",
         "id": "26599373",
         "begin": "2025-07-03T16:00:01.000Z",
-        "broadcast": "R/2025-07-03T16:00:01.000Z/P7D"
+        "broadcast": "R/2025-07-03T16:00:01.000Z/P7D",
+        "comment": "中配版: 27652141"
       },
       {
         "site": "nicovideo",
@@ -701,6 +702,12 @@
         "id": "143021",
         "begin": "2025-07-03T16:00:00.000Z",
         "broadcast": "R/2025-07-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpvuYAayNn8CCmrKjjMMrSK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -920,8 +927,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqbmv2YpVr8gHkKjCB7JxoG",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-09T15:30:06.000Z",
+        "broadcast": "R/2025-07-09T15:30:06.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1031,6 +1038,18 @@
         "id": "B0FBJ1DVKV",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yofukashi-no-uta2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0237741",
+        "begin": "2025-10-04T15:00:00.000Z",
+        "broadcast": "R/2025-10-04T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1268,7 +1287,8 @@
         "site": "ani_one",
         "id": "PLC18xlbCdwtRBg1e_l8hZxxGPIT9V-jcL",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "粵語: PLC18xlbCdwtRcbK3pibnul-yjKhHz-rP2"
       },
       {
         "site": "ani_one_asia",
@@ -1634,8 +1654,8 @@
       {
         "site": "gamer",
         "id": "139237",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-11T15:30:00.000Z",
+        "broadcast": "R/2025-07-11T15:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1813,6 +1833,12 @@
         "id": "PLxSscENEp7JjJXnFpYs7h4bERNq1zV3zZ",
         "begin": "2025-07-05T14:30:06.000Z",
         "broadcast": "R/2025-07-05T14:30:06.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82082002",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1821,6 +1847,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "死灵之子的宇宙恐怖秀"
+      ],
+      "zh-Hant": [
+        "涅庫羅諾美子的宇宙恐怖秀"
       ]
     },
     "type": "tv",
@@ -1872,6 +1901,12 @@
         "id": "B0FBGJB57H",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "142826",
+        "begin": "2025-08-12T15:00:00.000Z",
+        "broadcast": "R/2025-08-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1954,7 +1989,8 @@
     "title": "ガチアクタ",
     "titleTranslate": {
       "zh-Hans": [
-        "废渊战鬼"
+        "废渊战鬼",
+        "咔嗒咔嗒"
       ],
       "zh-Hant": [
         "Gachiakuta",
@@ -2068,6 +2104,12 @@
       {
         "site": "mikan",
         "id": "3681"
+      },
+      {
+        "site": "bilibili",
+        "id": "26649570",
+        "begin": "2025-08-10T15:00:00.000Z",
+        "broadcast": "R/2025-08-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2148,7 +2190,8 @@
         "邂逅雨中貉"
       ],
       "zh-Hant": [
-        "和雨．和你"
+        "和雨．和你",
+        "和雨·和你"
       ],
       "en": [
         "With You and the Rain"
@@ -2231,6 +2274,12 @@
       {
         "site": "disneyplus",
         "id": "6P6BAPoeul4N",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82081832",
         "begin": "",
         "broadcast": ""
       }
@@ -2819,6 +2868,24 @@
         "id": "2642482",
         "begin": "2025-07-05T14:00:11.000Z",
         "broadcast": "R/2025-07-05T14:00:11.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237747",
+        "begin": "2025-10-05T14:00:00.000Z",
+        "broadcast": "R/2025-10-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28246",
+        "begin": "2025-10-05T14:00:00.000Z",
+        "broadcast": "R/2025-10-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FFGRYKGX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3344,6 +3411,12 @@
         "id": "B0FC2M1W3G",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82081873",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3572,6 +3645,12 @@
       {
         "site": "abema",
         "id": "204-18",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0F7R6QTH5",
         "begin": "",
         "broadcast": ""
       }
@@ -3867,8 +3946,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfq4iWmVsmoJ5Ij2tplvUf20",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-09-28T13:30:06.000Z",
+        "broadcast": "R/2025-09-28T13:30:06.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -4128,7 +4207,7 @@
     "officialSite": "https://anime.cf-vanguard.com/vgd/",
     "begin": "2025-07-04T23:00:00.000Z",
     "broadcast": "R/2025-07-04T23:00:00.000Z/P7D",
-    "end": "2025-07-04T23:00:00.000Z",
+    "end": "2025-10-03T23:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4471,6 +4550,12 @@
         "id": "B0F83VB5P5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "rSS7KNizfXDr",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4768,6 +4853,9 @@
       "zh-Hans": [
         "地狱老师"
       ],
+      "zh-Hant": [
+        "靈異教師神眉"
+      ],
       "en": [
         "Hell Teacher: Jigoku Sensei Nube"
       ]
@@ -4815,6 +4903,18 @@
       {
         "site": "prime",
         "id": "B0F9LQ1QTD",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "140516",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82088677",
         "begin": "",
         "broadcast": ""
       }
@@ -4964,7 +5064,7 @@
     "officialSite": "https://milkygalacticuniverse.com/",
     "begin": "2025-07-02T12:54:00.000Z",
     "broadcast": "R/2025-07-02T12:54:00.000Z/P7D",
-    "end": "2025-09-18T12:54:00.000Z",
+    "end": "2025-09-17T12:54:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5015,7 +5115,7 @@
     "officialSite": "https://cryptoninja-sakuya.xyz/",
     "begin": "2025-07-07T12:54:00.000Z",
     "broadcast": "R/2025-07-07T12:54:00.000Z/P7D",
-    "end": "2025-07-07T12:54:00.000Z",
+    "end": "2025-09-29T12:54:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5232,7 +5332,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai15/",
     "begin": "2025-07-12T17:50:00.000Z",
     "broadcast": "R/2025-07-12T17:50:00.000Z/P7D",
-    "end": "2025-09-28T17:50:00.000Z",
+    "end": "2025-10-04T17:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5289,7 +5389,11 @@
   },
   {
     "title": "ネコのクラちゃん ～Ordinary days～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "九藏喵窝 日常篇"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://nekonokurachan-ordinarydays.jp",
@@ -5307,6 +5411,72 @@
         "id": "28168",
         "begin": "2025-07-23T11:30:00.000Z",
         "broadcast": "R/2025-07-23T11:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "週刊ラノべアニメ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://lightnovel-anime.com/",
+    "begin": "2025-07-12T17:00:00.000Z",
+    "broadcast": "R/2025-07-12T17:00:00.000Z/P7D",
+    "end": "2025-09-27T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "564314"
+      },
+      {
+        "site": "danime",
+        "id": "28234",
+        "begin": "2025-09-27T18:50:00.000Z",
+        "broadcast": "R/2025-09-27T18:50:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lightnovel-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0FR998Y9F",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0236761",
+        "begin": "2025-09-29T18:50:00.000Z",
+        "broadcast": "R/2025-09-29T18:50:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "罗小黑战记2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "罗小黑战记2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://luoxiaohei-movie.com/2nd/",
+    "begin": "2025-07-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-07-17T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442114"
+      },
+      {
+        "site": "mikan",
+        "id": "3803"
       }
     ]
   }

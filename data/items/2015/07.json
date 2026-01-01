@@ -402,12 +402,6 @@
     "end": "2015-10-15T15:05:00.000Z",
     "sites": [
       {
-        "site": "bilibili",
-        "id": "2581",
-        "begin": "2015-07-04T04:00:00.000Z",
-        "broadcast": "R/2015-07-09T04:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi",
         "id": "120369"
       },
@@ -649,6 +643,12 @@
         "begin": "",
         "broadcast": "",
         "comment": "國語: PL12UaAf_xzfrd7q41-NoWIng4vyGp5v9f"
+      },
+      {
+        "site": "abema",
+        "id": "149-3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1659,12 +1659,6 @@
       {
         "site": "dmhy",
         "id": "珠+超"
-      },
-      {
-        "site": "abema",
-        "id": "5-30",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -3646,12 +3640,6 @@
       {
         "site": "bangumi",
         "id": "119795"
-      },
-      {
-        "site": "bilibili",
-        "id": "102172",
-        "begin": "2015-07-10T16:00:00.000Z",
-        "broadcast": "R/2018-06-17T00:08:00.000Z/P7D"
       },
       {
         "site": "unext",

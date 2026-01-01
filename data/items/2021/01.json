@@ -368,13 +368,6 @@
         "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "yurucampii_136999",
-        "begin": "2022-11-12T08:30:00.000Z",
-        "broadcast": "R/2022-11-12T08:30:00.000Z/P7D",
-        "comment": "yurucampii0001_141397"
-      },
-      {
         "site": "gamer",
         "id": "101856",
         "begin": "2021-01-07T15:00:00.000Z",
@@ -595,6 +588,12 @@
         "id": "24414",
         "begin": "2025-01-31T15:00:00.000Z",
         "broadcast": "R/2025-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTyT-WuunU--JBkZC-6o5vV",
+        "begin": "2025-09-08T12:00:06.000Z",
+        "broadcast": "R/2025-09-08T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -1335,7 +1334,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FKZZ5LPN",
+        "id": "B0FNLQF61S",
         "begin": "",
         "broadcast": ""
       }
@@ -1575,12 +1574,6 @@
         "id": "28233458",
         "begin": "2021-01-09T17:00:00.000Z",
         "broadcast": "R/2021-01-09T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-201",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3000,6 +2993,12 @@
         "begin": "2021-01-13T15:00:00.000Z",
         "broadcast": "R/2021-01-13T15:00:00.000Z/P7D",
         "comment": "やり直しver.: 24439"
+      },
+      {
+        "site": "abema",
+        "id": "25-257",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3878,12 +3877,6 @@
         "id": "317693"
       },
       {
-        "site": "bilibili",
-        "id": "28232335",
-        "begin": "2021-04-29T16:00:01.000Z",
-        "broadcast": "R/2021-04-29T16:00:01.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81043571",
         "begin": "2021-02-24T16:00:00.000Z",
@@ -4182,6 +4175,12 @@
         "id": "25168",
         "begin": "2021-12-03T01:00:00.000Z",
         "broadcast": "R/2021-12-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FQ363R95",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4344,6 +4343,46 @@
         "id": "24539",
         "begin": "2021-04-02T08:00:00.000Z",
         "broadcast": "R/2021-04-02T08:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀魂 THE SEMI-FINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂 THE SEMI-FINAL",
+        "銀魂 THE SEMI FINAL"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-01-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-01-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309002"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-semifinal",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28344",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0238690",
+        "begin": "2025-10-07T15:00:00.000Z",
+        "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
       }
     ]
   }

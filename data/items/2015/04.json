@@ -747,12 +747,6 @@
         "broadcast": "R/2017-04-19T08:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "4SmyP0TNItuI",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0012722",
         "begin": "2015-04-05T03:00:00.000Z",
@@ -796,7 +790,7 @@
       },
       {
         "site": "prime",
-        "id": "B073CHYG97",
+        "id": "B073CKF269",
         "begin": "",
         "broadcast": ""
       }
@@ -901,8 +895,8 @@
       {
         "site": "gamer",
         "id": "73638",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -2554,12 +2548,6 @@
         "broadcast": "R/2024-07-19T03:15:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "73860",
-        "begin": "2024-07-19T03:15:00.000Z",
-        "broadcast": "R/2024-07-19T03:15:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "20107",
         "begin": "2015-04-10T03:00:00.000Z",
@@ -2981,12 +2969,6 @@
         "id": "SID0013567",
         "begin": "2017-02-16T03:00:00.000Z",
         "broadcast": "R/2017-02-16T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "74323",
-        "begin": "2024-06-03T01:40:00.000Z",
-        "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3523,12 +3505,6 @@
         "id": "551035b71fe5c31a190a06c6"
       },
       {
-        "site": "abema",
-        "id": "184-152",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B015VQZWLE",
         "begin": "",
@@ -3594,21 +3570,8 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0028988",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
-      },
-      {
         "site": "prime",
         "id": "B06Y1LQ3Q5",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "disneyplus",
-        "id": "QEoxrtgEHQBK",
-        "url": "https://www.disneyplus.com/movies/detective-conan-sunflowers-of-inferno/QEoxrtgEHQBK",
         "begin": "",
         "broadcast": ""
       }
@@ -3850,6 +3813,12 @@
         "id": "80242795",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "72915",
+        "begin": "2025-08-13T04:00:00.000Z",
+        "broadcast": "R/2025-08-13T04:00:00.000Z/P7D"
       }
     ]
   },

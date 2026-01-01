@@ -330,6 +330,12 @@
         "id": "27646",
         "begin": "2024-12-31T15:00:00.000Z",
         "broadcast": "R/2024-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CJ5QLG9R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -568,8 +574,9 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpv_EIuCk3K-WwFSDdYvJiE",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-13T08:30:06.000Z",
+        "broadcast": "R/2024-10-13T08:30:06.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfoJfYq0L6--IVJob7ji8qb4"
       },
       {
         "site": "prime",
@@ -647,8 +654,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrAfnXImGF4TCiF5s0p_FRq",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-02-25T09:30:09.000Z",
+        "broadcast": "R/2024-02-25T09:30:09.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1070,6 +1077,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "铁路浪漫谭 第二季"
+      ],
+      "zh-Hant": [
+        "鐵道浪漫譚：第二季"
+      ],
+      "en": [
+        "Rail Romanesque 2"
       ]
     },
     "type": "tv",
@@ -1109,6 +1122,12 @@
         "id": "26782",
         "begin": "2023-12-28T16:05:00.000Z",
         "broadcast": "R/2023-12-28T16:05:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "railromanesque2_144409",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -1613,7 +1632,8 @@
         "家里蹲吸血姬的苦闷"
       ],
       "zh-Hant": [
-        "家裡蹲吸血姬的鬱悶"
+        "家裡蹲吸血姬的鬱悶",
+        "家裡蹲吸血姬的苦悶"
       ],
       "en": [
         "The Vexations of a Shut-In Vampire Princess"
@@ -1674,6 +1694,12 @@
         "id": "26600",
         "begin": "2023-10-10T15:00:00.000Z",
         "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "thevexationsofashutinvampireprincessmov_144416",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -1746,8 +1772,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrBTYxrhXL6TVvROBkpfQ7K",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-07T16:00:09.000Z",
+        "broadcast": "R/2023-10-07T16:00:09.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1931,12 +1957,6 @@
         "broadcast": "R/2023-10-13T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-175",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0093789",
         "begin": "2023-10-13T03:00:00.000Z",
@@ -2009,12 +2029,6 @@
         "id": "127829",
         "begin": "2023-10-02T16:00:00.000Z",
         "broadcast": "R/2023-10-02T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-61",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2473,8 +2487,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrZDSMb_GQfYJHoHsb9GpTD",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-06T13:30:10.000Z",
+        "broadcast": "R/2023-10-06T13:30:10.000Z/P7D"
       },
       {
         "site": "prime",
@@ -2838,6 +2852,12 @@
         "id": "643-2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26588",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3035,12 +3055,6 @@
         "id": "kamierabi",
         "begin": "2023-10-10T03:00:00.000Z",
         "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-172",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3937,14 +3951,14 @@
         "broadcast": "R/2023-10-07T16:30:00.000Z/P7D"
       },
       {
-        "site": "danime",
-        "id": "26615",
-        "begin": "2023-10-07T16:30:00.000Z",
-        "broadcast": "R/2023-10-07T16:30:00.000Z/P7D"
-      },
-      {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqWuCLEndYghppSJMWmZ5s9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "656-1",
         "begin": "",
         "broadcast": ""
       }
@@ -4101,7 +4115,8 @@
         "川越Boys Sing"
       ],
       "zh-Hant": [
-        "川越男子歌唱團"
+        "川越男子歌唱團",
+        "川越 Boys Sing"
       ],
       "en": [
         "Kawagoe Boys Sing"
@@ -4156,6 +4171,12 @@
         "id": "26638",
         "begin": "2023-10-09T14:30:00.000Z",
         "broadcast": "R/2023-10-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "kawagoeboyssing_144415",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -4395,8 +4416,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqkhJ5dHKSQUB-RYDgaIMtt",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-06T17:28:10.000Z",
+        "broadcast": "R/2023-10-06T17:28:10.000Z/P7D"
       }
     ]
   },
@@ -4568,13 +4589,6 @@
         "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "spyxfamilyseason2_139633",
-        "begin": "2023-10-07T15:00:00.000Z",
-        "broadcast": "R/2023-10-07T15:00:00.000Z/P7D",
-        "comment": "雙語版: spyxfamilyseason20001_139634"
-      },
-      {
         "site": "netflix",
         "id": "81511410",
         "begin": "2023-10-07T14:00:00.000Z",
@@ -4631,8 +4645,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpfxj4siikK9CW8idyJyZo2",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2025-04-04T14:00:06.000Z",
+        "broadcast": "R/2025-04-04T14:00:06.000Z/P7D",
         "comment": "國語: PL12UaAf_xzfoeo59g9dVavYwh__MDGQ-4"
       },
       {
@@ -4714,6 +4728,12 @@
         "id": "81281344",
         "begin": "2023-10-25T16:00:00.000Z",
         "broadcast": "R/2023-10-25T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28345549",
+        "begin": "2025-09-05T10:00:00.000Z",
+        "broadcast": "R/2025-09-05T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -4787,8 +4807,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpr5R-Q4Kshpozv9At50GFj",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2023-12-23T13:00:11.000Z",
+        "broadcast": "R/2023-12-23T13:00:11.000Z/P7D",
         "comment": "國語: PL12UaAf_xzfrI2ieUbpUUa5YSX-ONtpNf"
       },
       {
@@ -5207,6 +5227,12 @@
         "id": "132951",
         "begin": "2025-08-08T04:00:00.000Z",
         "broadcast": "R/2025-08-08T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "132951",
+        "begin": "2025-08-08T04:00:00.000Z",
+        "broadcast": "R/2025-08-08T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -5242,6 +5268,12 @@
         "id": "B0DGH3H8YR",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "youtube",
+        "id": "PLe-UftTUsMbk7fMwURgLZ6_kz71DGssQw",
+        "begin": "2023-10-04T16:00:00.000Z",
+        "broadcast": "R/2023-10-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -5295,6 +5327,74 @@
       {
         "site": "mikan",
         "id": "3213"
+      }
+    ]
+  },
+  {
+    "title": "アニメ すみっコぐらし そらいろのまいにち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "动画 角落小伙伴 天空色的每一天"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/",
+    "begin": "2023-10-25T16:00:00.000Z",
+    "broadcast": "R/2023-10-25T16:00:00.000Z/P7D",
+    "end": "2023-11-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "461311"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237877",
+        "begin": "2025-10-01T03:00:00.000Z",
+        "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぬいストーリー",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://pisostudio.com/nuistory/",
+    "begin": "2023-10-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "556309"
+      },
+      {
+        "site": "abema",
+        "id": "54-97",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0158302",
+        "begin": "2024-10-25T03:00:00.000Z",
+        "broadcast": "R/2024-10-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26553",
+        "begin": "2023-10-07T03:00:00.000Z",
+        "broadcast": "R/2023-10-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CGPJPMJD",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

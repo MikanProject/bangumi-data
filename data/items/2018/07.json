@@ -298,13 +298,6 @@
         "broadcast": "R/2019-03-15T09:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-5",
-        "begin": "",
-        "broadcast": "",
-        "comment": "～マジ魔王Ver～: 168-14"
-      },
-      {
         "site": "gamer_hk",
         "id": "95582",
         "begin": "2019-03-15T09:00:00.000Z",
@@ -509,9 +502,15 @@
       },
       {
         "site": "prime",
-        "id": "B0CM44YG8C",
+        "id": "B0FC5WZNXC",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR3KVPQER",
+        "begin": "2018-07-07T15:00:00.000Z",
+        "broadcast": "R/2018-07-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -907,6 +906,12 @@
       {
         "site": "mikan",
         "id": "1679"
+      },
+      {
+        "site": "danime",
+        "id": "28308",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2869,6 +2874,18 @@
       {
         "site": "bangumi_moe",
         "id": "5b38c4a2b3d4e8ef387d7ebd"
+      },
+      {
+        "site": "danime",
+        "id": "22247",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035793",
+        "begin": "2025-10-15T03:00:00.000Z",
+        "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3577,12 +3594,6 @@
         "id": "215231"
       },
       {
-        "site": "bilibili",
-        "id": "28230640",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "1882"
       },
@@ -3591,12 +3602,6 @@
         "id": "SID0039165",
         "begin": "2025-08-09T15:00:00.000Z",
         "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81004268",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -3636,7 +3641,7 @@
     "lang": "ja",
     "officialSite": "http://anime.monster-strike.com/",
     "begin": "2018-07-07T16:00:00.000Z",
-    "broadcast": "",
+    "broadcast": "R/2018-07-07T16:00:00.000Z/P7D",
     "end": "2018-12-28T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -3647,6 +3652,12 @@
       {
         "site": "mikan",
         "id": "1723"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+        "begin": "2018-07-07T16:00:00.000Z",
+        "broadcast": "R/2018-07-07T16:00:00.000Z/P7D"
       }
     ]
   },

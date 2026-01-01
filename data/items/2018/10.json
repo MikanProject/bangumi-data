@@ -505,13 +505,6 @@
         "begin": ""
       },
       {
-        "site": "viu",
-        "id": "108613",
-        "begin": "2018-10-01T16:00:00.000Z",
-        "broadcast": "R/2018-10-01T16:00:00.000Z/P7D",
-        "comment": "粵語版: 420234"
-      },
-      {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
         "begin": "2022-08-05T16:00:00.000Z",
@@ -1351,12 +1344,6 @@
         "broadcast": "R/2024-09-06T04:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "95242",
-        "begin": "2024-09-06T04:00:00.000Z",
-        "broadcast": "R/2024-09-06T04:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "22423",
         "begin": "2018-10-12T03:00:00.000Z",
@@ -1606,12 +1593,6 @@
         "id": "SID0037484",
         "begin": "2018-10-12T03:00:00.000Z",
         "broadcast": "R/2018-10-12T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "99842",
-        "begin": "2019-02-23T09:00:00.000Z",
-        "broadcast": "R/2019-02-23T09:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2102,12 +2083,6 @@
       {
         "site": "mikan",
         "id": "1784"
-      },
-      {
-        "site": "abema",
-        "id": "171-1",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -2781,12 +2756,6 @@
         "id": "SID0037478",
         "begin": "2018-10-05T03:00:00.000Z",
         "broadcast": "R/2018-10-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "98172",
-        "begin": "2019-01-10T12:30:00.000Z",
-        "broadcast": "R/2019-01-10T12:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -3597,6 +3566,12 @@
         "id": "24257",
         "begin": "2020-09-19T01:00:00.000Z",
         "broadcast": "R/2020-09-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "759-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4197,6 +4172,64 @@
         "id": "25750",
         "begin": "2022-08-17T01:00:00.000Z",
         "broadcast": "R/2022-08-17T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙の法 黎明編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙之法 黎明篇",
+        "宇宙之法"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-10-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-10-11T17:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "264127"
+      },
+      {
+        "site": "prime",
+        "id": "B07NHY9HWM",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "アーサー 復活の騎士王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "复活的骑士王"
+      ],
+      "zh-Hant": [
+        "復活的騎士王"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2018-10-05T16:00:00.000Z",
+    "broadcast": "R/2018-10-05T16:00:00.000Z/P7D",
+    "end": "2018-11-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262889"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+        "begin": "2018-10-05T16:00:00.000Z",
+        "broadcast": "R/2018-10-05T16:00:00.000Z/P7D"
       }
     ]
   }

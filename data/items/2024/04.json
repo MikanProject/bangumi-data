@@ -392,12 +392,6 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0100094",
-        "begin": "2024-04-07T08:00:00.000Z",
-        "broadcast": "R/2024-04-07T08:00:00.000Z/P7D"
-      },
-      {
         "site": "disneyplus",
         "id": "2VX5fKgeiVEl",
         "begin": "",
@@ -1969,6 +1963,12 @@
         "id": "B0CW24ZQ8C",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27055",
+        "begin": "2025-09-19T15:00:00.000Z",
+        "broadcast": "R/2025-09-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2014,12 +2014,6 @@
         "id": "3311"
       },
       {
-        "site": "abema",
-        "id": "142-6",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "crunchyroll",
         "id": "G5PHNM92J",
         "begin": "2024-04-06T14:45:00.000Z",
@@ -2063,6 +2057,7 @@
         "新干线变形机器人 进化先锋 改变世界"
       ],
       "zh-Hant": [
+        "新幹線變形機器人：變革世代",
         "新幹線戰士 改變世界"
       ]
     },
@@ -2103,6 +2098,12 @@
         "id": "B0CWYKGV7Z",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "137074",
+        "begin": "2025-10-03T04:00:00.000Z",
+        "broadcast": "R/2025-10-03T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -2524,12 +2525,6 @@
         "id": "415166"
       },
       {
-        "site": "unext",
-        "id": "SID0100042",
-        "begin": "2024-04-13T17:00:00.000Z",
-        "broadcast": "R/2024-04-13T17:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "11-59",
         "begin": "",
@@ -2594,12 +2589,6 @@
         "id": "SID0100084",
         "begin": "2024-04-09T14:30:00.000Z",
         "broadcast": "R/2024-04-09T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-62",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2711,6 +2700,12 @@
         "id": "PLC18xlbCdwtStSgCKrTcb9W7sRjJBkROV",
         "begin": "2025-03-05T03:57:01.000Z",
         "broadcast": "R/2025-03-05T03:57:01.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "173-7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3392,12 +3387,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "248-18",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "66097bcb16e6bbcc806d3464"
       },
@@ -3724,12 +3713,6 @@
         "id": "131277",
         "begin": "2024-04-09T15:00:00.000Z",
         "broadcast": "R/2024-04-09T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "506-5",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -4324,6 +4307,20 @@
         "id": "B0CZRMYX1V",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-221",
+        "begin": "",
+        "broadcast": "",
+        "comment": "日本語字幕版: 26-222"
+      },
+      {
+        "site": "danime",
+        "id": "27056",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D",
+        "comment": "日本語字幕版: 27057"
       }
     ]
   },
@@ -4951,12 +4948,6 @@
         "id": "SID0157267",
         "begin": "2024-10-05T15:00:00.000Z",
         "broadcast": "R/2024-10-05T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-70",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",

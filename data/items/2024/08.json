@@ -137,6 +137,12 @@
         "id": "SID0163694",
         "begin": "2024-12-24T15:00:00.000Z",
         "broadcast": "R/2024-12-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28353",
+        "begin": "2025-10-15T15:00:00.000Z",
+        "broadcast": "R/2025-10-15T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -234,6 +240,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新 我们的恐龙日记"
+      ],
+      "zh-Hant": [
+        "電影蠟筆小新：我們的恐龍日記"
+      ],
+      "en": [
+        "Crayon Shin-chan the Movie: Our Dinosaur Diary"
       ]
     },
     "type": "movie",
@@ -257,6 +269,12 @@
       {
         "site": "mikan",
         "id": "3512"
+      },
+      {
+        "site": "netflix",
+        "id": "82026163",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -322,6 +340,41 @@
       {
         "site": "mikan",
         "id": "3507"
+      },
+      {
+        "site": "bilibili",
+        "id": "25369044",
+        "begin": "2025-11-23T02:00:00.000Z",
+        "broadcast": "R/2025-11-23T02:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "KING OF PRISM -Dramatic PRISM.1-",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kinpri.com/",
+    "begin": "2024-08-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "486477"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dramatic_prism1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27989",
+        "begin": "2025-06-01T01:00:00.000Z",
+        "broadcast": "R/2025-06-01T01:00:00.000Z/P7D"
       }
     ]
   }

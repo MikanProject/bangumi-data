@@ -260,6 +260,12 @@
         "id": "26296",
         "begin": "2023-04-12T03:00:00.000Z",
         "broadcast": "R/2023-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2gt2sWpbdw1j",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -471,12 +477,6 @@
         "id": "81684407",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "mytv",
-        "id": "whyraelianaendedupatthedukesmansion_143779",
-        "begin": "2025-08-05T16:00:00.000Z",
-        "broadcast": "R/2025-08-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1581,12 +1581,6 @@
         "id": "goddess-cafe",
         "begin": "2023-04-12T17:55:00.000Z",
         "broadcast": "R/2023-04-12T17:55:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "632-1",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2796,7 +2790,8 @@
         "地獄樂"
       ],
       "en": [
-        "Hell's Paradise: Jigokuraku"
+        "Hell's Paradise: Jigokuraku",
+        "Jigokuraku"
       ]
     },
     "type": "tv",
@@ -2836,12 +2831,6 @@
         "broadcast": "R/2024-07-25T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "560-2",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "27456",
         "begin": "2024-11-14T15:00:00.000Z",
@@ -2850,6 +2839,12 @@
       {
         "site": "prime",
         "id": "B0B8Q3FBRB",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "39VzHdOD2VJj",
         "begin": "",
         "broadcast": ""
       }
@@ -3476,7 +3471,8 @@
         "國王排名 勇氣的寶箱"
       ],
       "en": [
-        "Ranking of Kings: The Treasure Chest Of Courage"
+        "Ranking of Kings: The Treasure Chest Of Courage",
+        "Ranking of Kings : The Treasure Chest of Courage"
       ]
     },
     "type": "tv",
@@ -3550,6 +3546,12 @@
         "id": "SID0080316",
         "begin": "2023-03-31T03:00:00.000Z",
         "broadcast": "R/2023-03-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2PicDV8a8EVk",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4403,27 +4405,8 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0179257",
-        "begin": "2025-04-04T15:00:00.000Z",
-        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "415-8",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "netflix",
         "id": "81757620",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "disneyplus",
-        "id": "3On2EbLKUsH1",
-        "url": "https://www.disneyplus.com/movies/detective-conan-black-iron-submarine/3On2EbLKUsH1",
         "begin": "",
         "broadcast": ""
       }

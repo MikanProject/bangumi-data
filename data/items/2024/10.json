@@ -1094,7 +1094,8 @@
         "site": "unext",
         "id": "SID0157072",
         "begin": "2024-10-10T15:00:00.000Z",
-        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "特別編: SID0239997"
       },
       {
         "site": "bangumi_moe",
@@ -1112,7 +1113,8 @@
         "site": "danime",
         "id": "27334",
         "begin": "2024-10-10T15:00:00.000Z",
-        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "第十三話(特別編)　伸ばした手は: 28376"
       },
       {
         "site": "bilibili",
@@ -1130,7 +1132,11 @@
         "百姓貴族 第2期"
       ],
       "zh-Hant": [
-        "百姓貴族 2nd Season"
+        "百姓貴族 2nd Season",
+        "百姓貴族 第二季"
+      ],
+      "en": [
+        "Hyakusho Kizoku-the farmer's days 2nd Season"
       ]
     },
     "type": "tv",
@@ -1168,6 +1174,24 @@
       {
         "site": "dmhy",
         "id": "百姓貴族 2季|二季|2期|二期|S02|S2|2nd"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237168",
+        "begin": "2025-10-03T13:00:00.000Z",
+        "broadcast": "R/2025-10-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28327",
+        "begin": "2025-10-03T13:00:00.000Z",
+        "broadcast": "R/2025-10-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "hyakushokizokuthefarmersdays2ndseason_144419",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -2048,12 +2072,6 @@
         "id": "66fb602189c3a6ce864cbcfd"
       },
       {
-        "site": "abema",
-        "id": "26-230",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3449"
       },
@@ -2367,6 +2385,18 @@
         "id": "PLuxqoToY7UchsHUrEW5gQLVJ-srlTdDHb",
         "begin": "2025-06-10T13:00:06.000Z",
         "broadcast": "R/2025-06-10T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DH2WQW7W",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157075",
+        "begin": "2025-10-15T03:00:00.000Z",
+        "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3037,7 +3067,7 @@
     "officialSite": "https://haigakura.jp/",
     "begin": "2024-10-07T13:00:00.000Z",
     "broadcast": "R/2024-10-07T13:00:00.000Z/P7D",
-    "end": "2024-12-07T13:00:00.000Z",
+    "end": "2025-09-25T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3355,6 +3385,12 @@
         "id": "B0D2DVD4QJ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uchrs0-nFGMPhc_GuT0qFRdt",
+        "begin": "2025-09-26T13:30:06.000Z",
+        "broadcast": "R/2025-09-26T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -3758,12 +3794,6 @@
         "broadcast": ""
       },
       {
-        "site": "netflix",
-        "id": "81943491",
-        "begin": "2024-10-14T00:00:00.000Z",
-        "broadcast": "R/2024-10-14T00:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "5-69",
         "begin": "",
@@ -3778,6 +3808,12 @@
       {
         "site": "prime",
         "id": "B0DJL4VYM2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81943491",
         "begin": "",
         "broadcast": ""
       }
@@ -4289,6 +4325,18 @@
         "id": "81946855",
         "begin": "2025-03-23T16:00:00.000Z",
         "broadcast": "R/2025-03-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7NDQcudIe9lb",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "280696740",
+        "begin": "2025-11-01T04:00:00.000Z",
+        "broadcast": "R/2025-11-01T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -4322,12 +4370,6 @@
       {
         "site": "mikan",
         "id": "3475"
-      },
-      {
-        "site": "abema",
-        "id": "19-172",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "crunchyroll",
@@ -4416,12 +4458,6 @@
       {
         "site": "bangumi_moe",
         "id": "66fb601589c3a6ce864cbcab"
-      },
-      {
-        "site": "abema",
-        "id": "19-175",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -4520,7 +4556,8 @@
       ],
       "zh-Hant": [
         "香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季",
-        "香格里拉·開拓異境～糞作獵手挑戰神作～第2季"
+        "香格里拉·開拓異境～糞作獵手挑戰神作～第2季",
+        "香格里拉·開拓異境～糞作獵手挑戰神作～ 第二季"
       ]
     },
     "type": "tv",
@@ -4624,6 +4661,12 @@
         "id": "B0DJFDDQ1D",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgylqIgXr9t5d40xpCbOo0h",
+        "begin": "2025-07-25T13:00:06.000Z",
+        "broadcast": "R/2025-07-25T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -5072,7 +5115,7 @@
     "officialSite": "https://nekooji-anime.com/",
     "begin": "2024-10-06T16:00:00.000Z",
     "broadcast": "R/2024-10-06T16:00:00.000Z/P7D",
-    "end": "2024-12-23T16:00:00.000Z",
+    "end": "2025-09-15T18:40:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5326,12 +5369,6 @@
         "broadcast": "R/2024-10-24T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "5-70",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3496"
       },
@@ -5448,6 +5485,12 @@
         "id": "27305",
         "begin": "2024-10-19T03:00:00.000Z",
         "broadcast": "R/2024-10-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-97",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5520,6 +5563,43 @@
         "id": "B0DSR4Y4L5",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "魔法少女リリカルなのは 20周年記念セレクション",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://king-cr.jp/nanoha/20th/",
+    "begin": "2024-10-04T16:30:00.000Z",
+    "broadcast": "R/2024-10-04T16:30:00.000Z/P7D",
+    "end": "2024-12-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "danime",
+        "id": "27368",
+        "begin": "2024-10-05T17:00:00.000Z",
+        "broadcast": "R/2024-10-05T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DHWLLKKR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "nanoha_20th",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157779",
+        "begin": "2024-10-05T17:00:00.000Z",
+        "broadcast": "R/2024-10-05T17:00:00.000Z/P7D"
       }
     ]
   }

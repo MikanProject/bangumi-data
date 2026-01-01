@@ -105,6 +105,12 @@
         "id": "22658",
         "begin": "2019-04-10T15:00:00.000Z",
         "broadcast": "R/2019-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-170",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -280,6 +286,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "异世界四重奏"
+      ],
+      "en": [
+        "Isekai Quartet"
       ]
     },
     "type": "tv",
@@ -323,6 +332,12 @@
         "id": "22695",
         "begin": "2019-04-09T15:30:00.000Z",
         "broadcast": "R/2019-04-09T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1qX4vn0iWkXk",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -594,12 +609,6 @@
         "broadcast": "R/2019-04-05T17:23:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "5m4JmjCRX6kH",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0040355",
         "begin": "2019-04-09T03:00:00.000Z",
@@ -626,12 +635,6 @@
         "id": "22680",
         "begin": "2019-04-09T03:00:00.000Z",
         "broadcast": "R/2019-04-09T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "fruitsbasketseason10002_143778",
-        "begin": "2025-08-01T16:00:00.000Z",
-        "broadcast": "R/2025-08-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1168,12 +1171,6 @@
         "id": "272475"
       },
       {
-        "site": "viu",
-        "id": "454265",
-        "begin": "2022-09-01T16:00:00.000Z",
-        "broadcast": "R/2022-09-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "103604",
         "begin": "2021-05-24T08:00:00.000Z",
@@ -1456,12 +1453,6 @@
         "broadcast": "R/2019-04-19T03:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "vQSFkhzJS0jX",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ca206add8405d2d2e62b951"
       },
@@ -1522,7 +1513,8 @@
         "site": "unext",
         "id": "SID0040165",
         "begin": "2024-03-01T03:00:00.000Z",
-        "broadcast": "R/2024-03-01T03:00:00.000Z/P7D"
+        "broadcast": "R/2024-03-01T03:00:00.000Z/P7D",
+        "comment": "OVA: SID0237170"
       },
       {
         "site": "gamer_hk",
@@ -1542,7 +1534,8 @@
         "site": "danime",
         "id": "22674",
         "begin": "2024-02-29T15:00:00.000Z",
-        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D",
+        "comment": "OVA: 28335"
       },
       {
         "site": "muse_tw",
@@ -1556,6 +1549,12 @@
         "id": "G63K98PZ6",
         "begin": "2019-05-28T10:35:00.000Z",
         "broadcast": "R/2019-05-28T10:35:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1x8GPWt9gtZ5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1928,6 +1927,10 @@
   {
     "title": "爆丸バトルプラネット",
     "titleTranslate": {
+      "zh-Hans": [
+        "爆丸5 星域争霸",
+        "爆丸之星域争霸"
+      ],
       "en": [
         "BAKUGAN Battle Planet"
       ]
@@ -1959,6 +1962,12 @@
         "id": "22700",
         "begin": "2019-04-02T03:00:00.000Z",
         "broadcast": "R/2019-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "27727146",
+        "begin": "2025-09-28T03:00:00.000Z",
+        "broadcast": "R/2025-09-28T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2170,12 +2179,6 @@
         "id": "SID0040731",
         "begin": "2019-04-04T03:00:00.000Z",
         "broadcast": "R/2019-04-04T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "117637",
-        "begin": "2021-06-01T03:00:00.000Z",
-        "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2889,6 +2892,18 @@
         "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
         "begin": "2025-04-05T14:00:06.000Z",
         "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81414745",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0DRT9B8DM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3339,12 +3354,6 @@
       {
         "site": "mikan",
         "id": "2018"
-      },
-      {
-        "site": "unext",
-        "id": "SID0056973",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
       },
       {
         "site": "prime",

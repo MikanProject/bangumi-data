@@ -99,6 +99,13 @@
         "begin": "2019-07-27T15:00:00.000Z",
         "broadcast": "R/2019-07-27T15:00:00.000Z/P7D",
         "comment": "Semifinal: 22935, Final: 22936"
+      },
+      {
+        "site": "abema",
+        "id": "203-19",
+        "begin": "",
+        "broadcast": "",
+        "comment": "Semifinal: 203-20, Final: 203-21"
       }
     ]
   },
@@ -451,6 +458,25 @@
         "id": "10208",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ハムちゃんずのめざせ! ハムハム金メダル 〜はしれ! はしれ! だいさくせん!〜",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-03-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "abema",
+        "id": "2-38",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
