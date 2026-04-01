@@ -1557,7 +1557,8 @@
     "title": "魔法の姉妹ルルットリリィ",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法的姐妹露露和莉莉"
+        "魔法的姐妹露露和莉莉",
+        "魔法姐妹露露特莉莉"
       ],
       "zh-Hant": [
         "魔法姊妹露露特莉莉"
@@ -2854,6 +2855,159 @@
         "id": "149915",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "Re:ゼロから始める異世界生活 4th season",
+    "titleTranslate": {
+      "en": [
+        "Re:ZERO -Starting Life in Another World- Season 4"
+      ],
+      "zh-Hans": [
+        "Re：从零开始的异世界生活 第四季 丧失篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://re-zero-anime.jp/tv/",
+    "begin": "2026-04-08T13:00:00.000Z",
+    "broadcast": "R/2026-04-08T13:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "547888"
+      }
+    ]
+  },
+  {
+    "title": "本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://booklove-anime.jp/",
+    "begin": "2026-04-04T08:30:00.000Z",
+    "broadcast": "R/2026-04-04T08:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469104"
+      }
+    ]
+  },
+  {
+    "title": "茉莉花ちゃんの好感度はぶっ壊れている。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "茉莉花酱的好感度正在崩坏"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://marikowa.af-original.com/",
+    "begin": "2026-04-05T16:00:00.000Z",
+    "broadcast": "R/2026-04-05T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "609183"
+      }
+    ]
+  },
+  {
+    "title": "おしりたんてい(第10シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 第十季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2026-04-04T00:00:00.000Z",
+    "broadcast": "R/2026-04-04T00:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "625355"
+      }
+    ]
+  },
+  {
+    "title": "ねずみくんのチョッキ",
+    "titleTranslate": {
+      "en": [
+        "Little Mouse's Red Vest"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.poplar.co.jp/pr/anime-nezumikun/",
+    "begin": "2026-04-04T00:30:00.000Z",
+    "broadcast": "R/2026-04-04T00:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "582598"
+      }
+    ]
+  },
+  {
+    "title": "大きい女の子は好きですか？",
+    "titleTranslate": {
+      "en": [
+        "DO YOU LIKE BIG GIRLS?"
+      ],
+      "zh-Hans": [
+        "这样高大的女孩子你喜欢吗？"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://ookii-onnanoko.af-original.com/",
+    "begin": "2026-04-05T16:05:00.000Z",
+    "broadcast": "R/2026-04-05T16:05:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "616453"
+      }
+    ]
+  },
+  {
+    "title": "こめかみっ！Girls",
+    "titleTranslate": {
+      "en": [
+        "Komekami! Girls"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://komekamigirls.com/",
+    "begin": "2026-04-02T17:30:00.000Z",
+    "broadcast": "R/2026-04-02T17:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282118"
       }
     ]
   }
