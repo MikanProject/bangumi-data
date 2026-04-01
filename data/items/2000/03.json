@@ -23,12 +23,6 @@
         "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-172",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26988",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -40,6 +34,10 @@
         "url": "https://www.disneyplus.com/movies/one-piece/7aw81gTZRIBg",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/19576"
       }
     ]
   },
@@ -76,6 +74,22 @@
         "id": "20599",
         "begin": "2020-02-01T01:00:00.000Z",
         "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/75571"
+      },
+      {
+        "site": "mal",
+        "id": "2397"
+      },
+      {
+        "site": "aniList",
+        "id": "2397"
+      },
+      {
+        "site": "anidb",
+        "id": "1149"
       }
     ]
   },
@@ -112,7 +126,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-110",
         "begin": "",
         "broadcast": ""
       },
@@ -133,6 +147,22 @@
         "id": "B0DRP1J1NR",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/31352"
+      },
+      {
+        "site": "mal",
+        "id": "7045"
+      },
+      {
+        "site": "anidb",
+        "id": "6583"
+      },
+      {
+        "site": "aniList",
+        "id": "7045"
       }
     ]
   },
@@ -166,6 +196,22 @@
         "id": "SID0002313",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/974287"
+      },
+      {
+        "site": "mal",
+        "id": "6246"
+      },
+      {
+        "site": "anidb",
+        "id": "7387"
+      },
+      {
+        "site": "aniList",
+        "id": "6246"
       }
     ]
   },
@@ -199,6 +245,18 @@
         "id": "SID0003369",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1129783"
+      },
+      {
+        "site": "mal",
+        "id": "18533"
+      },
+      {
+        "site": "aniList",
+        "id": "18533"
       }
     ]
   }

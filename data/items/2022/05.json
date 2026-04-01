@@ -43,6 +43,22 @@
         "id": "25594",
         "begin": "2022-06-23T15:00:00.000Z",
         "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/128510"
+      },
+      {
+        "site": "mal",
+        "id": "49342"
+      },
+      {
+        "site": "anidb",
+        "id": "16419"
+      },
+      {
+        "site": "aniList",
+        "id": "136303"
       }
     ]
   },
@@ -56,7 +72,12 @@
     "broadcast": "R/2022-05-05T14:16:00.000Z/P7D",
     "end": "2022-05-26T14:23:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "mal",
+        "id": "56345"
+      }
+    ]
   },
   {
     "title": "ヴァンパイア・イン・ザ・ガーデン",
@@ -87,6 +108,22 @@
         "id": "80996247",
         "begin": "2022-05-15T16:00:00.000Z",
         "broadcast": "R/2022-05-15T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/99772"
+      },
+      {
+        "site": "mal",
+        "id": "39518"
+      },
+      {
+        "site": "anidb",
+        "id": "14747"
+      },
+      {
+        "site": "aniList",
+        "id": "108357"
       }
     ]
   },
@@ -133,6 +170,22 @@
       {
         "site": "mikan",
         "id": "2735"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/912598"
+      },
+      {
+        "site": "mal",
+        "id": "50549"
+      },
+      {
+        "site": "anidb",
+        "id": "17025"
+      },
+      {
+        "site": "aniList",
+        "id": "142455"
       }
     ]
   },
@@ -177,6 +230,22 @@
         "id": "ghostintheshell-sac2045-2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/90293/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "41750"
+      },
+      {
+        "site": "anidb",
+        "id": "15512"
+      },
+      {
+        "site": "aniList",
+        "id": "117756"
       }
     ]
   },
@@ -217,16 +286,14 @@
         "broadcast": "R/2024-07-03T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "30-13",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "27203",
         "begin": "2024-07-07T03:00:00.000Z",
         "broadcast": "R/2024-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/918429"
       }
     ]
   },
@@ -283,6 +350,22 @@
         "id": "B0DY2PXGCK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/820067"
+      },
+      {
+        "site": "mal",
+        "id": "48548"
+      },
+      {
+        "site": "anidb",
+        "id": "16165"
+      },
+      {
+        "site": "aniList",
+        "id": "131520"
       }
     ]
   },
@@ -339,6 +422,22 @@
         "id": "B0B8K2FJPK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/642538"
+      },
+      {
+        "site": "mal",
+        "id": "39938"
+      },
+      {
+        "site": "anidb",
+        "id": "14949"
+      },
+      {
+        "site": "aniList",
+        "id": "109928"
       }
     ]
   },
@@ -362,6 +461,22 @@
         "id": "SID0095808",
         "begin": "2023-12-01T03:00:00.000Z",
         "broadcast": "R/2023-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/195520"
+      },
+      {
+        "site": "mal",
+        "id": "52004"
+      },
+      {
+        "site": "anidb",
+        "id": "17267"
+      },
+      {
+        "site": "aniList",
+        "id": "174125"
       }
     ]
   },
@@ -401,6 +516,22 @@
         "id": "26475",
         "begin": "2023-06-30T15:00:00.000Z",
         "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/978039"
+      },
+      {
+        "site": "mal",
+        "id": "47777"
+      },
+      {
+        "site": "anidb",
+        "id": "17279"
+      },
+      {
+        "site": "aniList",
+        "id": "130305"
       }
     ]
   }

@@ -25,12 +25,6 @@
         "broadcast": "R/2024-09-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "54-94",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3415"
       },
@@ -45,6 +39,22 @@
         "id": "B0D8TXHFN1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/261135"
+      },
+      {
+        "site": "mal",
+        "id": "59505"
+      },
+      {
+        "site": "anidb",
+        "id": "18857"
+      },
+      {
+        "site": "aniList",
+        "id": "180923"
       }
     ]
   },
@@ -133,6 +143,22 @@
         "id": "B0CJ3FF55V",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/237150"
+      },
+      {
+        "site": "mal",
+        "id": "59131"
+      },
+      {
+        "site": "anidb",
+        "id": "18707"
+      },
+      {
+        "site": "aniList",
+        "id": "178434"
       }
     ]
   },
@@ -171,6 +197,22 @@
       {
         "site": "mikan",
         "id": "3418"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/93241"
+      },
+      {
+        "site": "mal",
+        "id": "40333"
+      },
+      {
+        "site": "anidb",
+        "id": "15063"
+      },
+      {
+        "site": "aniList",
+        "id": "111314"
       }
     ]
   },
@@ -218,6 +260,18 @@
       {
         "site": "mikan",
         "id": "3571"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1317276"
+      },
+      {
+        "site": "mal",
+        "id": "58222"
+      },
+      {
+        "site": "aniList",
+        "id": "175199"
       }
     ]
   },
@@ -261,6 +315,10 @@
       {
         "site": "mikan",
         "id": "3505"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1143875"
       }
     ]
   },
@@ -301,6 +359,22 @@
         "id": "142493",
         "begin": "2025-09-30T16:00:00.000Z",
         "broadcast": "R/2025-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1266540"
+      },
+      {
+        "site": "mal",
+        "id": "58462"
+      },
+      {
+        "site": "anidb",
+        "id": "18539"
+      },
+      {
+        "site": "aniList",
+        "id": "169403"
       }
     ]
   },
@@ -313,6 +387,9 @@
       ],
       "zh-Hant": [
         "劇場版 OVERLORD 聖王國篇"
+      ],
+      "en": [
+        "OVERLORD:The Sacred Kingdom"
       ]
     },
     "type": "movie",
@@ -330,12 +407,6 @@
       {
         "site": "mikan",
         "id": "3648"
-      },
-      {
-        "site": "netflix",
-        "id": "82040442",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -366,6 +437,102 @@
         "id": "overlord-movie2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1014505"
+      },
+      {
+        "site": "mal",
+        "id": "48896"
+      },
+      {
+        "site": "aniList",
+        "id": "133845"
+      },
+      {
+        "site": "anidb",
+        "id": "16297"
+      },
+      {
+        "site": "netflix",
+        "id": "82040442",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 BanG Dream! It's MyGO!!!!! 前編 春の陽だまり、迷い猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 BanG Dream! It's MyGO!!!!! 前篇 春日向阳，迷途野猫"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mygo-movie.bang-dream.com/",
+    "begin": "2024-09-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473832"
+      },
+      {
+        "site": "unext",
+        "id": "SID0255959",
+        "begin": "2026-01-15T15:00:00.000Z",
+        "broadcast": "R/2026-01-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mygo-movie-bang-dream",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28630",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "POKÉTOON 2024",
+    "titleTranslate": {
+      "zh-Hans": [
+        "POKÉTOON动画系列2024"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon.co.jp/ex/poketoon/2024/",
+    "begin": "2024-09-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-02-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "513788"
+      },
+      {
+        "site": "abema",
+        "id": "2-43",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "59944"
+      },
+      {
+        "site": "aniList",
+        "id": "182386"
       }
     ]
   }

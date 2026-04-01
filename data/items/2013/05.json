@@ -51,6 +51,22 @@
         "id": "24856",
         "begin": "2021-07-30T01:00:00.000Z",
         "broadcast": "R/2021-07-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42912/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "18097"
+      },
+      {
+        "site": "anidb",
+        "id": "9867"
+      },
+      {
+        "site": "aniList",
+        "id": "18097"
       }
     ]
   },
@@ -79,6 +95,22 @@
         "id": "602",
         "begin": "2013-05-11T16:00:00.000Z",
         "broadcast": "R/2013-05-12T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/476397"
+      },
+      {
+        "site": "mal",
+        "id": "16436"
+      },
+      {
+        "site": "anidb",
+        "id": "9537"
+      },
+      {
+        "site": "aniList",
+        "id": "16436"
       }
     ]
   },
@@ -87,6 +119,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "言叶之庭"
+      ],
+      "zh-Hant": [
+        "言葉之庭"
+      ],
+      "en": [
+        "The Garden of Words"
       ]
     },
     "type": "movie",
@@ -127,6 +165,29 @@
         "id": "B00PG3HQHG",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/198375"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1OltRxFDjVX1",
+        "url": "https://www.disneyplus.com/movies/the-garden-of-words/1OltRxFDjVX1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "16782"
+      },
+      {
+        "site": "anidb",
+        "id": "9589"
+      },
+      {
+        "site": "aniList",
+        "id": "16782"
       }
     ]
   },
@@ -169,6 +230,22 @@
         "id": "B075DY6LM3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/184608"
+      },
+      {
+        "site": "mal",
+        "id": "15771"
+      },
+      {
+        "site": "anidb",
+        "id": "9454"
+      },
+      {
+        "site": "aniList",
+        "id": "15771"
       }
     ]
   },
@@ -194,6 +271,22 @@
         "id": "679",
         "begin": "2013-05-20T16:00:00.000Z",
         "broadcast": "R/2013-05-22T15:22:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/197144"
+      },
+      {
+        "site": "mal",
+        "id": "20705"
+      },
+      {
+        "site": "anidb",
+        "id": "9958"
+      },
+      {
+        "site": "aniList",
+        "id": "101181"
       }
     ]
   },
@@ -232,6 +325,10 @@
         "id": "25089",
         "begin": "2021-09-30T01:00:00.000Z",
         "broadcast": "R/2021-09-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/416268"
       }
     ]
   },
@@ -270,6 +367,22 @@
         "id": "11275",
         "begin": "2014-05-09T01:00:00.000Z",
         "broadcast": "R/2014-05-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/196688"
+      },
+      {
+        "site": "mal",
+        "id": "18469"
+      },
+      {
+        "site": "anidb",
+        "id": "9721"
+      },
+      {
+        "site": "aniList",
+        "id": "18469"
       }
     ]
   },
@@ -305,6 +418,22 @@
         "id": "25233",
         "begin": "2022-02-01T01:00:00.000Z",
         "broadcast": "R/2022-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/158198"
+      },
+      {
+        "site": "mal",
+        "id": "18845"
+      },
+      {
+        "site": "aniList",
+        "id": "18845"
+      },
+      {
+        "site": "anidb",
+        "id": "9899"
       }
     ]
   },
@@ -333,6 +462,14 @@
         "id": "SID0053603",
         "begin": "2022-03-25T03:00:00.000Z",
         "broadcast": "R/2022-03-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/209966"
+      },
+      {
+        "site": "aniList",
+        "id": "126623"
       }
     ]
   }

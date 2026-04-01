@@ -29,6 +29,22 @@
         "id": "SID0003063",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/54728"
+      },
+      {
+        "site": "mal",
+        "id": "288"
+      },
+      {
+        "site": "anidb",
+        "id": "595"
+      },
+      {
+        "site": "aniList",
+        "id": "288"
       }
     ]
   },
@@ -60,6 +76,22 @@
         "id": "SID0240447",
         "begin": "2025-10-30T15:00:00.000Z",
         "broadcast": "R/2025-10-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/29540"
+      },
+      {
+        "site": "mal",
+        "id": "764"
+      },
+      {
+        "site": "anidb",
+        "id": "1774"
+      },
+      {
+        "site": "aniList",
+        "id": "764"
       }
     ]
   },
@@ -91,6 +123,22 @@
         "id": "21018",
         "begin": "2016-07-29T01:00:00.000Z",
         "broadcast": "R/2016-07-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30501"
+      },
+      {
+        "site": "mal",
+        "id": "445"
+      },
+      {
+        "site": "anidb",
+        "id": "389"
+      },
+      {
+        "site": "aniList",
+        "id": "445"
       }
     ]
   },
@@ -145,6 +193,22 @@
         "id": "168-49",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80741"
+      },
+      {
+        "site": "mal",
+        "id": "187"
+      },
+      {
+        "site": "anidb",
+        "id": "625"
+      },
+      {
+        "site": "aniList",
+        "id": "187"
       }
     ]
   },
@@ -175,6 +239,22 @@
         "site": "qq",
         "id": "u/uz35883n8h3up9z",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/56425"
+      },
+      {
+        "site": "mal",
+        "id": "287"
+      },
+      {
+        "site": "aniList",
+        "id": "287"
+      },
+      {
+        "site": "anidb",
+        "id": "453"
       }
     ]
   },
@@ -194,6 +274,22 @@
       {
         "site": "bangumi",
         "id": "19418"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42698"
+      },
+      {
+        "site": "mal",
+        "id": "812"
+      },
+      {
+        "site": "anidb",
+        "id": "107"
+      },
+      {
+        "site": "aniList",
+        "id": "812"
       }
     ]
   }

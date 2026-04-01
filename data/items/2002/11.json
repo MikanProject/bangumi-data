@@ -55,10 +55,20 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "2-25",
-        "begin": "",
-        "broadcast": ""
+        "site": "tmdb",
+        "id": "tv/60572/season/6"
+      },
+      {
+        "site": "mal",
+        "id": "1564"
+      },
+      {
+        "site": "anidb",
+        "id": "1041"
+      },
+      {
+        "site": "aniList",
+        "id": "1564"
       }
     ]
   },
@@ -87,6 +97,22 @@
         "id": "2058",
         "begin": "2002-11-10T16:00:00.000Z",
         "broadcast": "R/2012-04-25T03:30:07.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25297"
+      },
+      {
+        "site": "mal",
+        "id": "328"
+      },
+      {
+        "site": "anidb",
+        "id": "289"
+      },
+      {
+        "site": "aniList",
+        "id": "328"
       }
     ]
   },
@@ -106,6 +132,18 @@
       {
         "site": "bangumi",
         "id": "102315"
+      },
+      {
+        "site": "mal",
+        "id": "5473"
+      },
+      {
+        "site": "anidb",
+        "id": "1880"
+      },
+      {
+        "site": "aniList",
+        "id": "5473"
       }
     ]
   },
@@ -125,6 +163,22 @@
       {
         "site": "bangumi",
         "id": "19612"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23122"
+      },
+      {
+        "site": "mal",
+        "id": "1947"
+      },
+      {
+        "site": "anidb",
+        "id": "360"
+      },
+      {
+        "site": "aniList",
+        "id": "1947"
       }
     ]
   },
@@ -144,6 +198,22 @@
       {
         "site": "bangumi",
         "id": "39001"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34165/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "446"
+      },
+      {
+        "site": "aniList",
+        "id": "446"
+      },
+      {
+        "site": "anidb",
+        "id": "226"
       }
     ]
   },
@@ -177,6 +247,22 @@
         "id": "11319",
         "begin": "2014-06-27T01:00:00.000Z",
         "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/37326"
+      },
+      {
+        "site": "mal",
+        "id": "1380"
+      },
+      {
+        "site": "anidb",
+        "id": "771"
+      },
+      {
+        "site": "aniList",
+        "id": "1380"
       }
     ]
   }

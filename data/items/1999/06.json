@@ -57,6 +57,22 @@
         "id": "B0DVC6R2H4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43017"
+      },
+      {
+        "site": "mal",
+        "id": "245"
+      },
+      {
+        "site": "anidb",
+        "id": "191"
+      },
+      {
+        "site": "aniList",
+        "id": "245"
       }
     ]
   },
@@ -76,6 +92,22 @@
       {
         "site": "bangumi",
         "id": "2062"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/120564"
+      },
+      {
+        "site": "mal",
+        "id": "839"
+      },
+      {
+        "site": "anidb",
+        "id": "960"
+      },
+      {
+        "site": "aniList",
+        "id": "839"
       }
     ]
   },
@@ -101,6 +133,22 @@
         "id": "5358",
         "begin": "2016-07-26T02:36:00.000Z",
         "broadcast": "R/2016-07-26T02:36:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/799319"
+      },
+      {
+        "site": "mal",
+        "id": "2179"
+      },
+      {
+        "site": "anidb",
+        "id": "292"
+      },
+      {
+        "site": "aniList",
+        "id": "2179"
       }
     ]
   }

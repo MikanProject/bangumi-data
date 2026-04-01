@@ -32,6 +32,22 @@
         "id": "20158",
         "begin": "2024-09-30T15:00:00.000Z",
         "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12599"
+      },
+      {
+        "site": "mal",
+        "id": "98"
+      },
+      {
+        "site": "anidb",
+        "id": "1554"
+      },
+      {
+        "site": "aniList",
+        "id": "98"
       }
     ]
   },
@@ -63,6 +79,22 @@
         "id": "10373",
         "begin": "2022-03-08T01:00:00.000Z",
         "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35184"
+      },
+      {
+        "site": "mal",
+        "id": "1524"
+      },
+      {
+        "site": "anidb",
+        "id": "1759"
+      },
+      {
+        "site": "aniList",
+        "id": "1524"
       }
     ]
   },
@@ -83,6 +115,22 @@
       {
         "site": "bangumi",
         "id": "60188"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43276"
+      },
+      {
+        "site": "mal",
+        "id": "8"
+      },
+      {
+        "site": "anidb",
+        "id": "2391"
+      },
+      {
+        "site": "aniList",
+        "id": "8"
       }
     ]
   },
@@ -104,10 +152,20 @@
         "id": "14643"
       },
       {
-        "site": "bilibili",
-        "id": "1929",
-        "begin": "2004-09-29T16:00:00.000Z",
-        "broadcast": "R/2011-09-25T09:57:55.000Z/P7D"
+        "site": "tmdb",
+        "id": "tv/34175"
+      },
+      {
+        "site": "mal",
+        "id": "613"
+      },
+      {
+        "site": "anidb",
+        "id": "2512"
+      },
+      {
+        "site": "aniList",
+        "id": "613"
       }
     ]
   },
@@ -127,6 +185,22 @@
       {
         "site": "bangumi",
         "id": "6007"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/582825"
+      },
+      {
+        "site": "mal",
+        "id": "932"
+      },
+      {
+        "site": "aniList",
+        "id": "932"
+      },
+      {
+        "site": "anidb",
+        "id": "2177"
       }
     ]
   },
@@ -146,6 +220,22 @@
       {
         "site": "bangumi",
         "id": "55680"
+      },
+      {
+        "site": "mal",
+        "id": "363"
+      },
+      {
+        "site": "aniList",
+        "id": "363"
+      },
+      {
+        "site": "anidb",
+        "id": "2604"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45271/season/3/episode/3"
       }
     ]
   },
@@ -182,6 +272,22 @@
         "id": "10200",
         "begin": "2020-06-26T01:00:00.000Z",
         "broadcast": "R/2020-06-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95945"
+      },
+      {
+        "site": "mal",
+        "id": "921"
+      },
+      {
+        "site": "anidb",
+        "id": "2575"
+      },
+      {
+        "site": "aniList",
+        "id": "921"
       }
     ]
   }

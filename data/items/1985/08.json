@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "41731"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/32377/season/0"
+      },
+      {
+        "site": "danime",
+        "id": "28544",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2583"
+      },
+      {
+        "site": "anidb",
+        "id": "5125"
+      },
+      {
+        "site": "aniList",
+        "id": "2583"
       }
     ]
   },
@@ -48,6 +70,22 @@
         "id": "SID0014174",
         "begin": "2025-02-05T03:00:00.000Z",
         "broadcast": "R/2025-02-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/76731"
+      },
+      {
+        "site": "mal",
+        "id": "1287"
+      },
+      {
+        "site": "aniList",
+        "id": "1287"
+      },
+      {
+        "site": "anidb",
+        "id": "1414"
       }
     ]
   }

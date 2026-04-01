@@ -33,6 +33,22 @@
         "begin": "2025-05-01T03:00:00.000Z",
         "broadcast": "R/2025-05-01T03:00:00.000Z/P7D",
         "comment": "1960～70年代: SID0187913"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/153485"
+      },
+      {
+        "site": "mal",
+        "id": "2406"
+      },
+      {
+        "site": "anidb",
+        "id": "1830"
+      },
+      {
+        "site": "aniList",
+        "id": "2406"
       }
     ]
   },
@@ -52,6 +68,22 @@
       {
         "site": "bangumi",
         "id": "53801"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25114"
+      },
+      {
+        "site": "mal",
+        "id": "3009"
+      },
+      {
+        "site": "anidb",
+        "id": "864"
+      },
+      {
+        "site": "aniList",
+        "id": "3009"
       }
     ]
   },
@@ -90,10 +122,20 @@
         "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-212",
-        "begin": "",
-        "broadcast": ""
+        "site": "tmdb",
+        "id": "tv/62340"
+      },
+      {
+        "site": "mal",
+        "id": "2892"
+      },
+      {
+        "site": "anidb",
+        "id": "2740"
+      },
+      {
+        "site": "aniList",
+        "id": "2892"
       }
     ]
   }

@@ -21,6 +21,22 @@
         "id": "28220582",
         "begin": "2019-04-25T03:24:00.000Z",
         "broadcast": "R/2019-04-25T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/109444"
+      },
+      {
+        "site": "mal",
+        "id": "2967"
+      },
+      {
+        "site": "anidb",
+        "id": "4442"
+      },
+      {
+        "site": "aniList",
+        "id": "2967"
       }
     ]
   },
@@ -48,6 +64,10 @@
         "id": "23310",
         "begin": "2020-03-06T01:00:00.000Z",
         "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/467995"
       }
     ]
   },
@@ -79,6 +99,22 @@
         "id": "25196",
         "begin": "2021-12-20T01:00:00.000Z",
         "broadcast": "R/2021-12-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/24154"
+      },
+      {
+        "site": "mal",
+        "id": "2751"
+      },
+      {
+        "site": "anidb",
+        "id": "5297"
+      },
+      {
+        "site": "aniList",
+        "id": "2751"
       }
     ]
   },
@@ -104,6 +140,22 @@
         "id": "5432",
         "begin": "2007-08-17T16:00:01.000Z",
         "broadcast": "R/2016-08-08T02:22:15.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/959430"
+      },
+      {
+        "site": "mal",
+        "id": "19905"
+      },
+      {
+        "site": "anidb",
+        "id": "6631"
+      },
+      {
+        "site": "aniList",
+        "id": "19905"
       }
     ]
   },
@@ -123,6 +175,28 @@
       {
         "site": "bangumi",
         "id": "90613"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088541",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26025",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/665579"
+      },
+      {
+        "site": "abema",
+        "id": "746-45",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -172,6 +246,22 @@
         "id": "44754",
         "begin": "2021-08-13T06:00:00.000Z",
         "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/20982"
+      },
+      {
+        "site": "mal",
+        "id": "2472"
+      },
+      {
+        "site": "anidb",
+        "id": "5178"
+      },
+      {
+        "site": "aniList",
+        "id": "2472"
       }
     ]
   },
@@ -209,6 +299,22 @@
         "id": "bokusatsutenshi2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42870/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "2131"
+      },
+      {
+        "site": "anidb",
+        "id": "5089"
+      },
+      {
+        "site": "aniList",
+        "id": "2131"
       }
     ]
   },
@@ -238,25 +344,14 @@
         "id": "SID0012115",
         "begin": "2016-09-22T03:00:00.000Z",
         "broadcast": "R/2016-09-22T03:00:00.000Z/P7D"
-      }
-    ]
-  },
-  {
-    "title": "ピカチュウたんけんクラブ",
-    "titleTranslate": {},
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2007-08-01T16:00:00.000Z",
-    "broadcast": "",
-    "end": "2007-08-01T16:00:00.000Z",
-    "comment": "",
-    "sites": [
+      },
       {
-        "site": "unext",
-        "id": "SID0088541",
-        "begin": "2023-07-14T03:00:00.000Z",
-        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+        "site": "tmdb",
+        "id": "movie/51482"
+      },
+      {
+        "site": "anidb",
+        "id": "8146"
       }
     ]
   },

@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 祭典男爵与神秘岛"
+      ],
+      "en": [
+        "One Piece 6: Baron Omatsuri and Secret Island"
       ]
     },
     "type": "movie",
@@ -23,12 +26,6 @@
         "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-177",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26993",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -39,6 +36,29 @@
         "id": "B00HJK0ZLS",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44729"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6GEmPmx3Avug",
+        "url": "https://www.disneyplus.com/movies/one-piece-6-baron-omatsuri-and-secret-island/6GEmPmx3Avug",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "464"
+      },
+      {
+        "site": "aniList",
+        "id": "464"
+      },
+      {
+        "site": "anidb",
+        "id": "2644"
       }
     ]
   },
@@ -70,6 +90,22 @@
         "id": "26560",
         "begin": "2024-05-01T15:00:00.000Z",
         "broadcast": "R/2024-05-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34182/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "423"
+      },
+      {
+        "site": "anidb",
+        "id": "2896"
+      },
+      {
+        "site": "aniList",
+        "id": "423"
       }
     ]
   },
@@ -107,6 +143,22 @@
         "id": "bokusatsutenshi",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42870"
+      },
+      {
+        "site": "mal",
+        "id": "357"
+      },
+      {
+        "site": "anidb",
+        "id": "2820"
+      },
+      {
+        "site": "aniList",
+        "id": "357"
       }
     ]
   },
@@ -151,6 +203,22 @@
         "id": "24662",
         "begin": "2021-04-30T03:00:00.000Z",
         "broadcast": "R/2021-04-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34732/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "448"
+      },
+      {
+        "site": "anidb",
+        "id": "2784"
+      },
+      {
+        "site": "aniList",
+        "id": "448"
       }
     ]
   },
@@ -190,6 +258,10 @@
         "id": "10121",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34166/season/0"
       }
     ]
   },
@@ -216,6 +288,22 @@
         "id": "3920",
         "begin": "2016-05-03T07:19:00.000Z",
         "broadcast": "R/2016-05-03T07:19:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/174815"
+      },
+      {
+        "site": "mal",
+        "id": "760"
+      },
+      {
+        "site": "anidb",
+        "id": "3121"
+      },
+      {
+        "site": "aniList",
+        "id": "760"
       }
     ]
   },
@@ -242,6 +330,22 @@
         "id": "5096",
         "begin": "2016-06-23T08:52:00.000Z",
         "broadcast": "R/2016-06-23T08:52:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/600056"
+      },
+      {
+        "site": "mal",
+        "id": "1933"
+      },
+      {
+        "site": "anidb",
+        "id": "3345"
+      },
+      {
+        "site": "aniList",
+        "id": "1933"
       }
     ]
   },
@@ -277,6 +381,22 @@
         "begin": "2021-10-01T01:00:00.000Z",
         "broadcast": "R/2021-10-01T01:00:00.000Z/P7D",
         "comment": "Ⅱ: 25058"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/285591"
+      },
+      {
+        "site": "mal",
+        "id": "747"
+      },
+      {
+        "site": "anidb",
+        "id": "2600"
+      },
+      {
+        "site": "aniList",
+        "id": "747"
       }
     ]
   },
@@ -317,6 +437,22 @@
         "id": "27449",
         "begin": "2024-11-28T15:00:00.000Z",
         "broadcast": "R/2024-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/87073"
+      },
+      {
+        "site": "mal",
+        "id": "2111"
+      },
+      {
+        "site": "anidb",
+        "id": "2912"
+      },
+      {
+        "site": "aniList",
+        "id": "2111"
       }
     ]
   }

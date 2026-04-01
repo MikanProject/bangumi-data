@@ -40,6 +40,22 @@
         "id": "24387",
         "begin": "2020-12-11T01:00:00.000Z",
         "broadcast": "R/2020-12-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43055"
+      },
+      {
+        "site": "mal",
+        "id": "9893"
+      },
+      {
+        "site": "anidb",
+        "id": "8173"
+      },
+      {
+        "site": "aniList",
+        "id": "9893"
       }
     ]
   },
@@ -62,6 +78,22 @@
       {
         "site": "bangumi",
         "id": "10184"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/32871"
+      },
+      {
+        "site": "mal",
+        "id": "8986"
+      },
+      {
+        "site": "anidb",
+        "id": "7654"
+      },
+      {
+        "site": "aniList",
+        "id": "8986"
       }
     ]
   },
@@ -87,6 +119,10 @@
         "id": "131672",
         "begin": "2011-02-12T16:00:00.000Z",
         "broadcast": "R/2018-09-07T08:26:26.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34109/season/4"
       }
     ]
   },
@@ -106,6 +142,22 @@
       {
         "site": "bangumi",
         "id": "9820"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/86762/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "9911"
+      },
+      {
+        "site": "aniList",
+        "id": "9911"
+      },
+      {
+        "site": "anidb",
+        "id": "8076"
       }
     ]
   },
@@ -131,6 +183,22 @@
         "id": "2838",
         "begin": "2011-02-24T16:00:00.000Z",
         "broadcast": "R/2015-10-13T15:54:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/118026"
+      },
+      {
+        "site": "mal",
+        "id": "9333"
+      },
+      {
+        "site": "aniList",
+        "id": "9333"
+      },
+      {
+        "site": "anidb",
+        "id": "7884"
       }
     ]
   },
@@ -196,10 +264,20 @@
         "broadcast": "R/2022-03-04T13:00:09.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-289",
-        "begin": "",
-        "broadcast": ""
+        "site": "tmdb",
+        "id": "tv/56343/season/0/episode/17"
+      },
+      {
+        "site": "mal",
+        "id": "9471"
+      },
+      {
+        "site": "anidb",
+        "id": "8085"
+      },
+      {
+        "site": "aniList",
+        "id": "9471"
       }
     ]
   },
@@ -225,6 +303,10 @@
         "id": "3759",
         "begin": "2011-02-22T16:00:01.000Z",
         "broadcast": "R/2016-04-16T10:09:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/29117/season/0/episode/5"
       }
     ]
   },
@@ -269,6 +351,22 @@
         "url": "https://www.disneyplus.com/movies/macross-frontier-the-wings-of-farewell/15MHR7PQMMyE",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/60964"
+      },
+      {
+        "site": "mal",
+        "id": "7222"
+      },
+      {
+        "site": "anidb",
+        "id": "7959"
+      },
+      {
+        "site": "aniList",
+        "id": "7222"
       }
     ]
   },
@@ -295,6 +393,22 @@
         "id": "3525",
         "begin": "2011-02-25T16:00:00.000Z",
         "broadcast": "R/2016-04-01T07:34:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36873/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "9347"
+      },
+      {
+        "site": "anidb",
+        "id": "7579"
+      },
+      {
+        "site": "aniList",
+        "id": "9347"
       }
     ]
   },
@@ -321,6 +435,22 @@
         "id": "957",
         "begin": "2011-02-19T16:00:00.000Z",
         "broadcast": "R/2013-08-28T11:14:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/61695"
+      },
+      {
+        "site": "mal",
+        "id": "9940"
+      },
+      {
+        "site": "anidb",
+        "id": "8087"
+      },
+      {
+        "site": "aniList",
+        "id": "9940"
       }
     ]
   }

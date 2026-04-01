@@ -26,12 +26,6 @@
         "broadcast": "R/2024-06-08T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "54-91",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3356"
       },
@@ -46,6 +40,22 @@
         "id": "27133",
         "begin": "2024-06-07T17:15:00.000Z",
         "broadcast": "R/2024-06-07T17:15:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/255223"
+      },
+      {
+        "site": "mal",
+        "id": "59049"
+      },
+      {
+        "site": "aniList",
+        "id": "178421"
+      },
+      {
+        "site": "anidb",
+        "id": "18637"
       }
     ]
   },
@@ -79,6 +89,22 @@
         "id": "81648184",
         "begin": "2024-06-05T16:00:00.000Z",
         "broadcast": "R/2024-06-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1263421"
+      },
+      {
+        "site": "mal",
+        "id": "58510"
+      },
+      {
+        "site": "anidb",
+        "id": "18557"
+      },
+      {
+        "site": "aniList",
+        "id": "176287"
       }
     ]
   },
@@ -110,6 +136,28 @@
       {
         "site": "disneyplus",
         "id": "4XHzb6tQBRtd",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/255107"
+      },
+      {
+        "site": "mal",
+        "id": "56835"
+      },
+      {
+        "site": "anidb",
+        "id": "15910"
+      },
+      {
+        "site": "aniList",
+        "id": "126830"
+      },
+      {
+        "site": "abema",
+        "id": "182-1451",
         "begin": "",
         "broadcast": ""
       }
@@ -149,6 +197,22 @@
         "id": "81563026",
         "begin": "2024-06-21T16:00:00.000Z",
         "broadcast": "R/2024-06-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/241138"
+      },
+      {
+        "site": "mal",
+        "id": "57487"
+      },
+      {
+        "site": "anidb",
+        "id": "18305"
+      },
+      {
+        "site": "aniList",
+        "id": "171115"
       }
     ]
   },
@@ -164,7 +228,7 @@
     "officialSite": "https://atashinchi30th-anime.shin-ei-animation.jp/",
     "begin": "2024-06-04T16:00:00.000Z",
     "broadcast": "",
-    "end": "2024-10-04T16:00:00.000Z",
+    "end": "2026-03-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -188,6 +252,28 @@
         "id": "27422",
         "begin": "2024-10-05T09:30:00.000Z",
         "broadcast": "R/2024-10-05T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/255083"
+      },
+      {
+        "site": "prime",
+        "id": "B0D57HF2PF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "57822"
+      },
+      {
+        "site": "anidb",
+        "id": "18633"
+      },
+      {
+        "site": "aniList",
+        "id": "173313"
       }
     ]
   },
@@ -234,6 +320,18 @@
         "id": "147269",
         "begin": "2025-09-19T04:00:00.000Z",
         "broadcast": "R/2025-09-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1211716"
+      },
+      {
+        "site": "mal",
+        "id": "57993"
+      },
+      {
+        "site": "aniList",
+        "id": "174383"
       }
     ]
   },
@@ -272,6 +370,22 @@
       {
         "site": "mikan",
         "id": "3515"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1235451"
+      },
+      {
+        "site": "mal",
+        "id": "57915"
+      },
+      {
+        "site": "anidb",
+        "id": "18442"
+      },
+      {
+        "site": "aniList",
+        "id": "173935"
       }
     ]
   },
@@ -299,6 +413,22 @@
         "id": "SID0163810",
         "begin": "2024-12-14T03:00:00.000Z",
         "broadcast": "R/2024-12-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/967265"
+      },
+      {
+        "site": "mal",
+        "id": "51539"
+      },
+      {
+        "site": "anidb",
+        "id": "17302"
+      },
+      {
+        "site": "aniList",
+        "id": "169766"
       }
     ]
   },
@@ -337,6 +467,41 @@
         "id": "SID0242285",
         "begin": "2025-11-08T15:00:00.000Z",
         "broadcast": "R/2025-11-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1244492"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lookback-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28459",
+        "begin": "2025-12-24T15:00:00.000Z",
+        "broadcast": "R/2025-12-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3YCaJzoF5Izp",
+        "url": "https://www.disneyplus.com/movies/look-back/3YCaJzoF5Izp",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "58125"
+      },
+      {
+        "site": "anidb",
+        "id": "18493"
+      },
+      {
+        "site": "aniList",
+        "id": "174788"
       }
     ]
   },
@@ -377,6 +542,10 @@
         "id": "25369199",
         "begin": "2025-11-16T02:00:00.000Z",
         "broadcast": "R/2025-11-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1129610"
       }
     ]
   },
@@ -416,6 +585,22 @@
         "id": "SID0238692",
         "begin": "2025-10-07T15:00:00.000Z",
         "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1266097"
+      },
+      {
+        "site": "mal",
+        "id": "58091"
+      },
+      {
+        "site": "anidb",
+        "id": "18556"
+      },
+      {
+        "site": "aniList",
+        "id": "175573"
       }
     ]
   },
@@ -446,6 +631,22 @@
         "id": "137221",
         "begin": "2025-10-03T04:00:00.000Z",
         "broadcast": "R/2025-10-03T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1309514"
+      },
+      {
+        "site": "mal",
+        "id": "59146"
+      },
+      {
+        "site": "anidb",
+        "id": "18519"
+      },
+      {
+        "site": "aniList",
+        "id": "172965"
       }
     ]
   }

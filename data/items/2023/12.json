@@ -13,6 +13,14 @@
       {
         "site": "bangumi",
         "id": "468115"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/240946"
+      },
+      {
+        "site": "mal",
+        "id": "57522"
       }
     ]
   },
@@ -30,7 +38,20 @@
     "broadcast": "R/2023-12-11T14:45:00.000Z/P7D",
     "end": "2023-12-15T14:50:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "tv/290837/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "57436"
+      },
+      {
+        "site": "aniList",
+        "id": "204547"
+      }
+    ]
   },
   {
     "title": "ポケモンコンシェルジュ",
@@ -62,6 +83,22 @@
         "id": "81186864",
         "begin": "2023-12-28T00:00:00.000Z",
         "broadcast": "R/2023-12-28T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/221301"
+      },
+      {
+        "site": "mal",
+        "id": "54633"
+      },
+      {
+        "site": "anidb",
+        "id": "17883"
+      },
+      {
+        "site": "aniList",
+        "id": "162147"
       }
     ]
   },
@@ -95,6 +132,18 @@
         "id": "27392",
         "begin": "2024-09-30T15:00:00.000Z",
         "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/207250/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "56948"
+      },
+      {
+        "site": "aniList",
+        "id": "170221"
       }
     ]
   },
@@ -148,6 +197,22 @@
         "id": "28226",
         "begin": "2025-09-18T15:00:00.000Z",
         "broadcast": "R/2025-09-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/997086"
+      },
+      {
+        "site": "mal",
+        "id": "49842"
+      },
+      {
+        "site": "aniList",
+        "id": "139359"
+      },
+      {
+        "site": "anidb",
+        "id": "16727"
       }
     ]
   },
@@ -236,6 +301,22 @@
         "url": "https://www.disneyplus.com/movies/rascal-does-not-dream-of-a-knapsack-kid/7HNquVo5J8Da",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1086591"
+      },
+      {
+        "site": "mal",
+        "id": "54870"
+      },
+      {
+        "site": "anidb",
+        "id": "17862"
+      },
+      {
+        "site": "aniList",
+        "id": "161474"
       }
     ]
   },
@@ -267,6 +348,40 @@
       {
         "site": "mikan",
         "id": "3351"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1106904"
+      },
+      {
+        "site": "abema",
+        "id": "35-133",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28497",
+        "begin": "2025-12-07T15:00:00.000Z",
+        "broadcast": "R/2025-12-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FXJVWP5H",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "54764"
+      },
+      {
+        "site": "anidb",
+        "id": "17922"
+      },
+      {
+        "site": "aniList",
+        "id": "162904"
       }
     ]
   },
@@ -296,6 +411,22 @@
         "id": "81565710",
         "begin": "2024-07-04T16:00:00.000Z",
         "broadcast": "R/2024-07-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/913001"
+      },
+      {
+        "site": "mal",
+        "id": "50553"
+      },
+      {
+        "site": "anidb",
+        "id": "17026"
+      },
+      {
+        "site": "aniList",
+        "id": "142494"
       }
     ]
   },
@@ -354,12 +485,6 @@
         "broadcast": "R/2025-01-31T01:50:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-207",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "disneyplus",
         "id": "1TZ98y184xnK",
         "url": "https://www.disneyplus.com/movies/spy-x-family-code-white/1TZ98y184xnK",
@@ -383,6 +508,28 @@
         "id": "B0CW8JK63C",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1062807"
+      },
+      {
+        "site": "nicovideo",
+        "id": "spy-family-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "53888"
+      },
+      {
+        "site": "anidb",
+        "id": "17785"
+      },
+      {
+        "site": "aniList",
+        "id": "158928"
       }
     ]
   },
@@ -420,6 +567,28 @@
         "id": "SID0237772",
         "begin": "2025-10-15T03:00:00.000Z",
         "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1179822"
+      },
+      {
+        "site": "abema",
+        "id": "560-6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "56671"
+      },
+      {
+        "site": "anidb",
+        "id": "18196"
+      },
+      {
+        "site": "aniList",
+        "id": "169362"
       }
     ]
   },

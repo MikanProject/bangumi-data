@@ -35,6 +35,22 @@
         "url": "https://www.disneyplus.com/movies/the-super-dimension-fortress-macross-flash-back-2012/5a5jqWgCmeqA",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/56127"
+      },
+      {
+        "site": "mal",
+        "id": "1504"
+      },
+      {
+        "site": "anidb",
+        "id": "2324"
+      },
+      {
+        "site": "aniList",
+        "id": "1504"
       }
     ]
   },
@@ -70,6 +86,18 @@
         "id": "10423",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "16131"
+      },
+      {
+        "site": "anidb",
+        "id": "1738"
+      },
+      {
+        "site": "aniList",
+        "id": "16131"
       }
     ]
   }

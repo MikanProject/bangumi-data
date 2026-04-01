@@ -39,6 +39,22 @@
         "id": "20323",
         "begin": "2015-09-04T01:00:00.000Z",
         "broadcast": "R/2015-09-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/35435"
+      },
+      {
+        "site": "mal",
+        "id": "6372"
+      },
+      {
+        "site": "anidb",
+        "id": "6636"
+      },
+      {
+        "site": "aniList",
+        "id": "6372"
       }
     ]
   },
@@ -83,6 +99,22 @@
         "id": "20152",
         "begin": "2017-11-17T01:00:00.000Z",
         "broadcast": "R/2017-11-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/64809"
+      },
+      {
+        "site": "mal",
+        "id": "5084"
+      },
+      {
+        "site": "aniList",
+        "id": "5084"
+      },
+      {
+        "site": "anidb",
+        "id": "6589"
       }
     ]
   },
@@ -121,6 +153,22 @@
         "url": "https://www.disneyplus.com/movies/macross-frontier-the-false-songstress/6DYWR2ihQC4m",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/48625"
+      },
+      {
+        "site": "mal",
+        "id": "5310"
+      },
+      {
+        "site": "anidb",
+        "id": "6655"
+      },
+      {
+        "site": "aniList",
+        "id": "5310"
       }
     ]
   },
@@ -158,6 +206,22 @@
         "id": "25117",
         "begin": "2021-12-01T01:00:00.000Z",
         "broadcast": "R/2021-12-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42887/season/0/episode/6"
+      },
+      {
+        "site": "mal",
+        "id": "7044"
+      },
+      {
+        "site": "anidb",
+        "id": "7214"
+      },
+      {
+        "site": "aniList",
+        "id": "7044"
       }
     ]
   },
@@ -185,6 +249,10 @@
         "id": "SID0003392",
         "begin": "2020-12-28T03:00:00.000Z",
         "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/84507"
       }
     ]
   }

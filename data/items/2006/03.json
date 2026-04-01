@@ -34,6 +34,22 @@
         "id": "20019",
         "begin": "2015-03-06T01:00:00.000Z",
         "broadcast": "R/2015-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22827"
+      },
+      {
+        "site": "mal",
+        "id": "789"
+      },
+      {
+        "site": "anidb",
+        "id": "3572"
+      },
+      {
+        "site": "aniList",
+        "id": "789"
       }
     ]
   },
@@ -106,6 +122,22 @@
         "begin": "",
         "broadcast": "",
         "comment": "Semifinal: 203-20, Final: 203-21"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/209423"
+      },
+      {
+        "site": "mal",
+        "id": "995"
+      },
+      {
+        "site": "anidb",
+        "id": "4244"
+      },
+      {
+        "site": "aniList",
+        "id": "995"
       }
     ]
   },
@@ -147,7 +179,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-115",
         "begin": "",
         "broadcast": ""
       },
@@ -168,6 +200,22 @@
         "id": "B0F8YKT2HB",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/70841"
+      },
+      {
+        "site": "mal",
+        "id": "2392"
+      },
+      {
+        "site": "anidb",
+        "id": "4757"
+      },
+      {
+        "site": "aniList",
+        "id": "2392"
       }
     ]
   },
@@ -204,6 +252,10 @@
         "id": "27909",
         "begin": "2025-04-10T15:00:00.000Z",
         "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/30606"
       }
     ]
   },
@@ -245,6 +297,22 @@
         "id": "10027",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/109080"
+      },
+      {
+        "site": "mal",
+        "id": "1773"
+      },
+      {
+        "site": "anidb",
+        "id": "3038"
+      },
+      {
+        "site": "aniList",
+        "id": "1773"
       }
     ]
   },
@@ -253,6 +321,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 机关城的机械巨兵"
+      ],
+      "en": [
+        "One Piece 7: Mega Mecha Soldier of Karakuri Castle"
       ]
     },
     "type": "movie",
@@ -272,16 +343,33 @@
         "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-178",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26994",
         "begin": "2024-03-07T15:00:00.000Z",
         "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44730"
+      },
+      {
+        "site": "disneyplus",
+        "id": "68j0HUhtdXNW",
+        "url": "https://www.disneyplus.com/movies/one-piece-7-mega-mecha-soldier-of-karakuri-castle/68j0HUhtdXNW",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "465"
+      },
+      {
+        "site": "aniList",
+        "id": "465"
+      },
+      {
+        "site": "anidb",
+        "id": "4097"
       }
     ]
   },
@@ -301,6 +389,22 @@
       {
         "site": "bangumi",
         "id": "33319"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/87066"
+      },
+      {
+        "site": "mal",
+        "id": "1202"
+      },
+      {
+        "site": "anidb",
+        "id": "4156"
+      },
+      {
+        "site": "aniList",
+        "id": "1202"
       }
     ]
   },
@@ -320,6 +424,10 @@
       {
         "site": "bangumi",
         "id": "764"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67256/season/0"
       }
     ]
   },
@@ -367,6 +475,22 @@
         "id": "22213",
         "begin": "2018-07-10T03:00:00.000Z",
         "broadcast": "R/2018-07-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/103368"
+      },
+      {
+        "site": "mal",
+        "id": "2407"
+      },
+      {
+        "site": "anidb",
+        "id": "3569"
+      },
+      {
+        "site": "aniList",
+        "id": "2407"
       }
     ]
   },
@@ -392,6 +516,22 @@
         "id": "4935",
         "begin": "2016-06-19T04:32:00.000Z",
         "broadcast": "R/2016-06-19T04:32:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/437525"
+      },
+      {
+        "site": "mal",
+        "id": "2181"
+      },
+      {
+        "site": "anidb",
+        "id": "3112"
+      },
+      {
+        "site": "aniList",
+        "id": "2181"
       }
     ]
   },
@@ -429,6 +569,22 @@
         "id": "22788",
         "begin": "2023-08-27T15:00:00.000Z",
         "broadcast": "R/2023-08-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/482054"
+      },
+      {
+        "site": "mal",
+        "id": "3659"
+      },
+      {
+        "site": "anidb",
+        "id": "4319"
+      },
+      {
+        "site": "aniList",
+        "id": "3659"
       }
     ]
   },
@@ -458,6 +614,22 @@
         "id": "10208",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/470693"
+      },
+      {
+        "site": "mal",
+        "id": "994"
+      },
+      {
+        "site": "anidb",
+        "id": "4363"
+      },
+      {
+        "site": "aniList",
+        "id": "994"
       }
     ]
   },

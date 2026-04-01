@@ -47,6 +47,22 @@
         "id": "24394",
         "begin": "2020-12-25T01:00:00.000Z",
         "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/76866"
+      },
+      {
+        "site": "mal",
+        "id": "36593"
+      },
+      {
+        "site": "anidb",
+        "id": "13526"
+      },
+      {
+        "site": "aniList",
+        "id": "100661"
       }
     ]
   },
@@ -66,6 +82,18 @@
       {
         "site": "bangumi",
         "id": "238831"
+      },
+      {
+        "site": "mal",
+        "id": "37244"
+      },
+      {
+        "site": "anidb",
+        "id": "13773"
+      },
+      {
+        "site": "aniList",
+        "id": "129844"
       }
     ]
   },
@@ -96,6 +124,22 @@
         "site": "mgtv",
         "id": "321908",
         "begin": "2018-02-23T02:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69344/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "36522"
+      },
+      {
+        "site": "anidb",
+        "id": "13503"
+      },
+      {
+        "site": "aniList",
+        "id": "100813"
       }
     ]
   },
@@ -121,6 +165,22 @@
         "id": "tokires-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/483457"
+      },
+      {
+        "site": "mal",
+        "id": "36204"
+      },
+      {
+        "site": "anidb",
+        "id": "13403"
+      },
+      {
+        "site": "aniList",
+        "id": "99893"
       }
     ]
   },
@@ -149,6 +209,28 @@
       {
         "site": "mikan",
         "id": "1873"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/476294"
+      },
+      {
+        "site": "mal",
+        "id": "36197"
+      },
+      {
+        "site": "anidb",
+        "id": "13400"
+      },
+      {
+        "site": "aniList",
+        "id": "101078"
+      },
+      {
+        "site": "prime",
+        "id": "B07G1VXFFX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -165,6 +247,10 @@
       {
         "site": "bangumi",
         "id": "237133"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68415/season/3"
       }
     ]
   },
@@ -217,6 +303,16 @@
         "url": "https://www.disneyplus.com/movies/code-geass-lelouch-of-the-rebellion-ii-transgression/OQ3OkN24meQu",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/477777"
+      },
+      {
+        "site": "abema",
+        "id": "13-84",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -255,6 +351,22 @@
         "id": "26589",
         "begin": "2023-09-29T15:00:00.000Z",
         "broadcast": "R/2023-09-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/476292"
+      },
+      {
+        "site": "mal",
+        "id": "35851"
+      },
+      {
+        "site": "anidb",
+        "id": "13262"
+      },
+      {
+        "site": "aniList",
+        "id": "99457"
       }
     ]
   },
@@ -300,6 +412,22 @@
       {
         "site": "mikan",
         "id": "1661"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/496349"
+      },
+      {
+        "site": "mal",
+        "id": "36077"
+      },
+      {
+        "site": "anidb",
+        "id": "13360"
+      },
+      {
+        "site": "aniList",
+        "id": "101126"
       }
     ]
   }

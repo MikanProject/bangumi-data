@@ -27,6 +27,22 @@
         "id": "10472",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68639"
+      },
+      {
+        "site": "mal",
+        "id": "5781"
+      },
+      {
+        "site": "anidb",
+        "id": "6304"
+      },
+      {
+        "site": "aniList",
+        "id": "5781"
       }
     ]
   },
@@ -46,6 +62,22 @@
       {
         "site": "bangumi",
         "id": "3190"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/23527"
+      },
+      {
+        "site": "mal",
+        "id": "5178"
+      },
+      {
+        "site": "anidb",
+        "id": "4401"
+      },
+      {
+        "site": "aniList",
+        "id": "5178"
       }
     ]
   },
@@ -105,6 +137,10 @@
         "id": "203-22",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67267"
       }
     ]
   },
@@ -124,6 +160,10 @@
       {
         "site": "bangumi",
         "id": "2430"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/82180"
       }
     ]
   },
@@ -143,6 +183,22 @@
       {
         "site": "bangumi",
         "id": "3424"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/57036"
+      },
+      {
+        "site": "mal",
+        "id": "5177"
+      },
+      {
+        "site": "aniList",
+        "id": "5177"
+      },
+      {
+        "site": "anidb",
+        "id": "6322"
       }
     ]
   },
@@ -168,6 +224,18 @@
         "id": "1180",
         "begin": "2011-02-24T10:15:00.000Z",
         "broadcast": "R/2011-02-24T10:15:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/24835/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "6351"
+      },
+      {
+        "site": "aniList",
+        "id": "6351"
       }
     ]
   }

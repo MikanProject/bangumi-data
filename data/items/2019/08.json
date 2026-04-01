@@ -28,6 +28,18 @@
         "id": "22705",
         "begin": "2019-05-17T03:00:00.000Z",
         "broadcast": "R/2019-05-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/107974/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "40167"
+      },
+      {
+        "site": "aniList",
+        "id": "111144"
       }
     ]
   },
@@ -78,12 +90,6 @@
         "id": "2109"
       },
       {
-        "site": "abema",
-        "id": "184-184",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "27000",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -94,6 +100,29 @@
         "id": "B0DB9GK331",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/568012"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5BXdRi0QmMO7",
+        "url": "https://www.disneyplus.com/movies/one-piece-stampede/5BXdRi0QmMO7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "38234"
+      },
+      {
+        "site": "anidb",
+        "id": "14318"
+      },
+      {
+        "site": "aniList",
+        "id": "105143"
       }
     ]
   },
@@ -126,6 +155,10 @@
         "id": "SID0043686",
         "begin": "2025-10-15T03:00:00.000Z",
         "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70972/season/3"
       }
     ]
   },
@@ -186,6 +219,22 @@
         "id": "B0FJW85NMP",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/532067"
+      },
+      {
+        "site": "mal",
+        "id": "38040"
+      },
+      {
+        "site": "anidb",
+        "id": "13310"
+      },
+      {
+        "site": "aniList",
+        "id": "102976"
       }
     ]
   },
@@ -220,6 +269,14 @@
         "id": "107158",
         "begin": "2019-08-16T09:00:00.000Z",
         "broadcast": "R/2019-08-16T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/225744"
+      },
+      {
+        "site": "mal",
+        "id": "47838"
       }
     ]
   },
@@ -252,6 +309,22 @@
         "id": "81170086",
         "begin": "2020-02-12T16:00:00.000Z",
         "broadcast": "R/2020-02-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/592867"
+      },
+      {
+        "site": "mal",
+        "id": "39274"
+      },
+      {
+        "site": "anidb",
+        "id": "14685"
+      },
+      {
+        "site": "aniList",
+        "id": "107905"
       }
     ]
   },
@@ -278,6 +351,10 @@
         "id": "80200027",
         "begin": "2018-12-02T16:00:00.000Z",
         "broadcast": "R/2018-12-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/84646/season/2"
       }
     ]
   },
@@ -316,6 +393,22 @@
         "id": "B07Z94648T",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/594188"
+      },
+      {
+        "site": "mal",
+        "id": "39235"
+      },
+      {
+        "site": "anidb",
+        "id": "14679"
+      },
+      {
+        "site": "aniList",
+        "id": "107727"
       }
     ]
   },
@@ -344,12 +437,6 @@
         "id": "304835"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucj4dm20skcKMRAIG4ttibAl",
-        "begin": "2021-04-18T16:00:00.000Z",
-        "broadcast": "R/2021-04-18T16:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "ninjabox",
         "begin": "2019-11-22T15:00:00.000Z",
@@ -360,6 +447,18 @@
         "id": "23238",
         "begin": "2020-02-13T07:00:00.000Z",
         "broadcast": "R/2020-02-13T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "40103"
+      },
+      {
+        "site": "anidb",
+        "id": "15009"
+      },
+      {
+        "site": "aniList",
+        "id": "111126"
       }
     ]
   },
@@ -381,6 +480,22 @@
       {
         "site": "bangumi",
         "id": "262519"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80732/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "38450"
+      },
+      {
+        "site": "anidb",
+        "id": "14428"
+      },
+      {
+        "site": "aniList",
+        "id": "104458"
       }
     ]
   }

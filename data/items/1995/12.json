@@ -27,6 +27,22 @@
         "id": "11057",
         "begin": "2017-06-01T01:00:00.000Z",
         "broadcast": "R/2017-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/28460"
+      },
+      {
+        "site": "mal",
+        "id": "1240"
+      },
+      {
+        "site": "anidb",
+        "id": "2153"
+      },
+      {
+        "site": "aniList",
+        "id": "1240"
       }
     ]
   },
@@ -46,6 +62,34 @@
       {
         "site": "bangumi",
         "id": "3627"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/42994"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017137",
+        "begin": "2025-12-22T15:00:00.000Z",
+        "broadcast": "R/2025-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23705",
+        "begin": "2025-12-22T15:00:00.000Z",
+        "broadcast": "R/2025-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1462"
+      },
+      {
+        "site": "anidb",
+        "id": "262"
+      },
+      {
+        "site": "aniList",
+        "id": "1462"
       }
     ]
   },
@@ -80,6 +124,18 @@
         "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
         "begin": "2022-11-15T16:00:00.000Z",
         "broadcast": "R/2022-11-17T02:52:42.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30669/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "2126"
+      },
+      {
+        "site": "aniList",
+        "id": "2126"
       }
     ]
   },
@@ -105,6 +161,22 @@
         "id": "5471",
         "begin": "2016-08-24T03:45:00.000Z",
         "broadcast": "R/2016-08-24T03:45:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/357673"
+      },
+      {
+        "site": "mal",
+        "id": "3421"
+      },
+      {
+        "site": "anidb",
+        "id": "2905"
+      },
+      {
+        "site": "aniList",
+        "id": "3421"
       }
     ]
   },
@@ -138,6 +210,18 @@
         "id": "11058",
         "begin": "2017-06-01T01:00:00.000Z",
         "broadcast": "R/2017-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/315945"
+      },
+      {
+        "site": "mal",
+        "id": "1278"
+      },
+      {
+        "site": "aniList",
+        "id": "1278"
       }
     ]
   },
@@ -172,6 +256,22 @@
         "id": "SID0015517",
         "begin": "2025-10-20T15:00:00.000Z",
         "broadcast": "R/2025-10-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97421"
+      },
+      {
+        "site": "mal",
+        "id": "12347"
+      },
+      {
+        "site": "aniList",
+        "id": "12347"
+      },
+      {
+        "site": "anidb",
+        "id": "19355"
       }
     ]
   },
@@ -207,6 +307,22 @@
         "begin": "2023-02-24T01:00:00.000Z",
         "broadcast": "R/2023-02-24T01:00:00.000Z/P7D",
         "comment": "VOYAGE2: 22663, VOYAGE3: 22664"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/246643"
+      },
+      {
+        "site": "mal",
+        "id": "2881"
+      },
+      {
+        "site": "anidb",
+        "id": "1185"
+      },
+      {
+        "site": "aniList",
+        "id": "2881"
       }
     ]
   }

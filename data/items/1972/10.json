@@ -32,6 +32,22 @@
         "id": "20237",
         "begin": "2015-07-24T01:00:00.000Z",
         "broadcast": "R/2015-07-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45356"
+      },
+      {
+        "site": "mal",
+        "id": "5618"
+      },
+      {
+        "site": "anidb",
+        "id": "4953"
+      },
+      {
+        "site": "aniList",
+        "id": "5618"
       }
     ]
   },
@@ -74,12 +90,6 @@
         "broadcast": "R/2017-03-17T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-209",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tropics",
         "id": "PLoGVqODys23CynJ60aTyjVAQaGVwMDCY-",
         "begin": "",
@@ -96,6 +106,22 @@
         "id": "36327",
         "begin": "2025-11-07T04:00:00.000Z",
         "broadcast": "R/2025-11-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13549"
+      },
+      {
+        "site": "mal",
+        "id": "2389"
+      },
+      {
+        "site": "anidb",
+        "id": "3513"
+      },
+      {
+        "site": "aniList",
+        "id": "2389"
       }
     ]
   },
@@ -121,6 +147,22 @@
         "id": "2482",
         "begin": "2014-06-02T14:56:31.000Z",
         "broadcast": "R/2014-06-02T14:56:31.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44479"
+      },
+      {
+        "site": "mal",
+        "id": "5311"
+      },
+      {
+        "site": "anidb",
+        "id": "3079"
+      },
+      {
+        "site": "aniList",
+        "id": "5311"
       }
     ]
   }

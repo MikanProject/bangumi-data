@@ -36,6 +36,22 @@
         "id": "24433",
         "begin": "2022-02-28T15:00:00.000Z",
         "broadcast": "R/2022-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/155382/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "1239"
+      },
+      {
+        "site": "anidb",
+        "id": "2540"
+      },
+      {
+        "site": "aniList",
+        "id": "1239"
       }
     ]
   },
@@ -77,6 +93,22 @@
         "id": "B0DSJS8C2N",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39107"
+      },
+      {
+        "site": "mal",
+        "id": "905"
+      },
+      {
+        "site": "anidb",
+        "id": "1071"
+      },
+      {
+        "site": "aniList",
+        "id": "905"
       }
     ]
   },
@@ -119,6 +151,22 @@
         "id": "B015AFGIE6",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/338382"
+      },
+      {
+        "site": "mal",
+        "id": "2498"
+      },
+      {
+        "site": "anidb",
+        "id": "697"
+      },
+      {
+        "site": "aniList",
+        "id": "2498"
       }
     ]
   },
@@ -151,7 +199,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-105",
         "begin": "",
         "broadcast": ""
       },
@@ -160,6 +208,22 @@
         "id": "SID0099860",
         "begin": "2024-03-05T03:00:00.000Z",
         "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/162069"
+      },
+      {
+        "site": "mal",
+        "id": "2674"
+      },
+      {
+        "site": "aniList",
+        "id": "2674"
+      },
+      {
+        "site": "anidb",
+        "id": "6585"
       }
     ]
   },
@@ -186,6 +250,22 @@
         "id": "m/mzc00200rpjb37v",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/25079"
+      },
+      {
+        "site": "mal",
+        "id": "1116"
+      },
+      {
+        "site": "anidb",
+        "id": "1325"
+      },
+      {
+        "site": "aniList",
+        "id": "1116"
       }
     ]
   },
@@ -213,6 +293,12 @@
         "id": "SID0069612",
         "begin": "2022-06-27T03:00:00.000Z",
         "broadcast": "R/2022-06-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24936",
+        "begin": "2025-12-21T15:00:00.000Z",
+        "broadcast": "R/2025-12-21T15:00:00.000Z/P7D"
       }
     ]
   }

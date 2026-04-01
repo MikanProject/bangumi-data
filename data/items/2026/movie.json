@@ -9,9 +9,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://lookback-anime.com/",
-    "begin": "2024-06-28T00:00:00Z",
+    "begin": "2024-06-28T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-01-21T00:00:00Z",
+    "bdReleaseDate": "2026-01-21T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -30,9 +30,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://maidragon.jp/movie",
-    "begin": "2025-06-27T00:00:00Z",
+    "begin": "2025-06-27T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-01-21T00:00:00Z",
+    "bdReleaseDate": "2026-01-21T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -51,9 +51,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://pripri-anime.jp/",
-    "begin": "2025-05-23T00:00:00Z",
+    "begin": "2025-05-23T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-01-28T00:00:00Z",
+    "bdReleaseDate": "2026-01-28T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -72,9 +72,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://2025.precure-movie.com/",
-    "begin": "2025-09-12T00:00:00Z",
+    "begin": "2025-09-12T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-01-28T00:00:00Z",
+    "bdReleaseDate": "2026-01-28T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -93,9 +93,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://gaga.ne.jp/asone/",
-    "begin": "2025-08-22T00:00:00Z",
+    "begin": "2025-08-22T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-02-04T00:00:00Z",
+    "bdReleaseDate": "2026-02-04T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -114,9 +114,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://kinpri.com/",
-    "begin": "2025-06-27T00:00:00Z",
+    "begin": "2025-06-27T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-02-25T00:00:00Z",
+    "bdReleaseDate": "2026-02-25T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -135,9 +135,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://www.shinchan-movie.com/2025/",
-    "begin": "2025-08-08T00:00:00Z",
+    "begin": "2025-08-08T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-02-25T00:00:00Z",
+    "bdReleaseDate": "2026-02-25T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -156,9 +156,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://odekake-kozame.com/",
-    "begin": "2025-08-22T00:00:00Z",
+    "begin": "2025-08-22T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-02-25T00:00:00Z",
+    "bdReleaseDate": "2026-02-25T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -177,9 +177,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://aikatsu-pripara-10movie.jp/",
-    "begin": "2025-10-10T00:00:00Z",
+    "begin": "2025-10-10T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-03-18T00:00:00Z",
+    "bdReleaseDate": "2026-03-18T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -198,9 +198,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://lupinthe3rd.com/",
-    "begin": "2025-06-27T00:00:00Z",
+    "begin": "2025-06-27T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-03-25T00:00:00Z",
+    "bdReleaseDate": "2026-03-25T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -219,14 +219,203 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://sh-anime.shochiku.co.jp/alice-movie/",
-    "begin": "2025-08-29T00:00:00Z",
+    "begin": "2025-08-29T00:00:00.000Z",
     "end": "",
-    "bdReleaseDate": "2026-03-25T00:00:00Z",
+    "bdReleaseDate": "2026-03-25T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "533335"
+      }
+    ]
+  },
+  {
+    "title": "映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 Love Live! 虹咲学园校园偶像同好会 完结篇 第2章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.lovelive-anime.jp/nijigasaki/movie/Chapter2/",
+    "begin": "2025-11-07T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-03-25T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442615"
+      }
+    ]
+  },
+  {
+    "title": "映画 ヒプノシスマイク -Division Rap Battle-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 催眠麦克风"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hypnosismic-movie.com/",
+    "begin": "2025-02-21T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-05-13T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "523821"
+      }
+    ]
+  },
+  {
+    "title": "ひゃくえむ。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百米。"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hyakuemu-anime.com/",
+    "begin": "2025-09-19T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-05-27T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "496135"
+      }
+    ]
+  },
+  {
+    "title": "ゾンビランドサガ ゆめぎんがパラダイス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "佐贺偶像是传奇 梦想银河乐园"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://zombielandsaga-movie.com/",
+    "begin": "2025-10-24T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-05-27T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "353181"
+      }
+    ]
+  },
+  {
+    "title": "果てしなきスカーレット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无尽的斯嘉丽"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://scarlet-movie.jp/",
+    "begin": "2025-11-21T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-05-27T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "530158"
+      }
+    ]
+  },
+  {
+    "title": "トリツカレ男",
+    "titleTranslate": {
+      "zh-Hans": [
+        "トリツカレ男"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://toritsukareotoko-movie.com/",
+    "begin": "2025-11-07T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-06-24T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "559815"
+      }
+    ]
+  },
+  {
+    "title": "ペリリュー -楽園のゲルニカ-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "贝里琉岛 -乐园的格尔尼卡"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://peleliu-movie.jp/",
+    "begin": "2025-12-05T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-06-24T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "332677"
+      }
+    ]
+  },
+  {
+    "title": "迷宮のしおり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷宫的栞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/meikyu-shiori/",
+    "begin": "2026-01-01T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-08-26T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "567684"
+      }
+    ]
+  },
+  {
+    "title": "映画 すみっコぐらし 空の王国とふたりのコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "映画 すみっコぐらし 空の王国とふたりのコ"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/",
+    "begin": "2025-10-31T00:00:00.000Z",
+    "end": "",
+    "bdReleaseDate": "2026-09-30T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "545844"
       }
     ]
   }

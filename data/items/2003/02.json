@@ -35,6 +35,22 @@
         "id": "22625",
         "begin": "2022-08-01T01:00:00.000Z",
         "broadcast": "R/2022-08-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34821"
+      },
+      {
+        "site": "mal",
+        "id": "1946"
+      },
+      {
+        "site": "anidb",
+        "id": "520"
+      },
+      {
+        "site": "aniList",
+        "id": "1946"
       }
     ]
   },
@@ -54,6 +70,22 @@
       {
         "site": "bangumi",
         "id": "38431"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45012"
+      },
+      {
+        "site": "mal",
+        "id": "7048"
+      },
+      {
+        "site": "aniList",
+        "id": "7048"
+      },
+      {
+        "site": "anidb",
+        "id": "714"
       }
     ]
   },
@@ -93,6 +125,22 @@
       {
         "site": "bangumi",
         "id": "10357"
+      },
+      {
+        "site": "mal",
+        "id": "138"
+      },
+      {
+        "site": "anidb",
+        "id": "545"
+      },
+      {
+        "site": "aniList",
+        "id": "138"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45952/season/0/episode/9"
       }
     ]
   },
@@ -126,6 +174,22 @@
         "id": "10286",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/101219"
+      },
+      {
+        "site": "mal",
+        "id": "1708"
+      },
+      {
+        "site": "anidb",
+        "id": "709"
+      },
+      {
+        "site": "aniList",
+        "id": "1708"
       }
     ]
   },

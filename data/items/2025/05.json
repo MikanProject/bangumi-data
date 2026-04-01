@@ -30,6 +30,22 @@
         "id": "PLCUrmruTKw_Yie_ppFNtR_5_coID6jf1h",
         "begin": "2025-05-15T16:00:00.000Z",
         "broadcast": "R/2025-05-15T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/291674"
+      },
+      {
+        "site": "mal",
+        "id": "60200"
+      },
+      {
+        "site": "anidb",
+        "id": "19401"
+      },
+      {
+        "site": "aniList",
+        "id": "185778"
       }
     ]
   },
@@ -56,10 +72,22 @@
         "id": "244931"
       },
       {
+        "site": "tmdb",
+        "id": "movie/1438229"
+      },
+      {
         "site": "unext",
         "id": "SID0212207",
-        "begin": "2025-08-08T03:00:00.000Z",
-        "broadcast": "R/2025-08-08T03:00:00.000Z/P7D"
+        "begin": "2026-01-27T15:00:00.000Z",
+        "broadcast": "R/2026-01-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "57093"
+      },
+      {
+        "site": "aniList",
+        "id": "186716"
       }
     ]
   },
@@ -87,6 +115,22 @@
         "id": "SID0235378",
         "begin": "2025-10-01T03:00:00.000Z",
         "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1448628"
+      },
+      {
+        "site": "mal",
+        "id": "57622"
+      },
+      {
+        "site": "anidb",
+        "id": "18961"
+      },
+      {
+        "site": "aniList",
+        "id": "172393"
       }
     ]
   },
@@ -120,6 +164,114 @@
         "id": "SID0240268",
         "begin": "2025-10-31T15:00:00.000Z",
         "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1106916"
+      },
+      {
+        "site": "prime",
+        "id": "B0FQMK7SK9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "54705"
+      },
+      {
+        "site": "anidb",
+        "id": "17905"
+      },
+      {
+        "site": "aniList",
+        "id": "162682"
+      }
+    ]
+  },
+  {
+    "title": "たべっ子どうぶつ THE MOVIE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "愉快动物饼干 电影版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tabekko-movie.com/",
+    "begin": "2025-04-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-04-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "507943"
+      },
+      {
+        "site": "unext",
+        "id": "SID0243651",
+        "begin": "2025-11-27T15:00:00.000Z",
+        "broadcast": "R/2025-11-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1329578"
+      },
+      {
+        "site": "mal",
+        "id": "61198"
+      },
+      {
+        "site": "anidb",
+        "id": "19048"
+      },
+      {
+        "site": "aniList",
+        "id": "180124"
+      }
+    ]
+  },
+  {
+    "title": "呪術廻戦 懐玉・玉折 総集編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咒术回战 怀玉·玉折 总集篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.jujutsukaisen.jp/",
+    "begin": "2025-05-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-05-29T17:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "509599"
+      },
+      {
+        "site": "unext",
+        "id": "SID0247204",
+        "begin": "2025-12-16T15:00:00.000Z",
+        "broadcast": "R/2025-12-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "59654"
+      },
+      {
+        "site": "aniList",
+        "id": "192809"
+      },
+      {
+        "site": "anidb",
+        "id": "18835"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1338799"
       }
     ]
   }

@@ -1,5 +1,38 @@
 [
   {
+    "title": "おかしなさばくのスナとマヌ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://suna-manu.com/",
+    "begin": "2021-02-13T17:50:00.000Z",
+    "broadcast": "R/2021-02-13T17:50:00.000Z/P7D",
+    "end": "2022-02-01T18:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "326921"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/122469"
+      },
+      {
+        "site": "mal",
+        "id": "45207"
+      },
+      {
+        "site": "anidb",
+        "id": "15942"
+      },
+      {
+        "site": "aniList",
+        "id": "127691"
+      }
+    ]
+  },
+  {
     "title": "トロピカル～ジュ！プリキュア",
     "titleTranslate": {
       "en": [
@@ -45,6 +78,22 @@
         "id": "25872",
         "begin": "2022-12-01T01:00:00.000Z",
         "broadcast": "R/2022-12-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/119787"
+      },
+      {
+        "site": "mal",
+        "id": "44191"
+      },
+      {
+        "site": "anidb",
+        "id": "15872"
+      },
+      {
+        "site": "aniList",
+        "id": "126905"
       }
     ]
   },
@@ -91,6 +140,22 @@
         "id": "24482",
         "begin": "2021-02-13T15:00:00.000Z",
         "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95203"
+      },
+      {
+        "site": "mal",
+        "id": "39990"
+      },
+      {
+        "site": "aniList",
+        "id": "110200"
+      },
+      {
+        "site": "anidb",
+        "id": "14966"
       }
     ]
   },
@@ -173,6 +238,22 @@
         "id": "B0F5G2LYVZ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/85937/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "47398"
+      },
+      {
+        "site": "anidb",
+        "id": "16056"
+      },
+      {
+        "site": "aniList",
+        "id": "129627"
       }
     ]
   },
@@ -211,6 +292,18 @@
         "id": "SID0060711",
         "begin": "2021-08-29T15:00:00.000Z",
         "broadcast": "R/2021-08-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/784500"
+      },
+      {
+        "site": "mal",
+        "id": "40429"
+      },
+      {
+        "site": "aniList",
+        "id": "103712"
       }
     ]
   },
@@ -258,6 +351,22 @@
         "id": "B0DYKBLXR8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/801293"
+      },
+      {
+        "site": "mal",
+        "id": "47413"
+      },
+      {
+        "site": "anidb",
+        "id": "15999"
+      },
+      {
+        "site": "aniList",
+        "id": "131770"
       }
     ]
   },
@@ -308,16 +417,26 @@
         "broadcast": ""
       },
       {
-        "site": "gamer_hk",
-        "id": "120583",
-        "begin": "2021-11-19T08:00:00.000Z",
-        "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "25858",
         "begin": "2022-10-08T01:00:00.000Z",
         "broadcast": "R/2022-10-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/126323"
+      },
+      {
+        "site": "mal",
+        "id": "41842"
+      },
+      {
+        "site": "aniList",
+        "id": "123476"
+      },
+      {
+        "site": "anidb",
+        "id": "15536"
       }
     ]
   },
@@ -347,6 +466,18 @@
         "id": "116199",
         "begin": "2023-10-20T04:00:00.000Z",
         "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/673423"
+      },
+      {
+        "site": "mal",
+        "id": "41290"
+      },
+      {
+        "site": "anidb",
+        "id": "15395"
       }
     ]
   },
@@ -387,6 +518,18 @@
         "id": "25933",
         "begin": "2022-12-22T15:00:00.000Z",
         "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/542507"
+      },
+      {
+        "site": "mal",
+        "id": "37807"
+      },
+      {
+        "site": "aniList",
+        "id": "101595"
       }
     ]
   },
@@ -412,6 +555,22 @@
       {
         "site": "mikan",
         "id": "2415"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/118465"
+      },
+      {
+        "site": "mal",
+        "id": "47537"
+      },
+      {
+        "site": "aniList",
+        "id": "130296"
+      },
+      {
+        "site": "anidb",
+        "id": "16046"
       }
     ]
   },
@@ -443,6 +602,22 @@
         "id": "25009",
         "begin": "2021-09-24T01:00:00.000Z",
         "broadcast": "R/2021-09-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/676643"
+      },
+      {
+        "site": "mal",
+        "id": "41307"
+      },
+      {
+        "site": "anidb",
+        "id": "15399"
+      },
+      {
+        "site": "aniList",
+        "id": "116069"
       }
     ]
   }

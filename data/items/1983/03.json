@@ -20,6 +20,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/290981"
+      },
+      {
+        "site": "mal",
+        "id": "7667"
+      },
+      {
+        "site": "anidb",
+        "id": "2275"
+      },
+      {
+        "site": "aniList",
+        "id": "7667"
       }
     ]
   },
@@ -53,7 +69,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-93",
         "begin": "",
         "broadcast": ""
       },
@@ -62,6 +78,22 @@
         "id": "SID0099847",
         "begin": "2024-03-05T03:00:00.000Z",
         "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/147576"
+      },
+      {
+        "site": "mal",
+        "id": "2667"
+      },
+      {
+        "site": "aniList",
+        "id": "2667"
+      },
+      {
+        "site": "anidb",
+        "id": "6596"
       }
     ]
   },
@@ -81,6 +113,22 @@
       {
         "site": "bangumi",
         "id": "37215"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19412"
+      },
+      {
+        "site": "mal",
+        "id": "5891"
+      },
+      {
+        "site": "anidb",
+        "id": "1929"
+      },
+      {
+        "site": "aniList",
+        "id": "5891"
       }
     ]
   },
@@ -118,6 +166,28 @@
         "id": "B0847L3ZM5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/49734"
+      },
+      {
+        "site": "danime",
+        "id": "28387",
+        "begin": "2025-12-01T15:00:00.000Z",
+        "broadcast": "R/2025-12-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3072"
+      },
+      {
+        "site": "anidb",
+        "id": "1956"
+      },
+      {
+        "site": "aniList",
+        "id": "3072"
       }
     ]
   },
@@ -151,6 +221,22 @@
         "id": "SID0014707",
         "begin": "2025-10-20T15:00:00.000Z",
         "broadcast": "R/2025-10-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/76729"
+      },
+      {
+        "site": "mal",
+        "id": "2722"
+      },
+      {
+        "site": "anidb",
+        "id": "2058"
+      },
+      {
+        "site": "aniList",
+        "id": "2722"
       }
     ]
   }

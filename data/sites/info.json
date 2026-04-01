@@ -2,5 +2,21 @@
   "bangumi": {
     "title": "番组计划",
     "urlTemplate": "https://bangumi.tv/subject/{{id}}"
+  },
+  "tmdb": {
+    "title": "The Movie DB",
+    "urlTemplate": "https://www.themoviedb.org/{{id}}"
+  },
+  "anidb": {
+    "title": "AniDB",
+    "urlTemplate": "https://anidb.net/anime/{{id}}"
+  },
+  "aniList": {
+    "title": "AniList",
+    "urlTemplate": "https://anilist.co/anime/{{id}}"
+  },
+  "mal": {
+    "title": "MyAnimeList",
+    "urlTemplate": "https://myanimelist.net/anime/{{id}}"
   }
 }

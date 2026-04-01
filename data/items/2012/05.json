@@ -20,6 +20,22 @@
       {
         "site": "bangumi",
         "id": "39496"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/959919"
+      },
+      {
+        "site": "mal",
+        "id": "12695"
+      },
+      {
+        "site": "anidb",
+        "id": "8919"
+      },
+      {
+        "site": "aniList",
+        "id": "12695"
       }
     ]
   },
@@ -56,6 +72,22 @@
         "id": "B0918XKFYX",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/186969"
+      },
+      {
+        "site": "mal",
+        "id": "6219"
+      },
+      {
+        "site": "anidb",
+        "id": "8928"
+      },
+      {
+        "site": "aniList",
+        "id": "6219"
       }
     ]
   },
@@ -75,6 +107,10 @@
       {
         "site": "bangumi",
         "id": "43139"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66209"
       }
     ]
   },
@@ -95,6 +131,22 @@
       {
         "site": "bangumi",
         "id": "140988"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1032332"
+      },
+      {
+        "site": "mal",
+        "id": "17010"
+      },
+      {
+        "site": "aniList",
+        "id": "17010"
+      },
+      {
+        "site": "anidb",
+        "id": "9263"
       }
     ]
   },
@@ -120,6 +172,22 @@
         "site": "bilibili",
         "id": "4541",
         "begin": "2012-04-30T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/739614"
+      },
+      {
+        "site": "mal",
+        "id": "13835"
+      },
+      {
+        "site": "aniList",
+        "id": "13835"
+      },
+      {
+        "site": "anidb",
+        "id": "8867"
       }
     ]
   },
@@ -147,6 +215,22 @@
         "id": "GYE5XGK9R",
         "begin": "2012-07-02T11:00:00.000Z",
         "broadcast": "R/2012-07-02T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/53093"
+      },
+      {
+        "site": "mal",
+        "id": "13427"
+      },
+      {
+        "site": "anidb",
+        "id": "9121"
+      },
+      {
+        "site": "aniList",
+        "id": "13427"
       }
     ]
   }

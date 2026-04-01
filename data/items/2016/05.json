@@ -19,6 +19,10 @@
       {
         "site": "mikan",
         "id": "2094"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68415"
       }
     ]
   },
@@ -56,6 +60,14 @@
         "begin": "2022-08-24T01:00:00.000Z",
         "broadcast": "R/2022-08-24T01:00:00.000Z/P7D",
         "comment": "弐ノ皿　 OVA: 25763, 餐ノ皿　OVA: 25764"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62273/season/0/episode/2"
+      },
+      {
+        "site": "anidb",
+        "id": "11664"
       }
     ]
   },
@@ -75,6 +87,10 @@
       {
         "site": "bangumi",
         "id": "148096"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62255/season/0/episode/11"
       }
     ]
   },
@@ -94,6 +110,18 @@
       {
         "site": "bangumi",
         "id": "181439"
+      },
+      {
+        "site": "mal",
+        "id": "33247"
+      },
+      {
+        "site": "aniList",
+        "id": "21808"
+      },
+      {
+        "site": "anidb",
+        "id": "12109"
       }
     ]
   },
@@ -113,6 +141,10 @@
       {
         "site": "bangumi",
         "id": "153195"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62430/season/0/episode/10"
       }
     ]
   },
@@ -136,6 +168,18 @@
       {
         "site": "mikan",
         "id": "1206"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65292/season/0"
+      },
+      {
+        "site": "anidb",
+        "id": "11758"
+      },
+      {
+        "site": "aniList",
+        "id": "21487"
       }
     ]
   },
@@ -193,12 +237,6 @@
         "broadcast": "R/2020-08-19T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "112276",
-        "begin": "2020-07-11T12:00:00.000Z",
-        "broadcast": "R/2020-07-11T12:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "24148",
         "begin": "2020-08-18T15:00:00.000Z",
@@ -209,6 +247,10 @@
         "id": "B0F494QWF5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60863/season/0/episode/2"
       }
     ]
   },
@@ -232,6 +274,18 @@
       {
         "site": "mikan",
         "id": "1155"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/374191"
+      },
+      {
+        "site": "mal",
+        "id": "30869"
+      },
+      {
+        "site": "aniList",
+        "id": "21505"
       }
     ]
   },
@@ -258,6 +312,18 @@
         "id": "28233833",
         "begin": "2021-03-01T11:27:00.000Z",
         "broadcast": "R/2021-03-01T11:27:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/459290"
+      },
+      {
+        "site": "mal",
+        "id": "32888"
+      },
+      {
+        "site": "aniList",
+        "id": "100658"
       }
     ]
   },
@@ -291,6 +357,22 @@
         "id": "22439",
         "begin": "2018-10-01T01:00:00.000Z",
         "broadcast": "R/2018-10-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/374195"
+      },
+      {
+        "site": "mal",
+        "id": "28539"
+      },
+      {
+        "site": "anidb",
+        "id": "11790"
+      },
+      {
+        "site": "aniList",
+        "id": "21426"
       }
     ]
   },
@@ -343,6 +425,22 @@
         "id": "SID0102317",
         "begin": "2025-07-01T03:00:00.000Z",
         "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/488161"
+      },
+      {
+        "site": "mal",
+        "id": "33130"
+      },
+      {
+        "site": "aniList",
+        "id": "21779"
+      },
+      {
+        "site": "anidb",
+        "id": "12070"
       }
     ]
   }

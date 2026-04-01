@@ -37,6 +37,22 @@
         "id": "11295",
         "begin": "2023-02-28T01:00:00.000Z",
         "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34173"
+      },
+      {
+        "site": "mal",
+        "id": "1327"
+      },
+      {
+        "site": "anidb",
+        "id": "1840"
+      },
+      {
+        "site": "aniList",
+        "id": "1327"
       }
     ]
   },
@@ -56,6 +72,22 @@
       {
         "site": "bangumi",
         "id": "38326"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60862"
+      },
+      {
+        "site": "mal",
+        "id": "666"
+      },
+      {
+        "site": "anidb",
+        "id": "788"
+      },
+      {
+        "site": "aniList",
+        "id": "666"
       }
     ]
   },
@@ -75,6 +107,22 @@
       {
         "site": "bangumi",
         "id": "63333"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28954/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "12715"
+      },
+      {
+        "site": "anidb",
+        "id": "3353"
+      },
+      {
+        "site": "aniList",
+        "id": "12715"
       }
     ]
   },
@@ -106,6 +154,22 @@
         "id": "23496",
         "begin": "2020-04-10T01:00:00.000Z",
         "broadcast": "R/2020-04-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44243"
+      },
+      {
+        "site": "mal",
+        "id": "4578"
+      },
+      {
+        "site": "anidb",
+        "id": "3580"
+      },
+      {
+        "site": "aniList",
+        "id": "4578"
       }
     ]
   },
@@ -139,6 +203,22 @@
         "id": "bonobono-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/643277"
+      },
+      {
+        "site": "mal",
+        "id": "8416"
+      },
+      {
+        "site": "anidb",
+        "id": "7523"
+      },
+      {
+        "site": "aniList",
+        "id": "8416"
       }
     ]
   },
@@ -162,6 +242,22 @@
         "id": "SID0093078",
         "begin": "2023-10-01T03:00:00.000Z",
         "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1505701"
+      },
+      {
+        "site": "mal",
+        "id": "22615"
+      },
+      {
+        "site": "aniList",
+        "id": "187584"
+      },
+      {
+        "site": "anidb",
+        "id": "7793"
       }
     ]
   }

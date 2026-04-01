@@ -72,6 +72,22 @@
         "id": "3caNQEt8Sljs",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46437"
+      },
+      {
+        "site": "mal",
+        "id": "12031"
+      },
+      {
+        "site": "anidb",
+        "id": "8791"
+      },
+      {
+        "site": "aniList",
+        "id": "12031"
       }
     ]
   },
@@ -106,6 +122,22 @@
       {
         "site": "bangumi",
         "id": "40081"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60572/season/15"
+      },
+      {
+        "site": "mal",
+        "id": "14093"
+      },
+      {
+        "site": "anidb",
+        "id": "9216"
+      },
+      {
+        "site": "aniList",
+        "id": "14093"
       }
     ]
   },
@@ -125,6 +157,10 @@
       {
         "site": "bangumi",
         "id": "47730"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1274258"
       }
     ]
   },
@@ -150,6 +186,22 @@
         "id": "4524",
         "begin": "2012-06-15T16:00:00.000Z",
         "broadcast": "R/2016-06-06T08:20:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/582751"
+      },
+      {
+        "site": "mal",
+        "id": "14479"
+      },
+      {
+        "site": "anidb",
+        "id": "9277"
+      },
+      {
+        "site": "aniList",
+        "id": "14479"
       }
     ]
   },
@@ -177,6 +229,18 @@
         "site": "nicovideo",
         "id": "berserkfilm",
         "begin": "2017-03-03T06:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/118412"
+      },
+      {
+        "site": "mal",
+        "id": "12113"
+      },
+      {
+        "site": "aniList",
+        "id": "12113"
       }
     ]
   },
@@ -224,6 +288,22 @@
         "id": "10789",
         "begin": "2013-04-09T01:00:00.000Z",
         "broadcast": "R/2013-04-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/168273"
+      },
+      {
+        "site": "mal",
+        "id": "11001"
+      },
+      {
+        "site": "anidb",
+        "id": "8885"
+      },
+      {
+        "site": "aniList",
+        "id": "11001"
       }
     ]
   },
@@ -243,6 +323,22 @@
       {
         "site": "bangumi",
         "id": "41612"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62742/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "13055"
+      },
+      {
+        "site": "anidb",
+        "id": "8969"
+      },
+      {
+        "site": "aniList",
+        "id": "13055"
       }
     ]
   },
@@ -263,6 +359,18 @@
       {
         "site": "bangumi",
         "id": "45841"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/222766"
+      },
+      {
+        "site": "mal",
+        "id": "15219"
+      },
+      {
+        "site": "aniList",
+        "id": "15219"
       }
     ]
   },
@@ -292,6 +400,22 @@
         "id": "SID0091388",
         "begin": "2023-09-01T03:00:00.000Z",
         "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/171823"
+      },
+      {
+        "site": "mal",
+        "id": "10681"
+      },
+      {
+        "site": "anidb",
+        "id": "8375"
+      },
+      {
+        "site": "aniList",
+        "id": "10681"
       }
     ]
   }

@@ -28,6 +28,22 @@
         "id": "10960",
         "begin": "2013-09-06T01:00:00.000Z",
         "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34089"
+      },
+      {
+        "site": "mal",
+        "id": "964"
+      },
+      {
+        "site": "anidb",
+        "id": "1532"
+      },
+      {
+        "site": "aniList",
+        "id": "964"
       }
     ]
   },
@@ -47,6 +63,10 @@
       {
         "site": "bangumi",
         "id": "211556"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22208/season/2"
       }
     ]
   },
@@ -106,6 +126,22 @@
       {
         "site": "bangumi",
         "id": "3498"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36287"
+      },
+      {
+        "site": "mal",
+        "id": "1085"
+      },
+      {
+        "site": "anidb",
+        "id": "1645"
+      },
+      {
+        "site": "aniList",
+        "id": "1085"
       }
     ]
   },
@@ -142,7 +178,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-114",
         "begin": "",
         "broadcast": ""
       },
@@ -163,6 +199,22 @@
         "id": "B0FK8NHPXZ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/192904"
+      },
+      {
+        "site": "mal",
+        "id": "2656"
+      },
+      {
+        "site": "anidb",
+        "id": "1951"
+      },
+      {
+        "site": "aniList",
+        "id": "2656"
       }
     ]
   },
@@ -182,6 +234,22 @@
       {
         "site": "bangumi",
         "id": "10358"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45952/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "139"
+      },
+      {
+        "site": "anidb",
+        "id": "1427"
+      },
+      {
+        "site": "aniList",
+        "id": "139"
       }
     ]
   },
@@ -214,6 +282,28 @@
         "id": "25132",
         "begin": "2021-11-12T01:00:00.000Z",
         "broadcast": "R/2021-11-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/12140"
+      },
+      {
+        "site": "mal",
+        "id": "468"
+      },
+      {
+        "site": "anidb",
+        "id": "890"
+      },
+      {
+        "site": "aniList",
+        "id": "468"
+      },
+      {
+        "site": "prime",
+        "id": "B0B8RK9MZW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -246,12 +336,6 @@
         "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-176",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26992",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -263,6 +347,22 @@
         "url": "https://www.disneyplus.com/movies/one-piece-5-the-curse-of-the-sacred-sword/4oAycZszRjaf",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44728"
+      },
+      {
+        "site": "mal",
+        "id": "463"
+      },
+      {
+        "site": "aniList",
+        "id": "463"
+      },
+      {
+        "site": "anidb",
+        "id": "2036"
       }
     ]
   }

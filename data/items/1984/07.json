@@ -21,6 +21,22 @@
         "id": "5565",
         "begin": "2016-09-22T02:12:00.000Z",
         "broadcast": "R/2016-09-22T02:12:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/333942"
+      },
+      {
+        "site": "mal",
+        "id": "11221"
+      },
+      {
+        "site": "anidb",
+        "id": "4161"
+      },
+      {
+        "site": "aniList",
+        "id": "11221"
       }
     ]
   },
@@ -62,6 +78,22 @@
         "url": "https://www.disneyplus.com/movies/the-super-dimension-fortress-macross-do-you-remember-love/wFw1QF2srJ7o",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/14132"
+      },
+      {
+        "site": "mal",
+        "id": "1089"
+      },
+      {
+        "site": "anidb",
+        "id": "996"
+      },
+      {
+        "site": "aniList",
+        "id": "1089"
       }
     ]
   },
@@ -95,6 +127,22 @@
         "id": "20314",
         "begin": "2020-02-01T01:00:00.000Z",
         "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/311127"
+      },
+      {
+        "site": "mal",
+        "id": "3273"
+      },
+      {
+        "site": "aniList",
+        "id": "3273"
+      },
+      {
+        "site": "anidb",
+        "id": "2133"
       }
     ]
   },
@@ -124,6 +172,22 @@
         "id": "24054",
         "begin": "2020-08-14T01:00:00.000Z",
         "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/3149"
+      },
+      {
+        "site": "mal",
+        "id": "1333"
+      },
+      {
+        "site": "anidb",
+        "id": "4208"
+      },
+      {
+        "site": "aniList",
+        "id": "1333"
       }
     ]
   },
@@ -157,6 +221,22 @@
         "id": "23769",
         "begin": "2024-06-27T15:00:00.000Z",
         "broadcast": "R/2024-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35678"
+      },
+      {
+        "site": "mal",
+        "id": "2039"
+      },
+      {
+        "site": "anidb",
+        "id": "499"
+      },
+      {
+        "site": "aniList",
+        "id": "2039"
       }
     ]
   }

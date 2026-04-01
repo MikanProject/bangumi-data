@@ -33,6 +33,28 @@
         "id": "B0CW35X4WK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/175066"
+      },
+      {
+        "site": "danime",
+        "id": "28386",
+        "begin": "2025-12-01T15:00:00.000Z",
+        "broadcast": "R/2025-12-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3069"
+      },
+      {
+        "site": "anidb",
+        "id": "2239"
+      },
+      {
+        "site": "aniList",
+        "id": "3069"
       }
     ]
   },
@@ -66,6 +88,22 @@
         "id": "24076",
         "begin": "2020-08-14T01:00:00.000Z",
         "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/121647"
+      },
+      {
+        "site": "mal",
+        "id": "5862"
+      },
+      {
+        "site": "anidb",
+        "id": "4456"
+      },
+      {
+        "site": "aniList",
+        "id": "5862"
       }
     ]
   }

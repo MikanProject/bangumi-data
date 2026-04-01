@@ -23,6 +23,10 @@
       {
         "site": "bangumi",
         "id": "481865"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/199928"
       }
     ]
   },
@@ -51,6 +55,22 @@
         "id": "81054847",
         "begin": "2024-12-04T16:00:00.000Z",
         "broadcast": "R/2024-12-04T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/90937/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "49469"
+      },
+      {
+        "site": "anidb",
+        "id": "16443"
+      },
+      {
+        "site": "aniList",
+        "id": "136880"
       }
     ]
   },
@@ -101,6 +121,22 @@
         "id": "27645",
         "begin": "2025-01-23T18:00:00.000Z",
         "broadcast": "R/2025-01-23T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1287324"
+      },
+      {
+        "site": "mal",
+        "id": "58755"
+      },
+      {
+        "site": "anidb",
+        "id": "18603"
+      },
+      {
+        "site": "aniList",
+        "id": "177191"
       }
     ]
   },
@@ -140,6 +176,22 @@
         "id": "13-195",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/284880/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "59458"
+      },
+      {
+        "site": "anidb",
+        "id": "18797"
+      },
+      {
+        "site": "aniList",
+        "id": "187507"
       }
     ]
   },
@@ -167,6 +219,22 @@
         "id": "SID0184518",
         "begin": "2025-04-09T15:00:00.000Z",
         "broadcast": "R/2025-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1279788"
+      },
+      {
+        "site": "mal",
+        "id": "58201"
+      },
+      {
+        "site": "anidb",
+        "id": "18505"
+      },
+      {
+        "site": "aniList",
+        "id": "175138"
       }
     ]
   },
@@ -202,6 +270,22 @@
         "begin": "2025-04-30T15:00:00.000Z",
         "broadcast": "R/2025-04-30T15:00:00.000Z/P7D",
         "comment": "もっとふりかえる！安達と黒沢のプレミアコメンタリー: 27950"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363560"
+      },
+      {
+        "site": "mal",
+        "id": "58549"
+      },
+      {
+        "site": "aniList",
+        "id": "176470"
+      },
+      {
+        "site": "anidb",
+        "id": "18821"
       }
     ]
   },
@@ -229,6 +313,22 @@
         "id": "28055",
         "begin": "2025-06-30T15:00:00.000Z",
         "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1346722"
+      },
+      {
+        "site": "mal",
+        "id": "59709"
+      },
+      {
+        "site": "anidb",
+        "id": "18848"
+      },
+      {
+        "site": "aniList",
+        "id": "180804"
       }
     ]
   },
@@ -256,6 +356,83 @@
         "id": "28055",
         "begin": "2025-06-30T15:00:00.000Z",
         "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1346726"
+      },
+      {
+        "site": "mal",
+        "id": "59710"
+      },
+      {
+        "site": "anidb",
+        "id": "18849"
+      },
+      {
+        "site": "aniList",
+        "id": "180806"
+      }
+    ]
+  },
+  {
+    "title": "時光代理人 -LINK CLICK- 英都篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光代理人 英都篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-12-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "456165"
+      },
+      {
+        "site": "unext",
+        "id": "SID0251575",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "link-click3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/123542/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "56752"
+      },
+      {
+        "site": "anidb",
+        "id": "19078"
+      },
+      {
+        "site": "aniList",
+        "id": "170166"
+      },
+      {
+        "site": "danime",
+        "id": "28629",
+        "begin": "2026-02-04T16:50:00.000Z",
+        "broadcast": "R/2026-02-04T16:50:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GKCDM9C3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

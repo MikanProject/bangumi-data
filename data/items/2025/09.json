@@ -17,6 +17,28 @@
       {
         "site": "bangumi",
         "id": "556075"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/298889"
+      },
+      {
+        "site": "danime",
+        "id": "28406",
+        "begin": "2025-11-28T15:00:00.000Z",
+        "broadcast": "R/2025-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "62268"
+      },
+      {
+        "site": "anidb",
+        "id": "19568"
+      },
+      {
+        "site": "aniList",
+        "id": "198408"
       }
     ]
   },
@@ -101,6 +123,22 @@
       {
         "site": "bangumi_moe",
         "id": "68e3e200aaf82561f9a74e0e"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/276349"
+      },
+      {
+        "site": "mal",
+        "id": "60254"
+      },
+      {
+        "site": "anidb",
+        "id": "18971"
+      },
+      {
+        "site": "aniList",
+        "id": "183965"
       }
     ]
   },
@@ -182,6 +220,22 @@
       {
         "site": "bangumi_moe",
         "id": "68e3e205aaf82561f9a74e26"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/294867"
+      },
+      {
+        "site": "mal",
+        "id": "61917"
+      },
+      {
+        "site": "anidb",
+        "id": "19415"
+      },
+      {
+        "site": "aniList",
+        "id": "195153"
       }
     ]
   },
@@ -250,6 +304,18 @@
       {
         "site": "mikan",
         "id": "3805"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/299555"
+      },
+      {
+        "site": "mal",
+        "id": "62352"
+      },
+      {
+        "site": "anidb",
+        "id": "19560"
       }
     ]
   },
@@ -284,6 +350,22 @@
         "id": "74iKLCPD4TvJ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/286691"
+      },
+      {
+        "site": "mal",
+        "id": "60347"
+      },
+      {
+        "site": "anidb",
+        "id": "19004"
+      },
+      {
+        "site": "aniList",
+        "id": "184718"
       }
     ]
   },
@@ -315,6 +397,22 @@
       {
         "site": "mikan",
         "id": "3799"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1218925"
+      },
+      {
+        "site": "mal",
+        "id": "57555"
+      },
+      {
+        "site": "anidb",
+        "id": "18324"
+      },
+      {
+        "site": "aniList",
+        "id": "171627"
       }
     ]
   },
@@ -342,6 +440,72 @@
         "id": "81186864",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/221301"
+      },
+      {
+        "site": "mal",
+        "id": "58953"
+      },
+      {
+        "site": "aniList",
+        "id": "175035"
+      },
+      {
+        "site": "anidb",
+        "id": "19559"
+      }
+    ]
+  },
+  {
+    "title": "ひゃくえむ。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百米。"
+      ],
+      "zh-Hant": [
+        "極速一百米。",
+        "一百公尺"
+      ],
+      "en": [
+        "100 Meters"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hyakuemu-anime.com/",
+    "begin": "2025-09-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-18T17:47:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "496135"
+      },
+      {
+        "site": "netflix",
+        "id": "81785821",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3882"
+      },
+      {
+        "site": "mal",
+        "id": "58919"
+      },
+      {
+        "site": "anidb",
+        "id": "18648"
+      },
+      {
+        "site": "aniList",
+        "id": "177687"
       }
     ]
   }

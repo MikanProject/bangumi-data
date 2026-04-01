@@ -48,12 +48,6 @@
         "id": "6681471e57ba1568dc1b07ec"
       },
       {
-        "site": "abema",
-        "id": "26-226",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3411"
       },
@@ -64,17 +58,26 @@
         "broadcast": "R/2024-08-07T15:30:00.000Z/P7D"
       },
       {
-        "site": "danime",
-        "id": "27212",
-        "begin": "2024-08-11T03:00:00.000Z",
-        "broadcast": "R/2024-08-11T03:00:00.000Z/P7D",
-        "comment": "特別番組: 27249"
-      },
-      {
         "site": "prime",
         "id": "B0DC9YXD13",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/232252"
+      },
+      {
+        "site": "mal",
+        "id": "56179"
+      },
+      {
+        "site": "anidb",
+        "id": "18148"
+      },
+      {
+        "site": "aniList",
+        "id": "167991"
       }
     ]
   },
@@ -110,6 +113,22 @@
         "id": "81217220",
         "begin": "2024-08-28T16:00:00.000Z",
         "broadcast": "R/2024-08-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/239287"
+      },
+      {
+        "site": "mal",
+        "id": "59390"
+      },
+      {
+        "site": "anidb",
+        "id": "18275"
+      },
+      {
+        "site": "aniList",
+        "id": "177814"
       }
     ]
   },
@@ -143,6 +162,22 @@
         "id": "28353",
         "begin": "2025-10-15T15:00:00.000Z",
         "broadcast": "R/2025-10-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1294084"
+      },
+      {
+        "site": "mal",
+        "id": "58894"
+      },
+      {
+        "site": "anidb",
+        "id": "19155"
+      },
+      {
+        "site": "aniList",
+        "id": "177680"
       }
     ]
   },
@@ -176,6 +211,22 @@
         "id": "SID0156252",
         "begin": "2024-08-30T01:00:00.000Z",
         "broadcast": "R/2024-08-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/970522"
+      },
+      {
+        "site": "mal",
+        "id": "52085"
+      },
+      {
+        "site": "anidb",
+        "id": "17463"
+      },
+      {
+        "site": "aniList",
+        "id": "151017"
       }
     ]
   },
@@ -232,6 +283,35 @@
         "id": "B0DJSSSH2Y",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1159311"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3n34kKblpE11",
+        "url": "https://www.disneyplus.com/movies/my-hero-academia-youre-next/3n34kKblpE11",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "heroaca-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "56196"
+      },
+      {
+        "site": "anidb",
+        "id": "18150"
+      },
+      {
+        "site": "aniList",
+        "id": "168013"
       }
     ]
   },
@@ -275,6 +355,28 @@
         "id": "82026163",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1221404"
+      },
+      {
+        "site": "mal",
+        "id": "57499"
+      },
+      {
+        "site": "anidb",
+        "id": "18306"
+      },
+      {
+        "site": "aniList",
+        "id": "171145"
+      },
+      {
+        "site": "abema",
+        "id": "35-55",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -306,6 +408,28 @@
       {
         "site": "mikan",
         "id": "3513"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1056444"
+      },
+      {
+        "site": "danime",
+        "id": "28590",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "53747"
+      },
+      {
+        "site": "anidb",
+        "id": "17753"
+      },
+      {
+        "site": "aniList",
+        "id": "158166"
       }
     ]
   },
@@ -346,6 +470,10 @@
         "id": "25369044",
         "begin": "2025-11-23T02:00:00.000Z",
         "broadcast": "R/2025-11-23T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1201387"
       }
     ]
   },
@@ -375,6 +503,24 @@
         "id": "27989",
         "begin": "2025-06-01T01:00:00.000Z",
         "broadcast": "R/2025-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1337268"
+      },
+      {
+        "site": "unext",
+        "id": "SID0186019",
+        "begin": "2025-05-01T01:00:00.000Z",
+        "broadcast": "R/2025-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "18553"
+      },
+      {
+        "site": "aniList",
+        "id": "176275"
       }
     ]
   }

@@ -21,6 +21,22 @@
         "id": "11322",
         "begin": "2014-06-27T01:00:00.000Z",
         "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43417"
+      },
+      {
+        "site": "mal",
+        "id": "370"
+      },
+      {
+        "site": "aniList",
+        "id": "370"
+      },
+      {
+        "site": "anidb",
+        "id": "493"
       }
     ]
   },
@@ -63,6 +79,22 @@
         "id": "3LASMOXob8Fi",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1373767"
+      },
+      {
+        "site": "mal",
+        "id": "1398"
+      },
+      {
+        "site": "anidb",
+        "id": "497"
+      },
+      {
+        "site": "aniList",
+        "id": "1398"
       }
     ]
   },
@@ -90,6 +122,46 @@
       {
         "site": "bangumi",
         "id": "13554"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39977"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017448",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-114",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "rurouni-kenshin-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "46"
+      },
+      {
+        "site": "aniList",
+        "id": "46"
+      },
+      {
+        "site": "anidb",
+        "id": "422"
+      },
+      {
+        "site": "danime",
+        "id": "21729",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -132,6 +204,22 @@
         "id": "11093",
         "begin": "2014-01-10T01:00:00.000Z",
         "broadcast": "R/2014-01-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/74944"
+      },
+      {
+        "site": "mal",
+        "id": "1165"
+      },
+      {
+        "site": "anidb",
+        "id": "489"
+      },
+      {
+        "site": "aniList",
+        "id": "1165"
       }
     ]
   }

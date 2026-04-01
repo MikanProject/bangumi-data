@@ -34,6 +34,22 @@
         "id": "27444",
         "begin": "2024-11-28T15:00:00.000Z",
         "broadcast": "R/2024-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/5653"
+      },
+      {
+        "site": "mal",
+        "id": "1710"
+      },
+      {
+        "site": "anidb",
+        "id": "146"
+      },
+      {
+        "site": "aniList",
+        "id": "1710"
       }
     ]
   },
@@ -75,7 +91,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-112",
         "begin": "",
         "broadcast": ""
       },
@@ -90,6 +106,22 @@
         "id": "32224",
         "begin": "2023-03-16T02:00:00.000Z",
         "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/162095"
+      },
+      {
+        "site": "mal",
+        "id": "2655"
+      },
+      {
+        "site": "anidb",
+        "id": "6582"
+      },
+      {
+        "site": "aniList",
+        "id": "2655"
       }
     ]
   },
@@ -114,6 +146,22 @@
       {
         "site": "bangumi",
         "id": "95526"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132166"
+      },
+      {
+        "site": "mal",
+        "id": "425"
+      },
+      {
+        "site": "anidb",
+        "id": "1192"
+      },
+      {
+        "site": "aniList",
+        "id": "425"
       }
     ]
   },
@@ -150,6 +198,10 @@
         "id": "23620",
         "begin": "2022-12-16T01:00:00.000Z",
         "broadcast": "R/2022-12-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43032/season/0/episode/22"
       }
     ]
   },
@@ -196,6 +248,22 @@
         "id": "38224",
         "begin": "2025-10-01T04:00:00.000Z",
         "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/16402"
+      },
+      {
+        "site": "mal",
+        "id": "1290"
+      },
+      {
+        "site": "anidb",
+        "id": "537"
+      },
+      {
+        "site": "aniList",
+        "id": "1290"
       }
     ]
   },
@@ -226,12 +294,6 @@
         "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-174",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26990",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -243,6 +305,22 @@
         "url": "https://www.disneyplus.com/movies/one-piece-3-choppers-kingdom-in-the-strange-animal-island/48Du8tzRtcPv",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44725"
+      },
+      {
+        "site": "mal",
+        "id": "461"
+      },
+      {
+        "site": "aniList",
+        "id": "461"
+      },
+      {
+        "site": "anidb",
+        "id": "1253"
       }
     ]
   },
@@ -279,6 +357,22 @@
         "id": "20858",
         "begin": "2020-02-01T01:00:00.000Z",
         "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/36199"
+      },
+      {
+        "site": "mal",
+        "id": "3033"
+      },
+      {
+        "site": "anidb",
+        "id": "1475"
+      },
+      {
+        "site": "aniList",
+        "id": "3033"
       }
     ]
   },
@@ -313,6 +407,18 @@
         "id": "103955",
         "begin": "2025-10-01T04:00:00.000Z",
         "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2733"
+      },
+      {
+        "site": "anidb",
+        "id": "770"
+      },
+      {
+        "site": "aniList",
+        "id": "2733"
       }
     ]
   },
@@ -338,6 +444,22 @@
         "id": "10385",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115967"
+      },
+      {
+        "site": "mal",
+        "id": "337"
+      },
+      {
+        "site": "anidb",
+        "id": "157"
+      },
+      {
+        "site": "aniList",
+        "id": "337"
       }
     ]
   },
@@ -369,6 +491,22 @@
         "id": "10231",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25015"
+      },
+      {
+        "site": "mal",
+        "id": "1706"
+      },
+      {
+        "site": "anidb",
+        "id": "1209"
+      },
+      {
+        "site": "aniList",
+        "id": "1706"
       }
     ]
   },
@@ -405,6 +543,10 @@
         "id": "10216",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/969251"
       }
     ]
   },
@@ -445,6 +587,22 @@
         "id": "11427",
         "begin": "2014-09-05T01:00:00.000Z",
         "broadcast": "R/2014-09-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/30491"
+      },
+      {
+        "site": "mal",
+        "id": "1141"
+      },
+      {
+        "site": "anidb",
+        "id": "604"
+      },
+      {
+        "site": "aniList",
+        "id": "1141"
       }
     ]
   },
@@ -471,6 +629,10 @@
         "id": "1883",
         "begin": "2013-03-30T08:08:00.000Z",
         "broadcast": "R/2013-03-30T08:08:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27244/season/0"
       }
     ]
   }

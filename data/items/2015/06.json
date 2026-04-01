@@ -30,6 +30,22 @@
       {
         "site": "bangumi",
         "id": "137937"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/299732"
+      },
+      {
+        "site": "mal",
+        "id": "31499"
+      },
+      {
+        "site": "aniList",
+        "id": "102598"
+      },
+      {
+        "site": "anidb",
+        "id": "12119"
       }
     ]
   },
@@ -61,6 +77,22 @@
         "id": "21051",
         "begin": "2022-09-01T01:00:00.000Z",
         "broadcast": "R/2022-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/358632"
+      },
+      {
+        "site": "mal",
+        "id": "30585"
+      },
+      {
+        "site": "anidb",
+        "id": "11186"
+      },
+      {
+        "site": "aniList",
+        "id": "21140"
       }
     ]
   },
@@ -85,6 +117,10 @@
         "site": "youku",
         "id": "3da01e7c1ecd11e5b2ad",
         "begin": "2015-12-31T14:15:48.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42942/season/0/episode/5"
       }
     ]
   },
@@ -125,6 +161,22 @@
         "id": "118347",
         "begin": "2021-07-02T02:40:00.000Z",
         "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/387931"
+      },
+      {
+        "site": "mal",
+        "id": "30790"
+      },
+      {
+        "site": "anidb",
+        "id": "11252"
+      },
+      {
+        "site": "aniList",
+        "id": "21194"
       }
     ]
   },
@@ -194,6 +246,10 @@
         "begin": "2021-01-19T12:00:09.000Z",
         "broadcast": "R/2021-01-19T12:00:09.000Z/P7D",
         "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/330081"
       }
     ]
   },
@@ -220,6 +276,10 @@
         "id": "longwaynorth",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/345775"
       }
     ]
   },
@@ -252,6 +312,22 @@
         "id": "22230",
         "begin": "2021-09-16T15:00:00.000Z",
         "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/334376"
+      },
+      {
+        "site": "mal",
+        "id": "27411"
+      },
+      {
+        "site": "anidb",
+        "id": "10824"
+      },
+      {
+        "site": "aniList",
+        "id": "21057"
       }
     ]
   },
@@ -318,6 +394,22 @@
         "id": "PL12UaAf_xzfpbW9dg5kL4hlE3nhOEtJb_",
         "begin": "2023-01-14T10:00:28.000Z",
         "broadcast": "R/2023-01-14T10:00:28.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/333623"
+      },
+      {
+        "site": "mal",
+        "id": "24997"
+      },
+      {
+        "site": "anidb",
+        "id": "10720"
+      },
+      {
+        "site": "aniList",
+        "id": "20766"
       }
     ]
   },
@@ -351,6 +443,10 @@
         "id": "25022",
         "begin": "2021-09-16T15:00:00.000Z",
         "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1157408"
       }
     ]
   }

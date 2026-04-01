@@ -38,6 +38,22 @@
         "id": "B015AFFOLY",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/338380"
+      },
+      {
+        "site": "mal",
+        "id": "1861"
+      },
+      {
+        "site": "anidb",
+        "id": "696"
+      },
+      {
+        "site": "aniList",
+        "id": "1861"
       }
     ]
   },
@@ -82,6 +98,22 @@
         "id": "2lRVFfWlJ9Bh",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21733"
+      },
+      {
+        "site": "mal",
+        "id": "474"
+      },
+      {
+        "site": "anidb",
+        "id": "67"
+      },
+      {
+        "site": "aniList",
+        "id": "474"
       }
     ]
   },
@@ -121,6 +153,22 @@
         "id": "11405",
         "begin": "2014-08-08T01:00:00.000Z",
         "broadcast": "R/2014-08-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/12613"
+      },
+      {
+        "site": "mal",
+        "id": "1362"
+      },
+      {
+        "site": "aniList",
+        "id": "1362"
+      },
+      {
+        "site": "anidb",
+        "id": "313"
       }
     ]
   },
@@ -155,6 +203,22 @@
         "id": "SID0012867",
         "begin": "2024-04-15T03:00:00.000Z",
         "broadcast": "R/2024-04-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/239757"
+      },
+      {
+        "site": "mal",
+        "id": "6472"
+      },
+      {
+        "site": "anidb",
+        "id": "5456"
+      },
+      {
+        "site": "aniList",
+        "id": "6472"
       }
     ]
   }

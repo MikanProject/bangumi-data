@@ -64,6 +64,29 @@
         "id": "26567",
         "begin": "2025-07-31T15:00:00.000Z",
         "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/768744"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2IFPzrzN7JW9",
+        "url": "https://www.disneyplus.com/movies/my-hero-academia-world-heroes-mission/2IFPzrzN7JW9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "44200"
+      },
+      {
+        "site": "anidb",
+        "id": "15873"
+      },
+      {
+        "site": "aniList",
+        "id": "126659"
       }
     ]
   },
@@ -103,6 +126,22 @@
       {
         "site": "mikan",
         "id": "2639"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/760758"
+      },
+      {
+        "site": "mal",
+        "id": "43755"
+      },
+      {
+        "site": "anidb",
+        "id": "15831"
+      },
+      {
+        "site": "aniList",
+        "id": "125838"
       }
     ]
   },
@@ -157,6 +196,22 @@
         "id": "SID0195531",
         "begin": "2025-05-23T15:00:00.000Z",
         "broadcast": "R/2025-05-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/745115"
+      },
+      {
+        "site": "mal",
+        "id": "41462"
+      },
+      {
+        "site": "anidb",
+        "id": "15444"
+      },
+      {
+        "site": "aniList",
+        "id": "116610"
       }
     ]
   },
@@ -222,6 +277,22 @@
         "id": "26289",
         "begin": "2023-04-30T15:00:00.000Z",
         "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/843243"
+      },
+      {
+        "site": "mal",
+        "id": "42030"
+      },
+      {
+        "site": "anidb",
+        "id": "15565"
+      },
+      {
+        "site": "aniList",
+        "id": "118743"
       }
     ]
   },
@@ -272,6 +343,22 @@
         "id": "25388",
         "begin": "2022-03-18T01:00:00.000Z",
         "broadcast": "R/2022-03-18T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/757683"
+      },
+      {
+        "site": "mal",
+        "id": "40778"
+      },
+      {
+        "site": "aniList",
+        "id": "113595"
+      },
+      {
+        "site": "anidb",
+        "id": "15284"
       }
     ]
   },
@@ -317,6 +404,22 @@
         "id": "26686",
         "begin": "2023-10-31T15:00:00.000Z",
         "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/693853"
+      },
+      {
+        "site": "mal",
+        "id": "41471"
+      },
+      {
+        "site": "anidb",
+        "id": "15450"
+      },
+      {
+        "site": "aniList",
+        "id": "116676"
       }
     ]
   },
@@ -355,6 +458,22 @@
         "id": "25051",
         "begin": "2021-09-22T01:00:00.000Z",
         "broadcast": "R/2021-09-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/100049/season/0/episode/14"
+      },
+      {
+        "site": "mal",
+        "id": "44931"
+      },
+      {
+        "site": "anidb",
+        "id": "15931"
+      },
+      {
+        "site": "aniList",
+        "id": "127371"
       }
     ]
   },
@@ -384,6 +503,22 @@
         "id": "27396",
         "begin": "2024-10-10T03:00:00.000Z",
         "broadcast": "R/2024-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/843245"
+      },
+      {
+        "site": "mal",
+        "id": "49369"
+      },
+      {
+        "site": "anidb",
+        "id": "16254"
+      },
+      {
+        "site": "aniList",
+        "id": "132444"
       }
     ]
   },
@@ -420,6 +555,22 @@
         "id": "26191",
         "begin": "2023-03-31T01:00:00.000Z",
         "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/843247"
+      },
+      {
+        "site": "mal",
+        "id": "48784"
+      },
+      {
+        "site": "anidb",
+        "id": "16272"
+      },
+      {
+        "site": "aniList",
+        "id": "132698"
       }
     ]
   },
@@ -447,6 +598,14 @@
         "id": "SID0103352",
         "begin": "2024-06-07T03:00:00.000Z",
         "broadcast": "R/2024-06-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1163771"
+      },
+      {
+        "site": "mal",
+        "id": "58198"
       }
     ]
   }

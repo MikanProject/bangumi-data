@@ -34,6 +34,22 @@
         "id": "SID0045119",
         "begin": "2020-01-03T03:00:00.000Z",
         "broadcast": "R/2020-01-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/96912"
+      },
+      {
+        "site": "mal",
+        "id": "40714"
+      },
+      {
+        "site": "aniList",
+        "id": "113472"
+      },
+      {
+        "site": "anidb",
+        "id": "15268"
       }
     ]
   },
@@ -50,6 +66,22 @@
       {
         "site": "bangumi",
         "id": "291233"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94004"
+      },
+      {
+        "site": "mal",
+        "id": "40438"
+      },
+      {
+        "site": "anidb",
+        "id": "15108"
+      },
+      {
+        "site": "aniList",
+        "id": "111964"
       }
     ]
   },
@@ -70,6 +102,22 @@
       {
         "site": "bangumi",
         "id": "288937"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115935"
+      },
+      {
+        "site": "mal",
+        "id": "40768"
+      },
+      {
+        "site": "anidb",
+        "id": "15282"
+      },
+      {
+        "site": "aniList",
+        "id": "113863"
       }
     ]
   },
@@ -123,6 +171,22 @@
       {
         "site": "mikan",
         "id": "2155"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97009"
+      },
+      {
+        "site": "mal",
+        "id": "40542"
+      },
+      {
+        "site": "anidb",
+        "id": "14797"
+      },
+      {
+        "site": "aniList",
+        "id": "112625"
       }
     ]
   },
@@ -143,6 +207,18 @@
       {
         "site": "bangumi",
         "id": "296114"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/128934"
+      },
+      {
+        "site": "mal",
+        "id": "48606"
+      },
+      {
+        "site": "anidb",
+        "id": "15303"
       }
     ]
   },
@@ -177,6 +253,22 @@
         "id": "SID0050418",
         "begin": "2020-08-03T03:00:00.000Z",
         "broadcast": "R/2020-08-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/657355"
+      },
+      {
+        "site": "mal",
+        "id": "39529"
+      },
+      {
+        "site": "anidb",
+        "id": "14754"
+      },
+      {
+        "site": "aniList",
+        "id": "113273"
       }
     ]
   },
@@ -222,6 +314,22 @@
         "url": "https://www.youtube.com/watch?v=XRK8dGG0bfg",
         "begin": "2023-01-05T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/614587"
+      },
+      {
+        "site": "mal",
+        "id": "40082"
+      },
+      {
+        "site": "anidb",
+        "id": "15003"
+      },
+      {
+        "site": "aniList",
+        "id": "110413"
       }
     ]
   },
@@ -264,6 +372,22 @@
         "id": "24770",
         "begin": "2021-06-11T01:00:00.000Z",
         "broadcast": "R/2021-06-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/608085"
+      },
+      {
+        "site": "mal",
+        "id": "37828"
+      },
+      {
+        "site": "anidb",
+        "id": "14071"
+      },
+      {
+        "site": "aniList",
+        "id": "101610"
       }
     ]
   },
@@ -332,6 +456,29 @@
         "id": "26566",
         "begin": "2025-07-31T15:00:00.000Z",
         "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/592350"
+      },
+      {
+        "site": "disneyplus",
+        "id": "15l4bFidgjsT",
+        "url": "https://www.disneyplus.com/movies/my-hero-academia-the-movie-heroes-rising/15l4bFidgjsT",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "39565"
+      },
+      {
+        "site": "anidb",
+        "id": "14776"
+      },
+      {
+        "site": "aniList",
+        "id": "108553"
       }
     ]
   },
@@ -364,6 +511,22 @@
       {
         "site": "mikan",
         "id": "2184"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/635687"
+      },
+      {
+        "site": "mal",
+        "id": "39967"
+      },
+      {
+        "site": "anidb",
+        "id": "14961"
+      },
+      {
+        "site": "aniList",
+        "id": "110131"
       }
     ]
   },
@@ -398,6 +561,18 @@
         "id": "B08DKHF2Q4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1601810"
+      },
+      {
+        "site": "anidb",
+        "id": "14233"
+      },
+      {
+        "site": "aniList",
+        "id": "112135"
       }
     ]
   }

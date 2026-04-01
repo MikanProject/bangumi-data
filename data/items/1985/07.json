@@ -20,6 +20,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/287896"
+      },
+      {
+        "site": "mal",
+        "id": "8547"
+      },
+      {
+        "site": "anidb",
+        "id": "2286"
+      },
+      {
+        "site": "aniList",
+        "id": "8547"
       }
     ]
   },
@@ -52,6 +68,22 @@
         "id": "SID0015515",
         "begin": "2023-02-16T03:00:00.000Z",
         "broadcast": "R/2023-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9161"
+      },
+      {
+        "site": "mal",
+        "id": "424"
+      },
+      {
+        "site": "anidb",
+        "id": "401"
+      },
+      {
+        "site": "aniList",
+        "id": "424"
       }
     ]
   },
@@ -96,6 +128,22 @@
         "id": "B0F2RLXKN9",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/32873"
+      },
+      {
+        "site": "mal",
+        "id": "1433"
+      },
+      {
+        "site": "anidb",
+        "id": "989"
+      },
+      {
+        "site": "aniList",
+        "id": "1433"
       }
     ]
   },
@@ -121,6 +169,22 @@
         "id": "3041",
         "begin": "2015-11-18T01:39:00.000Z",
         "broadcast": "R/2015-11-18T01:39:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/37585"
+      },
+      {
+        "site": "mal",
+        "id": "1441"
+      },
+      {
+        "site": "anidb",
+        "id": "1250"
+      },
+      {
+        "site": "aniList",
+        "id": "1441"
       }
     ]
   },
@@ -154,6 +218,22 @@
         "id": "10428",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/99643"
+      },
+      {
+        "site": "mal",
+        "id": "2272"
+      },
+      {
+        "site": "anidb",
+        "id": "4012"
+      },
+      {
+        "site": "aniList",
+        "id": "2272"
       }
     ]
   },
@@ -187,6 +267,22 @@
         "id": "20317",
         "begin": "2020-02-01T01:00:00.000Z",
         "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/672384"
+      },
+      {
+        "site": "mal",
+        "id": "3276"
+      },
+      {
+        "site": "anidb",
+        "id": "2287"
+      },
+      {
+        "site": "aniList",
+        "id": "3276"
       }
     ]
   },
@@ -223,10 +319,51 @@
         "broadcast": "R/2024-10-25T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "118-2",
-        "begin": "",
-        "broadcast": ""
+        "site": "tmdb",
+        "id": "tv/4269"
+      },
+      {
+        "site": "aniList",
+        "id": "2268"
+      }
+    ]
+  },
+  {
+    "title": "装甲騎兵ボトムズVOL.II HIGHLIGHTS FROM THE \"A.T.VOTOMS\"",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵VOL.II HIGHLIGHTS FROM THE \"A.T.VOTOMS\""
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.sunrise-inc.co.jp/work/detail.php?cid=223",
+    "begin": "1985-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313517"
+      },
+      {
+        "site": "danime",
+        "id": "28543",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "12441"
+      },
+      {
+        "site": "aniList",
+        "id": "12441"
+      },
+      {
+        "site": "anidb",
+        "id": "9847"
       }
     ]
   }

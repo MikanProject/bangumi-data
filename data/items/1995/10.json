@@ -33,6 +33,22 @@
         "id": "11399",
         "begin": "2020-02-01T01:00:00.000Z",
         "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13452"
+      },
+      {
+        "site": "mal",
+        "id": "1567"
+      },
+      {
+        "site": "anidb",
+        "id": "852"
+      },
+      {
+        "site": "aniList",
+        "id": "1567"
       }
     ]
   },
@@ -121,6 +137,22 @@
         "id": "1Sqar1udZXQb",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/890"
+      },
+      {
+        "site": "mal",
+        "id": "30"
+      },
+      {
+        "site": "anidb",
+        "id": "22"
+      },
+      {
+        "site": "aniList",
+        "id": "30"
       }
     ]
   },
@@ -140,6 +172,22 @@
       {
         "site": "bangumi",
         "id": "99872"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/306571"
+      },
+      {
+        "site": "mal",
+        "id": "8120"
+      },
+      {
+        "site": "anidb",
+        "id": "4184"
+      },
+      {
+        "site": "aniList",
+        "id": "20539"
       }
     ]
   },
@@ -159,6 +207,10 @@
       {
         "site": "bangumi",
         "id": "161681"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
       }
     ]
   },
@@ -190,6 +242,22 @@
         "id": "10401",
         "begin": "2021-12-24T01:00:00.000Z",
         "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34210"
+      },
+      {
+        "site": "mal",
+        "id": "495"
+      },
+      {
+        "site": "aniList",
+        "id": "495"
+      },
+      {
+        "site": "anidb",
+        "id": "701"
       }
     ]
   },
@@ -228,6 +296,22 @@
         "id": "23266",
         "begin": "2021-12-10T01:00:00.000Z",
         "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22098"
+      },
+      {
+        "site": "mal",
+        "id": "116"
+      },
+      {
+        "site": "anidb",
+        "id": "556"
+      },
+      {
+        "site": "aniList",
+        "id": "116"
       }
     ]
   },
@@ -272,6 +356,22 @@
         "url": "https://www.disneyplus.com/movies/macross-plus-movie-edition/6u0EbAmVpZcn",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/18837"
+      },
+      {
+        "site": "mal",
+        "id": "1211"
+      },
+      {
+        "site": "anidb",
+        "id": "3392"
+      },
+      {
+        "site": "aniList",
+        "id": "1211"
       }
     ]
   },
@@ -312,6 +412,22 @@
         "url": "https://www.disneyplus.com/movies/macross-7-the-galaxy-is-calling-me/7MeqqB7Widv8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/45932"
+      },
+      {
+        "site": "mal",
+        "id": "1400"
+      },
+      {
+        "site": "aniList",
+        "id": "1400"
+      },
+      {
+        "site": "anidb",
+        "id": "443"
       }
     ]
   },
@@ -341,6 +457,22 @@
         "id": "SID0010799",
         "begin": "2022-10-31T03:00:00.000Z",
         "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45401"
+      },
+      {
+        "site": "mal",
+        "id": "1630"
+      },
+      {
+        "site": "anidb",
+        "id": "151"
+      },
+      {
+        "site": "aniList",
+        "id": "1630"
       }
     ]
   },
@@ -378,6 +510,22 @@
         "id": "11347",
         "begin": "2017-11-24T01:00:00.000Z",
         "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34105"
+      },
+      {
+        "site": "mal",
+        "id": "268"
+      },
+      {
+        "site": "anidb",
+        "id": "355"
+      },
+      {
+        "site": "aniList",
+        "id": "268"
       }
     ]
   },
@@ -408,6 +556,22 @@
         "id": "23375",
         "begin": "2020-03-13T01:00:00.000Z",
         "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20351"
+      },
+      {
+        "site": "mal",
+        "id": "961"
+      },
+      {
+        "site": "anidb",
+        "id": "1647"
+      },
+      {
+        "site": "aniList",
+        "id": "961"
       }
     ]
   }

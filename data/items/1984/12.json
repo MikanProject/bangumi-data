@@ -20,6 +20,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146084"
+      },
+      {
+        "site": "mal",
+        "id": "6028"
+      },
+      {
+        "site": "anidb",
+        "id": "2282"
+      },
+      {
+        "site": "aniList",
+        "id": "6028"
       }
     ]
   },
@@ -53,6 +69,22 @@
         "id": "20315",
         "begin": "2020-02-01T01:00:00.000Z",
         "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/672370"
+      },
+      {
+        "site": "mal",
+        "id": "3274"
+      },
+      {
+        "site": "anidb",
+        "id": "2283"
+      },
+      {
+        "site": "aniList",
+        "id": "3274"
       }
     ]
   }

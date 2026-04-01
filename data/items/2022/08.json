@@ -83,6 +83,22 @@
         "id": "28403222",
         "begin": "2025-08-02T03:00:00.000Z",
         "broadcast": "R/2025-08-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/122369"
+      },
+      {
+        "site": "mal",
+        "id": "48649"
+      },
+      {
+        "site": "anidb",
+        "id": "16186"
+      },
+      {
+        "site": "aniList",
+        "id": "131912"
       }
     ]
   },
@@ -127,6 +143,22 @@
       {
         "site": "mikan",
         "id": "2796"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/199928"
+      },
+      {
+        "site": "mal",
+        "id": "51692"
+      },
+      {
+        "site": "anidb",
+        "id": "17336"
+      },
+      {
+        "site": "aniList",
+        "id": "148042"
       }
     ]
   },
@@ -175,6 +207,22 @@
       {
         "site": "mikan",
         "id": "2797"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/138183"
+      },
+      {
+        "site": "mal",
+        "id": "50339"
+      },
+      {
+        "site": "anidb",
+        "id": "16967"
+      },
+      {
+        "site": "aniList",
+        "id": "141351"
       }
     ]
   },
@@ -208,6 +256,22 @@
         "id": "81341765",
         "begin": "2022-08-24T16:00:00.000Z",
         "broadcast": "R/2022-08-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/138273"
+      },
+      {
+        "site": "mal",
+        "id": "43694"
+      },
+      {
+        "site": "anidb",
+        "id": "15814"
+      },
+      {
+        "site": "aniList",
+        "id": "125440"
       }
     ]
   },
@@ -238,6 +302,10 @@
         "id": "81002441",
         "begin": "2022-08-17T16:00:00.000Z",
         "broadcast": "R/2022-08-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/195530"
       }
     ]
   },
@@ -289,6 +357,22 @@
         "id": "129504",
         "begin": "2023-01-06T15:30:00.000Z",
         "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/972231"
+      },
+      {
+        "site": "mal",
+        "id": "51251"
+      },
+      {
+        "site": "anidb",
+        "id": "17255"
+      },
+      {
+        "site": "aniList",
+        "id": "146321"
       }
     ]
   },
@@ -335,6 +419,22 @@
       {
         "site": "mikan",
         "id": "2799"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/205343"
+      },
+      {
+        "site": "mal",
+        "id": "52020"
+      },
+      {
+        "site": "anidb",
+        "id": "17443"
+      },
+      {
+        "site": "aniList",
+        "id": "150575"
       }
     ]
   },
@@ -386,12 +486,6 @@
         "id": "2955"
       },
       {
-        "site": "abema",
-        "id": "184-185",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0B66J8GVM",
         "begin": "",
@@ -403,6 +497,22 @@
         "url": "https://www.disneyplus.com/movies/one-piece-film-red/2XffxMLaOjwP",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/900667"
+      },
+      {
+        "site": "mal",
+        "id": "50410"
+      },
+      {
+        "site": "anidb",
+        "id": "16983"
+      },
+      {
+        "site": "aniList",
+        "id": "141902"
       }
     ]
   },
@@ -436,6 +546,16 @@
         "id": "g-reco-movie5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/994319"
+      },
+      {
+        "site": "danime",
+        "id": "26438",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -469,6 +589,22 @@
       {
         "site": "mikan",
         "id": "2937"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/756234"
+      },
+      {
+        "site": "mal",
+        "id": "43556"
+      },
+      {
+        "site": "anidb",
+        "id": "15801"
+      },
+      {
+        "site": "aniList",
+        "id": "125261"
       }
     ]
   },
@@ -494,6 +630,18 @@
         "id": "25797",
         "begin": "2022-09-15T15:00:00.000Z",
         "broadcast": "R/2022-09-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "52815"
+      },
+      {
+        "site": "anidb",
+        "id": "17537"
+      },
+      {
+        "site": "aniList",
+        "id": "187517"
       }
     ]
   }

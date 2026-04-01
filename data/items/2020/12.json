@@ -116,6 +116,10 @@
         "id": "B08PNKVRH8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1429/season/4"
       }
     ]
   },
@@ -177,6 +181,22 @@
         "id": "24274",
         "begin": "2020-12-07T03:00:00.000Z",
         "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/106126"
+      },
+      {
+        "site": "mal",
+        "id": "41688"
+      },
+      {
+        "site": "anidb",
+        "id": "15501"
+      },
+      {
+        "site": "aniList",
+        "id": "123474"
       }
     ]
   },
@@ -193,6 +213,14 @@
       {
         "site": "bangumi",
         "id": "319918"
+      },
+      {
+        "site": "mal",
+        "id": "44048"
+      },
+      {
+        "site": "aniList",
+        "id": "179778"
       }
     ]
   },
@@ -251,6 +279,30 @@
       {
         "site": "mikan",
         "id": "2466"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/637202"
+      },
+      {
+        "site": "danime",
+        "id": "24664",
+        "begin": "2025-12-01T03:00:00.000Z",
+        "broadcast": "R/2025-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-140",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "38085"
+      },
+      {
+        "site": "aniList",
+        "id": "103276"
       }
     ]
   },
@@ -304,10 +356,20 @@
         "broadcast": "R/2022-06-24T15:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81508630",
-        "begin": "",
-        "broadcast": ""
+        "site": "tmdb",
+        "id": "movie/652837"
+      },
+      {
+        "site": "mal",
+        "id": "40787"
+      },
+      {
+        "site": "anidb",
+        "id": "15287"
+      },
+      {
+        "site": "aniList",
+        "id": "113596"
       }
     ]
   },
@@ -345,6 +407,22 @@
       {
         "site": "mikan",
         "id": "2409"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/683127"
+      },
+      {
+        "site": "mal",
+        "id": "42143"
+      },
+      {
+        "site": "anidb",
+        "id": "15587"
+      },
+      {
+        "site": "aniList",
+        "id": "119321"
       }
     ]
   },
@@ -395,10 +473,26 @@
         "id": "2512"
       },
       {
-        "site": "abema",
-        "id": "2-8",
-        "begin": "",
-        "broadcast": ""
+        "site": "tmdb",
+        "id": "movie/662708"
+      },
+      {
+        "site": "danime",
+        "id": "26017",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "40881"
+      },
+      {
+        "site": "anidb",
+        "id": "14993"
+      },
+      {
+        "site": "aniList",
+        "id": "114564"
       }
     ]
   },
@@ -427,6 +521,22 @@
         "id": "SID0055477",
         "begin": "2023-03-13T15:00:00.000Z",
         "broadcast": "R/2023-03-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/670327"
+      },
+      {
+        "site": "mal",
+        "id": "40845"
+      },
+      {
+        "site": "anidb",
+        "id": "15302"
+      },
+      {
+        "site": "aniList",
+        "id": "118936"
       }
     ]
   },
@@ -459,6 +569,22 @@
       {
         "site": "mikan",
         "id": "2418"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/719088"
+      },
+      {
+        "site": "mal",
+        "id": "40646"
+      },
+      {
+        "site": "anidb",
+        "id": "15247"
+      },
+      {
+        "site": "aniList",
+        "id": "112930"
       }
     ]
   },
@@ -486,6 +612,10 @@
         "id": "SID0060955",
         "begin": "2021-08-27T03:00:00.000Z",
         "broadcast": "R/2021-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/788846"
       }
     ]
   },
@@ -519,6 +649,28 @@
       {
         "site": "mikan",
         "id": "2593"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/655437"
+      },
+      {
+        "site": "danime",
+        "id": "28589",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "35609"
+      },
+      {
+        "site": "aniList",
+        "id": "98776"
+      },
+      {
+        "site": "anidb",
+        "id": "13175"
       }
     ]
   }

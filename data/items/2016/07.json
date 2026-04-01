@@ -65,6 +65,22 @@
         "id": "21793",
         "begin": "2017-10-02T01:00:00.000Z",
         "broadcast": "R/2017-10-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66941"
+      },
+      {
+        "site": "mal",
+        "id": "30015"
+      },
+      {
+        "site": "anidb",
+        "id": "11074"
+      },
+      {
+        "site": "aniList",
+        "id": "21049"
       }
     ]
   },
@@ -117,6 +133,22 @@
         "id": "20972",
         "begin": "2016-07-10T03:00:00.000Z",
         "broadcast": "R/2016-07-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66053"
+      },
+      {
+        "site": "mal",
+        "id": "32379"
+      },
+      {
+        "site": "anidb",
+        "id": "11851"
+      },
+      {
+        "site": "aniList",
+        "id": "21560"
       }
     ]
   },
@@ -138,10 +170,16 @@
         "id": "182342"
       },
       {
-        "site": "unext",
-        "id": "SID0027423",
-        "begin": "2016-12-22T03:00:00.000Z",
-        "broadcast": "R/2016-12-22T03:00:00.000Z/P7D"
+        "site": "mal",
+        "id": "33290"
+      },
+      {
+        "site": "aniList",
+        "id": "21810"
+      },
+      {
+        "site": "anidb",
+        "id": "15083"
       }
     ]
   },
@@ -213,6 +251,22 @@
         "id": "PL12UaAf_xzfpIcRkefjAI5EmoCKtsjAot",
         "begin": "2021-09-02T14:00:08.000Z",
         "broadcast": "R/2021-09-02T14:00:08.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67034"
+      },
+      {
+        "site": "mal",
+        "id": "30014"
+      },
+      {
+        "site": "aniList",
+        "id": "21050"
+      },
+      {
+        "site": "anidb",
+        "id": "11073"
       }
     ]
   },
@@ -308,6 +362,22 @@
         "id": "20991",
         "begin": "2023-03-01T01:00:00.000Z",
         "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66949"
+      },
+      {
+        "site": "mal",
+        "id": "31109"
+      },
+      {
+        "site": "anidb",
+        "id": "11326"
+      },
+      {
+        "site": "aniList",
+        "id": "21242"
       }
     ]
   },
@@ -388,6 +458,22 @@
         "id": "20993",
         "begin": "2017-11-17T01:00:00.000Z",
         "broadcast": "R/2017-11-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66101"
+      },
+      {
+        "site": "mal",
+        "id": "31716"
+      },
+      {
+        "site": "anidb",
+        "id": "11643"
+      },
+      {
+        "site": "aniList",
+        "id": "21382"
       }
     ]
   },
@@ -491,6 +577,22 @@
         "id": "21041",
         "begin": "2016-07-22T03:00:00.000Z",
         "broadcast": "R/2016-07-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62273/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "32282"
+      },
+      {
+        "site": "anidb",
+        "id": "11828"
+      },
+      {
+        "site": "aniList",
+        "id": "21518"
       }
     ]
   },
@@ -590,6 +692,22 @@
         "id": "PL12UaAf_xzfqvSr-ec0LHcSKeTJth4UjS",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65383"
+      },
+      {
+        "site": "mal",
+        "id": "32526"
+      },
+      {
+        "site": "anidb",
+        "id": "11878"
+      },
+      {
+        "site": "aniList",
+        "id": "21584"
       }
     ]
   },
@@ -600,7 +718,8 @@
         "B-PROJECT～鼓动＊Ambitious～"
       ],
       "zh-Hant": [
-        "B-PROJECT"
+        "B-PROJECT",
+        "B-PROJECT超星團"
       ],
       "en": [
         "B-PROJECT"
@@ -662,6 +781,28 @@
         "id": "21001",
         "begin": "2016-07-08T03:00:00.000Z",
         "broadcast": "R/2016-07-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67628"
+      },
+      {
+        "site": "mytv",
+        "id": "bproject_145288",
+        "begin": "2026-01-25T06:00:00.000Z",
+        "broadcast": "R/2026-01-25T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "33046"
+      },
+      {
+        "site": "anidb",
+        "id": "12044"
+      },
+      {
+        "site": "aniList",
+        "id": "21751"
       }
     ]
   },
@@ -691,6 +832,22 @@
       {
         "site": "mikan",
         "id": "760"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67927"
+      },
+      {
+        "site": "mal",
+        "id": "33274"
+      },
+      {
+        "site": "anidb",
+        "id": "12117"
+      },
+      {
+        "site": "aniList",
+        "id": "21812"
       }
     ]
   },
@@ -758,6 +915,22 @@
       {
         "site": "mikan",
         "id": "762"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66991"
+      },
+      {
+        "site": "mal",
+        "id": "30911"
+      },
+      {
+        "site": "anidb",
+        "id": "11273"
+      },
+      {
+        "site": "aniList",
+        "id": "21221"
       }
     ]
   },
@@ -833,6 +1006,22 @@
         "id": "20995",
         "begin": "2016-07-05T03:00:00.000Z",
         "broadcast": "R/2016-07-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62430/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "31821"
+      },
+      {
+        "site": "anidb",
+        "id": "11699"
+      },
+      {
+        "site": "aniList",
+        "id": "21424"
       }
     ]
   },
@@ -900,6 +1089,22 @@
         "id": "21031",
         "begin": "2016-07-13T03:00:00.000Z",
         "broadcast": "R/2016-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66979"
+      },
+      {
+        "site": "mal",
+        "id": "32494"
+      },
+      {
+        "site": "anidb",
+        "id": "11875"
+      },
+      {
+        "site": "aniList",
+        "id": "21578"
       }
     ]
   },
@@ -989,6 +1194,22 @@
         "id": "PLxSscENEp7JhUHB4qUmPjh0pRdyQrQVEB",
         "begin": "2022-07-18T10:00:23.000Z",
         "broadcast": "R/2022-07-18T10:00:23.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66958"
+      },
+      {
+        "site": "mal",
+        "id": "32729"
+      },
+      {
+        "site": "anidb",
+        "id": "11938"
+      },
+      {
+        "site": "aniList",
+        "id": "21647"
       }
     ]
   },
@@ -1087,6 +1308,22 @@
         "id": "PL12UaAf_xzfoZmw821kVdYlB-iY56i1Mg",
         "begin": "2023-02-14T13:30:10.000Z",
         "broadcast": "R/2023-02-14T13:30:10.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67012"
+      },
+      {
+        "site": "mal",
+        "id": "31953"
+      },
+      {
+        "site": "anidb",
+        "id": "11736"
+      },
+      {
+        "site": "aniList",
+        "id": "21455"
       }
     ]
   },
@@ -1180,6 +1417,22 @@
         "id": "21007",
         "begin": "2016-07-31T03:00:00.000Z",
         "broadcast": "R/2016-07-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67656"
+      },
+      {
+        "site": "mal",
+        "id": "32664"
+      },
+      {
+        "site": "anidb",
+        "id": "11910"
+      },
+      {
+        "site": "aniList",
+        "id": "21704"
       }
     ]
   },
@@ -1245,6 +1498,22 @@
         "id": "21002",
         "begin": "2016-07-07T03:00:00.000Z",
         "broadcast": "R/2016-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80573"
+      },
+      {
+        "site": "mal",
+        "id": "32772"
+      },
+      {
+        "site": "anidb",
+        "id": "11927"
+      },
+      {
+        "site": "aniList",
+        "id": "21644"
       }
     ]
   },
@@ -1303,6 +1572,22 @@
       {
         "site": "mikan",
         "id": "764"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67676"
+      },
+      {
+        "site": "mal",
+        "id": "33255"
+      },
+      {
+        "site": "anidb",
+        "id": "12112"
+      },
+      {
+        "site": "aniList",
+        "id": "21804"
       }
     ]
   },
@@ -1366,6 +1651,22 @@
         "id": "21004",
         "begin": "2016-07-09T03:00:00.000Z",
         "broadcast": "R/2016-07-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66992"
+      },
+      {
+        "site": "mal",
+        "id": "29758"
+      },
+      {
+        "site": "anidb",
+        "id": "11039"
+      },
+      {
+        "site": "aniList",
+        "id": "21031"
       }
     ]
   },
@@ -1466,6 +1767,22 @@
         "id": "PL12UaAf_xzfqFZK1Q5eBBefGw7YoyrrAq",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67710"
+      },
+      {
+        "site": "mal",
+        "id": "31229"
+      },
+      {
+        "site": "anidb",
+        "id": "11366"
+      },
+      {
+        "site": "aniList",
+        "id": "21269"
       }
     ]
   },
@@ -1518,6 +1835,22 @@
         "id": "20986",
         "begin": "2016-07-13T03:00:00.000Z",
         "broadcast": "R/2016-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67011"
+      },
+      {
+        "site": "mal",
+        "id": "31845"
+      },
+      {
+        "site": "anidb",
+        "id": "11638"
+      },
+      {
+        "site": "aniList",
+        "id": "21378"
       }
     ]
   },
@@ -1559,6 +1892,22 @@
       {
         "site": "mikan",
         "id": "770"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67145"
+      },
+      {
+        "site": "mal",
+        "id": "32370"
+      },
+      {
+        "site": "anidb",
+        "id": "11848"
+      },
+      {
+        "site": "aniList",
+        "id": "21558"
       }
     ]
   },
@@ -1615,6 +1964,22 @@
         "id": "20970",
         "begin": "2016-07-26T03:00:00.000Z",
         "broadcast": "R/2016-07-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/124872"
+      },
+      {
+        "site": "mal",
+        "id": "32039"
+      },
+      {
+        "site": "anidb",
+        "id": "11764"
+      },
+      {
+        "site": "aniList",
+        "id": "21477"
       }
     ]
   },
@@ -1693,6 +2058,22 @@
         "id": "20983",
         "begin": "2024-12-31T15:00:00.000Z",
         "broadcast": "R/2024-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66990"
+      },
+      {
+        "site": "mal",
+        "id": "32828"
+      },
+      {
+        "site": "anidb",
+        "id": "11952"
+      },
+      {
+        "site": "aniList",
+        "id": "21659"
       }
     ]
   },
@@ -1760,6 +2141,22 @@
         "id": "82751",
         "begin": "2016-07-05T19:10:00.000Z",
         "broadcast": "R/2016-07-05T19:10:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67616"
+      },
+      {
+        "site": "mal",
+        "id": "32483"
+      },
+      {
+        "site": "anidb",
+        "id": "12019"
+      },
+      {
+        "site": "aniList",
+        "id": "21713"
       }
     ]
   },
@@ -1819,6 +2216,22 @@
         "id": "20978",
         "begin": "2016-08-02T03:00:00.000Z",
         "broadcast": "R/2016-08-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67013"
+      },
+      {
+        "site": "mal",
+        "id": "33222"
+      },
+      {
+        "site": "anidb",
+        "id": "12095"
+      },
+      {
+        "site": "aniList",
+        "id": "21782"
       }
     ]
   },
@@ -1898,6 +2311,22 @@
         "id": "20997",
         "begin": "2016-07-07T03:00:00.000Z",
         "broadcast": "R/2016-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67153"
+      },
+      {
+        "site": "mal",
+        "id": "33037"
+      },
+      {
+        "site": "anidb",
+        "id": "10925"
+      },
+      {
+        "site": "aniList",
+        "id": "20950"
       }
     ]
   },
@@ -1915,7 +2344,8 @@
       ],
       "zh-Hant": [
         "Fate/kaleid liner 魔法少女☆伊莉雅 3rei",
-        "Fate/kaleid liner 魔法少女☆伊莉雅 3rei！！"
+        "Fate/kaleid liner 魔法少女☆伊莉雅 3rei！！",
+        "Fate/kaleid liner 魔法少女☆伊莉雅3rei!!"
       ]
     },
     "type": "tv",
@@ -1991,6 +2421,28 @@
         "id": "20987",
         "begin": "2016-07-09T03:00:00.000Z",
         "broadcast": "R/2016-07-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/63576/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "31706"
+      },
+      {
+        "site": "anidb",
+        "id": "11639"
+      },
+      {
+        "site": "aniList",
+        "id": "21379"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtR-qDzHnO639rHv6HqBEd5j",
+        "begin": "2026-02-13T12:00:06.000Z",
+        "broadcast": "R/2026-02-13T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -2052,6 +2504,22 @@
         "id": "21024",
         "begin": "2016-07-26T03:00:00.000Z",
         "broadcast": "R/2016-07-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67019"
+      },
+      {
+        "site": "mal",
+        "id": "32697"
+      },
+      {
+        "site": "anidb",
+        "id": "11925"
+      },
+      {
+        "site": "aniList",
+        "id": "21641"
       }
     ]
   },
@@ -2112,6 +2580,10 @@
         "id": "20984",
         "begin": "2025-09-30T15:00:00.000Z",
         "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67078"
       }
     ]
   },
@@ -2174,6 +2646,22 @@
         "id": "21013",
         "begin": "2016-07-13T03:00:00.000Z",
         "broadcast": "R/2016-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/107208"
+      },
+      {
+        "site": "mal",
+        "id": "33113"
+      },
+      {
+        "site": "anidb",
+        "id": "12065"
+      },
+      {
+        "site": "aniList",
+        "id": "21747"
       }
     ]
   },
@@ -2229,6 +2717,22 @@
         "id": "20998",
         "begin": "2016-07-21T03:00:00.000Z",
         "broadcast": "R/2016-07-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67091"
+      },
+      {
+        "site": "mal",
+        "id": "33394"
+      },
+      {
+        "site": "anidb",
+        "id": "12158"
+      },
+      {
+        "site": "aniList",
+        "id": "21835"
       }
     ]
   },
@@ -2293,6 +2797,22 @@
         "id": "20985",
         "begin": "2016-07-11T03:00:00.000Z",
         "broadcast": "R/2016-07-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67853"
+      },
+      {
+        "site": "mal",
+        "id": "32961"
+      },
+      {
+        "site": "anidb",
+        "id": "12003"
+      },
+      {
+        "site": "aniList",
+        "id": "21707"
       }
     ]
   },
@@ -2355,16 +2875,26 @@
         "id": "784"
       },
       {
-        "site": "abema",
-        "id": "198-15",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "21027",
         "begin": "2016-07-14T03:00:00.000Z",
         "broadcast": "R/2016-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61930/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "31417"
+      },
+      {
+        "site": "anidb",
+        "id": "11488"
+      },
+      {
+        "site": "aniList",
+        "id": "21293"
       }
     ]
   },
@@ -2428,6 +2958,22 @@
         "id": "20975",
         "begin": "2016-07-13T03:00:00.000Z",
         "broadcast": "R/2016-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67346"
+      },
+      {
+        "site": "mal",
+        "id": "31771"
+      },
+      {
+        "site": "anidb",
+        "id": "11683"
+      },
+      {
+        "site": "aniList",
+        "id": "21406"
       }
     ]
   },
@@ -2526,6 +3072,22 @@
         "id": "PL12UaAf_xzfrGWPf-OFP3hNdiQGR4Wi9s",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65955"
+      },
+      {
+        "site": "mal",
+        "id": "31952"
+      },
+      {
+        "site": "anidb",
+        "id": "11735"
+      },
+      {
+        "site": "aniList",
+        "id": "21457"
       }
     ]
   },
@@ -2583,6 +3145,22 @@
         "id": "20974",
         "begin": "2016-07-11T03:00:00.000Z",
         "broadcast": "R/2016-07-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67052"
+      },
+      {
+        "site": "mal",
+        "id": "32648"
+      },
+      {
+        "site": "anidb",
+        "id": "11908"
+      },
+      {
+        "site": "aniList",
+        "id": "21626"
       }
     ]
   },
@@ -2641,12 +3219,6 @@
         "broadcast": "R/2024-08-08T13:00:07.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "13-27uzkrexuzx2",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "21026",
         "begin": "2016-07-13T03:00:00.000Z",
@@ -2664,6 +3236,18 @@
         "id": "thunderboltfantasy",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67345"
+      },
+      {
+        "site": "anidb",
+        "id": "11917"
+      },
+      {
+        "site": "aniList",
+        "id": "98143"
       }
     ]
   },
@@ -2765,6 +3349,22 @@
         "id": "PL12UaAf_xzfrZxr2vG-NxaHjLaArp3Dq3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65954"
+      },
+      {
+        "site": "mal",
+        "id": "31764"
+      },
+      {
+        "site": "anidb",
+        "id": "11679"
+      },
+      {
+        "site": "aniList",
+        "id": "21410"
       }
     ]
   },
@@ -2834,6 +3434,22 @@
         "id": "21006",
         "begin": "2016-07-10T03:00:00.000Z",
         "broadcast": "R/2016-07-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67359"
+      },
+      {
+        "site": "mal",
+        "id": "32360"
+      },
+      {
+        "site": "anidb",
+        "id": "11846"
+      },
+      {
+        "site": "aniList",
+        "id": "21557"
       }
     ]
   },
@@ -2909,6 +3525,22 @@
         "id": "21350",
         "begin": "2019-08-01T01:00:00.000Z",
         "broadcast": "R/2019-08-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67043"
+      },
+      {
+        "site": "mal",
+        "id": "32998"
+      },
+      {
+        "site": "anidb",
+        "id": "12014"
+      },
+      {
+        "site": "aniList",
+        "id": "21711"
       }
     ]
   },
@@ -2957,6 +3589,10 @@
       {
         "site": "mikan",
         "id": "791"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67063"
       }
     ]
   },
@@ -3008,6 +3644,10 @@
       {
         "site": "bangumi_moe",
         "id": "57765e47ca607f850f3f9342"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67063"
       }
     ]
   },
@@ -3061,6 +3701,22 @@
         "id": "21012",
         "begin": "2025-09-30T15:00:00.000Z",
         "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67677"
+      },
+      {
+        "site": "mal",
+        "id": "33341"
+      },
+      {
+        "site": "anidb",
+        "id": "12137"
+      },
+      {
+        "site": "aniList",
+        "id": "21824"
       }
     ]
   },
@@ -3125,6 +3781,22 @@
         "id": "21032",
         "begin": "2016-07-22T03:00:00.000Z",
         "broadcast": "R/2016-07-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67054"
+      },
+      {
+        "site": "mal",
+        "id": "32171"
+      },
+      {
+        "site": "anidb",
+        "id": "10962"
+      },
+      {
+        "site": "aniList",
+        "id": "21439"
       }
     ]
   },
@@ -3211,6 +3883,22 @@
         "id": "21017",
         "begin": "2016-07-12T03:00:00.000Z",
         "broadcast": "R/2016-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65214/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "32301"
+      },
+      {
+        "site": "anidb",
+        "id": "11831"
+      },
+      {
+        "site": "aniList",
+        "id": "21534"
       }
     ]
   },
@@ -3332,6 +4020,22 @@
         "id": "GY190DKQR",
         "begin": "2022-10-05T15:00:00.000Z",
         "broadcast": "R/2022-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67075"
+      },
+      {
+        "site": "mal",
+        "id": "32182"
+      },
+      {
+        "site": "anidb",
+        "id": "11803"
+      },
+      {
+        "site": "aniList",
+        "id": "21507"
       }
     ]
   },
@@ -3436,6 +4140,22 @@
         "id": "GR3V5EK46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/49471/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "32189"
+      },
+      {
+        "site": "anidb",
+        "id": "11804"
+      },
+      {
+        "site": "aniList",
+        "id": "21509"
       }
     ]
   },
@@ -3495,6 +4215,22 @@
         "id": "21863",
         "begin": "2017-11-03T01:00:00.000Z",
         "broadcast": "R/2017-11-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65957"
+      },
+      {
+        "site": "mal",
+        "id": "32947"
+      },
+      {
+        "site": "anidb",
+        "id": "11996"
+      },
+      {
+        "site": "aniList",
+        "id": "21702"
       }
     ]
   },
@@ -3599,6 +4335,22 @@
         "id": "GR3V5EK46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67674"
+      },
+      {
+        "site": "mal",
+        "id": "33028"
+      },
+      {
+        "site": "anidb",
+        "id": "12035"
+      },
+      {
+        "site": "aniList",
+        "id": "21825"
       }
     ]
   },
@@ -3634,6 +4386,18 @@
       {
         "site": "mikan",
         "id": "799"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/433157"
+      },
+      {
+        "site": "mal",
+        "id": "33338"
+      },
+      {
+        "site": "aniList",
+        "id": "21831"
       }
     ]
   },
@@ -3645,6 +4409,9 @@
       ],
       "zh-Hant": [
         "航海王電影：GOLD"
+      ],
+      "en": [
+        "One Piece Film Gold"
       ]
     },
     "type": "movie",
@@ -3679,12 +4446,6 @@
         "id": "1156"
       },
       {
-        "site": "abema",
-        "id": "184-183",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26999",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -3695,6 +4456,29 @@
         "id": "B0DYF7JSNY",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/374205"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6x4a1Ss2j3oT",
+        "url": "https://www.disneyplus.com/movies/one-piece-film-gold/6x4a1Ss2j3oT",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "31490"
+      },
+      {
+        "site": "anidb",
+        "id": "11529"
+      },
+      {
+        "site": "aniList",
+        "id": "21335"
       }
     ]
   },
@@ -3744,6 +4528,22 @@
         "begin": "2022-07-01T01:00:00.000Z",
         "broadcast": "R/2022-07-01T01:00:00.000Z/P7D",
         "comment": "OVA2: 25660"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71003/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "33033"
+      },
+      {
+        "site": "aniList",
+        "id": "21759"
+      },
+      {
+        "site": "anidb",
+        "id": "12039"
       }
     ]
   },
@@ -3769,6 +4569,18 @@
         "id": "5424",
         "begin": "2016-05-20T16:00:01.000Z",
         "broadcast": "R/2016-08-04T06:35:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42410/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "32915"
+      },
+      {
+        "site": "aniList",
+        "id": "21695"
       }
     ]
   },
@@ -3855,6 +4667,22 @@
         "url": "https://www.youtube.com/watch?v=AF8LiDbznKo",
         "begin": "2022-04-18T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/381873"
+      },
+      {
+        "site": "mal",
+        "id": "31763"
+      },
+      {
+        "site": "anidb",
+        "id": "11680"
+      },
+      {
+        "site": "aniList",
+        "id": "21404"
       }
     ]
   },
@@ -3886,6 +4714,22 @@
         "id": "SID0026369",
         "begin": "2021-06-01T03:00:00.000Z",
         "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/390734"
+      },
+      {
+        "site": "mal",
+        "id": "33082"
+      },
+      {
+        "site": "anidb",
+        "id": "12054"
+      },
+      {
+        "site": "aniList",
+        "id": "21729"
       }
     ]
   },
@@ -3934,10 +4778,26 @@
         "id": "1149"
       },
       {
-        "site": "abema",
-        "id": "2-8",
-        "begin": "",
-        "broadcast": ""
+        "site": "tmdb",
+        "id": "movie/382190"
+      },
+      {
+        "site": "danime",
+        "id": "26013",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "31231"
+      },
+      {
+        "site": "anidb",
+        "id": "11842"
+      },
+      {
+        "site": "aniList",
+        "id": "21651"
       }
     ]
   },
@@ -3986,6 +4846,22 @@
         "id": "81719826",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/717022"
+      },
+      {
+        "site": "mal",
+        "id": "32676"
+      },
+      {
+        "site": "anidb",
+        "id": "11919"
+      },
+      {
+        "site": "aniList",
+        "id": "174843"
       }
     ]
   },
@@ -4015,6 +4891,18 @@
         "id": "21898",
         "begin": "2017-12-15T01:00:00.000Z",
         "broadcast": "R/2017-12-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "33262"
+      },
+      {
+        "site": "anidb",
+        "id": "12115"
+      },
+      {
+        "site": "aniList",
+        "id": "115188"
       }
     ]
   },
@@ -4048,6 +4936,68 @@
         "id": "SID0050433",
         "begin": "2020-09-20T03:00:00.000Z",
         "broadcast": "R/2020-09-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/446961"
+      },
+      {
+        "site": "mal",
+        "id": "31236"
+      },
+      {
+        "site": "aniList",
+        "id": "145680"
+      },
+      {
+        "site": "anidb",
+        "id": "11371"
+      }
+    ]
+  },
+  {
+    "title": "風のように",
+    "titleTranslate": {
+      "zh-Hans": [
+        "像风一样",
+        "宛如风"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kazenoyouni.com/",
+    "begin": "2016-07-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-07-08T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "178662"
+      },
+      {
+        "site": "danime",
+        "id": "28462",
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "32832"
+      },
+      {
+        "site": "anidb",
+        "id": "11986"
+      },
+      {
+        "site": "aniList",
+        "id": "105974"
+      },
+      {
+        "site": "unext",
+        "id": "SID0270465",
+        "begin": "2026-02-20T03:00:00.000Z",
+        "broadcast": "R/2026-02-20T03:00:00.000Z/P7D"
       }
     ]
   }

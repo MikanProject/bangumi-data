@@ -37,6 +37,22 @@
         "id": "21754",
         "begin": "2017-09-08T01:00:00.000Z",
         "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/76190"
+      },
+      {
+        "site": "mal",
+        "id": "1438"
+      },
+      {
+        "site": "anidb",
+        "id": "986"
+      },
+      {
+        "site": "aniList",
+        "id": "1438"
       }
     ]
   },
@@ -61,6 +77,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146092"
+      },
+      {
+        "site": "mal",
+        "id": "7157"
+      },
+      {
+        "site": "anidb",
+        "id": "6624"
+      },
+      {
+        "site": "aniList",
+        "id": "7157"
       }
     ]
   },
@@ -102,6 +134,22 @@
         "id": "B0DW2ZB87C",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39105"
+      },
+      {
+        "site": "mal",
+        "id": "902"
+      },
+      {
+        "site": "anidb",
+        "id": "1069"
+      },
+      {
+        "site": "aniList",
+        "id": "902"
       }
     ]
   },
@@ -147,7 +195,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-59",
         "begin": "",
         "broadcast": ""
       },
@@ -168,6 +216,22 @@
         "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
         "begin": "2025-04-05T14:00:06.000Z",
         "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/128868"
+      },
+      {
+        "site": "mal",
+        "id": "8358"
+      },
+      {
+        "site": "anidb",
+        "id": "4624"
+      },
+      {
+        "site": "aniList",
+        "id": "8358"
       }
     ]
   },
@@ -188,6 +252,18 @@
       {
         "site": "bangumi",
         "id": "8247"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34758"
+      },
+      {
+        "site": "anidb",
+        "id": "12416"
+      },
+      {
+        "site": "aniList",
+        "id": "151765"
       }
     ]
   },
@@ -234,6 +310,22 @@
         "id": "24825",
         "begin": "2021-07-12T01:00:00.000Z",
         "broadcast": "R/2021-07-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/45278"
+      },
+      {
+        "site": "mal",
+        "id": "882"
+      },
+      {
+        "site": "anidb",
+        "id": "1084"
+      },
+      {
+        "site": "aniList",
+        "id": "882"
       }
     ]
   },
@@ -257,6 +349,22 @@
         "id": "SID0045129",
         "begin": "2019-12-27T03:00:00.000Z",
         "broadcast": "R/2019-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461499"
+      },
+      {
+        "site": "mal",
+        "id": "9078"
+      },
+      {
+        "site": "aniList",
+        "id": "9078"
+      },
+      {
+        "site": "anidb",
+        "id": "6813"
       }
     ]
   },
@@ -280,6 +388,22 @@
         "id": "SID0018525",
         "begin": "2015-06-01T06:00:00.000Z",
         "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/361500"
+      },
+      {
+        "site": "mal",
+        "id": "10056"
+      },
+      {
+        "site": "aniList",
+        "id": "10056"
+      },
+      {
+        "site": "anidb",
+        "id": "7549"
       }
     ]
   },
@@ -307,6 +431,14 @@
         "id": "25520",
         "begin": "2023-01-20T01:00:00.000Z",
         "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "17951"
+      },
+      {
+        "site": "anidb",
+        "id": "7778"
       }
     ]
   },
@@ -334,6 +466,22 @@
         "id": "24067",
         "begin": "2020-07-10T01:00:00.000Z",
         "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/375972"
+      },
+      {
+        "site": "mal",
+        "id": "14231"
+      },
+      {
+        "site": "anidb",
+        "id": "3618"
+      },
+      {
+        "site": "aniList",
+        "id": "14231"
       }
     ]
   }

@@ -15,6 +15,22 @@
       {
         "site": "bangumi",
         "id": "37471"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28144"
+      },
+      {
+        "site": "mal",
+        "id": "9391"
+      },
+      {
+        "site": "anidb",
+        "id": "2362"
+      },
+      {
+        "site": "aniList",
+        "id": "9391"
       }
     ]
   },
@@ -44,6 +60,10 @@
         "site": "nicovideo",
         "id": "eva_death_true2",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/54270"
       }
     ]
   },
@@ -69,6 +89,22 @@
         "id": "SID0002547",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31709/season/0/episode/14"
+      },
+      {
+        "site": "mal",
+        "id": "3602"
+      },
+      {
+        "site": "anidb",
+        "id": "2033"
+      },
+      {
+        "site": "aniList",
+        "id": "3602"
       }
     ]
   },
@@ -101,7 +137,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-108",
         "begin": "",
         "broadcast": ""
       },
@@ -110,6 +146,22 @@
         "id": "SID0099863",
         "begin": "2024-03-05T03:00:00.000Z",
         "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/105444"
+      },
+      {
+        "site": "mal",
+        "id": "2664"
+      },
+      {
+        "site": "aniList",
+        "id": "2664"
+      },
+      {
+        "site": "anidb",
+        "id": "3315"
       }
     ]
   }

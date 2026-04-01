@@ -15,6 +15,22 @@
       {
         "site": "bangumi",
         "id": "27202"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/249287"
+      },
+      {
+        "site": "mal",
+        "id": "2689"
+      },
+      {
+        "site": "anidb",
+        "id": "1386"
+      },
+      {
+        "site": "aniList",
+        "id": "2689"
       }
     ]
   },
@@ -51,6 +67,22 @@
         "id": "10166",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/134830"
+      },
+      {
+        "site": "mal",
+        "id": "1297"
+      },
+      {
+        "site": "anidb",
+        "id": "7687"
+      },
+      {
+        "site": "aniList",
+        "id": "1297"
       }
     ]
   }
