@@ -313,6 +313,12 @@
       {
         "site": "aniList",
         "id": "149883"
+      },
+      {
+        "site": "abema",
+        "id": "194-35",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -537,6 +543,9 @@
       "zh-Hant": [
         "無職轉生～到了異世界就拿出真本事 第二季",
         "無職轉生～到了異世界就拿出真本事～第2季"
+      ],
+      "en": [
+        "Mushoku Tensei: Jobless Reincarnation Season 2"
       ]
     },
     "type": "tv",
@@ -646,6 +655,12 @@
       {
         "site": "aniList",
         "id": "146065"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G24H1N3MP",
+        "begin": "2021-01-11T00:00:00.000Z",
+        "broadcast": "R/2021-01-11T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -718,6 +733,9 @@
       ],
       "en": [
         "Reborn as a Vending Machine, I Now Wander the Dungeon"
+      ],
+      "zh-Hant": [
+        "轉生成自動販賣機的我今天也在迷宮徘徊"
       ]
     },
     "type": "tv",
@@ -772,7 +790,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FC5X1X3J",
+        "id": "B0C946BMPN",
         "begin": "",
         "broadcast": ""
       },
@@ -797,6 +815,18 @@
       {
         "site": "aniList",
         "id": "153360"
+      },
+      {
+        "site": "gamer",
+        "id": "130813",
+        "begin": "2026-05-29T04:00:00.000Z",
+        "broadcast": "R/2026-05-29T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130813",
+        "begin": "2026-05-29T04:00:00.000Z",
+        "broadcast": "R/2026-05-29T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1617,12 +1647,6 @@
         "id": "watakon-anime",
         "begin": "2023-07-05T14:30:00.000Z",
         "broadcast": "R/2023-07-05T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-244",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2696,6 +2720,18 @@
       {
         "site": "aniList",
         "id": "163132"
+      },
+      {
+        "site": "abema",
+        "id": "26-201",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgHnduS6GcqretIKBc7XqB9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2837,6 +2873,12 @@
       {
         "site": "aniList",
         "id": "160188"
+      },
+      {
+        "site": "abema",
+        "id": "210-11",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3102,7 +3144,7 @@
       },
       {
         "site": "prime",
-        "id": "B0GMD1WNJG",
+        "id": "B0GVBY89XP",
         "begin": "",
         "broadcast": ""
       }
@@ -3197,6 +3239,18 @@
       {
         "site": "aniList",
         "id": "156040"
+      },
+      {
+        "site": "prime",
+        "id": "B0CBHTWNSC",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "593-3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3969,6 +4023,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "租借女友 第三季"
+      ],
+      "zh-Hant": [
+        "出租女友 第三季"
       ]
     },
     "type": "tv",
@@ -4036,6 +4093,24 @@
       {
         "site": "aniList",
         "id": "154745"
+      },
+      {
+        "site": "prime",
+        "id": "B0CB1VTBJZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "127394",
+        "begin": "2026-04-20T04:00:00.000Z",
+        "broadcast": "R/2026-04-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "127394",
+        "begin": "2026-04-20T04:00:00.000Z",
+        "broadcast": "R/2026-04-20T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -4134,6 +4209,12 @@
       {
         "site": "aniList",
         "id": "155168"
+      },
+      {
+        "site": "prime",
+        "id": "B0H311MKSF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4542,6 +4623,55 @@
       {
         "site": "aniList",
         "id": "135178"
+      }
+    ]
+  },
+  {
+    "title": "忘星のヴァリシア 第一章：劫火",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.voliciamovie.com/",
+    "begin": "2023-07-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-07-02T16:33:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "437925"
+      },
+      {
+        "site": "danime",
+        "id": "28686",
+        "begin": "2026-03-26T15:00:00.000Z",
+        "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0268799",
+        "begin": "2026-03-27T03:00:00.000Z",
+        "broadcast": "R/2026-03-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "55640"
+      },
+      {
+        "site": "aniList",
+        "id": "169375"
+      },
+      {
+        "site": "prime",
+        "id": "B0GMQWKRYR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-287",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

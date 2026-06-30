@@ -134,6 +134,12 @@
       {
         "site": "tmdb",
         "id": "tv/103511/season/2"
+      },
+      {
+        "site": "abema",
+        "id": "13-167",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -217,6 +223,12 @@
       {
         "site": "aniList",
         "id": "123330"
+      },
+      {
+        "site": "abema",
+        "id": "189-39",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -433,6 +445,12 @@
       {
         "site": "aniList",
         "id": "127911"
+      },
+      {
+        "site": "abema",
+        "id": "11-44",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1012,12 +1030,6 @@
         "broadcast": "R/2022-04-10T14:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-201",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0066877",
         "begin": "2022-04-10T14:00:00.000Z",
@@ -1062,6 +1074,12 @@
       {
         "site": "aniList",
         "id": "142074"
+      },
+      {
+        "site": "abema",
+        "id": "25-201",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1264,6 +1282,12 @@
       {
         "site": "aniList",
         "id": "121176"
+      },
+      {
+        "site": "abema",
+        "id": "413-2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1379,6 +1403,12 @@
       {
         "site": "aniList",
         "id": "132474"
+      },
+      {
+        "site": "abema",
+        "id": "54-69",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2602,12 +2632,6 @@
         "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "203-7",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0066845",
         "begin": "2022-04-05T03:00:00.000Z",
@@ -3180,12 +3204,6 @@
         "broadcast": "R/2022-04-09T16:30:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "intheheartofkunoichitsubaki_135002",
-        "begin": "2022-04-09T16:30:00.000Z",
-        "broadcast": "R/2022-04-09T16:30:00.000Z/P7D"
-      },
-      {
         "site": "gamer_hk",
         "id": "120504",
         "begin": "2022-04-09T16:30:00.000Z",
@@ -3427,6 +3445,12 @@
       {
         "site": "aniList",
         "id": "125367"
+      },
+      {
+        "site": "abema",
+        "id": "26-66",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3822,6 +3846,12 @@
       {
         "site": "aniList",
         "id": "130586"
+      },
+      {
+        "site": "abema",
+        "id": "25-315",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4016,7 +4046,7 @@
       },
       {
         "site": "prime",
-        "id": "B09KBCLKCJ",
+        "id": "B0FSGCR4G6",
         "begin": "",
         "broadcast": ""
       },
@@ -4461,6 +4491,12 @@
       {
         "site": "mal",
         "id": "51782"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068116",
+        "begin": "2026-04-17T15:00:00.000Z",
+        "broadcast": "R/2026-04-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5062,6 +5098,18 @@
         "id": "81677549",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "50562"
+      },
+      {
+        "site": "aniList",
+        "id": "142549"
+      },
+      {
+        "site": "anidb",
+        "id": "17028"
       }
     ]
   },
@@ -5129,6 +5177,18 @@
       {
         "site": "aniList",
         "id": "142219"
+      },
+      {
+        "site": "abema",
+        "id": "415-57",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100686",
+        "begin": "2026-04-17T15:00:00.000Z",
+        "broadcast": "R/2026-04-17T15:00:00.000Z/P7D"
       }
     ]
   },

@@ -42,6 +42,12 @@
       {
         "site": "aniList",
         "id": "4935"
+      },
+      {
+        "site": "abema",
+        "id": "5-80",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -262,12 +268,6 @@
         "broadcast": "R/2016-12-09T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-211",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/17706"
       },
@@ -282,6 +282,12 @@
       {
         "site": "aniList",
         "id": "3915"
+      },
+      {
+        "site": "abema",
+        "id": "19-211",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

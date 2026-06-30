@@ -935,12 +935,6 @@
         "id": "tv/45950/season/4"
       },
       {
-        "site": "abema",
-        "id": "25-91",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "34281"
       },
@@ -1363,6 +1357,12 @@
       {
         "site": "aniList",
         "id": "100240"
+      },
+      {
+        "site": "abema",
+        "id": "171-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2180,12 +2180,6 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "92051",
-        "begin": "2021-02-18T06:00:00.000Z",
-        "broadcast": "R/2021-02-18T06:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0034205",
         "begin": "2023-05-31T15:00:00.000Z",
@@ -2402,21 +2396,9 @@
         "broadcast": "R/2019-04-11T07:39:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "gineiden-anime",
-        "begin": "2018-04-08T03:00:00.000Z",
-        "broadcast": "R/2018-04-08T03:00:00.000Z/P7D"
-      },
-      {
         "site": "qq",
         "id": "m/mzc00200b21e6fj",
         "begin": ""
-      },
-      {
-        "site": "gamer",
-        "id": "67626",
-        "begin": "2022-11-18T06:30:00.000Z",
-        "broadcast": "R/2022-11-18T06:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -2469,6 +2451,12 @@
       {
         "site": "aniList",
         "id": "20628"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-kaikou",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3465,6 +3453,12 @@
       {
         "site": "aniList",
         "id": "100745"
+      },
+      {
+        "site": "abema",
+        "id": "168-79",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4621,6 +4615,12 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "19-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "tmdb",
         "id": "tv/65930/season/3"
       },
@@ -5519,6 +5519,12 @@
       {
         "site": "aniList",
         "id": "100178"
+      },
+      {
+        "site": "abema",
+        "id": "106-3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5710,12 +5716,6 @@
       {
         "site": "anidb",
         "id": "13520"
-      },
-      {
-        "site": "netflix",
-        "id": "81414744",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -5832,6 +5832,18 @@
       {
         "site": "aniList",
         "id": "100653"
+      },
+      {
+        "site": "abema",
+        "id": "415-54",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0046993",
+        "begin": "2026-04-10T15:00:00.000Z",
+        "broadcast": "R/2026-04-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5882,7 +5894,8 @@
       {
         "site": "nicovideo",
         "id": "ponque",
-        "begin": "2016-01-13T11:00:00.000Z"
+        "begin": "2016-01-13T11:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "abema",
@@ -5942,6 +5955,33 @@
       {
         "site": "aniList",
         "id": "115007"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第26シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第26季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2018-04-01T16:00:00.000Z",
+    "broadcast": "R/2018-04-01T16:00:00.000Z/P7D",
+    "end": "2018-12-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303899"
+      },
+      {
+        "site": "danime",
+        "id": "28901",
+        "begin": "2026-06-04T15:00:00.000Z",
+        "broadcast": "R/2026-06-04T15:00:00.000Z/P7D"
       }
     ]
   }

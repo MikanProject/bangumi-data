@@ -475,6 +475,12 @@
       {
         "site": "aniList",
         "id": "2167"
+      },
+      {
+        "site": "abema",
+        "id": "19-195",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -747,6 +753,9 @@
       "zh-Hans": [
         "守护甜心!"
       ],
+      "zh-Hant": [
+        "守護甜心"
+      ],
       "en": [
         "Shugo Chara!"
       ]
@@ -799,6 +808,12 @@
       {
         "site": "aniList",
         "id": "2923"
+      },
+      {
+        "site": "gamer",
+        "id": "21623",
+        "begin": "2026-04-02T16:00:00.000Z",
+        "broadcast": "R/2026-04-02T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1514,6 +1529,12 @@
         "id": "16742",
         "begin": "2026-02-06T04:00:00.000Z",
         "broadcast": "R/2026-02-06T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "143-45",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1578,6 +1599,9 @@
         "冒险岛",
         "枫之谷",
         "MAPLESTORY"
+      ],
+      "en": [
+        "Maple Story"
       ]
     },
     "type": "tv",
@@ -1611,6 +1635,12 @@
       {
         "site": "aniList",
         "id": "2719"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G9VHNN0KX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1920,12 +1950,6 @@
         "broadcast": "R/2017-04-13T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "27617",
-        "begin": "2022-05-06T04:20:00.000Z",
-        "broadcast": "R/2022-05-06T04:20:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "movie/62450"
       },
@@ -2176,6 +2200,55 @@
       {
         "site": "aniList",
         "id": "124435"
+      }
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ ゼロ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师Zero"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/contents/zero_duelmasters/",
+    "begin": "2007-10-05T16:00:00.000Z",
+    "broadcast": "R/2007-10-05T16:00:00.000Z/P7D",
+    "end": "2008-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293617"
+      },
+      {
+        "site": "danime",
+        "id": "28905",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0294072",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "10526"
+      },
+      {
+        "site": "aniList",
+        "id": "10526"
+      },
+      {
+        "site": "anidb",
+        "id": "5525"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46392/season/4"
       }
     ]
   }

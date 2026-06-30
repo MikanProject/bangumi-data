@@ -112,6 +112,9 @@
       "zh-Hans": [
         "直至魔女消逝",
         "直到某魔女死去"
+      ],
+      "zh-Hant": [
+        "直至魔女消逝"
       ]
     },
     "type": "tv",
@@ -195,6 +198,18 @@
       {
         "site": "aniList",
         "id": "178701"
+      },
+      {
+        "site": "gamer",
+        "id": "140236",
+        "begin": "2026-06-18T04:00:00.000Z",
+        "broadcast": "R/2026-06-18T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140236",
+        "begin": "2026-06-18T04:00:00.000Z",
+        "broadcast": "R/2026-06-18T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -986,6 +1001,24 @@
       {
         "site": "aniList",
         "id": "179955"
+      },
+      {
+        "site": "unext",
+        "id": "SID0305425",
+        "begin": "2026-06-22T03:00:00.000Z",
+        "broadcast": "R/2026-06-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29068",
+        "begin": "2026-06-21T15:00:00.000Z",
+        "broadcast": "R/2026-06-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-81",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1434,7 +1467,7 @@
     "officialSite": "https://princess-session.com/",
     "begin": "2025-04-06T00:00:00.000Z",
     "broadcast": "R/2025-04-06T00:00:00.000Z/P7D",
-    "end": "2025-06-22T00:00:00.000Z",
+    "end": "2026-03-29T00:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1515,7 +1548,7 @@
     "officialSite": "https://aipri.jp/anime/",
     "begin": "2025-04-06T00:30:00.000Z",
     "broadcast": "R/2025-04-06T00:30:00.000Z/P7D",
-    "end": "2025-06-29T00:30:00.000Z",
+    "end": "2026-03-29T01:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2311,6 +2344,18 @@
       {
         "site": "aniList",
         "id": "180516"
+      },
+      {
+        "site": "gamer",
+        "id": "141058",
+        "begin": "2026-04-21T16:00:00.000Z",
+        "broadcast": "R/2026-04-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "141058",
+        "begin": "2026-04-21T16:00:00.000Z",
+        "broadcast": "R/2026-04-21T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2978,7 +3023,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FJ6F8PPJ",
+        "id": "B0FJ6H56VR",
         "begin": "",
         "broadcast": ""
       },
@@ -2997,6 +3042,12 @@
       {
         "site": "aniList",
         "id": "149118"
+      },
+      {
+        "site": "abema",
+        "id": "194-16",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3585,7 +3636,7 @@
         "id": "SID0179211",
         "begin": "2025-04-09T15:00:00.000Z",
         "broadcast": "R/2025-04-09T15:00:00.000Z/P7D",
-        "comment": "ミニアニメ劇場: SID0180653"
+        "comment": "ミニアニメ劇場: SID0180653, 完全デレギュラ版: SID0289616"
       },
       {
         "site": "danime",
@@ -3695,6 +3746,24 @@
       {
         "site": "aniList",
         "id": "176702"
+      },
+      {
+        "site": "unext",
+        "id": "SID0288141",
+        "begin": "2026-04-11T15:00:00.000Z",
+        "broadcast": "R/2026-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28764",
+        "begin": "2026-04-11T15:00:00.000Z",
+        "broadcast": "R/2026-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GTF1JSKM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4120,7 +4189,8 @@
         "岁月流逝饭菜依旧美味"
       ],
       "zh-Hant": [
-        "歲月流逝飯菜依舊美味"
+        "歲月流逝飯菜依舊美味",
+        "少女煮意日常"
       ],
       "en": [
         "Food for the Soul"
@@ -4213,6 +4283,12 @@
       {
         "site": "aniList",
         "id": "185939"
+      },
+      {
+        "site": "mytv",
+        "id": "foodforthesoul_146099",
+        "begin": "2026-04-26T06:00:00.000Z",
+        "broadcast": "R/2026-04-26T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -4494,12 +4570,6 @@
         "id": "27791",
         "begin": "2025-04-08T14:00:00.000Z",
         "broadcast": "R/2025-04-08T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-71",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",
@@ -5796,7 +5866,7 @@
     "officialSite": "http://kaijyu-sekai.com/",
     "begin": "2025-04-04T16:00:00.000Z",
     "broadcast": "R/2025-04-04T16:00:00.000Z/P7D",
-    "end": "2025-06-28T16:00:00.000Z",
+    "end": "2026-03-21T23:17:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5930,12 +6000,24 @@
       {
         "site": "gamer",
         "id": "142970",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-26T16:00:00.000Z",
+        "broadcast": "R/2026-02-26T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "142970",
+        "begin": "2026-02-26T16:00:00.000Z",
+        "broadcast": "R/2026-02-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpYDLxpS6EhC0gxjbve16vK",
+        "begin": "2026-05-02T13:00:06.000Z",
+        "broadcast": "R/2026-05-02T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uch6-sihzj4XL4c-ROuEbj4z",
         "begin": "",
         "broadcast": ""
       }
@@ -6010,7 +6092,7 @@
     "officialSite": "https://nmeneko-anime.jp/",
     "begin": "2025-04-02T16:00:00.000Z",
     "broadcast": "R/2025-04-02T16:00:00.000Z/P7D",
-    "end": "2025-06-26T16:00:00.000Z",
+    "end": "2026-03-12T17:34:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6501,6 +6583,16 @@
       {
         "site": "aniList",
         "id": "188753"
+      },
+      {
+        "site": "anidb",
+        "id": "19870"
+      },
+      {
+        "site": "danime",
+        "id": "29014",
+        "begin": "2026-05-26T15:00:00.000Z",
+        "broadcast": "R/2026-05-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -6762,6 +6854,49 @@
       {
         "site": "aniList",
         "id": "185212"
+      }
+    ]
+  },
+  {
+    "title": "忘星のヴァリシア 第二章：群青",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.voliciamovie.com/",
+    "begin": "2025-04-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "540904"
+      },
+      {
+        "site": "danime",
+        "id": "28687",
+        "begin": "2026-03-26T15:00:00.000Z",
+        "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0268800",
+        "begin": "2026-03-27T03:00:00.000Z",
+        "broadcast": "R/2026-03-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61865"
+      },
+      {
+        "site": "aniList",
+        "id": "194706"
+      },
+      {
+        "site": "abema",
+        "id": "19-288",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

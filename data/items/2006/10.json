@@ -123,6 +123,18 @@
       {
         "site": "aniList",
         "id": "1600"
+      },
+      {
+        "site": "danime",
+        "id": "22953",
+        "begin": "2026-04-30T15:00:00.000Z",
+        "broadcast": "R/2026-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014545",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -478,6 +490,36 @@
       {
         "site": "aniList",
         "id": "1535"
+      },
+      {
+        "site": "abema",
+        "id": "143-51",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23DxMp_h2Ql7Enw5KS7XnbWb",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "16535",
+        "begin": "2026-05-15T04:00:00.000Z",
+        "broadcast": "R/2026-05-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "16535",
+        "begin": "2026-05-15T04:00:00.000Z",
+        "broadcast": "R/2026-05-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6QWD3EE6",
+        "begin": "2025-05-15T09:00:00.000Z",
+        "broadcast": "R/2025-05-15T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -775,6 +817,12 @@
       {
         "site": "aniList",
         "id": "1575"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY2P9ED0Y",
+        "begin": "2021-06-23T14:00:00.000Z",
+        "broadcast": "R/2021-06-23T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1836,6 +1884,12 @@
       {
         "site": "aniList",
         "id": "1604"
+      },
+      {
+        "site": "abema",
+        "id": "171-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2087,6 +2141,12 @@
       {
         "site": "aniList",
         "id": "1868"
+      },
+      {
+        "site": "danime",
+        "id": "28831",
+        "begin": "2026-03-31T15:00:00.000Z",
+        "broadcast": "R/2026-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2312,6 +2372,12 @@
         "id": "22337",
         "begin": "2026-02-28T15:00:00.000Z",
         "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-206",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

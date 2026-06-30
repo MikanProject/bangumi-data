@@ -134,6 +134,12 @@
       {
         "site": "aniList",
         "id": "934"
+      },
+      {
+        "site": "abema",
+        "id": "117-1m-6rcjtu92",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -629,6 +635,12 @@
       {
         "site": "aniList",
         "id": "853"
+      },
+      {
+        "site": "abema",
+        "id": "143-75",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1482,6 +1494,18 @@
       {
         "site": "aniList",
         "id": "879"
+      },
+      {
+        "site": "danime",
+        "id": "26473",
+        "begin": "2026-04-30T15:00:00.000Z",
+        "broadcast": "R/2026-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015117",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1746,6 +1770,12 @@
       {
         "site": "aniList",
         "id": "877"
+      },
+      {
+        "site": "abema",
+        "id": "143-46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1823,7 +1853,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FBBKF1QH",
+        "id": "B0DPY4PNX8",
         "begin": "",
         "broadcast": ""
       },
@@ -2774,12 +2804,6 @@
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "123984",
-        "begin": "2022-05-13T03:00:00.000Z",
-        "broadcast": "R/2022-05-13T03:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/53787/season/2"
       },
@@ -2975,7 +2999,7 @@
       },
       {
         "site": "prime",
-        "id": "B06Y27NTQB",
+        "id": "B0GT7CWD26",
         "begin": "",
         "broadcast": ""
       },
@@ -2994,6 +3018,18 @@
       {
         "site": "aniList",
         "id": "1506"
+      },
+      {
+        "site": "abema",
+        "id": "415-42",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010680",
+        "begin": "2026-03-27T15:00:00.000Z",
+        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3298,6 +3334,51 @@
       {
         "site": "aniList",
         "id": "11521"
+      }
+    ]
+  },
+  {
+    "title": "新星輝デュエル・マスターズ フラッシュ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新星辉决斗大师Flash"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-04-09T16:00:00.000Z",
+    "broadcast": "R/2006-04-09T16:00:00.000Z/P7D",
+    "end": "2007-03-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293615"
+      },
+      {
+        "site": "danime",
+        "id": "28903",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0294073",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "10525"
+      },
+      {
+        "site": "aniList",
+        "id": "10525"
+      },
+      {
+        "site": "anidb",
+        "id": "5527"
       }
     ]
   }

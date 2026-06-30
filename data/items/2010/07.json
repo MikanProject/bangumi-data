@@ -291,7 +291,7 @@
       },
       {
         "site": "prime",
-        "id": "B078N53B2K",
+        "id": "B0GF12C13S",
         "begin": "",
         "broadcast": ""
       },
@@ -379,6 +379,12 @@
       {
         "site": "aniList",
         "id": "7592"
+      },
+      {
+        "site": "danime",
+        "id": "29074",
+        "begin": "2026-06-25T15:00:00.000Z",
+        "broadcast": "R/2026-06-25T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1215,6 +1221,18 @@
       {
         "site": "tmdb",
         "id": "movie/62368"
+      },
+      {
+        "site": "mal",
+        "id": "6280"
+      },
+      {
+        "site": "aniList",
+        "id": "6280"
+      },
+      {
+        "site": "anidb",
+        "id": "6473"
       }
     ]
   },
@@ -1437,6 +1455,12 @@
       {
         "site": "tmdb",
         "id": "tv/45857/season/0"
+      },
+      {
+        "site": "abema",
+        "id": "171-28",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

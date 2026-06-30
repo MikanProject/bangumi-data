@@ -870,6 +870,12 @@
       {
         "site": "aniList",
         "id": "19603"
+      },
+      {
+        "site": "abema",
+        "id": "26-28",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1384,6 +1390,18 @@
       {
         "site": "aniList",
         "id": "20701"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpofvHF4nPHjSlnnlOpy3Rg",
+        "begin": "2026-05-26T13:00:06.000Z",
+        "broadcast": "R/2026-05-26T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uch_BHA5ku8hz6FEtvs6CWKK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2917,12 +2935,6 @@
         "begin": "2020-01-21T07:29:07.000Z"
       },
       {
-        "site": "gamer",
-        "id": "72058",
-        "begin": "2020-02-07T09:40:00.000Z",
-        "broadcast": "R/2020-02-07T09:40:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28228902",
         "begin": "2020-05-13T08:52:00.000Z",
@@ -2933,12 +2945,6 @@
         "id": "SID0011933",
         "begin": "2014-11-03T06:00:00.000Z",
         "broadcast": "R/2014-11-03T06:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "72058",
-        "begin": "2020-02-07T09:40:00.000Z",
-        "broadcast": "R/2020-02-07T09:40:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2973,6 +2979,12 @@
       {
         "site": "aniList",
         "id": "20812"
+      },
+      {
+        "site": "prime",
+        "id": "B0FGHQ1DMR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3784,12 +3796,6 @@
         "broadcast": "R/2021-02-05T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "203-18",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/236786"
       },
@@ -4209,7 +4215,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/50712/season/0/episode/9"
+        "id": "movie/511082"
       },
       {
         "site": "mal",

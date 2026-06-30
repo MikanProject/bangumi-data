@@ -669,12 +669,6 @@
         "id": "tv/223500"
       },
       {
-        "site": "mytv",
-        "id": "windbreaker0001_144912",
-        "begin": "2025-12-26T16:00:00.000Z",
-        "broadcast": "R/2025-12-26T16:00:00.000Z/P7D"
-      },
-      {
         "site": "mal",
         "id": "54900"
       },
@@ -1000,6 +994,12 @@
       {
         "site": "aniList",
         "id": "164212"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G1XHJV0W8",
+        "begin": "2024-04-06T00:00:00.000Z",
+        "broadcast": "R/2024-04-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1647,7 +1647,7 @@
       },
       {
         "site": "prime",
-        "id": "B0CVDLW5K2",
+        "id": "B0GWK3VV1K",
         "begin": "",
         "broadcast": ""
       },
@@ -1666,6 +1666,12 @@
       {
         "site": "aniList",
         "id": "158898"
+      },
+      {
+        "site": "abema",
+        "id": "11-60",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2062,12 +2068,6 @@
         "id": "SID0100050",
         "begin": "2024-04-14T15:00:00.000Z",
         "broadcast": "R/2024-04-14T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-262",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -3195,6 +3195,12 @@
       {
         "site": "aniList",
         "id": "169698"
+      },
+      {
+        "site": "prime",
+        "id": "B0CWPN1182",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3813,7 +3819,11 @@
         "蜻蛉高球"
       ],
       "zh-Hant": [
-        "蜻蛉高球"
+        "蜻蛉高球",
+        "天才高球少女"
+      ],
+      "en": [
+        "Tonbo!"
       ]
     },
     "type": "tv",
@@ -3893,6 +3903,12 @@
       {
         "site": "aniList",
         "id": "164440"
+      },
+      {
+        "site": "mytv",
+        "id": "tonbo_145908",
+        "begin": "2026-03-24T12:50:00.000Z",
+        "broadcast": "R/2026-03-24T12:50:00.000Z/P7D"
       }
     ]
   },
@@ -4866,6 +4882,12 @@
       {
         "site": "aniList",
         "id": "174653"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23BxtnfSeggF6pRJz3KXgjXU",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5363,6 +5385,12 @@
       {
         "site": "aniList",
         "id": "166873"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G24H1N3MP",
+        "begin": "2021-01-11T00:00:00.000Z",
+        "broadcast": "R/2021-01-11T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -6105,6 +6133,24 @@
       {
         "site": "aniList",
         "id": "169754"
+      },
+      {
+        "site": "unext",
+        "id": "SID0289628",
+        "begin": "2026-03-27T15:00:00.000Z",
+        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FX5SLYNM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-73",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

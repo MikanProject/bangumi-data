@@ -320,6 +320,12 @@
       {
         "site": "aniList",
         "id": "105156"
+      },
+      {
+        "site": "abema",
+        "id": "25-129",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -873,6 +879,12 @@
       {
         "site": "aniList",
         "id": "108268"
+      },
+      {
+        "site": "abema",
+        "id": "413-2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1018,12 +1030,6 @@
         "begin": "2019-10-08T10:01:25.000Z"
       },
       {
-        "site": "gamer",
-        "id": "104419",
-        "begin": "2019-12-27T04:00:00.000Z",
-        "broadcast": "R/2019-12-27T04:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0043303",
         "begin": "2019-10-03T14:00:00.000Z",
@@ -1074,6 +1080,12 @@
       {
         "site": "aniList",
         "id": "108388"
+      },
+      {
+        "site": "prime",
+        "id": "B0FCN1X2JW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1423,18 +1435,6 @@
         "id": "urashimasakatasen",
         "begin": "2019-10-02T12:54:00.000Z",
         "broadcast": "R/2019-10-02T12:54:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgrH_EHaFdtL9-V1YS2O1yx",
-        "begin": "2019-11-08T16:00:00.000Z",
-        "broadcast": "R/2019-11-08T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "107886",
-        "begin": "2019-10-02T14:00:00.000Z",
-        "broadcast": "R/2019-10-02T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
@@ -1811,12 +1811,6 @@
         "id": "zxtcg_reunion",
         "begin": "2019-10-12T15:00:00.000Z",
         "broadcast": "R/2019-10-12T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "94006",
-        "begin": "2019-10-08T14:30:00.000Z",
-        "broadcast": "R/2019-10-08T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
@@ -3641,6 +3635,12 @@
         "broadcast": "R/2025-03-05T07:53:54.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "19-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "tmdb",
         "id": "tv/65930/season/4"
       },
@@ -3703,6 +3703,12 @@
       {
         "site": "aniList",
         "id": "111728"
+      },
+      {
+        "site": "prime",
+        "id": "B0GWCC9HYK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3726,18 +3732,6 @@
       {
         "site": "bangumi",
         "id": "283053"
-      },
-      {
-        "site": "gamer",
-        "id": "105596",
-        "begin": "2021-05-24T08:00:00.000Z",
-        "broadcast": "R/2021-05-24T08:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "105596",
-        "begin": "2021-05-24T08:00:00.000Z",
-        "broadcast": "R/2021-05-24T08:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4610,12 +4604,6 @@
         "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "104025",
-        "begin": "2022-12-16T03:00:00.000Z",
-        "broadcast": "R/2022-12-16T03:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0049399",
         "begin": "2020-07-15T03:00:00.000Z",
@@ -4623,7 +4611,7 @@
       },
       {
         "site": "nicovideo",
-        "id": "gineiden-seiran",
+        "id": "gineiden-dnt-seiran",
         "begin": "",
         "broadcast": ""
       },

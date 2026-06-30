@@ -602,12 +602,6 @@
         "broadcast": "R/2023-10-01T09:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "632-3",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "21086747",
         "begin": "2023-11-05T10:00:00.000Z",
@@ -695,6 +689,12 @@
       {
         "site": "aniList",
         "id": "151970"
+      },
+      {
+        "site": "abema",
+        "id": "632-3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -790,6 +790,12 @@
       {
         "site": "aniList",
         "id": "163024"
+      },
+      {
+        "site": "abema",
+        "id": "168-79",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1815,6 +1821,12 @@
       {
         "site": "aniList",
         "id": "160900"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH8X1T8T",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1980,6 +1992,12 @@
       {
         "site": "aniList",
         "id": "143085"
+      },
+      {
+        "site": "abema",
+        "id": "54-64",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3080,13 +3098,6 @@
         "broadcast": "R/2023-10-01T16:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "ronkamonohashisforbiddendeductions_139629",
-        "begin": "2023-10-02T14:30:00.000Z",
-        "broadcast": "R/2023-10-02T14:30:00.000Z/P7D",
-        "comment": "ronkamonohashisforbiddendeductions0001_141951"
-      },
-      {
         "site": "gamer",
         "id": "129279",
         "begin": "2023-10-02T14:30:00.000Z",
@@ -3291,12 +3302,6 @@
         "id": "130911",
         "begin": "2023-10-08T14:00:00.000Z",
         "broadcast": "R/2023-10-08T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-60",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -4655,6 +4660,12 @@
       {
         "site": "aniList",
         "id": "154459"
+      },
+      {
+        "site": "prime",
+        "id": "B0CK6ND27L",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6386,7 +6397,7 @@
     "officialSite": "https://i-cinnamoroll.sanrio.co.jp/",
     "begin": "2023-10-04T16:00:00.000Z",
     "broadcast": "",
-    "end": "2023-10-04T16:00:00.000Z",
+    "end": "2025-11-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

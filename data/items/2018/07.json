@@ -421,6 +421,12 @@
         "id": "168-5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYZJXWWGR",
+        "begin": "2021-04-08T16:28:00.000Z",
+        "broadcast": "R/2021-04-08T16:28:00.000Z/P7D"
       }
     ]
   },
@@ -1011,7 +1017,8 @@
         "GRANDBLUE 碧藍之海"
       ],
       "en": [
-        "Grand Blue"
+        "Grand Blue",
+        "Grand Blue Dreaming"
       ]
     },
     "type": "tv",
@@ -1101,6 +1108,12 @@
       {
         "site": "aniList",
         "id": "100922"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GNVHKN94W",
+        "begin": "2025-06-25T00:00:00.000Z",
+        "broadcast": "R/2025-06-25T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2266,6 +2279,12 @@
       {
         "site": "aniList",
         "id": "101117"
+      },
+      {
+        "site": "abema",
+        "id": "248-5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3272,12 +3291,6 @@
         "site": "youku",
         "id": "90a4a55ffbf547329da5",
         "begin": "2018-07-06T19:58:01.000Z"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
-        "begin": "2022-01-06T16:00:00.000Z",
-        "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",

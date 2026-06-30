@@ -1428,6 +1428,12 @@
       {
         "site": "aniList",
         "id": "12189"
+      },
+      {
+        "site": "abema",
+        "id": "25-7krpy-sgurg",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2204,6 +2210,12 @@
       {
         "site": "aniList",
         "id": "12815"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002225",
+        "begin": "2026-03-26T15:00:00.000Z",
+        "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2680,6 +2692,18 @@
         "id": "G62P48X56",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0DJD3G9L8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "420-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2749,12 +2773,6 @@
         "broadcast": "R/2021-02-05T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "203-17",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/67249/season/0"
       }
@@ -2804,6 +2822,12 @@
       {
         "site": "aniList",
         "id": "10389"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012387",
+        "begin": "2026-03-30T03:00:00.000Z",
+        "broadcast": "R/2026-03-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2880,12 +2904,6 @@
       {
         "site": "tmdb",
         "id": "movie/163772"
-      },
-      {
-        "site": "netflix",
-        "id": "80243208",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -2960,6 +2978,18 @@
       {
         "site": "aniList",
         "id": "12117"
+      },
+      {
+        "site": "abema",
+        "id": "415-48",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0004857",
+        "begin": "2026-04-17T15:00:00.000Z",
+        "broadcast": "R/2026-04-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3188,12 +3218,6 @@
       {
         "site": "bangumi",
         "id": "212153"
-      },
-      {
-        "site": "abema",
-        "id": "19-234",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

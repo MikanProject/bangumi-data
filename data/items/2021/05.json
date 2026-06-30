@@ -260,7 +260,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/83121/season/0"
+        "id": "tv/83121/season/0/episode/2"
       },
       {
         "site": "mal",
@@ -273,6 +273,12 @@
       {
         "site": "aniList",
         "id": "125368"
+      },
+      {
+        "site": "abema",
+        "id": "26-66",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

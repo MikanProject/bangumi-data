@@ -524,6 +524,12 @@
       {
         "site": "aniList",
         "id": "99424"
+      },
+      {
+        "site": "prime",
+        "id": "B0FJQH54WJ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -648,10 +654,10 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
+        "id": "PLuxqoToY7UciRpmwbDag-RV29sU-fCeIc",
         "begin": "2022-08-05T16:00:00.000Z",
         "broadcast": "R/2022-08-05T16:00:00.000Z/P7D",
-        "comment": "粵語: PLuxqoToY7Uci_54jj9mAUjQc8NWJxOuoJ"
+        "comment": "OAD: PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew, 粵語: PLuxqoToY7Uci_54jj9mAUjQc8NWJxOuoJ"
       },
       {
         "site": "netflix",
@@ -743,6 +749,12 @@
       {
         "site": "aniList",
         "id": "101280"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYZJ43JMR",
+        "begin": "2018-10-02T00:00:00.000Z",
+        "broadcast": "R/2018-10-02T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1333,6 +1345,12 @@
       {
         "site": "aniList",
         "id": "101506"
+      },
+      {
+        "site": "abema",
+        "id": "25-104",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1569,6 +1587,18 @@
       {
         "site": "aniList",
         "id": "103871"
+      },
+      {
+        "site": "gamer",
+        "id": "99414",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "99414",
+        "begin": "2026-04-20T04:00:00.000Z",
+        "broadcast": "R/2026-04-20T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1632,12 +1662,6 @@
       {
         "site": "mikan",
         "id": "1773"
-      },
-      {
-        "site": "gamer",
-        "id": "95242",
-        "begin": "2024-09-06T04:00:00.000Z",
-        "broadcast": "R/2024-09-06T04:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1949,12 +1973,6 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "99842",
-        "begin": "2019-02-23T09:00:00.000Z",
-        "broadcast": "R/2019-02-23T09:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0037484",
         "begin": "2018-10-12T03:00:00.000Z",
@@ -2208,8 +2226,8 @@
       {
         "site": "crunchyroll",
         "id": "G6QW9J2Z6",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2018-10-05T15:00:00.000Z",
+        "broadcast": "R/2018-10-05T15:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -2589,6 +2607,12 @@
       {
         "site": "aniList",
         "id": "102351"
+      },
+      {
+        "site": "abema",
+        "id": "171-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2624,22 +2648,10 @@
         "broadcast": "R/2018-11-18T11:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "96352",
-        "begin": "2019-11-20T02:30:00.000Z",
-        "broadcast": "R/2019-11-20T02:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0037247",
         "begin": "2018-10-05T03:00:00.000Z",
         "broadcast": "R/2018-10-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "96352",
-        "begin": "2019-11-20T02:30:00.000Z",
-        "broadcast": "R/2019-11-20T02:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2664,6 +2676,12 @@
       {
         "site": "aniList",
         "id": "101470"
+      },
+      {
+        "site": "danime",
+        "id": "22414",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3193,6 +3211,12 @@
       {
         "site": "aniList",
         "id": "101024"
+      },
+      {
+        "site": "mytv",
+        "id": "radiant_146030",
+        "begin": "2026-03-31T16:00:00.000Z",
+        "broadcast": "R/2026-03-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -5012,6 +5036,12 @@
       {
         "site": "anidb",
         "id": "13430"
+      },
+      {
+        "site": "prime",
+        "id": "B0GYQ66PWL",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5064,6 +5094,12 @@
       {
         "site": "aniList",
         "id": "99614"
+      },
+      {
+        "site": "abema",
+        "id": "115-130",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

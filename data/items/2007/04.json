@@ -105,6 +105,12 @@
       {
         "site": "aniList",
         "id": "1915"
+      },
+      {
+        "site": "abema",
+        "id": "115-28",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -700,12 +706,6 @@
       {
         "site": "tmdb",
         "id": "tv/42500"
-      },
-      {
-        "site": "abema",
-        "id": "25-14ctrgpbhdrg",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",
@@ -1351,6 +1351,12 @@
       {
         "site": "aniList",
         "id": "2026"
+      },
+      {
+        "site": "abema",
+        "id": "2-9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2409,6 +2415,18 @@
       {
         "site": "aniList",
         "id": "2171"
+      },
+      {
+        "site": "abema",
+        "id": "415-43",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010681",
+        "begin": "2026-04-10T15:00:00.000Z",
+        "broadcast": "R/2026-04-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2804,6 +2822,55 @@
       {
         "site": "aniList",
         "id": "3885"
+      }
+    ]
+  },
+  {
+    "title": "ゼロ デュエル・マスターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Zero决斗大师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-04-08T16:00:00.000Z",
+    "broadcast": "R/2007-04-08T16:00:00.000Z/P7D",
+    "end": "2007-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293616"
+      },
+      {
+        "site": "danime",
+        "id": "28904",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0293208",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4444"
+      },
+      {
+        "site": "aniList",
+        "id": "4444"
+      },
+      {
+        "site": "anidb",
+        "id": "5537"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46392/season/3"
       }
     ]
   }

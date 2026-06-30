@@ -155,6 +155,12 @@
       {
         "site": "aniList",
         "id": "20614"
+      },
+      {
+        "site": "abema",
+        "id": "248-3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -332,6 +338,18 @@
       {
         "site": "aniList",
         "id": "20605"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6NV7Z50Y",
+        "begin": "2014-07-04T00:00:00.000Z",
+        "broadcast": "R/2014-07-04T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "171-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -614,6 +632,12 @@
       {
         "site": "aniList",
         "id": "20611"
+      },
+      {
+        "site": "prime",
+        "id": "B07F5PVMVD",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1298,6 +1322,12 @@
       {
         "site": "aniList",
         "id": "20613"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY2P14QEY",
+        "begin": "2014-07-06T15:00:00.000Z",
+        "broadcast": "R/2014-07-06T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1353,12 +1383,6 @@
         "id": "20074",
         "begin": "2015-04-03T01:00:00.000Z",
         "broadcast": "R/2015-04-03T01:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "27298",
-        "begin": "2022-02-11T01:00:00.000Z",
-        "broadcast": "R/2022-02-11T01:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1765,12 +1789,6 @@
         "id": "95824"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
-        "begin": "2022-01-06T16:00:00.000Z",
-        "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0020757",
         "begin": "2019-04-05T03:00:00.000Z",
@@ -1950,12 +1968,6 @@
         "id": "SID0002571",
         "begin": "2021-01-07T03:00:00.000Z",
         "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-11ijxdyytjnx",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",

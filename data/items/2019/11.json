@@ -89,6 +89,12 @@
       {
         "site": "aniList",
         "id": "112153"
+      },
+      {
+        "site": "abema",
+        "id": "2-22",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -113,12 +119,6 @@
       {
         "site": "bangumi",
         "id": "292940"
-      },
-      {
-        "site": "gamer",
-        "id": "113018",
-        "begin": "2020-08-19T04:00:00.000Z",
-        "broadcast": "R/2020-08-19T04:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -411,6 +411,12 @@
       {
         "site": "mal",
         "id": "38414"
+      },
+      {
+        "site": "prime",
+        "id": "B0GTSM19BX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -547,12 +553,6 @@
         "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "104025",
-        "begin": "2022-12-16T03:00:00.000Z",
-        "broadcast": "R/2022-12-16T03:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28222814",
         "begin": "2019-09-27T12:01:33.000Z",
@@ -566,7 +566,7 @@
       },
       {
         "site": "nicovideo",
-        "id": "gineiden-seiran",
+        "id": "gineiden-dnt-seiran",
         "begin": "",
         "broadcast": ""
       },

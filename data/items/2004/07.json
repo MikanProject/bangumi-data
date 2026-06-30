@@ -685,6 +685,12 @@
       {
         "site": "anidb",
         "id": "2371"
+      },
+      {
+        "site": "abema",
+        "id": "746-7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -714,12 +720,6 @@
       {
         "site": "tmdb",
         "id": "movie/504309"
-      },
-      {
-        "site": "abema",
-        "id": "746-42",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },

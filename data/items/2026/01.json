@@ -88,7 +88,7 @@
       },
       {
         "site": "prime",
-        "id": "B0G525WVDY",
+        "id": "B0GBZ3LQV4",
         "begin": "",
         "broadcast": ""
       },
@@ -154,7 +154,8 @@
         "site": "viu",
         "id": "2878774",
         "begin": "2026-01-16T15:00:08.000Z",
-        "broadcast": "R/2026-01-16T15:00:08.000Z/P7D"
+        "broadcast": "R/2026-01-16T15:00:08.000Z/P7D",
+        "comment": "粵語版: 3029412"
       },
       {
         "site": "gamer_hk",
@@ -187,8 +188,8 @@
       {
         "site": "netflix",
         "id": "81726714",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-15T16:00:00.000Z",
+        "broadcast": "R/2026-01-15T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -198,7 +199,7 @@
       },
       {
         "site": "prime",
-        "id": "B0GDC3WLHM",
+        "id": "B0GDC42LLV",
         "begin": "",
         "broadcast": ""
       },
@@ -392,7 +393,7 @@
       },
       {
         "site": "prime",
-        "id": "B0GCMFGY1T",
+        "id": "B0GCM4JPT1",
         "begin": "",
         "broadcast": ""
       },
@@ -877,6 +878,12 @@
       {
         "site": "aniList",
         "id": "166617"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G4PH0WJQZ",
+        "begin": "2024-12-31T00:00:00.000Z",
+        "broadcast": "R/2024-12-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -948,7 +955,7 @@
       },
       {
         "site": "prime",
-        "id": "B0G7M89DS1",
+        "id": "B0GB3H7HNL",
         "begin": "",
         "broadcast": ""
       },
@@ -1254,6 +1261,12 @@
       {
         "site": "aniList",
         "id": "195515"
+      },
+      {
+        "site": "netflix",
+        "id": "82624865",
+        "begin": "2026-05-30T16:00:00.000Z",
+        "broadcast": "R/2026-05-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1266,6 +1279,9 @@
       ],
       "zh-Hant": [
         "異國日記"
+      ],
+      "en": [
+        "Journal With Witch"
       ]
     },
     "type": "tv",
@@ -1341,6 +1357,12 @@
       {
         "site": "aniList",
         "id": "177385"
+      },
+      {
+        "site": "netflix",
+        "id": "82703495",
+        "begin": "2026-06-13T16:00:00.000Z",
+        "broadcast": "R/2026-06-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1348,7 +1370,7 @@
     "title": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
     "titleTranslate": {
       "zh-Hans": [
-        "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～"
+        "地狱模式～喜欢挑战特殊成就的玩家在废设置的异世界成为无双～"
       ],
       "zh-Hant": [
         "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～"
@@ -1546,7 +1568,7 @@
     "officialSite": "https://hikuidori-project.com/",
     "begin": "2026-01-11T14:30:00.000Z",
     "broadcast": "R/2026-01-11T14:30:00.000Z/P7D",
-    "end": "2026-03-26T14:30:00.000Z",
+    "end": "2026-04-05T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1632,6 +1654,12 @@
       {
         "site": "aniList",
         "id": "187062"
+      },
+      {
+        "site": "netflix",
+        "id": "82703469",
+        "begin": "2026-05-20T16:00:00.000Z",
+        "broadcast": "R/2026-05-20T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1703,6 +1731,18 @@
       {
         "site": "aniList",
         "id": "186333"
+      },
+      {
+        "site": "unext",
+        "id": "SID0249088",
+        "begin": "2026-04-04T03:00:00.000Z",
+        "broadcast": "R/2026-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FVKLT46R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1873,8 +1913,8 @@
       {
         "site": "netflix",
         "id": "82047155",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-06T16:00:00.000Z",
+        "broadcast": "R/2026-01-06T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2092,8 +2132,8 @@
       {
         "site": "netflix",
         "id": "82645278",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-14T16:00:00.000Z",
+        "broadcast": "R/2026-01-14T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -2263,7 +2303,7 @@
       },
       {
         "site": "prime",
-        "id": "B0GCJNWCT7",
+        "id": "B0GD8FK6NY",
         "begin": "",
         "broadcast": ""
       }
@@ -2358,7 +2398,7 @@
       },
       {
         "site": "prime",
-        "id": "B0GDH1LW8L",
+        "id": "B0GBZ8RYGK",
         "begin": "",
         "broadcast": ""
       }
@@ -2477,7 +2517,7 @@
     "officialSite": "https://jingai-kyoshitsu-anime.com/",
     "begin": "2026-01-10T15:00:00.000Z",
     "broadcast": "R/2026-01-10T15:00:00.000Z/P7D",
-    "end": "2026-03-27T15:00:00.000Z",
+    "end": "2026-04-04T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2584,8 +2624,8 @@
       {
         "site": "netflix",
         "id": "81574246",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-24T16:00:00.000Z",
+        "broadcast": "R/2026-01-24T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2601,7 +2641,7 @@
       },
       {
         "site": "prime",
-        "id": "B0GFMYN5SS",
+        "id": "B0GD7JBMB2",
         "begin": "",
         "broadcast": ""
       }
@@ -2653,8 +2693,8 @@
       {
         "site": "netflix",
         "id": "81278456",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T16:00:00.000Z",
+        "broadcast": "R/2026-01-07T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -2670,9 +2710,10 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtSENfS74onXPOiLanTZjpZx",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLC18xlbCdwtRU8dW6dalJd77zhVbnICYT",
+        "begin": "2026-05-15T13:00:06.000Z",
+        "broadcast": "R/2026-05-15T13:00:06.000Z/P7D",
+        "comment": "粵語: PLC18xlbCdwtSxNi1WNuT7CCD23BAy-2rx, ULTRA搶先看: PLC18xlbCdwtSENfS74onXPOiLanTZjpZx"
       },
       {
         "site": "tmdb",
@@ -2680,15 +2721,17 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLxSscENEp7Ji3bsb-zczT-LronPNB4IqM",
+        "begin": "2026-05-15T13:00:07.000Z",
+        "broadcast": "R/2026-05-15T13:00:07.000Z/P7D",
+        "comment": "ULTRA搶先看: PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC"
       },
       {
         "site": "viu",
         "id": "2876958",
         "begin": "2026-01-08T17:00:01.000Z",
-        "broadcast": "R/2026-01-08T17:00:01.000Z/P7D"
+        "broadcast": "R/2026-01-08T17:00:01.000Z/P7D",
+        "comment": "粵語版: 3045630"
       },
       {
         "site": "danime",
@@ -2738,7 +2781,7 @@
     "officialSite": "https://anime.cf-vanguard.com/vgd/",
     "begin": "2026-01-09T23:00:00.000Z",
     "broadcast": "R/2026-01-09T23:00:00.000Z/P7D",
-    "end": "2026-04-11T23:00:00.000Z",
+    "end": "2026-04-10T23:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2878,8 +2921,8 @@
       {
         "site": "netflix",
         "id": "82653227",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T16:00:00.000Z",
+        "broadcast": "R/2026-01-10T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -3120,7 +3163,7 @@
       },
       {
         "site": "prime",
-        "id": "B0G2LN1CWK",
+        "id": "B0G2LRPPJQ",
         "begin": "",
         "broadcast": ""
       },
@@ -3668,7 +3711,8 @@
         "site": "tropics",
         "id": "PLoGVqODys23DbPMMUai8b1orcTXmyOt4_",
         "begin": "2026-01-07T15:00:06.000Z",
-        "broadcast": "R/2026-01-07T15:00:06.000Z/P7D"
+        "broadcast": "R/2026-01-07T15:00:06.000Z/P7D",
+        "comment": "中文配音: PLoGVqODys23B5XolCsF4zOp-fvU8PUoQb"
       },
       {
         "site": "prime",
@@ -3705,7 +3749,7 @@
     "officialSite": "https://yushanokuzu.com/",
     "begin": "2026-01-10T15:55:00.000Z",
     "broadcast": "R/2026-01-10T15:55:00.000Z/P7D",
-    "end": "2026-06-20T15:55:00.000Z",
+    "end": "2026-06-27T15:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3785,6 +3829,10 @@
       {
         "site": "aniList",
         "id": "187989"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "69db11b24b29be5e9e214f4c"
       }
     ]
   },
@@ -4304,7 +4352,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai16/",
     "begin": "2026-01-11T17:20:00.000Z",
     "broadcast": "R/2026-01-11T17:20:00.000Z/P7D",
-    "end": "2026-03-26T17:20:00.000Z",
+    "end": "2026-04-05T18:20:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4532,6 +4580,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "北斗神拳 拳王军杂兵们的挽歌"
+      ],
+      "zh-Hant": [
+        "北斗之拳 拳王軍雜魚們的輓歌"
       ]
     },
     "type": "tv",
@@ -4585,6 +4636,28 @@
       {
         "site": "aniList",
         "id": "187217"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/310026"
+      },
+      {
+        "site": "prime",
+        "id": "B0GCLNZM7Z",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "148359",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "148359",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4633,7 +4706,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/229443/season/2"
+        "id": "tv/229443"
       },
       {
         "site": "unext",
@@ -4775,7 +4848,7 @@
       },
       {
         "site": "prime",
-        "id": "B0G9L9R37X",
+        "id": "B0G9LXH1YZ",
         "begin": "",
         "broadcast": ""
       },
@@ -4966,8 +5039,8 @@
       {
         "site": "netflix",
         "id": "82036361",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-06T16:00:00.000Z",
+        "broadcast": "R/2025-04-06T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -4999,7 +5072,7 @@
     "officialSite": "https://fireforce-anime.jp/",
     "begin": "2026-01-09T16:53:00.000Z",
     "broadcast": "R/2026-01-09T16:53:00.000Z/P7D",
-    "end": "2026-03-28T16:53:00.000Z",
+    "end": "2026-04-03T16:53:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5035,8 +5108,8 @@
       {
         "site": "netflix",
         "id": "81143589",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-03T16:00:00.000Z",
+        "broadcast": "R/2025-04-03T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -5049,6 +5122,12 @@
       {
         "site": "aniList",
         "id": "179062"
+      },
+      {
+        "site": "abema",
+        "id": "194-16",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5127,7 +5206,7 @@
       },
       {
         "site": "prime",
-        "id": "B0GC8QWY6X",
+        "id": "B0GCHPF84Z",
         "begin": "",
         "broadcast": ""
       },
@@ -5270,8 +5349,8 @@
       {
         "site": "netflix",
         "id": "81684733",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-04-11T16:00:00.000Z",
+        "broadcast": "R/2023-04-11T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -5293,7 +5372,7 @@
     "officialSite": "https://darkmoon-tba.com/",
     "begin": "2026-01-08T16:00:00.000Z",
     "broadcast": "R/2026-01-08T16:00:00.000Z/P7D",
-    "end": "2026-03-27T16:00:00.000Z",
+    "end": "2026-03-26T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5381,9 +5460,9 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://animationid.com/omagun/",
-    "begin": "2026-01-09T16:00:00.000Z",
-    "broadcast": "",
-    "end": "2026-03-27T16:00:00.000Z",
+    "begin": "2026-01-10T12:30:00.000Z",
+    "broadcast": "R/2026-01-10T12:30:00.000Z/P7D",
+    "end": "2026-03-14T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5493,7 +5572,7 @@
       },
       {
         "site": "prime",
-        "id": "B0G6148NYH",
+        "id": "B0G4XFBKXP",
         "begin": "",
         "broadcast": ""
       },
@@ -5679,8 +5758,8 @@
       {
         "site": "netflix",
         "id": "81498882",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-14T16:00:00.000Z",
+        "broadcast": "R/2026-01-14T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -5712,7 +5791,7 @@
     "officialSite": "",
     "begin": "2026-01-14T13:30:00.000Z",
     "broadcast": "R/2026-01-14T13:30:00.000Z/P7D",
-    "end": "2022-01-08T13:30:00.000Z",
+    "end": "2026-04-01T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5783,8 +5862,8 @@
       {
         "site": "netflix",
         "id": "81756595",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-21T16:00:00.000Z",
+        "broadcast": "R/2026-01-21T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -5849,26 +5928,74 @@
     ]
   },
   {
-    "title": "名探偵プリキュア！",
+    "title": "ALL YOU NEED IS KILL",
     "titleTranslate": {
-      "en": [
-        "Star Detective Precure!"
-      ],
       "zh-Hans": [
-        "名侦探光之美少女！"
+        "杀戮轮回",
+        "明日边缘"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
-    "officialSite": "https://www.asahi.co.jp/precure/star-detective/",
-    "begin": "2026-01-31T23:30:00.000Z",
-    "broadcast": "R/2026-01-31T23:30:00.000Z/P7D",
-    "end": "2027-01-17T23:30:00.000Z",
+    "officialSite": "https://aynk-anime.com/",
+    "begin": "2026-01-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-01-08T17:25:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "611077"
+        "id": "543589"
+      },
+      {
+        "site": "unext",
+        "id": "SID0287190",
+        "begin": "2026-04-07T15:00:00.000Z",
+        "broadcast": "R/2026-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61192"
+      },
+      {
+        "site": "aniList",
+        "id": "187892"
+      },
+      {
+        "site": "anidb",
+        "id": "19208"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1432547"
+      }
+    ]
+  },
+  {
+    "title": "迷宮のしおり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷宫的栞",
+        "谜攻少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/meikyu-shiori/",
+    "begin": "2025-12-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "567684"
+      },
+      {
+        "site": "unext",
+        "id": "SID0281594",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
       }
     ]
   }

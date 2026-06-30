@@ -565,7 +565,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/300822"
+        "id": "tv/46195"
       },
       {
         "site": "mal",
@@ -700,6 +700,30 @@
       {
         "site": "aniList",
         "id": "6164"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017744",
+        "begin": "2026-05-26T15:00:00.000Z",
+        "broadcast": "R/2026-05-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29010",
+        "begin": "2026-05-26T15:00:00.000Z",
+        "broadcast": "R/2026-05-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-324",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0H1JRCFP4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1137,6 +1161,12 @@
       {
         "site": "anidb",
         "id": "7127"
+      },
+      {
+        "site": "danime",
+        "id": "28813",
+        "begin": "2026-03-26T15:00:00.000Z",
+        "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1224,7 +1254,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/56389/season/0"
+        "id": "movie/360600"
       }
     ]
   },

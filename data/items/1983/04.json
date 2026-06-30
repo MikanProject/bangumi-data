@@ -233,6 +233,12 @@
       {
         "site": "aniList",
         "id": "3272"
+      },
+      {
+        "site": "abema",
+        "id": "5-9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -360,12 +366,6 @@
         "broadcast": "R/2017-02-17T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-222",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/68606"
       },
@@ -380,6 +380,12 @@
       {
         "site": "aniList",
         "id": "5344"
+      },
+      {
+        "site": "abema",
+        "id": "19-222",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -476,6 +476,12 @@
       {
         "site": "aniList",
         "id": "2904"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY2P9ED0Y",
+        "begin": "2021-06-23T14:00:00.000Z",
+        "broadcast": "R/2021-06-23T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1167,12 +1173,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "301-2",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/5857"
       },
@@ -1300,6 +1300,12 @@
         "id": "28767",
         "begin": "2026-03-18T15:00:00.000Z",
         "broadcast": "R/2026-03-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-10",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2198,12 +2204,6 @@
       {
         "site": "aniList",
         "id": "8367"
-      },
-      {
-        "site": "netflix",
-        "id": "80243040",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -2253,7 +2253,7 @@
       },
       {
         "site": "prime",
-        "id": "B06Y21YRDX",
+        "id": "B0GVZTMV74",
         "begin": "",
         "broadcast": ""
       },
@@ -2278,6 +2278,18 @@
       {
         "site": "aniList",
         "id": "4447"
+      },
+      {
+        "site": "abema",
+        "id": "415-44",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010682",
+        "begin": "2026-04-03T15:00:00.000Z",
+        "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
       }
     ]
   },

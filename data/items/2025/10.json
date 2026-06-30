@@ -597,6 +597,12 @@
         "id": "82153100",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchosvEOrNqQ7TDpOBK9NKVj",
+        "begin": "2026-05-12T13:30:06.000Z",
+        "broadcast": "R/2026-05-12T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -839,6 +845,18 @@
       {
         "site": "aniList",
         "id": "179302"
+      },
+      {
+        "site": "unext",
+        "id": "SID0306387",
+        "begin": "2026-06-20T03:00:00.000Z",
+        "broadcast": "R/2026-06-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29035",
+        "begin": "2026-06-19T15:00:00.000Z",
+        "broadcast": "R/2026-06-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1931,6 +1949,12 @@
         "id": "82172573",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj20iuHWRupYGHprP_UGn9a",
+        "begin": "2026-05-24T13:30:06.000Z",
+        "broadcast": "R/2026-05-24T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -2235,7 +2259,7 @@
     "officialSite": "https://ganglion-anime.com/",
     "begin": "2025-10-03T11:30:00.000Z",
     "broadcast": "R/2025-10-03T11:30:00.000Z/P7D",
-    "end": "2025-10-03T11:30:00.000Z",
+    "end": "2026-03-27T11:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2585,6 +2609,18 @@
       {
         "site": "aniList",
         "id": "186794"
+      },
+      {
+        "site": "unext",
+        "id": "SID0232880",
+        "begin": "2026-03-30T15:00:00.000Z",
+        "broadcast": "R/2026-03-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciBXfN6YJXy0zR1fcCu06WI",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2796,6 +2832,27 @@
       {
         "site": "aniList",
         "id": "162890"
+      }
+    ]
+  },
+  {
+    "title": "スマーフ シーズン3",
+    "titleTranslate": {
+      "en": [
+        "SMURFS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/smurfs/ts/9YKXZ1954G/",
+    "begin": "2025-10-03T23:10:00.000Z",
+    "broadcast": "R/2025-10-03T23:10:00.000Z/P7D",
+    "end": "2026-03-27T23:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "tv/123591/season/3"
       }
     ]
   },
@@ -3147,6 +3204,12 @@
       {
         "site": "aniList",
         "id": "187464"
+      },
+      {
+        "site": "netflix",
+        "id": "82162824",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3456,7 +3519,7 @@
     "officialSite": "https://www.toei-anim.co.jp/tv/survival/",
     "begin": "2025-10-04T09:25:00.000Z",
     "broadcast": "R/2025-10-04T09:25:00.000Z/P7D",
-    "end": "2025-12-20T09:25:00.000Z",
+    "end": "2026-03-14T09:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3512,7 +3575,7 @@
     "officialSite": "https://chiramune.com/",
     "begin": "2025-10-07T09:00:00.000Z",
     "broadcast": "R/2025-10-07T09:00:00.000Z/P7D",
-    "end": "2025-12-23T09:00:00.000Z",
+    "end": "2026-03-31T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4614,7 +4677,7 @@
     "officialSite": "https://ryuzoku-anime.com/",
     "begin": "2025-10-08T15:30:00.000Z",
     "broadcast": "R/2025-10-08T15:30:00.000Z/P7D",
-    "end": "2025-10-08T15:30:00.000Z",
+    "end": "2026-03-25T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5457,6 +5520,24 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "19-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6NQ5DWZ6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "bangumi_moe",
         "id": "68e3e209aaf82561f9a74e3a"
       },
@@ -6226,7 +6307,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/sealook/",
     "begin": "2025-09-30T16:00:00.000Z",
     "broadcast": "R/2025-09-30T16:00:00.000Z/P7D",
-    "end": "2025-09-30T16:00:00.000Z",
+    "end": "2026-03-24T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6409,8 +6490,8 @@
       {
         "site": "unext",
         "id": "SID0264927",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-10T03:00:00.000Z",
+        "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -6423,6 +6504,106 @@
       {
         "site": "aniList",
         "id": "186714"
+      },
+      {
+        "site": "mikan",
+        "id": "3965"
+      }
+    ]
+  },
+  {
+    "title": "映画 すみっコぐらし 空の王国とふたりのコ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/",
+    "begin": "2025-10-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-10-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "545844"
+      },
+      {
+        "site": "prime",
+        "id": "B0GM1ZBL94",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "61278"
+      },
+      {
+        "site": "aniList",
+        "id": "188522"
+      },
+      {
+        "site": "anidb",
+        "id": "19639"
+      }
+    ]
+  },
+  {
+    "title": "ギヴン OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GIVEN 被赠与的未来 OAD"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 OAD：日常片刻"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2025-09-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "590856"
+      },
+      {
+        "site": "gamer",
+        "id": "150782",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "150782",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ゾンビランドサガ ゆめぎんがパラダイス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "佐贺偶像是传奇 梦想银河乐园"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://zombielandsaga-movie.com/",
+    "begin": "2025-10-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-10-23T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "353181"
+      },
+      {
+        "site": "mikan",
+        "id": "3894"
       }
     ]
   }

@@ -472,6 +472,12 @@
       {
         "site": "aniList",
         "id": "182309"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GNVHKN94W",
+        "begin": "2025-06-25T00:00:00.000Z",
+        "broadcast": "R/2025-06-25T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -833,9 +839,10 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpvuYAayNn8CCmrKjjMMrSK",
-        "begin": "",
-        "broadcast": ""
+        "id": "PL12UaAf_xzfpaQuLtQo09cA9wIwtq98KN",
+        "begin": "2026-05-02T13:30:06.000Z",
+        "broadcast": "R/2026-05-02T13:30:06.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfqJvtj8Av-QtUOPzNy7Jfpn"
       },
       {
         "site": "tmdb",
@@ -5807,6 +5814,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "租借女友 第四季"
+      ],
+      "zh-Hant": [
+        "出租女友 第四季"
       ]
     },
     "type": "tv",
@@ -5880,6 +5890,18 @@
       {
         "site": "aniList",
         "id": "179344"
+      },
+      {
+        "site": "gamer",
+        "id": "140416",
+        "begin": "2026-05-08T04:00:00.000Z",
+        "broadcast": "R/2026-05-08T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140416",
+        "begin": "2026-05-08T04:00:00.000Z",
+        "broadcast": "R/2026-05-08T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -6141,6 +6163,9 @@
       "zh-Hans": [
         "银河特急 银河☆地铁",
         "银河特急 Milky✩Subway"
+      ],
+      "zh-Hant": [
+        "銀河特急 Milky☆Subway"
       ]
     },
     "type": "tv",
@@ -6200,6 +6225,18 @@
       {
         "site": "aniList",
         "id": "189069"
+      },
+      {
+        "site": "gamer",
+        "id": "147306",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147306",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6605,9 +6642,9 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://nekonokurachan-ordinarydays.jp",
-    "begin": "2025-07-08T16:00:00.000Z",
-    "broadcast": "R/2025-07-08T16:00:00.000Z/P7D",
-    "end": "2025-07-08T16:00:00.000Z",
+    "begin": "2025-07-09T11:15:00.000Z",
+    "broadcast": "R/2025-07-09T11:15:00.000Z/P7D",
+    "end": "2026-03-11T09:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6631,6 +6668,12 @@
       {
         "site": "aniList",
         "id": "204624"
+      },
+      {
+        "site": "unext",
+        "id": "SID0303782",
+        "begin": "2026-06-01T03:00:00.000Z",
+        "broadcast": "R/2026-06-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -6717,6 +6760,45 @@
       {
         "site": "aniList",
         "id": "166475"
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃 柱稽古編 特別編集版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 柱训练篇 特別编集版"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 柱訓練 開幕篇",
+        "鬼滅之刃 柱訓練 柱集結篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2025-07-15T16:00:00.000Z",
+    "broadcast": "R/2025-07-15T16:00:00.000Z/P7D",
+    "end": "2025-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "569579"
+      },
+      {
+        "site": "gamer",
+        "id": "152101",
+        "begin": "2026-06-12T04:00:00.000Z",
+        "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
+        "comment": "開幕篇, 柱集結篇: 152102"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "152101",
+        "begin": "2026-06-12T04:00:00.000Z",
+        "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
+        "comment": "開幕篇, 柱集結篇: 152102"
       }
     ]
   }

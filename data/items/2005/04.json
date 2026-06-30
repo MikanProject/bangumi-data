@@ -876,6 +876,12 @@
       {
         "site": "aniList",
         "id": "15"
+      },
+      {
+        "site": "abema",
+        "id": "203-24",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1351,12 +1357,6 @@
         "id": "2981"
       },
       {
-        "site": "gamer",
-        "id": "16526",
-        "begin": "2022-01-14T03:00:00.000Z",
-        "broadcast": "R/2022-01-14T03:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/255111"
       },
@@ -1664,7 +1664,7 @@
       },
       {
         "site": "prime",
-        "id": "B0DZSG3VSD",
+        "id": "B06Y29XP86",
         "begin": "",
         "broadcast": ""
       },
@@ -1689,6 +1689,18 @@
       {
         "site": "aniList",
         "id": "1505"
+      },
+      {
+        "site": "abema",
+        "id": "415-41",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010679",
+        "begin": "2026-04-10T15:00:00.000Z",
+        "broadcast": "R/2026-04-10T15:00:00.000Z/P7D"
       }
     ]
   },
