@@ -62,6 +62,10 @@
       {
         "site": "aniList",
         "id": "3227"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27244/season/0/episode/17"
       }
     ]
   },
@@ -353,6 +357,10 @@
       {
         "site": "tmdb",
         "id": "movie/23151"
+      },
+      {
+        "site": "anidb",
+        "id": "4932"
       }
     ]
   },
@@ -384,6 +392,76 @@
       {
         "site": "tmdb",
         "id": "movie/23150"
+      },
+      {
+        "site": "anidb",
+        "id": "4932"
+      }
+    ]
+  },
+  {
+    "title": "えいがでとーじょー! たまごっち ドキドキ! うちゅーのまいごっち!?",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-12-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-12-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84048"
+      },
+      {
+        "site": "mal",
+        "id": "6518"
+      },
+      {
+        "site": "anidb",
+        "id": "7018"
+      },
+      {
+        "site": "aniList",
+        "id": "6518"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/35883"
+      }
+    ]
+  },
+  {
+    "title": "ねずみ物語 〜ジョージとジェラルドの冒険〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "老鼠物语 -乔治和杰拉尔德的冒险-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68968"
+      },
+      {
+        "site": "mal",
+        "id": "9789"
+      },
+      {
+        "site": "anidb",
+        "id": "5397"
+      },
+      {
+        "site": "aniList",
+        "id": "9789"
       }
     ]
   }

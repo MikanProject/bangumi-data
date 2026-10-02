@@ -266,12 +266,6 @@
         "broadcast": "R/2012-06-30T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-42",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/37437"
       },
@@ -286,6 +280,14 @@
       {
         "site": "aniList",
         "id": "5958"
+      },
+      {
+        "site": "acgnx",
+        "id": "天降之物"
+      },
+      {
+        "site": "dmhy",
+        "id": "天降之物"
       }
     ]
   },
@@ -687,6 +689,22 @@
       {
         "site": "aniList",
         "id": "6586"
+      },
+      {
+        "site": "danime",
+        "id": "29243",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017288",
+        "begin": "2026-09-18T03:00:00.000Z",
+        "broadcast": "R/2026-09-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "夢色"
       }
     ]
   },
@@ -729,6 +747,14 @@
       {
         "site": "aniList",
         "id": "7152"
+      },
+      {
+        "site": "acgnx",
+        "id": "喵丸偵探基魯敏"
+      },
+      {
+        "site": "dmhy",
+        "id": "喵丸偵探基魯敏"
       }
     ]
   },
@@ -943,6 +969,16 @@
       {
         "site": "aniList",
         "id": "6444"
+      },
+      {
+        "site": "abema",
+        "id": "15-34",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "信蜂"
       }
     ]
   },
@@ -1379,6 +1415,12 @@
       {
         "site": "aniList",
         "id": "7175"
+      },
+      {
+        "site": "nicovideo",
+        "id": "takanotsume",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1401,7 +1443,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/28502"
+        "id": "tv/28502/season/1/episode/14"
       },
       {
         "site": "mal",
@@ -1523,6 +1565,10 @@
       {
         "site": "aniList",
         "id": "6702"
+      },
+      {
+        "site": "acgnx",
+        "id": "妖精的尾巴|魔導少年"
       }
     ]
   },
@@ -1823,6 +1869,12 @@
       {
         "site": "aniList",
         "id": "7082"
+      },
+      {
+        "site": "abema",
+        "id": "13-212",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1860,6 +1912,12 @@
       {
         "site": "aniList",
         "id": "6900"
+      },
+      {
+        "site": "abema",
+        "id": "13-213",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2214,7 +2272,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/45893/season/0"
+        "id": "tv/45893/season/0/episode/4"
       },
       {
         "site": "mal",
@@ -2363,6 +2421,76 @@
       {
         "site": "aniList",
         "id": "7270"
+      },
+      {
+        "site": "anidb",
+        "id": "7183"
+      }
+    ]
+  },
+  {
+    "title": "仏陀再誕",
+    "titleTranslate": {
+      "zh-Hans": [
+        "佛陀再诞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.buddha-saitan.jp/wb/index.html",
+    "begin": "2009-10-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-10-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8466"
+      },
+      {
+        "site": "mal",
+        "id": "6985"
+      },
+      {
+        "site": "anidb",
+        "id": "6786"
+      },
+      {
+        "site": "aniList",
+        "id": "6985"
+      }
+    ]
+  },
+  {
+    "title": "電信柱エレミの恋",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电线杆艾雷米的恋爱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://park11.wakwak.com/~sovat/e_j_common/roadshow/storypage.html",
+    "begin": "2009-10-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-10-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "160546"
+      },
+      {
+        "site": "mal",
+        "id": "7718"
+      },
+      {
+        "site": "anidb",
+        "id": "8525"
+      },
+      {
+        "site": "aniList",
+        "id": "7718"
       }
     ]
   }

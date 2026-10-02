@@ -93,6 +93,14 @@
       {
         "site": "anidb",
         "id": "17303"
+      },
+      {
+        "site": "acgnx",
+        "id": "進擊"
+      },
+      {
+        "site": "dmhy",
+        "id": "進擊"
       }
     ]
   },
@@ -120,7 +128,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/199928"
+        "id": "tv/199928/season/1/episode/31"
       },
       {
         "site": "mal",
@@ -231,6 +239,14 @@
       {
         "site": "tmdb",
         "id": "tv/290837"
+      },
+      {
+        "site": "mal",
+        "id": "57185"
+      },
+      {
+        "site": "aniList",
+        "id": "204544"
       }
     ]
   },
@@ -254,16 +270,16 @@
         "id": "425464"
       },
       {
-        "site": "tmdb",
-        "id": "tv/213830"
-      },
-      {
         "site": "mal",
         "id": "57357"
       },
       {
         "site": "anidb",
         "id": "17823"
+      },
+      {
+        "site": "aniList",
+        "id": "156415"
       }
     ]
   },
@@ -374,6 +390,12 @@
       {
         "site": "aniList",
         "id": "142684"
+      },
+      {
+        "site": "abema",
+        "id": "189-90",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

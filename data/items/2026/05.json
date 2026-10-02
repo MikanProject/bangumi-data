@@ -8,7 +8,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://heroaca.com/",
     "begin": "2026-05-01T16:00:00.000Z",
     "broadcast": "R/2026-05-01T16:00:00.000Z/P7D",
     "end": "2026-05-01T16:00:00.000Z",
@@ -75,8 +75,8 @@
       {
         "site": "netflix",
         "id": "80135674",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-31T00:00:00.000Z",
+        "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -95,6 +95,22 @@
       {
         "site": "aniList",
         "id": "204356"
+      },
+      {
+        "site": "anidb",
+        "id": "20039"
+      },
+      {
+        "site": "acgnx",
+        "id": "我的英雄學院"
+      },
+      {
+        "site": "anibt",
+        "id": "644516"
+      },
+      {
+        "site": "dmhy",
+        "id": "我的英雄學院"
       }
     ]
   },
@@ -127,7 +143,111 @@
         "site": "unext",
         "id": "SID0307566",
         "begin": "2026-06-19T03:00:00.000Z",
-        "broadcast": "R/2026-06-19T03:00:00.000Z/P7D"
+        "broadcast": "R/2026-06-19T03:00:00.000Z/P7D",
+        "comment": "特典映像付き: SID0312372"
+      },
+      {
+        "site": "mal",
+        "id": "61806"
+      },
+      {
+        "site": "aniList",
+        "id": "194167"
+      },
+      {
+        "site": "anidb",
+        "id": "19376"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1675042"
+      },
+      {
+        "site": "anibt",
+        "id": "563256"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 魔法科高校の劣等生 四葉継承編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 魔法科高校的劣等生 四叶继承篇"
+      ],
+      "en": [
+        "Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mahouka.jp/yotsuba/",
+    "begin": "2026-05-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501729"
+      },
+      {
+        "site": "mal",
+        "id": "59174"
+      },
+      {
+        "site": "anidb",
+        "id": "18720"
+      },
+      {
+        "site": "aniList",
+        "id": "178707"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1310387"
+      },
+      {
+        "site": "anibt",
+        "id": "501729"
+      }
+    ]
+  },
+  {
+    "title": "機動警察パトレイバー EZY File 1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察 EZY 第一章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ezy.patlabor.tokyo",
+    "begin": "2026-05-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217071"
+      },
+      {
+        "site": "mal",
+        "id": "59889"
+      },
+      {
+        "site": "anidb",
+        "id": "13226"
+      },
+      {
+        "site": "unext",
+        "id": "SID0312125",
+        "begin": "2026-08-14T03:00:00.000Z",
+        "broadcast": "R/2026-08-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "217071"
       }
     ]
   }

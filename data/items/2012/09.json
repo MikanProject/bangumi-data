@@ -99,12 +99,6 @@
         "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "12-4nn654j98a6",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/53052"
       },
@@ -119,6 +113,10 @@
       {
         "site": "aniList",
         "id": "13125"
+      },
+      {
+        "site": "acgnx",
+        "id": "自新|Shinseka"
       }
     ]
   },
@@ -196,6 +194,10 @@
       {
         "site": "aniList",
         "id": "14645"
+      },
+      {
+        "site": "acgnx",
+        "id": "绯色|Hiiro"
       }
     ]
   },
@@ -434,6 +436,24 @@
       {
         "site": "tmdb",
         "id": "movie/178592"
+      },
+      {
+        "site": "mal",
+        "id": "12015"
+      },
+      {
+        "site": "aniList",
+        "id": "12015"
+      },
+      {
+        "site": "anidb",
+        "id": "8805"
+      },
+      {
+        "site": "abema",
+        "id": "13-214",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

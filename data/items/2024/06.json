@@ -105,6 +105,14 @@
       {
         "site": "aniList",
         "id": "176287"
+      },
+      {
+        "site": "acgnx",
+        "id": "刃牙"
+      },
+      {
+        "site": "dmhy",
+        "id": "刃牙"
       }
     ]
   },
@@ -156,10 +164,12 @@
         "id": "126830"
       },
       {
-        "site": "abema",
-        "id": "182-1451",
-        "begin": "",
-        "broadcast": ""
+        "site": "acgnx",
+        "id": "Code Geass"
+      },
+      {
+        "site": "dmhy",
+        "id": "Code Geass"
       }
     ]
   },
@@ -485,13 +495,6 @@
         "broadcast": "R/2025-12-24T15:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "3YCaJzoF5Izp",
-        "url": "https://www.disneyplus.com/movies/look-back/3YCaJzoF5Izp",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "58125"
       },
@@ -552,6 +555,18 @@
       {
         "site": "tmdb",
         "id": "movie/1129610"
+      },
+      {
+        "site": "mal",
+        "id": "55357"
+      },
+      {
+        "site": "anidb",
+        "id": "18039"
+      },
+      {
+        "site": "aniList",
+        "id": "165253"
       }
     ]
   },

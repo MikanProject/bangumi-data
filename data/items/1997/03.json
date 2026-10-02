@@ -60,13 +60,6 @@
         "broadcast": ""
       },
       {
-        "site": "disneyplus",
-        "id": "5DcVXvzkxKmk",
-        "url": "https://www.disneyplus.com/movies/neon-genesis-evangelion-death-rebirth/5DcVXvzkxKmk",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "28227",
         "begin": "2025-09-30T15:00:00.000Z",
@@ -209,6 +202,12 @@
         "id": "SID0018722",
         "begin": "2026-05-01T03:00:00.000Z",
         "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24710",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -400,6 +399,18 @@
       {
         "site": "tmdb",
         "id": "tv/88506"
+      },
+      {
+        "site": "mal",
+        "id": "1952"
+      },
+      {
+        "site": "anidb",
+        "id": "59"
+      },
+      {
+        "site": "aniList",
+        "id": "1952"
       }
     ]
   },
@@ -427,6 +438,55 @@
         "id": "29009",
         "begin": "2026-05-19T15:00:00.000Z",
         "broadcast": "R/2026-05-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2074"
+      },
+      {
+        "site": "aniList",
+        "id": "2074"
+      },
+      {
+        "site": "anidb",
+        "id": "808"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34085"
+      }
+    ]
+  },
+  {
+    "title": "機関車先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机关车先生"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109615"
+      },
+      {
+        "site": "mal",
+        "id": "23085"
+      },
+      {
+        "site": "anidb",
+        "id": "4300"
+      },
+      {
+        "site": "aniList",
+        "id": "159417"
       }
     ]
   }

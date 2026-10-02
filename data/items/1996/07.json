@@ -182,6 +182,18 @@
       {
         "site": "aniList",
         "id": "8208"
+      },
+      {
+        "site": "danime",
+        "id": "24708",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018721",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -412,6 +424,35 @@
       {
         "site": "anidb",
         "id": "7557"
+      }
+    ]
+  },
+  {
+    "title": "エンジェルがとんだ日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天使飞起来的日子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-07-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-07-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220052"
+      },
+      {
+        "site": "mal",
+        "id": "22959"
+      },
+      {
+        "site": "anidb",
+        "id": "8608"
       }
     ]
   }

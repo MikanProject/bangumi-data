@@ -157,6 +157,22 @@
       {
         "site": "tmdb",
         "id": "movie/179923"
+      },
+      {
+        "site": "anidb",
+        "id": "8184"
+      },
+      {
+        "site": "danime",
+        "id": "29159",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016005",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -213,6 +229,10 @@
       {
         "site": "bangumi",
         "id": "18864"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/52083/season/0/episode/2"
       }
     ]
   },
@@ -388,6 +408,14 @@
       {
         "site": "aniList",
         "id": "11699"
+      },
+      {
+        "site": "acgnx",
+        "id": "希望宅邸"
+      },
+      {
+        "site": "dmhy",
+        "id": "希望宅邸"
       }
     ]
   }

@@ -84,6 +84,14 @@
       {
         "site": "anidb",
         "id": "17428"
+      },
+      {
+        "site": "acgnx",
+        "id": "我與機器"
+      },
+      {
+        "site": "dmhy",
+        "id": "我與機器"
       }
     ]
   },
@@ -133,6 +141,10 @@
       {
         "site": "aniList",
         "id": "141352"
+      },
+      {
+        "site": "anidb",
+        "id": "16963"
       }
     ]
   },
@@ -462,8 +474,8 @@
       {
         "site": "netflix",
         "id": "81765372",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-29T16:00:00.000Z",
+        "broadcast": "R/2025-03-29T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -527,6 +539,14 @@
       {
         "site": "aniList",
         "id": "155925"
+      },
+      {
+        "site": "acgnx",
+        "id": "LUPIN ZERO"
+      },
+      {
+        "site": "dmhy",
+        "id": "LUPIN ZERO"
       }
     ]
   }

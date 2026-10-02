@@ -41,6 +41,10 @@
       {
         "site": "aniList",
         "id": "162291"
+      },
+      {
+        "site": "anidb",
+        "id": "16963"
       }
     ]
   },
@@ -105,6 +109,14 @@
         "id": "25-312",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "小鯊魚"
+      },
+      {
+        "site": "dmhy",
+        "id": "小鯊魚"
       }
     ]
   },
@@ -310,6 +322,18 @@
       {
         "site": "abema",
         "id": "35-89",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28966",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81729645",
         "begin": "",
         "broadcast": ""
       }

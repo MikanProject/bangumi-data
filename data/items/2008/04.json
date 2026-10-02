@@ -376,6 +376,14 @@
       {
         "site": "aniList",
         "id": "3972"
+      },
+      {
+        "site": "acgnx",
+        "id": "遊戲王 5d"
+      },
+      {
+        "site": "dmhy",
+        "id": "遊戲王 5d"
       }
     ]
   },
@@ -884,6 +892,14 @@
       {
         "site": "aniList",
         "id": "3455"
+      },
+      {
+        "site": "acgnx",
+        "id": "to love"
+      },
+      {
+        "site": "dmhy",
+        "id": "to love"
       }
     ]
   },
@@ -2204,6 +2220,18 @@
       {
         "site": "aniList",
         "id": "8367"
+      },
+      {
+        "site": "danime",
+        "id": "28951",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80243040",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2260,8 +2288,8 @@
       {
         "site": "netflix",
         "id": "81757587",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-14T16:00:00.000Z",
+        "broadcast": "R/2025-05-14T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

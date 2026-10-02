@@ -500,8 +500,8 @@
       {
         "site": "tropics",
         "id": "PLoGVqODys23DxMp_h2Ql7Enw5KS7XnbWb",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-05-15T13:00:06.000Z",
+        "broadcast": "R/2026-05-15T13:00:06.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1184,6 +1184,12 @@
       {
         "site": "aniList",
         "id": "1546"
+      },
+      {
+        "site": "abema",
+        "id": "115-135",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1235,12 +1241,6 @@
         "broadcast": "R/2015-10-16T01:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "dgrayman0001_143248",
-        "begin": "2025-06-01T02:00:00.000Z",
-        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/34141"
       },
@@ -1255,6 +1255,12 @@
       {
         "site": "aniList",
         "id": "1482"
+      },
+      {
+        "site": "abema",
+        "id": "172-62",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1585,7 +1591,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/12598"
+        "id": "tv/12598/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -1890,6 +1896,10 @@
         "id": "171-8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "家庭教師"
       }
     ]
   },
@@ -2235,6 +2245,12 @@
       {
         "site": "aniList",
         "id": "17291"
+      },
+      {
+        "site": "abema",
+        "id": "190-31",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2289,6 +2305,14 @@
       {
         "site": "anidb",
         "id": "4761"
+      },
+      {
+        "site": "acgnx",
+        "id": "超級機器人大戰"
+      },
+      {
+        "site": "dmhy",
+        "id": "超級機器人大戰"
       }
     ]
   },
@@ -2464,6 +2488,14 @@
       {
         "site": "anidb",
         "id": "4526"
+      },
+      {
+        "site": "mal",
+        "id": "1911"
+      },
+      {
+        "site": "aniList",
+        "id": "1911"
       }
     ]
   },

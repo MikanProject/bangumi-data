@@ -78,6 +78,14 @@
       {
         "site": "aniList",
         "id": "167991"
+      },
+      {
+        "site": "acgnx",
+        "id": "德里科"
+      },
+      {
+        "site": "dmhy",
+        "id": "德里科"
       }
     ]
   },
@@ -137,6 +145,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "刀剑乱舞 回 -旋传 亲近的侍从们-"
+      ],
+      "en": [
+        "TOUKEN RANBU KAI DOUDEN"
       ]
     },
     "type": "movie",
@@ -178,6 +189,12 @@
       {
         "site": "aniList",
         "id": "177680"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00350368",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -269,8 +286,8 @@
       {
         "site": "netflix",
         "id": "82036353",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-18T16:00:00.000Z",
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -287,13 +304,6 @@
       {
         "site": "tmdb",
         "id": "movie/1159311"
-      },
-      {
-        "site": "disneyplus",
-        "id": "3n34kKblpE11",
-        "url": "https://www.disneyplus.com/movies/my-hero-academia-youre-next/3n34kKblpE11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -353,8 +363,8 @@
       {
         "site": "netflix",
         "id": "82026163",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-11-30T00:00:00.000Z",
+        "broadcast": "R/2025-11-30T00:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -375,6 +385,18 @@
       {
         "site": "abema",
         "id": "35-55",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29008",
+        "begin": "2026-08-02T15:00:00.000Z",
+        "broadcast": "R/2026-08-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0H3GCD64W",
         "begin": "",
         "broadcast": ""
       }
@@ -525,6 +547,43 @@
       {
         "site": "mal",
         "id": "63877"
+      }
+    ]
+  },
+  {
+    "title": "ゼーガペイン STA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ZEGAPAIN STA"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://zegapain.net/sta/",
+    "begin": "2024-08-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "452392"
+      },
+      {
+        "site": "mal",
+        "id": "56488"
+      },
+      {
+        "site": "anidb",
+        "id": "18176"
+      },
+      {
+        "site": "aniList",
+        "id": "168998"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1266528"
       }
     ]
   }

@@ -43,6 +43,14 @@
       {
         "site": "aniList",
         "id": "293"
+      },
+      {
+        "site": "acgnx",
+        "id": "Di Gi Charat"
+      },
+      {
+        "site": "dmhy",
+        "id": "Di Gi Charat"
       }
     ]
   },
@@ -80,6 +88,18 @@
       {
         "site": "tmdb",
         "id": "tv/43947"
+      },
+      {
+        "site": "mal",
+        "id": "991"
+      },
+      {
+        "site": "anidb",
+        "id": "121"
+      },
+      {
+        "site": "aniList",
+        "id": "991"
       }
     ]
   },
@@ -126,6 +146,18 @@
       {
         "site": "anidb",
         "id": "83"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015262",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29162",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
       }
     ]
   }

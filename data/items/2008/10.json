@@ -380,6 +380,18 @@
       {
         "site": "aniList",
         "id": "3927"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "19664",
+        "begin": "2026-09-22T04:00:00.000Z",
+        "broadcast": "R/2026-09-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "19664",
+        "begin": "2026-09-22T04:00:00.000Z",
+        "broadcast": "R/2026-09-22T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -600,6 +612,12 @@
       {
         "site": "aniList",
         "id": "4224"
+      },
+      {
+        "site": "abema",
+        "id": "25-6jeernicbkx",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -778,6 +796,12 @@
       {
         "site": "aniList",
         "id": "4725"
+      },
+      {
+        "site": "abema",
+        "id": "25-12wjfacmkmst",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -886,12 +910,6 @@
         "id": "SID0002561",
         "begin": "2021-01-07T03:00:00.000Z",
         "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-12",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -1406,6 +1424,12 @@
       {
         "site": "aniList",
         "id": "4654"
+      },
+      {
+        "site": "abema",
+        "id": "25-4pkxnjwwrpn",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1826,12 +1850,6 @@
         "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "143-62",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/22366"
       },
@@ -1850,8 +1868,8 @@
       {
         "site": "tropics",
         "id": "PLoGVqODys23A9J-fIqy75aNJpmLRCV9s5",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-02T13:00:06.000Z",
+        "broadcast": "R/2026-01-02T13:00:06.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2038,6 +2056,20 @@
       {
         "site": "aniList",
         "id": "5231"
+      },
+      {
+        "site": "abema",
+        "id": "19-273",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "閃電 人"
+      },
+      {
+        "site": "dmhy",
+        "id": "閃電 人"
       }
     ]
   },
@@ -2049,6 +2081,9 @@
       ],
       "en": [
         "Shugo Chara!! Doki"
+      ],
+      "zh-Hant": [
+        "守護甜心！！心跳"
       ]
     },
     "type": "tv",
@@ -2099,6 +2134,18 @@
       {
         "site": "aniList",
         "id": "5262"
+      },
+      {
+        "site": "abema",
+        "id": "13-212",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "31655",
+        "begin": "2026-09-04T04:00:00.000Z",
+        "broadcast": "R/2026-09-04T04:00:00.000Z/P7D"
       }
     ]
   },

@@ -60,8 +60,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfr3U6rMlOe7-xbd1JBEXZvP",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-04-27T14:00:14.000Z",
+        "broadcast": "R/2021-04-27T14:00:14.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -90,6 +90,10 @@
       {
         "site": "aniList",
         "id": "21738"
+      },
+      {
+        "site": "acgnx",
+        "id": "雛邏輯"
       }
     ]
   },
@@ -125,6 +129,18 @@
       {
         "site": "tmdb",
         "id": "movie/432058"
+      },
+      {
+        "site": "mal",
+        "id": "34032"
+      },
+      {
+        "site": "anidb",
+        "id": "12403"
+      },
+      {
+        "site": "aniList",
+        "id": "97631"
       }
     ]
   },

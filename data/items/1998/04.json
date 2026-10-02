@@ -264,6 +264,14 @@
       {
         "site": "aniList",
         "id": "185"
+      },
+      {
+        "site": "acgnx",
+        "id": "头文|Initial"
+      },
+      {
+        "site": "dmhy",
+        "id": "头文|Initial"
       }
     ]
   },
@@ -488,8 +496,8 @@
       {
         "site": "netflix",
         "id": "70309056",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-09-29T16:00:00.000Z",
+        "broadcast": "R/2025-09-29T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -506,6 +514,14 @@
       {
         "site": "aniList",
         "id": "232"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔卡|庫洛|百變"
+      },
+      {
+        "site": "dmhy",
+        "id": "魔卡|庫洛|百變"
       }
     ]
   },
@@ -929,6 +945,12 @@
       {
         "site": "aniList",
         "id": "8360"
+      },
+      {
+        "site": "danime",
+        "id": "28941",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -986,8 +1008,8 @@
       {
         "site": "netflix",
         "id": "70082582",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-16T16:00:00.000Z",
+        "broadcast": "R/2025-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1039,6 +1061,18 @@
       {
         "site": "tmdb",
         "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -1365,6 +1399,72 @@
         "id": "SID0003340",
         "begin": "2023-02-01T03:00:00.000Z",
         "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔法阿媽",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法阿妈"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mofaama.com/",
+    "begin": "1998-04-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-04-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54579"
+      },
+      {
+        "site": "mal",
+        "id": "10149"
+      },
+      {
+        "site": "anidb",
+        "id": "8426"
+      },
+      {
+        "site": "aniList",
+        "id": "10149"
+      }
+    ]
+  },
+  {
+    "title": "MAZE☆爆熱時空 天変脅威の大巨人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆热时空 天变威胁的大巨人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-04-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "280842"
+      },
+      {
+        "site": "mal",
+        "id": "8442"
+      },
+      {
+        "site": "anidb",
+        "id": "3374"
+      },
+      {
+        "site": "aniList",
+        "id": "8442"
       }
     ]
   }

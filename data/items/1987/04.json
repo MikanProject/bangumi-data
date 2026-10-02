@@ -262,12 +262,6 @@
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "177-560",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/259907"
       },
@@ -426,6 +420,46 @@
       {
         "site": "aniList",
         "id": "10250"
+      }
+    ]
+  },
+  {
+    "title": "ほえろブンブン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怒吼吧,小狗!剧场版"
+      ],
+      "en": [
+        "Hoero Bunbun (Movie)"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-04-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-04-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109624"
+      },
+      {
+        "site": "mal",
+        "id": "10509"
+      },
+      {
+        "site": "anidb",
+        "id": "3956"
+      },
+      {
+        "site": "aniList",
+        "id": "10509"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/522511"
       }
     ]
   }

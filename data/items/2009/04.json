@@ -710,6 +710,14 @@
       {
         "site": "aniList",
         "id": "6117"
+      },
+      {
+        "site": "acgnx",
+        "id": "委員長"
+      },
+      {
+        "site": "dmhy",
+        "id": "委員長"
       }
     ]
   },
@@ -851,6 +859,10 @@
       {
         "site": "aniList",
         "id": "5671"
+      },
+      {
+        "site": "acgnx",
+        "id": "Saki"
       }
     ]
   },
@@ -1134,6 +1146,10 @@
       {
         "site": "aniList",
         "id": "5680"
+      },
+      {
+        "site": "acgnx",
+        "id": "K-ON"
       }
     ]
   },
@@ -1546,6 +1562,14 @@
         "id": "B0CZDPCCG4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "龍珠 改"
+      },
+      {
+        "site": "dmhy",
+        "id": "龍珠 改"
       }
     ]
   },
@@ -1645,6 +1669,14 @@
       {
         "site": "aniList",
         "id": "6008"
+      },
+      {
+        "site": "acgnx",
+        "id": "石寵"
+      },
+      {
+        "site": "dmhy",
+        "id": "石寵"
       }
     ]
   },
@@ -1933,6 +1965,10 @@
       {
         "site": "aniList",
         "id": "4382"
+      },
+      {
+        "site": "mal",
+        "id": "4382"
       }
     ]
   },
@@ -2040,7 +2076,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FR6GDTY3",
+        "id": "B0DNWQXKWY",
         "begin": "",
         "broadcast": ""
       },
@@ -2059,6 +2095,18 @@
       {
         "site": "aniList",
         "id": "8368"
+      },
+      {
+        "site": "danime",
+        "id": "28952",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80243207",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2117,8 +2165,8 @@
       {
         "site": "netflix",
         "id": "81757586",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-14T16:00:00.000Z",
+        "broadcast": "R/2025-05-14T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -2198,6 +2246,10 @@
       {
         "site": "aniList",
         "id": "6148"
+      },
+      {
+        "site": "acgnx",
+        "id": "希望宅邸"
       }
     ]
   },
@@ -2407,6 +2459,18 @@
       {
         "site": "anidb",
         "id": "6325"
+      },
+      {
+        "site": "gamer",
+        "id": "22665",
+        "begin": "2026-08-28T04:00:00.000Z",
+        "broadcast": "R/2026-08-28T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "22665",
+        "begin": "2026-08-28T04:00:00.000Z",
+        "broadcast": "R/2026-08-28T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -2741,7 +2805,7 @@
       },
       {
         "site": "tmdb",
-        "id": "movie/382667"
+        "id": "tv/34742/season/0"
       }
     ]
   }

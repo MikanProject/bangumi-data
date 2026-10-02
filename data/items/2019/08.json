@@ -106,13 +106,6 @@
         "id": "movie/568012"
       },
       {
-        "site": "disneyplus",
-        "id": "5BXdRi0QmMO7",
-        "url": "https://www.disneyplus.com/movies/one-piece-stampede/5BXdRi0QmMO7",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "38234"
       },
@@ -159,6 +152,18 @@
       {
         "site": "tmdb",
         "id": "tv/70972/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "39959"
+      },
+      {
+        "site": "anidb",
+        "id": "14956"
+      },
+      {
+        "site": "aniList",
+        "id": "110088"
       }
     ]
   },
@@ -235,6 +240,12 @@
       {
         "site": "aniList",
         "id": "102976"
+      },
+      {
+        "site": "abema",
+        "id": "25-157",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -349,6 +360,18 @@
       {
         "site": "tmdb",
         "id": "tv/84646/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "51573"
+      },
+      {
+        "site": "anidb",
+        "id": "15021"
+      },
+      {
+        "site": "aniList",
+        "id": "110686"
       }
     ]
   },

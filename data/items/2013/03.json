@@ -69,6 +69,10 @@
       {
         "site": "aniList",
         "id": "15583"
+      },
+      {
+        "site": "acgnx",
+        "id": "会大"
       }
     ]
   },
@@ -128,6 +132,10 @@
       {
         "site": "aniList",
         "id": "14921"
+      },
+      {
+        "site": "acgnx",
+        "id": "濒危"
       }
     ]
   },
@@ -346,6 +354,22 @@
       {
         "site": "tmdb",
         "id": "tv/49307"
+      },
+      {
+        "site": "mal",
+        "id": "17397"
+      },
+      {
+        "site": "anidb",
+        "id": "9693"
+      },
+      {
+        "site": "aniList",
+        "id": "17397"
+      },
+      {
+        "site": "acgnx",
+        "id": "saipu"
       }
     ]
   },
@@ -448,6 +472,18 @@
       {
         "site": "tmdb",
         "id": "movie/218726"
+      },
+      {
+        "site": "mal",
+        "id": "15925"
+      },
+      {
+        "site": "anidb",
+        "id": "9316"
+      },
+      {
+        "site": "aniList",
+        "id": "15925"
       }
     ]
   },
@@ -477,6 +513,10 @@
       {
         "site": "tmdb",
         "id": "tv/89811"
+      },
+      {
+        "site": "anidb",
+        "id": "8208"
       }
     ]
   },
@@ -669,6 +709,12 @@
       {
         "site": "aniList",
         "id": "14175"
+      },
+      {
+        "site": "abema",
+        "id": "198-3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

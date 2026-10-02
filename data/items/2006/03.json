@@ -346,13 +346,6 @@
         "id": "movie/44730"
       },
       {
-        "site": "disneyplus",
-        "id": "68j0HUhtdXNW",
-        "url": "https://www.disneyplus.com/movies/one-piece-7-mega-mecha-soldier-of-karakuri-castle/68j0HUhtdXNW",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "465"
       },
@@ -421,6 +414,18 @@
       {
         "site": "tmdb",
         "id": "tv/67256/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "837"
+      },
+      {
+        "site": "anidb",
+        "id": "4241"
+      },
+      {
+        "site": "aniList",
+        "id": "837"
       }
     ]
   },

@@ -30,12 +30,6 @@
         "begin": "2018-05-16T08:31:01.000Z"
       },
       {
-        "site": "unext",
-        "id": "SID0016956",
-        "begin": "2024-12-20T03:00:00.000Z",
-        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "11522",
         "begin": "2024-12-25T15:00:00.000Z",
@@ -340,6 +334,72 @@
       {
         "site": "aniList",
         "id": "8227"
+      }
+    ]
+  },
+  {
+    "title": "チンプイ エリさま活動大写真",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大耳鼠 惠理大人的活动写真"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89691"
+      },
+      {
+        "site": "mal",
+        "id": "10040"
+      },
+      {
+        "site": "anidb",
+        "id": "5228"
+      },
+      {
+        "site": "aniList",
+        "id": "10040"
+      }
+    ]
+  },
+  {
+    "title": "MAROKO 麿子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "祖先大人万万岁 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54903"
+      },
+      {
+        "site": "mal",
+        "id": "4640"
+      },
+      {
+        "site": "anidb",
+        "id": "1866"
+      },
+      {
+        "site": "aniList",
+        "id": "4640"
       }
     ]
   }

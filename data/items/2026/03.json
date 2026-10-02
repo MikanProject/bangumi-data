@@ -95,6 +95,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11b24b29be5e9e214f48"
+      },
+      {
+        "site": "acgnx",
+        "id": "春夏秋冬代行者"
+      },
+      {
+        "site": "anibt",
+        "id": "551455"
+      },
+      {
+        "site": "dmhy",
+        "id": "春夏秋冬代行者"
       }
     ]
   },
@@ -176,8 +188,8 @@
       {
         "site": "netflix",
         "id": "81054847",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-12-04T16:00:00.000Z",
+        "broadcast": "R/2024-12-04T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -193,7 +205,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/90937/season/3"
+        "id": "tv/90937/season/3/episode/13"
+      },
+      {
+        "site": "acgnx",
+        "id": "BEASTARS"
+      },
+      {
+        "site": "anibt",
+        "id": "485990"
+      },
+      {
+        "site": "dmhy",
+        "id": "BEASTARS"
       }
     ]
   },
@@ -237,8 +261,8 @@
       {
         "site": "netflix",
         "id": "82116553",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-03-18T16:00:00.000Z",
+        "broadcast": "R/2026-03-18T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -247,6 +271,18 @@
       {
         "site": "mikan",
         "id": "3887"
+      },
+      {
+        "site": "acgnx",
+        "id": "jojo 馬"
+      },
+      {
+        "site": "anibt",
+        "id": "551918"
+      },
+      {
+        "site": "dmhy",
+        "id": "jojo 馬"
       }
     ]
   },
@@ -321,6 +357,10 @@
       {
         "site": "tmdb",
         "id": "tv/208493/season/0"
+      },
+      {
+        "site": "anibt",
+        "id": "459601"
       }
     ]
   },
@@ -345,10 +385,12 @@
         "id": "544627"
       },
       {
-        "site": "unext",
-        "id": "SID0261889",
-        "begin": "2026-04-09T15:00:00.000Z",
-        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+        "site": "tmdb",
+        "id": "movie/1646064"
+      },
+      {
+        "site": "anibt",
+        "id": "544627"
       }
     ]
   },
@@ -360,7 +402,7 @@
     "officialSite": "",
     "begin": "2026-03-09T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2026-07-02T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -372,6 +414,176 @@
         "id": "29031",
         "begin": "2026-06-09T21:00:00.000Z",
         "broadcast": "R/2026-06-09T21:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "663242"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 暗殺教室 みんなの時間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 暗杀教室 大家的时间",
+        "剧场版 暗杀教室 我们的时光"
+      ],
+      "zh-Hant": [
+        "劇場版「暗殺教室」：我們的時光"
+      ],
+      "en": [
+        "Assassination Classroom the Movie: Our Time"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ansatsu-anime.com/",
+    "begin": "2026-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "583746"
+      },
+      {
+        "site": "mal",
+        "id": "62421"
+      },
+      {
+        "site": "aniList",
+        "id": "198373"
+      },
+      {
+        "site": "anidb",
+        "id": "19567"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1542877"
+      },
+      {
+        "site": "mikan",
+        "id": "4049"
+      },
+      {
+        "site": "prime",
+        "id": "B0H8PD4WNK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "583746"
+      },
+      {
+        "site": "gamer",
+        "id": "147124",
+        "begin": "2026-09-20T16:00:00.000Z",
+        "broadcast": "R/2026-09-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147124",
+        "begin": "2026-09-20T16:00:00.000Z",
+        "broadcast": "R/2026-09-20T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "花緑青が明ける日に",
+    "titleTranslate": {
+      "zh-Hans": [
+        "花绿青绽放的黎明"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hanaroku.asmik-ace.co.jp/",
+    "begin": "2026-03-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-03-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "491656"
+      },
+      {
+        "site": "mal",
+        "id": "58735"
+      },
+      {
+        "site": "anidb",
+        "id": "18597"
+      },
+      {
+        "site": "aniList",
+        "id": "177132"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1279865"
+      },
+      {
+        "site": "unext",
+        "id": "SID0318107",
+        "begin": "2026-09-11T15:00:00.000Z",
+        "broadcast": "R/2026-09-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "491656"
+      }
+    ]
+  },
+  {
+    "title": "パリに咲くエトワール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绽放的巴黎之星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/parieto-movie/",
+    "begin": "2026-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-03-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "576669"
+      },
+      {
+        "site": "aniList",
+        "id": "197097"
+      },
+      {
+        "site": "anidb",
+        "id": "19522"
+      },
+      {
+        "site": "mal",
+        "id": "62193"
+      },
+      {
+        "site": "nicovideo",
+        "id": "parieto-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0316732",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "576669"
       }
     ]
   }

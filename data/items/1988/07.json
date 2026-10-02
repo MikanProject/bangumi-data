@@ -314,6 +314,22 @@
         "id": "SID0091519",
         "begin": "2023-09-10T03:00:00.000Z",
         "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "16728"
+      },
+      {
+        "site": "anidb",
+        "id": "2319"
+      },
+      {
+        "site": "aniList",
+        "id": "16728"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/774593"
       }
     ]
   },
@@ -363,6 +379,39 @@
       {
         "site": "aniList",
         "id": "10200"
+      }
+    ]
+  },
+  {
+    "title": "白旗の少女 琉子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "举白旗的少女 琉子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220063"
+      },
+      {
+        "site": "mal",
+        "id": "9546"
+      },
+      {
+        "site": "anidb",
+        "id": "6385"
+      },
+      {
+        "site": "aniList",
+        "id": "9546"
       }
     ]
   }

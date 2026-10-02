@@ -67,6 +67,18 @@
       {
         "site": "tmdb",
         "id": "tv/22208/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "3182"
+      },
+      {
+        "site": "anidb",
+        "id": "2327"
+      },
+      {
+        "site": "aniList",
+        "id": "3182"
       }
     ]
   },
@@ -102,6 +114,18 @@
         "id": "B0CMDR324H",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "2269"
+      },
+      {
+        "site": "aniList",
+        "id": "2269"
+      },
+      {
+        "site": "anidb",
+        "id": "4165"
       }
     ]
   },
@@ -237,7 +261,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/45952/season/0"
+        "id": "tv/45952/season/0/episode/17"
       },
       {
         "site": "mal",
@@ -340,13 +364,6 @@
         "id": "26992",
         "begin": "2024-03-07T15:00:00.000Z",
         "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "4oAycZszRjaf",
-        "url": "https://www.disneyplus.com/movies/one-piece-5-the-curse-of-the-sacred-sword/4oAycZszRjaf",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",

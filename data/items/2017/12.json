@@ -51,6 +51,10 @@
       {
         "site": "aniList",
         "id": "98452"
+      },
+      {
+        "site": "anidb",
+        "id": "12968"
       }
     ]
   },
@@ -147,7 +151,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/194625"
+        "id": "tv/194625/season/1/episode/11"
       },
       {
         "site": "mal",
@@ -202,6 +206,10 @@
       {
         "site": "anidb",
         "id": "13591"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/51492/season/0/episode/5"
       }
     ]
   },
@@ -250,6 +258,10 @@
       {
         "site": "aniList",
         "id": "99938"
+      },
+      {
+        "site": "anidb",
+        "id": "12361"
       }
     ]
   },
@@ -324,6 +336,10 @@
         "id": "shingeki_oad",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "13374"
       }
     ]
   },
@@ -507,6 +523,12 @@
       {
         "site": "aniList",
         "id": "100484"
+      },
+      {
+        "site": "abema",
+        "id": "13-207",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -650,6 +672,43 @@
       {
         "site": "aniList",
         "id": "100656"
+      }
+    ]
+  },
+  {
+    "title": "COCOLORS",
+    "titleTranslate": {
+      "en": [
+        "Cocolors"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gasolinemask.com/nishiki/cocolors",
+    "begin": "2017-12-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-12-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "194107"
+      },
+      {
+        "site": "mal",
+        "id": "34167"
+      },
+      {
+        "site": "anidb",
+        "id": "12457"
+      },
+      {
+        "site": "aniList",
+        "id": "104867"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/469211"
       }
     ]
   }

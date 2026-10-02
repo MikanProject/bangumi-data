@@ -143,8 +143,8 @@
       {
         "site": "netflix",
         "id": "82040391",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-18T16:00:00.000Z",
+        "broadcast": "R/2025-08-18T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -161,6 +161,10 @@
       {
         "site": "aniList",
         "id": "143598"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼人幻燈抄"
       }
     ]
   },
@@ -204,7 +208,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/279431"
+        "id": "movie/1458643"
       },
       {
         "site": "mal",
@@ -213,6 +217,14 @@
       {
         "site": "anidb",
         "id": "19051"
+      },
+      {
+        "site": "acgnx",
+        "id": "雙胞胎 陽奈妃莉"
+      },
+      {
+        "site": "dmhy",
+        "id": "雙胞胎 陽奈妃莉"
       }
     ]
   },
@@ -302,6 +314,18 @@
       {
         "site": "tmdb",
         "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -366,7 +390,7 @@
       },
       {
         "site": "tmdb",
-        "id": "movie/1573526"
+        "id": "movie/1326106"
       },
       {
         "site": "mal",
@@ -462,8 +486,8 @@
       {
         "site": "netflix",
         "id": "81580575",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-13T16:00:00.000Z",
+        "broadcast": "R/2025-08-13T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -621,6 +645,53 @@
       {
         "site": "anidb",
         "id": "18084"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1452267"
+      }
+    ]
+  },
+  {
+    "title": "ニンジャバットマン対ヤクザリーグ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者蝙蝠侠对极道联盟"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://wwws.warnerbros.co.jp/batman-ninja/",
+    "begin": "2025-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "497110"
+      },
+      {
+        "site": "mal",
+        "id": "58964"
+      },
+      {
+        "site": "anidb",
+        "id": "18664"
+      },
+      {
+        "site": "aniList",
+        "id": "177778"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1297763"
+      },
+      {
+        "site": "danime",
+        "id": "27701",
+        "begin": "2025-03-20T15:00:00.000Z",
+        "broadcast": "R/2025-03-20T15:00:00.000Z/P7D"
       }
     ]
   }

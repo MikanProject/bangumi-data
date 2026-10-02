@@ -65,6 +65,14 @@
       {
         "site": "aniList",
         "id": "112748"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -100,12 +108,6 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "106598",
-        "begin": "2020-05-28T12:00:00.000Z",
-        "broadcast": "R/2020-05-28T12:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "tenchimuyo5th",
         "begin": "2022-01-07T03:00:00.000Z",
@@ -120,12 +122,6 @@
       {
         "site": "mikan",
         "id": "2278"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "106598",
-        "begin": "2020-05-28T12:00:00.000Z",
-        "broadcast": "R/2020-05-28T12:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -209,6 +205,14 @@
       {
         "site": "aniList",
         "id": "108623"
+      },
+      {
+        "site": "acgnx",
+        "id": "哥布林 殺手"
+      },
+      {
+        "site": "dmhy",
+        "id": "哥布林 殺手"
       }
     ]
   },
@@ -311,22 +315,10 @@
         "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "110026",
-        "begin": "2020-08-15T12:00:00.000Z",
-        "broadcast": "R/2020-08-15T12:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0059040",
         "begin": "2021-06-11T03:00:00.000Z",
         "broadcast": "R/2021-06-11T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "110026",
-        "begin": "2020-08-15T12:00:00.000Z",
-        "broadcast": "R/2020-08-15T12:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -353,6 +345,18 @@
       {
         "site": "aniList",
         "id": "111305"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "110026",
+        "begin": "2026-07-31T04:00:00.000Z",
+        "broadcast": "R/2026-07-31T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "110026",
+        "begin": "2026-07-31T04:00:00.000Z",
+        "broadcast": "R/2026-07-31T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -446,6 +450,10 @@
       {
         "site": "anidb",
         "id": "14889"
+      },
+      {
+        "site": "aniList",
+        "id": "109171"
       }
     ]
   },
@@ -601,6 +609,35 @@
       {
         "site": "anidb",
         "id": "15431"
+      }
+    ]
+  },
+  {
+    "title": "映画 ねこねこ日本史 龍馬のはちゃめちゃタイムトラベルぜよ!",
+    "titleTranslate": {
+      "en": [
+        "Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://neco-neco-movie.com/",
+    "begin": "2020-02-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291054"
+      },
+      {
+        "site": "mal",
+        "id": "40425"
+      },
+      {
+        "site": "anidb",
+        "id": "15104"
       }
     ]
   }

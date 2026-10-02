@@ -214,6 +214,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "X战记 剧场版"
+      ],
+      "en": [
+        "X: The Movie"
       ]
     },
     "type": "movie",
@@ -247,6 +250,80 @@
       {
         "site": "anidb",
         "id": "429"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00380050",
+        "begin": "1996-08-03T00:00:00.000Z",
+        "broadcast": "R/1996-08-03T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29175",
+        "begin": "2026-08-13T15:00:00.000Z",
+        "broadcast": "R/2026-08-13T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マヤの一生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "马亚的一生"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mushi-pro.co.jp/2010/08/%E3%83%9E%E3%83%A4%E3%81%AE%E4%B8%80%E7%94%9F/",
+    "begin": "1996-08-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-08-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310063"
+      },
+      {
+        "site": "mal",
+        "id": "25301"
+      },
+      {
+        "site": "anidb",
+        "id": "6358"
+      },
+      {
+        "site": "aniList",
+        "id": "117933"
+      }
+    ]
+  },
+  {
+    "title": "賢治のトランク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "贤治的皮箱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89707"
+      },
+      {
+        "site": "mal",
+        "id": "21099"
+      },
+      {
+        "site": "anidb",
+        "id": "7720"
       }
     ]
   }

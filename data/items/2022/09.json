@@ -161,6 +161,10 @@
       {
         "site": "aniList",
         "id": "139587"
+      },
+      {
+        "site": "acgnx",
+        "id": "轉生就 劍"
       }
     ]
   },
@@ -278,6 +282,10 @@
         "id": "GG5H5X0JK",
         "begin": "2022-09-24T13:30:00.000Z",
         "broadcast": "R/2022-09-24T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "反派 魔王"
       }
     ]
   },
@@ -388,6 +396,10 @@
       {
         "site": "aniList",
         "id": "137341"
+      },
+      {
+        "site": "acgnx",
+        "id": "師傅 沒有 尾巴"
       }
     ]
   },
@@ -441,6 +453,14 @@
       {
         "site": "aniList",
         "id": "170659"
+      },
+      {
+        "site": "acgnx",
+        "id": "Chickip Dancers"
+      },
+      {
+        "site": "dmhy",
+        "id": "Chickip Dancers"
       }
     ]
   },
@@ -585,7 +605,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/156898"
+        "id": "tv/156898/season/1/episode/14"
+      },
+      {
+        "site": "anidb",
+        "id": "17175"
+      },
+      {
+        "site": "aniList",
+        "id": "144677"
+      },
+      {
+        "site": "mal",
+        "id": "54141"
       }
     ]
   },
@@ -804,6 +836,14 @@
       {
         "site": "aniList",
         "id": "132055"
+      },
+      {
+        "site": "acgnx",
+        "id": "歌之"
+      },
+      {
+        "site": "dmhy",
+        "id": "歌之"
       }
     ]
   },
@@ -860,6 +900,14 @@
       {
         "site": "tmdb",
         "id": "tv/86034/season/0/episode/31"
+      },
+      {
+        "site": "mal",
+        "id": "51473"
+      },
+      {
+        "site": "aniList",
+        "id": "146921"
       }
     ]
   },
@@ -1052,7 +1100,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/196400"
+        "id": "tv/196400/season/0"
       },
       {
         "site": "mal",
@@ -1061,6 +1109,10 @@
       {
         "site": "aniList",
         "id": "146922"
+      },
+      {
+        "site": "anidb",
+        "id": "16700"
       }
     ]
   }

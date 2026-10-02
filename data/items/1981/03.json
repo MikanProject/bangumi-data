@@ -117,6 +117,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄的宇宙开拓史"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄的宇宙開拓史"
       ]
     },
     "type": "movie",
@@ -167,6 +170,12 @@
       {
         "site": "anidb",
         "id": "6590"
+      },
+      {
+        "site": "gamer",
+        "id": "32205",
+        "begin": "2026-09-23T04:00:00.000Z",
+        "broadcast": "R/2026-09-23T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -390,6 +399,80 @@
       {
         "site": "aniList",
         "id": "2621"
+      }
+    ]
+  },
+  {
+    "title": "世界名作童話 白鳥の湖",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界名作童话 天鹅湖"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-03-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "113676"
+      },
+      {
+        "site": "mal",
+        "id": "3186"
+      },
+      {
+        "site": "anidb",
+        "id": "2245"
+      },
+      {
+        "site": "aniList",
+        "id": "3186"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/85787"
+      }
+    ]
+  },
+  {
+    "title": "怪物くん 怪物ランドへの招待",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物太郎 前往怪物岛的招待"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-03-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "424332"
+      },
+      {
+        "site": "mal",
+        "id": "22977"
+      },
+      {
+        "site": "anidb",
+        "id": "7539"
+      },
+      {
+        "site": "aniList",
+        "id": "128021"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66251/season/0"
       }
     ]
   }

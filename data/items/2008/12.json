@@ -23,6 +23,14 @@
       {
         "site": "tmdb",
         "id": "tv/73361"
+      },
+      {
+        "site": "mal",
+        "id": "9874"
+      },
+      {
+        "site": "anidb",
+        "id": "6262"
       }
     ]
   },
@@ -219,6 +227,10 @@
       {
         "site": "tmdb",
         "id": "movie/23166"
+      },
+      {
+        "site": "anidb",
+        "id": "4932"
       }
     ]
   },
@@ -268,6 +280,39 @@
       {
         "site": "aniList",
         "id": "5042"
+      }
+    ]
+  },
+  {
+    "title": "映画! たまごっち うちゅーいちハッピーな物語!?",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84049"
+      },
+      {
+        "site": "mal",
+        "id": "6517"
+      },
+      {
+        "site": "anidb",
+        "id": "7017"
+      },
+      {
+        "site": "aniList",
+        "id": "6517"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/565368"
       }
     ]
   }

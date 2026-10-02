@@ -230,6 +230,14 @@
       {
         "site": "tmdb",
         "id": "tv/35138/season/3"
+      },
+      {
+        "site": "acgnx",
+        "id": "塔利"
+      },
+      {
+        "site": "dmhy",
+        "id": "塔利"
       }
     ]
   },
@@ -425,6 +433,18 @@
       {
         "site": "tmdb",
         "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -623,6 +643,12 @@
       {
         "site": "aniList",
         "id": "8017"
+      },
+      {
+        "site": "danime",
+        "id": "29138",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -681,6 +707,10 @@
       {
         "site": "aniList",
         "id": "7591"
+      },
+      {
+        "site": "acgnx",
+        "id": "和殿下一起"
       }
     ]
   },
@@ -865,6 +895,35 @@
       {
         "site": "aniList",
         "id": "8178"
+      }
+    ]
+  },
+  {
+    "title": "靠岸",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://portofreturn.pixnet.net/blog",
+    "begin": "2010-03-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2010-03-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41487"
+      },
+      {
+        "site": "mal",
+        "id": "53230"
+      },
+      {
+        "site": "anidb",
+        "id": "9180"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/260707"
       }
     ]
   }

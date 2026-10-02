@@ -43,37 +43,6 @@
     ]
   },
   {
-    "title": "想いのかけら",
-    "titleTranslate": {
-      "zh-Hans": [
-        "思念的碎片"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.nhk.or.jp/daisuki-tohoku/kakera/",
-    "begin": "2015-11-27T16:00:00.000Z",
-    "end": "2015-11-27T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "158315"
-      },
-      {
-        "site": "mal",
-        "id": "32190"
-      },
-      {
-        "site": "aniList",
-        "id": "21736"
-      },
-      {
-        "site": "anidb",
-        "id": "11799"
-      }
-    ]
-  },
-  {
     "title": "デジモンアドベンチャー tri. 第1章「再会」",
     "titleTranslate": {
       "zh-Hans": [
@@ -129,6 +98,10 @@
       {
         "site": "aniList",
         "id": "20802"
+      },
+      {
+        "site": "anidb",
+        "id": "10764"
       }
     ]
   },
@@ -313,6 +286,10 @@
       {
         "site": "aniList",
         "id": "21212"
+      },
+      {
+        "site": "anidb",
+        "id": "11265"
       }
     ]
   },
@@ -437,7 +414,8 @@
         "site": "danime",
         "id": "22781",
         "begin": "2025-07-31T15:00:00.000Z",
-        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D",
+        "comment": "OVA: 29198"
       },
       {
         "site": "tmdb",
@@ -541,6 +519,39 @@
       {
         "site": "aniList",
         "id": "119941"
+      }
+    ]
+  },
+  {
+    "title": "FW:ハマトラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FW:滨虎"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://hamatorapj.com/fw/",
+    "begin": "2015-11-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-11-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127716"
+      },
+      {
+        "site": "mal",
+        "id": "30290"
+      },
+      {
+        "site": "anidb",
+        "id": "11727"
+      },
+      {
+        "site": "aniList",
+        "id": "107199"
       }
     ]
   }

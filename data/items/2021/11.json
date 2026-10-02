@@ -254,6 +254,14 @@
       {
         "site": "aniList",
         "id": "139386"
+      },
+      {
+        "site": "acgnx",
+        "id": "薄 鬼"
+      },
+      {
+        "site": "dmhy",
+        "id": "薄 鬼"
       }
     ]
   },
@@ -419,6 +427,10 @@
       {
         "site": "tmdb",
         "id": "tv/94605"
+      },
+      {
+        "site": "mal",
+        "id": "64465"
       }
     ]
   },
@@ -474,6 +486,72 @@
       {
         "site": "aniList",
         "id": "154974"
+      }
+    ]
+  },
+  {
+    "title": "幾多の北",
+    "titleTranslate": {
+      "zh-Hans": [
+        "万千北方"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-10-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-10-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "388988"
+      },
+      {
+        "site": "mal",
+        "id": "50427"
+      },
+      {
+        "site": "anidb",
+        "id": "17763"
+      },
+      {
+        "site": "aniList",
+        "id": "141056"
+      }
+    ]
+  },
+  {
+    "title": "映画 妖怪ウォッチ♪ ケータとオレっちの出会い編だニャン♪ワ、ワタクシも〜♪♪",
+    "titleTranslate": {
+      "en": [
+        "Youkai Watch ♪ Movie 7: Keita to Orecchi no Deai Hen da Nyan ♪ Wa, Watakushi mo ♪♪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-11-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-11-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "368821"
+      },
+      {
+        "site": "mal",
+        "id": "50191"
+      },
+      {
+        "site": "anidb",
+        "id": "16922"
+      },
+      {
+        "site": "aniList",
+        "id": "145958"
       }
     ]
   }

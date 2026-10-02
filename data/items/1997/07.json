@@ -74,13 +74,6 @@
         "broadcast": ""
       },
       {
-        "site": "disneyplus",
-        "id": "5B0HCOlddfVw",
-        "url": "https://www.disneyplus.com/movies/neon-genesis-evangelion-the-end-of-evangelion/5B0HCOlddfVw",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/18491"
       },
@@ -170,6 +163,18 @@
       {
         "site": "tmdb",
         "id": "movie/382466"
+      },
+      {
+        "site": "danime",
+        "id": "24710",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018723",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -592,6 +597,39 @@
       {
         "site": "aniList",
         "id": "9455"
+      }
+    ]
+  },
+  {
+    "title": "どんぐりの家",
+    "titleTranslate": {
+      "zh-Hans": [
+        "橡木实之家"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-07-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61103"
+      },
+      {
+        "site": "mal",
+        "id": "5916"
+      },
+      {
+        "site": "anidb",
+        "id": "4986"
+      },
+      {
+        "site": "aniList",
+        "id": "5916"
       }
     ]
   }

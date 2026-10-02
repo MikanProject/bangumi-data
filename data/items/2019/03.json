@@ -51,8 +51,8 @@
       {
         "site": "netflix",
         "id": "80195357",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2019-08-14T16:00:00.000Z",
+        "broadcast": "R/2019-08-14T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -188,6 +188,18 @@
       {
         "site": "tmdb",
         "id": "movie/601980"
+      },
+      {
+        "site": "mal",
+        "id": "35868"
+      },
+      {
+        "site": "anidb",
+        "id": "13273"
+      },
+      {
+        "site": "aniList",
+        "id": "99470"
       }
     ]
   },
@@ -708,12 +720,6 @@
         "begin": "2022-10-03T15:00:00.000Z",
         "broadcast": "R/2022-10-03T15:00:00.000Z/P7D",
         "comment": "トモダチの距離: SID0162701, 社員旅行と願いごと: SID0162702"
-      },
-      {
-        "site": "abema",
-        "id": "19-114",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",

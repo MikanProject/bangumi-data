@@ -140,6 +140,14 @@
         "id": "117-1m-6rcjtu92",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "寒蟬|暮蟬 鸣泣|鳴泣|悲鳴"
+      },
+      {
+        "site": "dmhy",
+        "id": "寒蟬|暮蟬 鸣泣|鳴泣|悲鳴"
       }
     ]
   },
@@ -338,6 +346,18 @@
       {
         "site": "tmdb",
         "id": "tv/28853"
+      },
+      {
+        "site": "mal",
+        "id": "863"
+      },
+      {
+        "site": "anidb",
+        "id": "4067"
+      },
+      {
+        "site": "aniList",
+        "id": "863"
       }
     ]
   },
@@ -1311,6 +1331,18 @@
       {
         "site": "aniList",
         "id": "1884"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016529",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29025",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1685,6 +1717,18 @@
       {
         "site": "tmdb",
         "id": "tv/14350"
+      },
+      {
+        "site": "mal",
+        "id": "916"
+      },
+      {
+        "site": "anidb",
+        "id": "3499"
+      },
+      {
+        "site": "aniList",
+        "id": "916"
       }
     ]
   },
@@ -1844,8 +1888,8 @@
       {
         "site": "netflix",
         "id": "80018959",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-06-29T16:00:00.000Z",
+        "broadcast": "R/2025-06-29T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1868,6 +1912,14 @@
       {
         "site": "aniList",
         "id": "918"
+      },
+      {
+        "site": "acgnx",
+        "id": "銀魂"
+      },
+      {
+        "site": "dmhy",
+        "id": "銀魂"
       }
     ]
   },
@@ -2117,6 +2169,12 @@
       {
         "site": "aniList",
         "id": "857"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014029",
+        "begin": "2026-08-08T03:00:00.000Z",
+        "broadcast": "R/2026-08-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2510,6 +2568,12 @@
       {
         "site": "aniList",
         "id": "4737"
+      },
+      {
+        "site": "nicovideo",
+        "id": "takanotsume",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2818,6 +2882,12 @@
       {
         "site": "aniList",
         "id": "962"
+      },
+      {
+        "site": "abema",
+        "id": "210-20",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2944,6 +3014,24 @@
       {
         "site": "aniList",
         "id": "8366"
+      },
+      {
+        "site": "danime",
+        "id": "28949",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242952",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0H7186LCL",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2994,8 +3082,8 @@
       {
         "site": "netflix",
         "id": "81757597",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-16T16:00:00.000Z",
+        "broadcast": "R/2025-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -3053,6 +3141,18 @@
       {
         "site": "tmdb",
         "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },

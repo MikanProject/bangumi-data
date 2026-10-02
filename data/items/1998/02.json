@@ -226,7 +226,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/68312"
+        "id": "tv/68312/season/1/episode/9"
+      },
+      {
+        "site": "mal",
+        "id": "3371"
+      },
+      {
+        "site": "anidb",
+        "id": "1310"
+      },
+      {
+        "site": "aniList",
+        "id": "3371"
       }
     ]
   },
@@ -297,6 +309,18 @@
       {
         "site": "tmdb",
         "id": "tv/68312"
+      },
+      {
+        "site": "mal",
+        "id": "3371"
+      },
+      {
+        "site": "anidb",
+        "id": "1310"
+      },
+      {
+        "site": "aniList",
+        "id": "3371"
       }
     ]
   },
@@ -331,6 +355,14 @@
       {
         "site": "mal",
         "id": "320"
+      },
+      {
+        "site": "aniList",
+        "id": "320"
+      },
+      {
+        "site": "anidb",
+        "id": "314"
       }
     ]
   }

@@ -100,6 +100,18 @@
       {
         "site": "tmdb",
         "id": "tv/9598"
+      },
+      {
+        "site": "mal",
+        "id": "630"
+      },
+      {
+        "site": "anidb",
+        "id": "140"
+      },
+      {
+        "site": "aniList",
+        "id": "630"
       }
     ]
   },
@@ -219,12 +231,6 @@
       {
         "site": "aniList",
         "id": "1117"
-      },
-      {
-        "site": "abema",
-        "id": "746-2",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -760,6 +766,43 @@
       {
         "site": "anidb",
         "id": "1513"
+      }
+    ]
+  },
+  {
+    "title": "め組の大吾 火事場のバカヤロー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "消防员的故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.sunrise-inc.co.jp/work/detail.php?cid=145",
+    "begin": "1999-07-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-07-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82524"
+      },
+      {
+        "site": "mal",
+        "id": "3147"
+      },
+      {
+        "site": "anidb",
+        "id": "1572"
+      },
+      {
+        "site": "aniList",
+        "id": "3147"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/412037"
       }
     ]
   }

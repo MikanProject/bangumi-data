@@ -37,8 +37,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JhgkxmlzOcd0PqNCytn_BiT",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2026-04-26T08:00:06.000Z",
+        "broadcast": "R/2026-04-26T08:00:06.000Z/P7D",
         "comment": "ULTRA搶先看: PLxSscENEp7Jij171Q_EAc8xRn0RLyYmbJ"
       },
       {
@@ -112,6 +112,30 @@
         "id": "82647303",
         "begin": "2026-06-08T16:00:00.000Z",
         "broadcast": "R/2026-06-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "140582",
+        "begin": "2026-09-14T04:00:00.000Z",
+        "broadcast": "R/2026-09-14T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140582",
+        "begin": "2026-09-14T04:00:00.000Z",
+        "broadcast": "R/2026-09-14T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "雞鬥士"
+      },
+      {
+        "site": "anibt",
+        "id": "505258"
+      },
+      {
+        "site": "dmhy",
+        "id": "雞鬥士"
       }
     ]
   },
@@ -134,7 +158,7 @@
     "officialSite": "https://korinojoheki-pr.com/",
     "begin": "2026-04-02T14:56:00.000Z",
     "broadcast": "R/2026-04-02T14:56:00.000Z/P7D",
-    "end": "2026-06-28T14:56:00.000Z",
+    "end": "2026-07-02T14:56:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -200,6 +224,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11aa4b29be5e9e214f1a"
+      },
+      {
+        "site": "acgnx",
+        "id": "冰之城牆"
+      },
+      {
+        "site": "anibt",
+        "id": "535669"
+      },
+      {
+        "site": "dmhy",
+        "id": "冰之城牆"
       }
     ]
   },
@@ -288,6 +324,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a34b29be5e9e214eec"
+      },
+      {
+        "site": "acgnx",
+        "id": "尖帽子 魔法工房"
+      },
+      {
+        "site": "anibt",
+        "id": "377130"
+      },
+      {
+        "site": "dmhy",
+        "id": "尖帽子 魔法工房"
       }
     ]
   },
@@ -401,6 +449,18 @@
         "id": "B0FSCFCD1L",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "迦楠大人 惡魔"
+      },
+      {
+        "site": "anibt",
+        "id": "552589"
+      },
+      {
+        "site": "dmhy",
+        "id": "迦楠大人 惡魔"
       }
     ]
   },
@@ -409,6 +469,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "没有辣妹会对阿宅温柔!?"
+      ],
+      "zh-Hant": [
+        "哪裡有溫柔對待阿宅的辣妹！？"
       ],
       "en": [
         "Gals Can't be Kind to Otaku!?"
@@ -485,6 +548,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a84b29be5e9e214f0a"
+      },
+      {
+        "site": "acgnx",
+        "id": "阿宅 辣妹"
+      },
+      {
+        "site": "anibt",
+        "id": "590393"
+      },
+      {
+        "site": "dmhy",
+        "id": "阿宅 辣妹"
       }
     ]
   },
@@ -585,6 +660,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11aa4b29be5e9e214f14"
+      },
+      {
+        "site": "acgnx",
+        "id": "女騎士 蠻族新娘"
+      },
+      {
+        "site": "anibt",
+        "id": "516543"
+      },
+      {
+        "site": "dmhy",
+        "id": "女騎士 蠻族新娘"
       }
     ]
   },
@@ -648,15 +735,17 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtR1Jvy3yWXqHYZqVbfpACyF",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLWt6quvyLgAI",
+        "begin": "2026-08-16T13:00:06.000Z",
+        "broadcast": "R/2026-08-16T13:00:06.000Z/P7D",
+        "comment": "Ani-One ULTRA: PLC18xlbCdwtR1Jvy3yWXqHYZqVbfpACyF"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLC2PAbftnNp8",
+        "begin": "2026-08-16T13:00:07.000Z",
+        "broadcast": "R/2026-08-16T13:00:07.000Z/P7D",
+        "comment": "Ani-One ULTRA: PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_"
       },
       {
         "site": "danime",
@@ -693,6 +782,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11ad4b29be5e9e214f28"
+      },
+      {
+        "site": "acgnx",
+        "id": "鄰家 天使"
+      },
+      {
+        "site": "anibt",
+        "id": "458684"
+      },
+      {
+        "site": "dmhy",
+        "id": "鄰家 天使"
       }
     ]
   },
@@ -701,6 +802,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "自称恶役大小姐的婚约者观察记录。"
+      ],
+      "zh-Hant": [
+        "自稱惡役千金的未婚妻觀察紀錄。"
       ],
       "en": [
         "An Observation Log of My Fiancée Who Calls Herself a Villainess"
@@ -777,6 +881,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a24b29be5e9e214ee8"
+      },
+      {
+        "site": "acgnx",
+        "id": "惡役 婚約 觀察 記錄"
+      },
+      {
+        "site": "anibt",
+        "id": "558088"
+      },
+      {
+        "site": "dmhy",
+        "id": "惡役 婚約 觀察 記錄"
       }
     ]
   },
@@ -882,6 +998,18 @@
         "id": "B0GWND8CSN",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "上伊那牡丹"
+      },
+      {
+        "site": "anibt",
+        "id": "543360"
+      },
+      {
+        "site": "dmhy",
+        "id": "上伊那牡丹"
       }
     ]
   },
@@ -959,8 +1087,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqRLfW1AdqjPjy_1kUdHF_j",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-23T13:30:06.000Z",
+        "broadcast": "R/2026-06-23T13:30:06.000Z/P7D"
       },
       {
         "site": "danime",
@@ -985,6 +1113,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a44b29be5e9e214ef4"
+      },
+      {
+        "site": "acgnx",
+        "id": "元兇|始作俑者 女王"
+      },
+      {
+        "site": "anibt",
+        "id": "567234"
+      },
+      {
+        "site": "dmhy",
+        "id": "元兇|始作俑者 女王"
       }
     ]
   },
@@ -1085,6 +1225,18 @@
         "id": "B0GPFDWLT4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "複製品 戀愛"
+      },
+      {
+        "site": "anibt",
+        "id": "537722"
+      },
+      {
+        "site": "dmhy",
+        "id": "複製品 戀愛"
       }
     ]
   },
@@ -1193,6 +1345,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11b14b29be5e9e214f44"
+      },
+      {
+        "site": "acgnx",
+        "id": "落语|落語 朱音"
+      },
+      {
+        "site": "anibt",
+        "id": "576121"
+      },
+      {
+        "site": "dmhy",
+        "id": "落语|落語 朱音"
       }
     ]
   },
@@ -1300,6 +1464,18 @@
         "id": "B0GVJJB7BK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "霧尾粉絲後援會"
+      },
+      {
+        "site": "anibt",
+        "id": "513208"
+      },
+      {
+        "site": "dmhy",
+        "id": "霧尾粉絲後援會"
       }
     ]
   },
@@ -1396,6 +1572,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a74b29be5e9e214f00"
+      },
+      {
+        "site": "acgnx",
+        "id": "被打擾"
+      },
+      {
+        "site": "anibt",
+        "id": "610703"
+      },
+      {
+        "site": "dmhy",
+        "id": "被打擾"
       }
     ]
   },
@@ -1467,8 +1655,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrEG6SwZldtQ0ji-61uhuOx",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-28T09:00:06.000Z",
+        "broadcast": "R/2026-06-28T09:00:06.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1493,6 +1681,18 @@
         "id": "B0GW7C413Z",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "石王"
+      },
+      {
+        "site": "anibt",
+        "id": "495238"
+      },
+      {
+        "site": "dmhy",
+        "id": "石王"
       }
     ]
   },
@@ -1599,6 +1799,18 @@
         "id": "B0GVH2RM7C",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "幽靈音樂會"
+      },
+      {
+        "site": "anibt",
+        "id": "600675"
+      },
+      {
+        "site": "dmhy",
+        "id": "幽靈音樂會"
       }
     ]
   },
@@ -1656,6 +1868,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a44b29be5e9e214ef0"
+      },
+      {
+        "site": "acgnx",
+        "id": "日本三國"
+      },
+      {
+        "site": "anibt",
+        "id": "623851"
+      },
+      {
+        "site": "dmhy",
+        "id": "日本三國"
       }
     ]
   },
@@ -1761,6 +1985,18 @@
         "id": "B0GR6K8ST1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "淡島百景"
+      },
+      {
+        "site": "anibt",
+        "id": "493724"
+      },
+      {
+        "site": "dmhy",
+        "id": "淡島百景"
       }
     ]
   },
@@ -1858,6 +2094,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a64b29be5e9e214efa"
+      },
+      {
+        "site": "acgnx",
+        "id": "班上 第二可愛 女孩 朋友"
+      },
+      {
+        "site": "anibt",
+        "id": "456079"
+      },
+      {
+        "site": "dmhy",
+        "id": "班上 第二可愛 女孩 朋友"
       }
     ]
   },
@@ -1957,6 +2205,18 @@
         "id": "B0GHNDJPMJ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "木頭風紀委員 迷你裙 JK"
+      },
+      {
+        "site": "anibt",
+        "id": "551123"
+      },
+      {
+        "site": "dmhy",
+        "id": "木頭風紀委員 迷你裙 JK"
       }
     ]
   },
@@ -2068,6 +2328,18 @@
         "id": "B0GMLG9N9F",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "楠木邸"
+      },
+      {
+        "site": "anibt",
+        "id": "570584"
+      },
+      {
+        "site": "dmhy",
+        "id": "楠木邸"
       }
     ]
   },
@@ -2076,6 +2348,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子?"
+      ],
+      "zh-Hant": [
+        "最強的職業不是勇者也不是賢者好像是鑑定士（暫定）的樣子"
       ],
       "en": [
         "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
@@ -2153,6 +2428,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11b14b29be5e9e214f3e"
+      },
+      {
+        "site": "acgnx",
+        "id": "最強 鑑定士"
+      },
+      {
+        "site": "anibt",
+        "id": "599171"
+      },
+      {
+        "site": "dmhy",
+        "id": "最強 鑑定士"
       }
     ]
   },
@@ -2252,6 +2539,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a94b29be5e9e214f10"
+      },
+      {
+        "site": "acgnx",
+        "id": "中村君"
+      },
+      {
+        "site": "anibt",
+        "id": "508455"
+      },
+      {
+        "site": "dmhy",
+        "id": "中村君"
       }
     ]
   },
@@ -2323,8 +2622,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqN3eyl6PIwUzG-6OLz7wRK",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-07-11T10:55:06.000Z",
+        "broadcast": "R/2026-07-11T10:55:06.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2349,6 +2648,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11b04b29be5e9e214f3a"
+      },
+      {
+        "site": "acgnx",
+        "id": "入間同學"
+      },
+      {
+        "site": "anibt",
+        "id": "524486"
+      },
+      {
+        "site": "dmhy",
+        "id": "入間同學"
       }
     ]
   },
@@ -2450,6 +2761,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11b04b29be5e9e214f3c"
+      },
+      {
+        "site": "acgnx",
+        "id": "弱弱老師"
+      },
+      {
+        "site": "anibt",
+        "id": "526789"
+      },
+      {
+        "site": "dmhy",
+        "id": "弱弱老師"
       }
     ]
   },
@@ -2553,6 +2876,18 @@
         "id": "B0GRR2TLV2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "摩绪"
+      },
+      {
+        "site": "anibt",
+        "id": "570448"
+      },
+      {
+        "site": "dmhy",
+        "id": "摩绪"
       }
     ]
   },
@@ -2631,8 +2966,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfp_bDKTPlU8kHMf0-W_W450",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-23T14:30:06.000Z",
+        "broadcast": "R/2026-06-23T14:30:06.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -2671,6 +3006,18 @@
         "id": "B0GW3DN3YX",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "婚姻劇毒"
+      },
+      {
+        "site": "anibt",
+        "id": "590353"
+      },
+      {
+        "site": "dmhy",
+        "id": "婚姻劇毒"
       }
     ]
   },
@@ -2776,6 +3123,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a64b29be5e9e214efe"
+      },
+      {
+        "site": "acgnx",
+        "id": "左撇子艾倫"
+      },
+      {
+        "site": "anibt",
+        "id": "409468"
+      },
+      {
+        "site": "dmhy",
+        "id": "左撇子艾倫"
       }
     ]
   },
@@ -2881,6 +3240,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11ad4b29be5e9e214f2c"
+      },
+      {
+        "site": "acgnx",
+        "id": "神之水滴"
+      },
+      {
+        "site": "anibt",
+        "id": "609175"
+      },
+      {
+        "site": "dmhy",
+        "id": "神之水滴"
       }
     ]
   },
@@ -2966,6 +3337,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a24b29be5e9e214ee6"
+      },
+      {
+        "site": "acgnx",
+        "id": "淫獄團地"
+      },
+      {
+        "site": "anibt",
+        "id": "621602"
+      },
+      {
+        "site": "dmhy",
+        "id": "淫獄團地"
       }
     ]
   },
@@ -3077,6 +3460,18 @@
         "id": "B0GWMGD6LV",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "殺手青春"
+      },
+      {
+        "site": "anibt",
+        "id": "581284"
+      },
+      {
+        "site": "dmhy",
+        "id": "殺手青春"
       }
     ]
   },
@@ -3142,6 +3537,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db119f4b29be5e9e214ed0"
+      },
+      {
+        "site": "acgnx",
+        "id": "拜託|拜托 美妙公主"
+      },
+      {
+        "site": "anibt",
+        "id": "622634"
+      },
+      {
+        "site": "dmhy",
+        "id": "拜託|拜托 美妙公主"
       }
     ]
   },
@@ -3182,8 +3589,8 @@
       {
         "site": "gamer",
         "id": "146184",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-05-30T17:00:00.000Z",
+        "broadcast": "R/2026-05-30T17:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -3232,6 +3639,18 @@
         "id": "146184",
         "begin": "2026-05-30T17:00:00.000Z",
         "broadcast": "R/2026-05-30T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "一疊間漫畫咖啡屋生活"
+      },
+      {
+        "site": "anibt",
+        "id": "569161"
+      },
+      {
+        "site": "dmhy",
+        "id": "一疊間漫畫咖啡屋生活"
       }
     ]
   },
@@ -3343,6 +3762,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a14b29be5e9e214edc"
+      },
+      {
+        "site": "acgnx",
+        "id": "黑貓 魔女 教室"
+      },
+      {
+        "site": "anibt",
+        "id": "576351"
+      },
+      {
+        "site": "dmhy",
+        "id": "黑貓 魔女 教室"
       }
     ]
   },
@@ -3434,6 +3865,10 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a04b29be5e9e214eda"
+      },
+      {
+        "site": "anibt",
+        "id": "501796"
       }
     ]
   },
@@ -3545,6 +3980,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a94b29be5e9e214f0e"
+      },
+      {
+        "site": "acgnx",
+        "id": "魚很大"
+      },
+      {
+        "site": "anibt",
+        "id": "604307"
+      },
+      {
+        "site": "dmhy",
+        "id": "魚很大"
       }
     ]
   },
@@ -3650,6 +4097,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11aa4b29be5e9e214f18"
+      },
+      {
+        "site": "acgnx",
+        "id": "庫茲馬 哆囉囉"
+      },
+      {
+        "site": "anibt",
+        "id": "493804"
+      },
+      {
+        "site": "dmhy",
+        "id": "庫茲馬 哆囉囉"
       }
     ]
   },
@@ -3749,6 +4208,24 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a04b29be5e9e214ed8"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHU2E4cjkZKqWgr4zWWKqp3S",
+        "begin": "2026-05-01T11:30:06.000Z",
+        "broadcast": "R/2026-05-01T11:30:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "女僕 貪吃 日常"
+      },
+      {
+        "site": "anibt",
+        "id": "580473"
+      },
+      {
+        "site": "dmhy",
+        "id": "女僕 貪吃 日常"
       }
     ]
   },
@@ -3849,6 +4326,24 @@
         "id": "B0GT79MXZ1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHWaHxyd6ALN0961g8YogOka",
+        "begin": "2026-04-22T11:30:06.000Z",
+        "broadcast": "R/2026-04-22T11:30:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "我愛你 遊戲"
+      },
+      {
+        "site": "anibt",
+        "id": "564289"
+      },
+      {
+        "site": "dmhy",
+        "id": "我愛你 遊戲"
       }
     ]
   },
@@ -3954,6 +4449,18 @@
         "id": "B0GQJLLZP6",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "主播女孩重度依賴|NEEDY"
+      },
+      {
+        "site": "anibt",
+        "id": "606263"
+      },
+      {
+        "site": "dmhy",
+        "id": "主播女孩重度依賴|NEEDY"
       }
     ]
   },
@@ -4020,12 +4527,6 @@
         "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgM-eazdqnvvGvwYtCvKNcq",
-        "begin": "2026-04-03T15:30:06.000Z",
-        "broadcast": "R/2026-04-03T15:30:06.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "19-290",
         "begin": "",
@@ -4078,6 +4579,18 @@
         "id": "GT00371869",
         "begin": "2026-04-03T00:00:00.000Z",
         "broadcast": "R/2026-04-03T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "凍結地球"
+      },
+      {
+        "site": "anibt",
+        "id": "571555"
+      },
+      {
+        "site": "dmhy",
+        "id": "凍結地球"
       }
     ]
   },
@@ -4153,6 +4666,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a84b29be5e9e214f08"
+      },
+      {
+        "site": "acgnx",
+        "id": "自動販賣機"
+      },
+      {
+        "site": "anibt",
+        "id": "585790"
+      },
+      {
+        "site": "dmhy",
+        "id": "自動販賣機"
       }
     ]
   },
@@ -4161,7 +4686,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-        "灰原君的青春二周目（NEW GAME+）",
+        "灰原君的青春二周目（NEW GAME+）"
+      ],
+      "zh-Hant": [
         "灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"
       ],
       "en": [
@@ -4229,6 +4756,22 @@
         "id": "B0GGHNNZW4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/316424"
+      },
+      {
+        "site": "acgnx",
+        "id": "灰原同學"
+      },
+      {
+        "site": "anibt",
+        "id": "567418"
+      },
+      {
+        "site": "dmhy",
+        "id": "灰原同學"
       }
     ]
   },
@@ -4336,6 +4879,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11b14b29be5e9e214f42"
+      },
+      {
+        "site": "acgnx",
+        "id": "黃泉 雙使|双使|使者"
+      },
+      {
+        "site": "anibt",
+        "id": "568572"
+      },
+      {
+        "site": "dmhy",
+        "id": "黃泉 雙使|双使|使者"
       }
     ]
   },
@@ -4390,8 +4945,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7Ucg7UKNCijxCy8QTLtCGv0h7",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-08T14:00:06.000Z",
+        "broadcast": "R/2026-06-08T14:00:06.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -4416,6 +4971,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a34b29be5e9e214eea"
+      },
+      {
+        "site": "acgnx",
+        "id": "異世界 農家"
+      },
+      {
+        "site": "anibt",
+        "id": "575057"
+      },
+      {
+        "site": "dmhy",
+        "id": "異世界 農家"
       }
     ]
   },
@@ -4426,7 +4993,8 @@
         "最强王者的第二人生 第二季"
       ],
       "zh-Hant": [
-        "終末起點 第二季"
+        "終末起點 第二季",
+        "終末起點 第2季"
       ]
     },
     "type": "tv",
@@ -4524,6 +5092,24 @@
       {
         "site": "bangumi_moe",
         "id": "69db11aa4b29be5e9e214f12"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHUtf4G79VkGawCulZIU9Hmr",
+        "begin": "2026-05-04T16:00:06.000Z",
+        "broadcast": "R/2026-05-04T16:00:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "終末起點|最强王者"
+      },
+      {
+        "site": "anibt",
+        "id": "565304"
+      },
+      {
+        "site": "dmhy",
+        "id": "終末起點|最强王者"
       }
     ]
   },
@@ -4629,6 +5215,18 @@
         "id": "B0GVPRN3YK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "勇者 肋骨"
+      },
+      {
+        "site": "anibt",
+        "id": "623854"
+      },
+      {
+        "site": "dmhy",
+        "id": "勇者 肋骨"
       }
     ]
   },
@@ -4713,6 +5311,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a44b29be5e9e214ef2"
+      },
+      {
+        "site": "acgnx",
+        "id": "欺詐遊戲"
+      },
+      {
+        "site": "anibt",
+        "id": "580133"
+      },
+      {
+        "site": "dmhy",
+        "id": "欺詐遊戲"
       }
     ]
   },
@@ -4800,6 +5410,24 @@
       {
         "site": "bangumi_moe",
         "id": "69db11ac4b29be5e9e214f26"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHXaLYfdXwG_u8bzL4Q4lXin",
+        "begin": "2026-04-10T16:00:06.000Z",
+        "broadcast": "R/2026-04-10T16:00:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "殺掉 偵探"
+      },
+      {
+        "site": "anibt",
+        "id": "608227"
+      },
+      {
+        "site": "dmhy",
+        "id": "殺掉 偵探"
       }
     ]
   },
@@ -4905,6 +5533,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11ab4b29be5e9e214f1e"
+      },
+      {
+        "site": "acgnx",
+        "id": "輪迴 花瓣"
+      },
+      {
+        "site": "anibt",
+        "id": "506149"
+      },
+      {
+        "site": "dmhy",
+        "id": "輪迴 花瓣"
       }
     ]
   },
@@ -5019,6 +5659,18 @@
         "id": "80991903",
         "begin": "2026-03-31T16:00:00.000Z",
         "broadcast": "R/2026-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "異獸魔都"
+      },
+      {
+        "site": "anibt",
+        "id": "474371"
+      },
+      {
+        "site": "dmhy",
+        "id": "異獸魔都"
       }
     ]
   },
@@ -5058,7 +5710,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/96316"
+        "id": "tv/96316/season/1/episode/49"
       },
       {
         "site": "unext",
@@ -5115,6 +5767,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11ae4b29be5e9e214f32"
+      },
+      {
+        "site": "acgnx",
+        "id": "租借|出租 女友"
+      },
+      {
+        "site": "anibt",
+        "id": "533027"
+      },
+      {
+        "site": "dmhy",
+        "id": "租借|出租 女友"
       }
     ]
   },
@@ -5212,6 +5876,22 @@
         "id": "B0GJLDT2S4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "aniList",
+        "id": "210234"
+      },
+      {
+        "site": "acgnx",
+        "id": "吞噬魔物 冒險者"
+      },
+      {
+        "site": "anibt",
+        "id": "621358"
+      },
+      {
+        "site": "dmhy",
+        "id": "吞噬魔物 冒險者"
       }
     ]
   },
@@ -5287,8 +5967,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfppV3iCQ5hA6KYvNsBYR20q",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-28T08:30:16.000Z",
+        "broadcast": "R/2026-06-28T08:30:16.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -5315,6 +5995,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db119f4b29be5e9e214ed2"
+      },
+      {
+        "site": "acgnx",
+        "id": "杖與劍的魔劍譚"
+      },
+      {
+        "site": "anibt",
+        "id": "515856"
+      },
+      {
+        "site": "dmhy",
+        "id": "杖與劍的魔劍譚"
       }
     ]
   },
@@ -5411,6 +6103,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a04b29be5e9e214ed4"
+      },
+      {
+        "site": "acgnx",
+        "id": "夜櫻家"
+      },
+      {
+        "site": "anibt",
+        "id": "517027"
+      },
+      {
+        "site": "dmhy",
+        "id": "夜櫻家"
       }
     ]
   },
@@ -5513,6 +6217,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a74b29be5e9e214f04"
+      },
+      {
+        "site": "acgnx",
+        "id": "實力至上"
+      },
+      {
+        "site": "anibt",
+        "id": "510710"
+      },
+      {
+        "site": "dmhy",
+        "id": "實力至上"
       }
     ]
   },
@@ -5611,6 +6327,22 @@
       {
         "site": "bangumi_moe",
         "id": "69db11aa4b29be5e9e214f16"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/86031/season/4/episode/25"
+      },
+      {
+        "site": "acgnx",
+        "id": "dr stone"
+      },
+      {
+        "site": "anibt",
+        "id": "508004"
+      },
+      {
+        "site": "dmhy",
+        "id": "dr stone"
       }
     ]
   },
@@ -5621,8 +6353,8 @@
         "Re：从零开始的异世界生活 第四季 丧失篇"
       ],
       "zh-Hant": [
-        "Re：從零開始的異世界生活 第四季",
-        "Re:從零開始的異世界生活 第四季"
+        "Re：從零開始的異世界生活 第四季 喪失篇",
+        "Re:從零開始的異世界生活 第四季 喪失篇"
       ]
     },
     "type": "tv",
@@ -5651,7 +6383,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/65942"
+        "id": "tv/65942/season/1/episode/67"
       },
       {
         "site": "gamer",
@@ -5714,6 +6446,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a84b29be5e9e214f06"
+      },
+      {
+        "site": "acgnx",
+        "id": "從零 開始 異世界 喪失"
+      },
+      {
+        "site": "anibt",
+        "id": "547888"
+      },
+      {
+        "site": "dmhy",
+        "id": "從零 開始 異世界 喪失"
       }
     ]
   },
@@ -5810,6 +6554,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11ad4b29be5e9e214f2a"
+      },
+      {
+        "site": "acgnx",
+        "id": "轉生 史萊姆"
+      },
+      {
+        "site": "anibt",
+        "id": "515594"
+      },
+      {
+        "site": "dmhy",
+        "id": "轉生 史萊姆"
       }
     ]
   },
@@ -5821,7 +6577,7 @@
         "小书痴的下克上 〜为了成为图书管理员而不择手段〜 第四季"
       ],
       "zh-Hant": [
-        "小書痴的下剋上  為了成為圖書管理員不擇手段！領主的養女"
+        "小書痴的下剋上 為了成為圖書管理員不擇手段！領主的養女"
       ]
     },
     "type": "tv",
@@ -5901,6 +6657,24 @@
       {
         "site": "bangumi_moe",
         "id": "69db11af4b29be5e9e214f38"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHWTR9M7kaMxq0qz-dlPJ_tS",
+        "begin": "2026-07-01T11:30:06.000Z",
+        "broadcast": "R/2026-07-01T11:30:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "書痴|书痴 下克上"
+      },
+      {
+        "site": "anibt",
+        "id": "469104"
+      },
+      {
+        "site": "dmhy",
+        "id": "書痴|书痴 下克上"
       }
     ]
   },
@@ -5990,6 +6764,30 @@
         "id": "B0GTVGFF52",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "aniList",
+        "id": "210375"
+      },
+      {
+        "site": "anidb",
+        "id": "19994"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/313395"
+      },
+      {
+        "site": "acgnx",
+        "id": "大賢者 里德爾 逆行"
+      },
+      {
+        "site": "anibt",
+        "id": "625971"
+      },
+      {
+        "site": "dmhy",
+        "id": "大賢者 里德爾 逆行"
       }
     ]
   },
@@ -6077,6 +6875,26 @@
         "id": "B0GVH7TSMB",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "20000"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/318478"
+      },
+      {
+        "site": "acgnx",
+        "id": "百鬼夜行抄"
+      },
+      {
+        "site": "anibt",
+        "id": "627137"
+      },
+      {
+        "site": "dmhy",
+        "id": "百鬼夜行抄"
       }
     ]
   },
@@ -6125,8 +6943,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UchUEpjQsMY9Z37u_pOoUsut",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-10T16:00:06.000Z",
+        "broadcast": "R/2026-06-10T16:00:06.000Z/P7D"
       },
       {
         "site": "abema",
@@ -6159,6 +6977,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a94b29be5e9e214f0c"
+      },
+      {
+        "site": "anidb",
+        "id": "20012"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/312383"
+      },
+      {
+        "site": "anibt",
+        "id": "621449"
       }
     ]
   },
@@ -6239,6 +7069,22 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a24b29be5e9e214ee2"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/315816"
+      },
+      {
+        "site": "acgnx",
+        "id": "茉莉花醬 好感度 崩壞"
+      },
+      {
+        "site": "anibt",
+        "id": "609183"
+      },
+      {
+        "site": "dmhy",
+        "id": "茉莉花醬 好感度 崩壞"
       }
     ]
   },
@@ -6302,6 +7148,30 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a24b29be5e9e214ee4"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/316715"
+      },
+      {
+        "site": "aniList",
+        "id": "204319"
+      },
+      {
+        "site": "anidb",
+        "id": "19901"
+      },
+      {
+        "site": "acgnx",
+        "id": "高大 女孩 喜歡"
+      },
+      {
+        "site": "anibt",
+        "id": "616453"
+      },
+      {
+        "site": "dmhy",
+        "id": "高大 女孩 喜歡"
       }
     ]
   },
@@ -6365,6 +7235,10 @@
       {
         "site": "tmdb",
         "id": "tv/317727"
+      },
+      {
+        "site": "anibt",
+        "id": "282118"
       }
     ]
   },
@@ -6445,8 +7319,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrv1a0ONSsJd8hM-_HElQf5",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-13T01:00:06.000Z",
+        "broadcast": "R/2026-06-13T01:00:06.000Z/P7D"
       },
       {
         "site": "abema",
@@ -6471,6 +7345,18 @@
       {
         "site": "tmdb",
         "id": "tv/299144"
+      },
+      {
+        "site": "acgnx",
+        "id": "輕鬆熊"
+      },
+      {
+        "site": "anibt",
+        "id": "520633"
+      },
+      {
+        "site": "dmhy",
+        "id": "輕鬆熊"
       }
     ]
   },
@@ -6512,6 +7398,10 @@
       {
         "site": "bangumi_moe",
         "id": "69db119f4b29be5e9e214ecc"
+      },
+      {
+        "site": "anibt",
+        "id": "532772"
       }
     ]
   },
@@ -6533,6 +7423,10 @@
       {
         "site": "bangumi",
         "id": "607043"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/319455"
       },
       {
         "site": "danime",
@@ -6561,6 +7455,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db119e4b29be5e9e214eca"
+      },
+      {
+        "site": "acgnx",
+        "id": "小3阿貝"
+      },
+      {
+        "site": "anibt",
+        "id": "607043"
+      },
+      {
+        "site": "dmhy",
+        "id": "小3阿貝"
       }
     ]
   },
@@ -6629,6 +7535,14 @@
       {
         "site": "aniList",
         "id": "21"
+      },
+      {
+        "site": "mikan",
+        "id": "3977"
+      },
+      {
+        "site": "anibt",
+        "id": "602059"
       }
     ]
   },
@@ -6676,6 +7590,10 @@
       {
         "site": "mikan",
         "id": "3968"
+      },
+      {
+        "site": "anibt",
+        "id": "454438"
       }
     ]
   },
@@ -6721,6 +7639,14 @@
       {
         "site": "anidb",
         "id": "19912"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/316973"
+      },
+      {
+        "site": "anibt",
+        "id": "631963"
       }
     ]
   },
@@ -6760,6 +7686,22 @@
         "id": "SID0282796",
         "begin": "2026-04-13T09:00:00.000Z",
         "broadcast": "R/2026-04-13T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "50404"
+      },
+      {
+        "site": "anidb",
+        "id": "17125"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/98123/season/3"
+      },
+      {
+        "site": "aniList",
+        "id": "141852"
       }
     ]
   },
@@ -6805,8 +7747,8 @@
       {
         "site": "gamer",
         "id": "146564",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-30T13:00:00.000Z",
+        "broadcast": "R/2026-04-30T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -6835,6 +7777,22 @@
       {
         "site": "mikan",
         "id": "3969"
+      },
+      {
+        "site": "aniList",
+        "id": "196840"
+      },
+      {
+        "site": "anidb",
+        "id": "19508"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80867/season/3"
+      },
+      {
+        "site": "anibt",
+        "id": "575559"
       }
     ]
   },
@@ -6859,10 +7817,12 @@
         "id": "544628"
       },
       {
-        "site": "unext",
-        "id": "SID0261890",
-        "begin": "2026-05-14T15:00:00.000Z",
-        "broadcast": "R/2026-05-14T15:00:00.000Z/P7D"
+        "site": "tmdb",
+        "id": "movie/1649868"
+      },
+      {
+        "site": "anibt",
+        "id": "544628"
       }
     ]
   },
@@ -6874,7 +7834,7 @@
     "officialSite": "https://www.poplar.co.jp/pr/anime-nezumikun/",
     "begin": "2026-04-03T00:00:00.000Z",
     "broadcast": "R/2026-04-03T00:00:00.000Z/P7D",
-    "end": "2026-06-20T00:00:00.000Z",
+    "end": "2026-06-26T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6904,6 +7864,14 @@
       {
         "site": "aniList",
         "id": "198411"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/299962"
+      },
+      {
+        "site": "anibt",
+        "id": "582598"
       }
     ]
   },
@@ -6937,6 +7905,129 @@
       {
         "site": "aniList",
         "id": "204269"
+      },
+      {
+        "site": "mikan",
+        "id": "3978"
+      },
+      {
+        "site": "anibt",
+        "id": "616378"
+      }
+    ]
+  },
+  {
+    "title": "おしりたんてい(第10シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 第十季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2026-04-03T16:00:00.000Z",
+    "broadcast": "R/2026-04-03T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "625355"
+      },
+      {
+        "site": "danime",
+        "id": "28737",
+        "begin": "2026-04-09T03:00:00.000Z",
+        "broadcast": "R/2026-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/96117/season/1/episode/124"
+      },
+      {
+        "site": "anibt",
+        "id": "625355"
+      }
+    ]
+  },
+  {
+    "title": "KILLTUBE",
+    "titleTranslate": {
+      "en": [
+        "Killtube"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://killtu.be/",
+    "begin": "2026-03-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-03-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "489223"
+      },
+      {
+        "site": "mal",
+        "id": "58756"
+      },
+      {
+        "site": "anidb",
+        "id": "19450"
+      },
+      {
+        "site": "aniList",
+        "id": "176910"
+      },
+      {
+        "site": "anibt",
+        "id": "489223"
+      }
+    ]
+  },
+  {
+    "title": "最終楽章 響け！ユーフォニアム 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终乐章 吹响吧！上低音号 前篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-eupho.com/",
+    "begin": "2026-04-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-04-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "544816"
+      },
+      {
+        "site": "unext",
+        "id": "SID0315530",
+        "begin": "2026-09-04T03:00:00.000Z",
+        "broadcast": "R/2026-09-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-eupho-movie2026",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29201",
+        "begin": "2026-09-04T03:00:00.000Z",
+        "broadcast": "R/2026-09-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "544816"
       }
     ]
   },

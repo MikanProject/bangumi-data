@@ -63,6 +63,38 @@
       {
         "site": "tmdb",
         "id": "tv/20111"
+      },
+      {
+        "site": "mal",
+        "id": "93"
+      },
+      {
+        "site": "anidb",
+        "id": "252"
+      },
+      {
+        "site": "aniList",
+        "id": "93"
+      },
+      {
+        "site": "acgnx",
+        "id": "SEED HD"
+      },
+      {
+        "site": "dmhy",
+        "id": "SEED HD"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "53619",
+        "begin": "2026-09-22T04:00:00.000Z",
+        "broadcast": "R/2026-09-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "53619",
+        "begin": "2026-09-22T04:00:00.000Z",
+        "broadcast": "R/2026-09-22T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -190,6 +222,10 @@
       {
         "site": "aniList",
         "id": "12157"
+      },
+      {
+        "site": "acgnx",
+        "id": "Busou_Chuugakusei"
       }
     ]
   },
@@ -563,7 +599,52 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/30083"
+        "id": "tv/30083/season/1/episode/11"
+      },
+      {
+        "site": "mal",
+        "id": "1521"
+      },
+      {
+        "site": "anidb",
+        "id": "686"
+      },
+      {
+        "site": "aniList",
+        "id": "1521"
+      }
+    ]
+  },
+  {
+    "title": "フレンズ もののけ島のナキ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "朋友:怪物岛的纳基"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-12-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-12-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72268"
+      },
+      {
+        "site": "mal",
+        "id": "10115"
+      },
+      {
+        "site": "anidb",
+        "id": "8174"
+      },
+      {
+        "site": "aniList",
+        "id": "10115"
       }
     ]
   }

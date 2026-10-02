@@ -100,12 +100,6 @@
         "broadcast": "R/2016-09-29T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "82121",
-        "begin": "2022-02-11T01:00:00.000Z",
-        "broadcast": "R/2022-02-11T01:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0026756",
         "begin": "2019-11-30T03:00:00.000Z",
@@ -140,6 +134,10 @@
       {
         "site": "aniList",
         "id": "21655"
+      },
+      {
+        "site": "acgnx",
+        "id": "Nyanbo"
       }
     ]
   },
@@ -217,6 +215,10 @@
       {
         "site": "aniList",
         "id": "21820"
+      },
+      {
+        "site": "acgnx",
+        "id": "用怪"
       }
     ]
   },
@@ -399,6 +401,14 @@
       {
         "site": "aniList",
         "id": "21760"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪獸娘"
+      },
+      {
+        "site": "dmhy",
+        "id": "怪獸娘"
       }
     ]
   },
@@ -592,6 +602,10 @@
       {
         "site": "aniList",
         "id": "102093"
+      },
+      {
+        "site": "anidb",
+        "id": "11615"
       }
     ]
   },
@@ -1015,6 +1029,18 @@
       {
         "site": "tmdb",
         "id": "tv/64196/season/0/episode/9"
+      },
+      {
+        "site": "anidb",
+        "id": "12147"
+      },
+      {
+        "site": "mal",
+        "id": "33372"
+      },
+      {
+        "site": "aniList",
+        "id": "87489"
       }
     ]
   },
@@ -1045,6 +1071,18 @@
       {
         "site": "tmdb",
         "id": "movie/452617"
+      },
+      {
+        "site": "mal",
+        "id": "32547"
+      },
+      {
+        "site": "anidb",
+        "id": "12689"
+      },
+      {
+        "site": "aniList",
+        "id": "21585"
       }
     ]
   },
@@ -1091,6 +1129,18 @@
       {
         "site": "tmdb",
         "id": "movie/394326"
+      },
+      {
+        "site": "mal",
+        "id": "33190"
+      },
+      {
+        "site": "anidb",
+        "id": "12058"
+      },
+      {
+        "site": "aniList",
+        "id": "21771"
       }
     ]
   }

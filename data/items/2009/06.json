@@ -239,6 +239,10 @@
       {
         "site": "aniList",
         "id": "7230"
+      },
+      {
+        "site": "anidb",
+        "id": "6791"
       }
     ]
   },
@@ -289,6 +293,10 @@
       {
         "site": "bangumi",
         "id": "70886"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/210061"
       },
       {
         "site": "nicovideo",
@@ -532,6 +540,27 @@
       {
         "site": "aniList",
         "id": "5386"
+      }
+    ]
+  },
+  {
+    "title": "エコファン",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-06-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "333894"
+      },
+      {
+        "site": "anidb",
+        "id": "8599"
       }
     ]
   }

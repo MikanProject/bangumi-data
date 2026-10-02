@@ -125,6 +125,43 @@
         "id": "SID0098516",
         "begin": "2024-02-16T03:00:00.000Z",
         "broadcast": "R/2024-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/280725"
+      }
+    ]
+  },
+  {
+    "title": "北極のムーシカ・ミーシカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小白熊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84098"
+      },
+      {
+        "site": "mal",
+        "id": "7729"
+      },
+      {
+        "site": "anidb",
+        "id": "6229"
+      },
+      {
+        "site": "aniList",
+        "id": "7729"
       }
     ]
   }

@@ -100,6 +100,10 @@
       {
         "site": "aniList",
         "id": "184639"
+      },
+      {
+        "site": "acgnx",
+        "id": "安妮 雪莉"
       }
     ]
   },
@@ -210,6 +214,10 @@
         "id": "140236",
         "begin": "2026-06-18T04:00:00.000Z",
         "broadcast": "R/2026-06-18T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "直至魔女消逝"
       }
     ]
   },
@@ -247,12 +255,6 @@
         "id": "SID0180995",
         "begin": "2025-04-13T13:00:00.000Z",
         "broadcast": "R/2025-04-13T13:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-286",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -311,6 +313,10 @@
       {
         "site": "aniList",
         "id": "177120"
+      },
+      {
+        "site": "acgnx",
+        "id": "忍者 殺手"
       }
     ]
   },
@@ -336,12 +342,6 @@
       {
         "site": "bangumi",
         "id": "526816"
-      },
-      {
-        "site": "abema",
-        "id": "13-197",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -406,6 +406,10 @@
       {
         "site": "aniList",
         "id": "185213"
+      },
+      {
+        "site": "acgnx",
+        "id": "機動戰士高達 GQuuuuuuX"
       }
     ]
   },
@@ -512,7 +516,7 @@
       },
       {
         "site": "dmhy",
-        "id": "史莱姆 练到"
+        "id": "史萊姆 不知不覺"
       },
       {
         "site": "tmdb",
@@ -529,6 +533,10 @@
       {
         "site": "aniList",
         "id": "143337"
+      },
+      {
+        "site": "acgnx",
+        "id": "史萊姆 不知不覺"
       }
     ]
   },
@@ -594,8 +602,8 @@
       {
         "site": "netflix",
         "id": "81991687",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-26T16:00:00.000Z",
+        "broadcast": "R/2025-04-26T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -660,6 +668,10 @@
       {
         "site": "aniList",
         "id": "180367"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔女與使魔"
       }
     ]
   },
@@ -699,18 +711,6 @@
         "id": "141273",
         "begin": "2025-04-06T14:30:00.000Z",
         "broadcast": "R/2025-04-06T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0181257",
-        "begin": "2025-04-06T14:00:00.000Z",
-        "broadcast": "R/2025-04-06T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-200",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -769,6 +769,10 @@
       {
         "site": "aniList",
         "id": "180825"
+      },
+      {
+        "site": "acgnx",
+        "id": "前橋魔女"
       }
     ]
   },
@@ -863,6 +867,10 @@
       {
         "site": "aniList",
         "id": "166371"
+      },
+      {
+        "site": "acgnx",
+        "id": "華Doll"
       }
     ]
   },
@@ -896,12 +904,6 @@
         "id": "SID0181243",
         "begin": "2025-04-07T15:30:00.000Z",
         "broadcast": "R/2025-04-07T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-287",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -938,6 +940,14 @@
       {
         "site": "aniList",
         "id": "158287"
+      },
+      {
+        "site": "acgnx",
+        "id": "COMPASS 戰鬥天賦"
+      },
+      {
+        "site": "dmhy",
+        "id": "COMPASS 戰鬥天賦"
       }
     ]
   },
@@ -1019,6 +1029,10 @@
         "id": "11-81",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "鄉下 劍聖"
       }
     ]
   },
@@ -1124,8 +1138,8 @@
       {
         "site": "netflix",
         "id": "82033328",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T16:00:00.000Z",
+        "broadcast": "R/2026-01-08T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -1138,6 +1152,10 @@
       {
         "site": "aniList",
         "id": "183274"
+      },
+      {
+        "site": "acgnx",
+        "id": "星際國家 惡德領主"
       }
     ]
   },
@@ -1201,8 +1219,8 @@
       {
         "site": "netflix",
         "id": "82025664",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-02T16:00:00.000Z",
+        "broadcast": "R/2025-04-02T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1261,6 +1279,10 @@
       {
         "site": "aniList",
         "id": "175872"
+      },
+      {
+        "site": "acgnx",
+        "id": "天才 治療|治疗"
       }
     ]
   },
@@ -1362,6 +1384,10 @@
       {
         "site": "aniList",
         "id": "185070"
+      },
+      {
+        "site": "acgnx",
+        "id": "外星人姆姆"
       }
     ]
   },
@@ -1447,6 +1473,14 @@
       {
         "site": "aniList",
         "id": "178046"
+      },
+      {
+        "site": "acgnx",
+        "id": "罪惡裝備 奮戰:"
+      },
+      {
+        "site": "dmhy",
+        "id": "罪惡裝備 奮戰:"
       }
     ]
   },
@@ -1532,6 +1566,10 @@
       {
         "site": "aniList",
         "id": "178052"
+      },
+      {
+        "site": "acgnx",
+        "id": "公主 管弦 樂團"
       }
     ]
   },
@@ -1608,6 +1646,14 @@
       {
         "site": "aniList",
         "id": "184470"
+      },
+      {
+        "site": "acgnx",
+        "id": "祕密 偶像 公主"
+      },
+      {
+        "site": "dmhy",
+        "id": "祕密 偶像 公主"
       }
     ]
   },
@@ -1703,6 +1749,10 @@
       {
         "site": "aniList",
         "id": "165445"
+      },
+      {
+        "site": "acgnx",
+        "id": "隨興旅"
       }
     ]
   },
@@ -1805,6 +1855,10 @@
       {
         "site": "aniList",
         "id": "143200"
+      },
+      {
+        "site": "acgnx",
+        "id": "夏日|Summer Pockets|口袋"
       }
     ]
   },
@@ -1902,6 +1956,10 @@
       {
         "site": "aniList",
         "id": "180675"
+      },
+      {
+        "site": "acgnx",
+        "id": "末日後|天啓 酒店|飯店"
       }
     ]
   },
@@ -1945,12 +2003,6 @@
         "id": "SID0176343",
         "begin": "2025-04-07T17:30:00.000Z",
         "broadcast": "R/2025-04-07T17:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "189-80",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2013,8 +2065,8 @@
       {
         "site": "netflix",
         "id": "82040423",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-12-19T00:00:00.000Z",
+        "broadcast": "R/2025-12-19T00:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2027,6 +2079,10 @@
       {
         "site": "aniList",
         "id": "182419"
+      },
+      {
+        "site": "acgnx",
+        "id": "中禪寺老師"
       }
     ]
   },
@@ -2139,8 +2195,16 @@
       {
         "site": "netflix",
         "id": "82082135",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-11-30T00:00:00.000Z",
+        "broadcast": "R/2025-11-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "男女 友情 存在"
+      },
+      {
+        "site": "dmhy",
+        "id": "男女 友情 存在"
       }
     ]
   },
@@ -2170,12 +2234,6 @@
       {
         "site": "nicovideo",
         "id": "takaminesan",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "54-104",
         "begin": "",
         "broadcast": ""
       },
@@ -2231,6 +2289,10 @@
       {
         "site": "aniList",
         "id": "179965"
+      },
+      {
+        "site": "acgnx",
+        "id": "鷹峰同學"
       }
     ]
   },
@@ -2288,8 +2350,8 @@
       {
         "site": "netflix",
         "id": "82030222",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-31T16:00:00.000Z",
+        "broadcast": "R/2025-05-31T16:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2321,7 +2383,7 @@
       },
       {
         "site": "dmhy",
-        "id": "芦毛"
+        "id": "賽馬娘 灰姑娘"
       },
       {
         "site": "tmdb",
@@ -2356,6 +2418,10 @@
         "id": "141058",
         "begin": "2026-04-21T16:00:00.000Z",
         "broadcast": "R/2026-04-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "賽馬娘 灰姑娘"
       }
     ]
   },
@@ -2411,6 +2477,22 @@
       {
         "site": "aniList",
         "id": "184989"
+      },
+      {
+        "site": "unext",
+        "id": "SID0309178",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29109",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "推理 晚餐 後"
       }
     ]
   },
@@ -2458,12 +2540,6 @@
         "id": "SID0181255",
         "begin": "2025-04-03T15:30:00.000Z",
         "broadcast": "R/2025-04-03T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-198",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -2520,8 +2596,8 @@
       {
         "site": "netflix",
         "id": "82040407",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-11-30T00:00:00.000Z",
+        "broadcast": "R/2025-11-30T00:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2534,6 +2610,10 @@
       {
         "site": "aniList",
         "id": "179694"
+      },
+      {
+        "site": "acgnx",
+        "id": "搖滾 淑女"
       }
     ]
   },
@@ -2571,12 +2651,6 @@
         "broadcast": "R/2025-04-08T14:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "420-73",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "kowloongr",
         "begin": "",
@@ -2591,8 +2665,8 @@
       {
         "site": "netflix",
         "id": "82033236",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-04T16:00:00.000Z",
+        "broadcast": "R/2025-04-04T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2657,6 +2731,10 @@
       {
         "site": "aniList",
         "id": "182814"
+      },
+      {
+        "site": "acgnx",
+        "id": "九龍大眾浪漫"
       }
     ]
   },
@@ -2693,12 +2771,6 @@
         "id": "SID0181250",
         "begin": "2025-04-06T15:00:00.000Z",
         "broadcast": "R/2025-04-06T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "54-103",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -2745,6 +2817,10 @@
       {
         "site": "aniList",
         "id": "182060"
+      },
+      {
+        "site": "acgnx",
+        "id": "猩猩之神 大小姐 騎士團"
       }
     ]
   },
@@ -2844,6 +2920,16 @@
       {
         "site": "aniList",
         "id": "183275"
+      },
+      {
+        "site": "netflix",
+        "id": "82085670",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "聖女 廢除 婚約 賣 鄰國"
       }
     ]
   },
@@ -2875,12 +2961,6 @@
         "id": "140343",
         "begin": "2025-04-05T16:00:00.000Z",
         "broadcast": "R/2025-04-05T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-239",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -2933,6 +3013,10 @@
       {
         "site": "aniList",
         "id": "179054"
+      },
+      {
+        "site": "acgnx",
+        "id": "黑執事"
       }
     ]
   },
@@ -3048,6 +3132,10 @@
         "id": "194-16",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "炎炎消防隊"
       }
     ]
   },
@@ -3149,6 +3237,10 @@
       {
         "site": "aniList",
         "id": "179979"
+      },
+      {
+        "site": "acgnx",
+        "id": "阿波連"
       }
     ]
   },
@@ -3237,6 +3329,10 @@
       {
         "site": "aniList",
         "id": "184279"
+      },
+      {
+        "site": "acgnx",
+        "id": "陽光馬達棒球場"
       }
     ]
   },
@@ -3344,8 +3440,8 @@
       {
         "site": "netflix",
         "id": "82033310",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-13T16:00:00.000Z",
+        "broadcast": "R/2025-08-13T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3362,6 +3458,10 @@
       {
         "site": "aniList",
         "id": "174802"
+      },
+      {
+        "site": "acgnx",
+        "id": "紫雲寺家"
       }
     ]
   },
@@ -3433,8 +3533,8 @@
       {
         "site": "netflix",
         "id": "82036784",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-01T16:00:00.000Z",
+        "broadcast": "R/2025-04-01T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -3476,7 +3576,7 @@
       },
       {
         "site": "dmhy",
-        "id": "終末起點|三岁"
+        "id": "終末起點|最强王者"
       },
       {
         "site": "tmdb",
@@ -3493,6 +3593,16 @@
       {
         "site": "aniList",
         "id": "183161"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHUx9_i6EeNjus3ZrQKdLeg6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "終末起點|最强王者"
       }
     ]
   },
@@ -3521,12 +3631,6 @@
       {
         "site": "nicovideo",
         "id": "miru-anime",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "170-75",
         "begin": "",
         "broadcast": ""
       },
@@ -3577,6 +3681,14 @@
       {
         "site": "aniList",
         "id": "166373"
+      },
+      {
+        "site": "acgnx",
+        "id": "MIRU 未來"
+      },
+      {
+        "site": "dmhy",
+        "id": "MIRU 未來"
       }
     ]
   },
@@ -3602,12 +3714,6 @@
       {
         "site": "bangumi",
         "id": "511264"
-      },
-      {
-        "site": "abema",
-        "id": "643-9",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -3670,6 +3776,14 @@
       {
         "site": "aniList",
         "id": "180829"
+      },
+      {
+        "site": "acgnx",
+        "id": "愛 沉重 黑暗精靈 異世界"
+      },
+      {
+        "site": "dmhy",
+        "id": "愛 沉重 黑暗精靈 異世界"
       }
     ]
   },
@@ -3764,6 +3878,10 @@
         "id": "B0GTF1JSKM",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "神統記"
       }
     ]
   },
@@ -3861,8 +3979,8 @@
       {
         "site": "netflix",
         "id": "82036361",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-06T16:00:00.000Z",
+        "broadcast": "R/2025-04-06T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3889,6 +4007,14 @@
       {
         "site": "aniList",
         "id": "185736"
+      },
+      {
+        "site": "acgnx",
+        "id": "英雄学院 非法"
+      },
+      {
+        "site": "dmhy",
+        "id": "英雄学院 非法"
       }
     ]
   },
@@ -3990,6 +4116,10 @@
       {
         "site": "aniList",
         "id": "167142"
+      },
+      {
+        "site": "acgnx",
+        "id": "記憶縫線"
       }
     ]
   },
@@ -4015,12 +4145,6 @@
       {
         "site": "bangumi",
         "id": "493813"
-      },
-      {
-        "site": "abema",
-        "id": "643-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -4082,6 +4206,10 @@
       {
         "site": "aniList",
         "id": "177509"
+      },
+      {
+        "site": "acgnx",
+        "id": "瑪琪娜同學"
       }
     ]
   },
@@ -4176,6 +4304,16 @@
       {
         "site": "aniList",
         "id": "178825"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHXiN702QiwzkVVQDm2yONCW",
+        "begin": "2025-10-11T16:00:06.000Z",
+        "broadcast": "R/2025-10-11T16:00:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "古典樂 之星"
       }
     ]
   },
@@ -4207,12 +4345,6 @@
       {
         "site": "bangumi",
         "id": "531159"
-      },
-      {
-        "site": "abema",
-        "id": "26-243",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -4289,6 +4421,16 @@
         "id": "foodforthesoul_146099",
         "begin": "2026-04-26T06:00:00.000Z",
         "broadcast": "R/2026-04-26T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-243",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "流逝 美味"
       }
     ]
   },
@@ -4331,12 +4473,6 @@
         "id": "SID0180801",
         "begin": "2025-04-06T15:15:00.000Z",
         "broadcast": "R/2025-04-06T15:15:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-241",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -4383,8 +4519,8 @@
       {
         "site": "netflix",
         "id": "81986711",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-13T16:00:00.000Z",
+        "broadcast": "R/2025-08-13T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -4401,6 +4537,10 @@
       {
         "site": "aniList",
         "id": "167336"
+      },
+      {
+        "site": "acgnx",
+        "id": "LAZARUS|拉撒路"
       }
     ]
   },
@@ -4444,6 +4584,14 @@
       {
         "site": "aniList",
         "id": "187998"
+      },
+      {
+        "site": "acgnx",
+        "id": "歡迎 魔法少女村"
+      },
+      {
+        "site": "dmhy",
+        "id": "歡迎 魔法少女村"
       }
     ]
   },
@@ -4471,12 +4619,6 @@
         "id": "SID0181240",
         "begin": "2025-04-03T16:00:00.000Z",
         "broadcast": "R/2025-04-03T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "415-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -4513,6 +4655,14 @@
       {
         "site": "aniList",
         "id": "186522"
+      },
+      {
+        "site": "acgnx",
+        "id": "小浣熊"
+      },
+      {
+        "site": "dmhy",
+        "id": "小浣熊"
       }
     ]
   },
@@ -4602,6 +4752,10 @@
       {
         "site": "aniList",
         "id": "185259"
+      },
+      {
+        "site": "acgnx",
+        "id": "搞笑 日和 GO"
       }
     ]
   },
@@ -4708,6 +4862,10 @@
       {
         "site": "aniList",
         "id": "176246"
+      },
+      {
+        "site": "acgnx",
+        "id": "mono 女孩"
       }
     ]
   },
@@ -4748,6 +4906,14 @@
         "id": "SID0274750",
         "begin": "2026-03-01T03:00:00.000Z",
         "broadcast": "R/2026-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "小小光之美少女"
+      },
+      {
+        "site": "dmhy",
+        "id": "小小光之美少女"
       }
     ]
   },
@@ -4769,12 +4935,6 @@
       {
         "site": "bangumi",
         "id": "495633"
-      },
-      {
-        "site": "abema",
-        "id": "643-10",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -4813,6 +4973,18 @@
       {
         "site": "mal",
         "id": "58888"
+      },
+      {
+        "site": "aniList",
+        "id": "177678"
+      },
+      {
+        "site": "anidb",
+        "id": "19166"
+      },
+      {
+        "site": "acgnx",
+        "id": "深見君"
       }
     ]
   },
@@ -4838,18 +5010,6 @@
       {
         "site": "nicovideo",
         "id": "koihana-anime",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0181252",
-        "begin": "2025-04-03T03:00:00.000Z",
-        "broadcast": "R/2025-04-03T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-262",
         "begin": "",
         "broadcast": ""
       },
@@ -5019,6 +5179,10 @@
       {
         "site": "aniList",
         "id": "183133"
+      },
+      {
+        "site": "acgnx",
+        "id": "雜活 最強"
       }
     ]
   },
@@ -5122,6 +5286,10 @@
       {
         "site": "aniList",
         "id": "161410"
+      },
+      {
+        "site": "acgnx",
+        "id": "莉可|彼|Lycoris 麗絲|岸花|Recoil"
       }
     ]
   },
@@ -5180,8 +5348,8 @@
       {
         "site": "netflix",
         "id": "82030192",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-14T16:00:00.000Z",
+        "broadcast": "R/2025-08-14T16:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -5248,6 +5416,10 @@
       {
         "site": "aniList",
         "id": "177476"
+      },
+      {
+        "site": "acgnx",
+        "id": "真 武士傳"
       }
     ]
   },
@@ -5272,12 +5444,6 @@
       {
         "site": "bangumi",
         "id": "544872"
-      },
-      {
-        "site": "abema",
-        "id": "622-5",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -5456,12 +5622,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "26-219",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "disneyplus",
         "id": "18Gmg8yEPTIG",
         "begin": "",
@@ -5473,7 +5633,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/223500"
+        "id": "tv/223500/season/1/episode/14"
       },
       {
         "site": "mal",
@@ -5486,6 +5646,10 @@
       {
         "site": "aniList",
         "id": "178680"
+      },
+      {
+        "site": "acgnx",
+        "id": "WIND BREAKER"
       }
     ]
   },
@@ -5558,6 +5722,10 @@
       {
         "site": "aniList",
         "id": "185646"
+      },
+      {
+        "site": "acgnx",
+        "id": "正能量企鵝"
       }
     ]
   },
@@ -5595,12 +5763,6 @@
         "id": "3641"
       },
       {
-        "site": "abema",
-        "id": "202-2",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "crunchyroll",
         "id": "G4PH0WJXN",
         "begin": "2025-04-07T14:30:00.000Z",
@@ -5612,7 +5774,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/214587"
+        "id": "tv/214587/season/1/episode/11"
       },
       {
         "site": "mal",
@@ -5625,6 +5787,10 @@
       {
         "site": "aniList",
         "id": "181078"
+      },
+      {
+        "site": "acgnx",
+        "id": "再見 地球"
       }
     ]
   },
@@ -5655,7 +5821,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/96117"
+        "id": "tv/96117/season/1/episode/109"
       },
       {
         "site": "mal",
@@ -5664,6 +5830,10 @@
       {
         "site": "aniList",
         "id": "185645"
+      },
+      {
+        "site": "anidb",
+        "id": "15084"
       }
     ]
   },
@@ -5712,7 +5882,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/215799"
+        "id": "tv/215799/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -5725,6 +5895,10 @@
       {
         "site": "aniList",
         "id": "178781"
+      },
+      {
+        "site": "acgnx",
+        "id": "戰隊大失格"
       }
     ]
   },
@@ -5797,7 +5971,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/243501"
+        "id": "tv/243501/season/1/episode/11"
       },
       {
         "site": "mal",
@@ -5810,6 +5984,10 @@
       {
         "site": "aniList",
         "id": "181182"
+      },
+      {
+        "site": "acgnx",
+        "id": "小市民"
       }
     ]
   },
@@ -5920,6 +6098,10 @@
       {
         "site": "aniList",
         "id": "184289"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪獸世界征服"
       }
     ]
   },
@@ -6018,8 +6200,12 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7Uch6-sihzj4XL4c-ROuEbj4z",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-05-20T13:00:06.000Z",
+        "broadcast": "R/2026-05-20T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "每日男公關|Everyday Host"
       }
     ]
   },
@@ -6142,6 +6328,14 @@
       {
         "site": "aniList",
         "id": "186313"
+      },
+      {
+        "site": "acgnx",
+        "id": "嗚莓貓貓"
+      },
+      {
+        "site": "dmhy",
+        "id": "嗚莓貓貓"
       }
     ]
   },
@@ -6249,8 +6443,8 @@
       {
         "site": "netflix",
         "id": "81251383",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-09T16:00:00.000Z",
+        "broadcast": "R/2025-04-09T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -6311,7 +6505,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/246676"
+        "id": "tv/246676/season/1/episode/26"
       },
       {
         "site": "mal",
@@ -6324,6 +6518,10 @@
       {
         "site": "anidb",
         "id": "19274"
+      },
+      {
+        "site": "acgnx",
+        "id": "SHIBUYA HACHI"
       }
     ]
   },
@@ -6503,6 +6701,16 @@
         "id": "SID0277201",
         "begin": "2026-02-28T15:00:00.000Z",
         "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHUrr_w6i95x1ymrJwJOV2IH",
+        "begin": "2025-12-03T11:00:07.000Z",
+        "broadcast": "R/2025-12-03T11:00:07.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "白豚貴族 前世"
       }
     ]
   },
@@ -6544,6 +6752,10 @@
       {
         "site": "anidb",
         "id": "19320"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/310069"
       }
     ]
   },
@@ -6565,12 +6777,6 @@
       {
         "site": "bangumi",
         "id": "547832"
-      },
-      {
-        "site": "abema",
-        "id": "740-1",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -6759,6 +6965,10 @@
       {
         "site": "aniList",
         "id": "193413"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/309067"
       }
     ]
   },
@@ -6897,6 +7107,10 @@
         "id": "19-288",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1170180"
       }
     ]
   }

@@ -73,6 +73,14 @@
       {
         "site": "anidb",
         "id": "508"
+      },
+      {
+        "site": "acgnx",
+        "id": "足球小將"
+      },
+      {
+        "site": "dmhy",
+        "id": "足球小將"
       }
     ]
   },
@@ -145,6 +153,12 @@
       {
         "site": "aniList",
         "id": "135"
+      },
+      {
+        "site": "abema",
+        "id": "15-35",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -720,6 +734,18 @@
       {
         "site": "tmdb",
         "id": "tv/37561"
+      },
+      {
+        "site": "mal",
+        "id": "1156"
+      },
+      {
+        "site": "anidb",
+        "id": "374"
+      },
+      {
+        "site": "aniList",
+        "id": "1156"
       }
     ]
   },
@@ -851,6 +877,18 @@
       {
         "site": "tmdb",
         "id": "tv/11316"
+      },
+      {
+        "site": "mal",
+        "id": "1157"
+      },
+      {
+        "site": "anidb",
+        "id": "156"
+      },
+      {
+        "site": "aniList",
+        "id": "1157"
       }
     ]
   },
@@ -1028,6 +1066,46 @@
       {
         "site": "anidb",
         "id": "7851"
+      }
+    ]
+  },
+  {
+    "title": "シャム猫 -ファーストミッション-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暹罗猫 第一次任务"
+      ],
+      "en": [
+        "The Siamese: First Mission"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-10-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-10-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89711"
+      },
+      {
+        "site": "mal",
+        "id": "15399"
+      },
+      {
+        "site": "anidb",
+        "id": "5539"
+      },
+      {
+        "site": "aniList",
+        "id": "15399"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1083837"
       }
     ]
   }

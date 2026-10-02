@@ -187,6 +187,14 @@
       {
         "site": "aniList",
         "id": "112625"
+      },
+      {
+        "site": "acgnx",
+        "id": "齊木"
+      },
+      {
+        "site": "dmhy",
+        "id": "齊木"
       }
     ]
   },
@@ -338,6 +346,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我们的七日战争"
+      ],
+      "en": [
+        "Seven Days War"
       ]
     },
     "type": "movie",
@@ -388,6 +399,12 @@
       {
         "site": "aniList",
         "id": "101610"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G9VHN9DGZ",
+        "begin": "2021-12-02T09:00:00.000Z",
+        "broadcast": "R/2021-12-02T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -462,13 +479,6 @@
         "id": "movie/592350"
       },
       {
-        "site": "disneyplus",
-        "id": "15l4bFidgjsT",
-        "url": "https://www.disneyplus.com/movies/my-hero-academia-the-movie-heroes-rising/15l4bFidgjsT",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "39565"
       },
@@ -483,8 +493,8 @@
       {
         "site": "crunchyroll",
         "id": "GMTE00094107",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2019-12-20T00:00:00.000Z",
+        "broadcast": "R/2019-12-20T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -533,6 +543,12 @@
       {
         "site": "aniList",
         "id": "110131"
+      },
+      {
+        "site": "danime",
+        "id": "29129",
+        "begin": "2026-07-10T15:00:00.000Z",
+        "broadcast": "R/2026-07-10T15:00:00.000Z/P7D"
       }
     ]
   },

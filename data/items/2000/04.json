@@ -165,6 +165,20 @@
       {
         "site": "aniList",
         "id": "481"
+      },
+      {
+        "site": "abema",
+        "id": "203-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "遊戲王"
+      },
+      {
+        "site": "dmhy",
+        "id": "遊戲王"
       }
     ]
   },
@@ -759,6 +773,12 @@
       {
         "site": "aniList",
         "id": "8362"
+      },
+      {
+        "site": "danime",
+        "id": "28943",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -816,8 +836,8 @@
       {
         "site": "netflix",
         "id": "70126872",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-16T16:00:00.000Z",
+        "broadcast": "R/2025-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -869,6 +889,18 @@
       {
         "site": "tmdb",
         "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -1032,6 +1064,14 @@
       {
         "site": "anidb",
         "id": "1619"
+      },
+      {
+        "site": "acgnx",
+        "id": "咕嚕"
+      },
+      {
+        "site": "dmhy",
+        "id": "咕嚕"
       }
     ]
   },
@@ -1197,6 +1237,18 @@
       {
         "site": "tmdb",
         "id": "tv/15130/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "13201"
+      },
+      {
+        "site": "anidb",
+        "id": "4695"
+      },
+      {
+        "site": "aniList",
+        "id": "13201"
       }
     ]
   },
@@ -1306,8 +1358,8 @@
       {
         "site": "tropics",
         "id": "PLoGVqODys23CSjxKrPMoXoTh6a1r3opbu",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-12-12T11:00:06.000Z",
+        "broadcast": "R/2025-12-12T11:00:06.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -1332,6 +1384,10 @@
         "id": "20149",
         "begin": "2025-12-12T04:00:00.000Z",
         "broadcast": "R/2025-12-12T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/202544"
       }
     ]
   }

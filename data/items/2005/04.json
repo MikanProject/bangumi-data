@@ -808,6 +808,12 @@
       {
         "site": "aniList",
         "id": "479"
+      },
+      {
+        "site": "abema",
+        "id": "168-84",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1537,6 +1543,14 @@
         "id": "B0DPSKJJFC",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "doraemon|啦a夢"
+      },
+      {
+        "site": "dmhy",
+        "id": "doraemon|啦a夢"
       }
     ]
   },
@@ -1614,6 +1628,18 @@
       {
         "site": "aniList",
         "id": "8365"
+      },
+      {
+        "site": "danime",
+        "id": "28948",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242951",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1671,8 +1697,8 @@
       {
         "site": "netflix",
         "id": "81757585",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-30T16:00:00.000Z",
+        "broadcast": "R/2025-04-30T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1724,6 +1750,18 @@
       {
         "site": "tmdb",
         "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -1764,6 +1802,18 @@
       {
         "site": "tmdb",
         "id": "movie/150421"
+      },
+      {
+        "site": "mal",
+        "id": "1930"
+      },
+      {
+        "site": "anidb",
+        "id": "2764"
+      },
+      {
+        "site": "aniList",
+        "id": "1930"
       }
     ]
   },
@@ -1818,6 +1868,35 @@
       {
         "site": "anidb",
         "id": "2178"
+      }
+    ]
+  },
+  {
+    "title": "緑玉紳士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绿玉绅士"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-04-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-04-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324781"
+      },
+      {
+        "site": "mal",
+        "id": "33078"
+      },
+      {
+        "site": "anidb",
+        "id": "8743"
       }
     ]
   }

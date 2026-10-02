@@ -147,6 +147,18 @@
       {
         "site": "tmdb",
         "id": "movie/519811"
+      },
+      {
+        "site": "mal",
+        "id": "37146"
+      },
+      {
+        "site": "anidb",
+        "id": "12687"
+      },
+      {
+        "site": "aniList",
+        "id": "113136"
       }
     ]
   },
@@ -331,12 +343,6 @@
         "id": "276827"
       },
       {
-        "site": "unext",
-        "id": "SID0057376",
-        "begin": "2025-07-01T03:00:00.000Z",
-        "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
-      },
-      {
         "site": "prime",
         "id": "B0B8SVNXB9",
         "begin": "",
@@ -475,6 +481,10 @@
       {
         "site": "mikan",
         "id": "2089"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/323844"
       }
     ]
   },
@@ -519,6 +529,12 @@
       {
         "site": "aniList",
         "id": "118123"
+      },
+      {
+        "site": "abema",
+        "id": "617-5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

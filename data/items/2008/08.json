@@ -68,6 +68,18 @@
       {
         "site": "tmdb",
         "id": "movie/665580"
+      },
+      {
+        "site": "mal",
+        "id": "8709"
+      },
+      {
+        "site": "anidb",
+        "id": "6803"
+      },
+      {
+        "site": "aniList",
+        "id": "8709"
       }
     ]
   },
@@ -216,6 +228,10 @@
       {
         "site": "tmdb",
         "id": "movie/23155"
+      },
+      {
+        "site": "anidb",
+        "id": "4932"
       }
     ]
   },
@@ -253,6 +269,18 @@
       {
         "site": "tmdb",
         "id": "movie/414131"
+      },
+      {
+        "site": "mal",
+        "id": "4646"
+      },
+      {
+        "site": "anidb",
+        "id": "5894"
+      },
+      {
+        "site": "aniList",
+        "id": "4646"
       }
     ]
   },
@@ -296,6 +324,63 @@
       {
         "site": "aniList",
         "id": "3089"
+      }
+    ]
+  },
+  {
+    "title": "DEATH NOTE リライト2 Lを継ぐ者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "死亡笔记特别篇 L的继承者",
+        "L的继承者"
+      ],
+      "zh-Hant": [
+        "死亡筆記本 RELIGHT 2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://jump.shueisha.co.jp/deathnote/",
+    "begin": "2008-08-21T16:00:00.000Z",
+    "broadcast": "R/2008-08-21T16:00:00.000Z/P7D",
+    "end": "2008-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35990"
+      },
+      {
+        "site": "gamer",
+        "id": "152938",
+        "begin": "2026-07-17T03:00:00.000Z",
+        "broadcast": "R/2026-07-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "152938",
+        "begin": "2026-07-17T03:00:00.000Z",
+        "broadcast": "R/2026-07-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLV5rEetU1rSM",
+        "begin": "2026-07-17T13:00:06.000Z",
+        "broadcast": "R/2026-07-17T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012115",
+        "begin": "2016-09-22T03:00:00.000Z",
+        "broadcast": "R/2016-09-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/68555"
+      },
+      {
+        "site": "anidb",
+        "id": "8147"
       }
     ]
   }

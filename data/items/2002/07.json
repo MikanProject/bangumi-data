@@ -400,12 +400,6 @@
       {
         "site": "aniList",
         "id": "1120"
-      },
-      {
-        "site": "abema",
-        "id": "746-5",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -639,6 +633,18 @@
       {
         "site": "tmdb",
         "id": "tv/26563"
+      },
+      {
+        "site": "mal",
+        "id": "382"
+      },
+      {
+        "site": "anidb",
+        "id": "242"
+      },
+      {
+        "site": "aniList",
+        "id": "382"
       }
     ]
   },

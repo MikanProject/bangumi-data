@@ -718,6 +718,12 @@
       {
         "site": "aniList",
         "id": "1887"
+      },
+      {
+        "site": "abema",
+        "id": "25-14ctrgpbhdrg",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2089,6 +2095,14 @@
       {
         "site": "aniList",
         "id": "2165"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼太郎"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼太郎"
       }
     ]
   },
@@ -2131,6 +2145,14 @@
       {
         "site": "aniList",
         "id": "2156"
+      },
+      {
+        "site": "acgnx",
+        "id": "爆丸"
+      },
+      {
+        "site": "dmhy",
+        "id": "爆丸"
       }
     ]
   },
@@ -2341,6 +2363,18 @@
       {
         "site": "aniList",
         "id": "2172"
+      },
+      {
+        "site": "danime",
+        "id": "28950",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242861",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2397,8 +2431,8 @@
       {
         "site": "netflix",
         "id": "81757588",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-14T16:00:00.000Z",
+        "broadcast": "R/2025-05-14T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -2450,6 +2484,18 @@
       {
         "site": "tmdb",
         "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -2871,6 +2917,43 @@
       {
         "site": "tmdb",
         "id": "tv/46392/season/3"
+      }
+    ]
+  },
+  {
+    "title": "ふろさと-JAPAN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "故乡之歌"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.furusatojapan.com/",
+    "begin": "2007-04-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-04-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139377"
+      },
+      {
+        "site": "mal",
+        "id": "3367"
+      },
+      {
+        "site": "anidb",
+        "id": "4588"
+      },
+      {
+        "site": "aniList",
+        "id": "3367"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/55555"
       }
     ]
   }

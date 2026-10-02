@@ -296,13 +296,6 @@
         "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "7HNquVo5J8Da",
-        "url": "https://www.disneyplus.com/movies/rascal-does-not-dream-of-a-knapsack-kid/7HNquVo5J8Da",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/1086591"
       },
@@ -485,13 +478,6 @@
         "broadcast": "R/2025-01-31T01:50:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "1TZ98y184xnK",
-        "url": "https://www.disneyplus.com/movies/spy-x-family-code-white/1TZ98y184xnK",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "netflix",
         "id": "81924850",
         "begin": "2024-12-21T00:00:00.000Z",
@@ -608,6 +594,31 @@
         "id": "27253",
         "begin": "2024-08-11T15:00:00.000Z",
         "broadcast": "R/2024-08-11T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "死が美しいなんて誰が言った",
+    "titleTranslate": {
+      "zh-Hans": [
+        "谁说死亡是美好的"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "500050"
+      },
+      {
+        "site": "mal",
+        "id": "57500"
       }
     ]
   }

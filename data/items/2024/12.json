@@ -26,7 +26,27 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/199928"
+        "id": "tv/199928/season/1/episode/61"
+      },
+      {
+        "site": "mal",
+        "id": "58199"
+      },
+      {
+        "site": "anidb",
+        "id": "18504"
+      },
+      {
+        "site": "aniList",
+        "id": "148042"
+      },
+      {
+        "site": "acgnx",
+        "id": "養貓 新手"
+      },
+      {
+        "site": "dmhy",
+        "id": "養貓 新手"
       }
     ]
   },
@@ -71,6 +91,14 @@
       {
         "site": "aniList",
         "id": "136880"
+      },
+      {
+        "site": "acgnx",
+        "id": "BEASTARS"
+      },
+      {
+        "site": "dmhy",
+        "id": "BEASTARS"
       }
     ]
   },
@@ -192,6 +220,14 @@
       {
         "site": "aniList",
         "id": "187507"
+      },
+      {
+        "site": "acgnx",
+        "id": "決鬥大師"
+      },
+      {
+        "site": "dmhy",
+        "id": "決鬥大師"
       }
     ]
   },
@@ -235,6 +271,22 @@
       {
         "site": "aniList",
         "id": "175138"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nintama-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29174",
+        "begin": "2026-08-12T15:00:00.000Z",
+        "broadcast": "R/2026-08-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3651"
       }
     ]
   },
@@ -329,6 +381,12 @@
       {
         "site": "aniList",
         "id": "180804"
+      },
+      {
+        "site": "abema",
+        "id": "19-274",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -372,6 +430,12 @@
       {
         "site": "aniList",
         "id": "180806"
+      },
+      {
+        "site": "abema",
+        "id": "19-274",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -433,6 +497,12 @@
         "id": "B0GKCDM9C3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GP5HJ8E81",
+        "begin": "2021-04-30T00:00:00.000Z",
+        "broadcast": "R/2021-04-30T00:00:00.000Z/P7D"
       }
     ]
   }

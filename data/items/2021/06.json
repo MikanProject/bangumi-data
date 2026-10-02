@@ -65,6 +65,14 @@
       {
         "site": "aniList",
         "id": "127399"
+      },
+      {
+        "site": "acgnx",
+        "id": "終末 女武神"
+      },
+      {
+        "site": "dmhy",
+        "id": "終末 女武神"
       }
     ]
   },
@@ -136,13 +144,6 @@
         "id": "28563",
         "begin": "2025-12-25T15:00:00.000Z",
         "broadcast": "R/2025-12-25T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "7M6cL24WvNeM",
-        "url": "https://www.disneyplus.com/movies/mobile-suit-gundam-hathaway/7M6cL24WvNeM",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",
@@ -271,12 +272,6 @@
       {
         "site": "aniList",
         "id": "123645"
-      },
-      {
-        "site": "gamer",
-        "id": "113491",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -361,6 +356,12 @@
       {
         "site": "aniList",
         "id": "99900"
+      },
+      {
+        "site": "abema",
+        "id": "25-326",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -754,6 +755,12 @@
       {
         "site": "aniList",
         "id": "135866"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR9P57W96",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -822,12 +829,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "gamer",
-        "id": "111351",
-        "begin": "2022-08-05T04:50:00.000Z",
-        "broadcast": "R/2022-08-05T04:50:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "movie/691517"
       },
@@ -842,6 +843,10 @@
       {
         "site": "anidb",
         "id": "15352"
+      },
+      {
+        "site": "bangumi",
+        "id": "480719"
       }
     ]
   },
@@ -933,6 +938,33 @@
       {
         "site": "aniList",
         "id": "127958"
+      }
+    ]
+  },
+  {
+    "title": "トゥルーノース",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.true-north.jp",
+    "begin": "2021-06-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349071"
+      },
+      {
+        "site": "mal",
+        "id": "53118"
+      },
+      {
+        "site": "unext",
+        "id": "SID0062874",
+        "begin": "2021-11-10T03:00:00.000Z",
+        "broadcast": "R/2021-11-10T03:00:00.000Z/P7D"
       }
     ]
   }

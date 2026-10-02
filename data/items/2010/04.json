@@ -62,6 +62,10 @@
       {
         "site": "aniList",
         "id": "7655"
+      },
+      {
+        "site": "acgnx",
+        "id": "棒球大聯盟"
       }
     ]
   },
@@ -206,6 +210,10 @@
       {
         "site": "aniList",
         "id": "7791"
+      },
+      {
+        "site": "acgnx",
+        "id": "K-ON"
       }
     ]
   },
@@ -323,6 +331,10 @@
       {
         "site": "aniList",
         "id": "6956"
+      },
+      {
+        "site": "acgnx",
+        "id": "working|糊餐"
       }
     ]
   },
@@ -552,6 +564,10 @@
       {
         "site": "aniList",
         "id": "7054"
+      },
+      {
+        "site": "acgnx",
+        "id": "會長是女僕"
       }
     ]
   },
@@ -662,6 +678,10 @@
       {
         "site": "aniList",
         "id": "7661"
+      },
+      {
+        "site": "acgnx",
+        "id": "逆轉監督"
       }
     ]
   },
@@ -864,6 +884,14 @@
       {
         "site": "aniList",
         "id": "6895"
+      },
+      {
+        "site": "acgnx",
+        "id": "薄 鬼"
+      },
+      {
+        "site": "dmhy",
+        "id": "薄 鬼"
       }
     ]
   },
@@ -1048,6 +1076,10 @@
       {
         "site": "aniList",
         "id": "8217"
+      },
+      {
+        "site": "acgnx",
+        "id": "寶石寵物Tinkle"
       }
     ]
   },
@@ -1116,6 +1148,10 @@
       {
         "site": "aniList",
         "id": "7058"
+      },
+      {
+        "site": "acgnx",
+        "id": "背叛|裏僕"
       }
     ]
   },
@@ -1173,6 +1209,10 @@
       {
         "site": "aniList",
         "id": "4334"
+      },
+      {
+        "site": "acgnx",
+        "id": "heroman"
       }
     ]
   },
@@ -1213,6 +1253,10 @@
       {
         "site": "aniList",
         "id": "8206"
+      },
+      {
+        "site": "acgnx",
+        "id": "偶像公主"
       }
     ]
   },
@@ -1251,6 +1295,14 @@
       {
         "site": "tmdb",
         "id": "tv/10548"
+      },
+      {
+        "site": "acgnx",
+        "id": "Transformers"
+      },
+      {
+        "site": "dmhy",
+        "id": "Transformers"
       }
     ]
   },
@@ -1344,6 +1396,10 @@
       {
         "site": "aniList",
         "id": "6114"
+      },
+      {
+        "site": "acgnx",
+        "id": "少年犯之七人"
       }
     ]
   },
@@ -1408,6 +1464,10 @@
       {
         "site": "aniList",
         "id": "8287"
+      },
+      {
+        "site": "acgnx",
+        "id": "SD高達 三國傳"
       }
     ]
   },
@@ -1492,12 +1552,6 @@
         "id": "SID0100489",
         "begin": "2024-03-21T15:00:00.000Z",
         "broadcast": "R/2024-03-21T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "415-7",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",
@@ -1701,6 +1755,18 @@
       {
         "site": "aniList",
         "id": "8369"
+      },
+      {
+        "site": "danime",
+        "id": "28953",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242793",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1751,8 +1817,8 @@
       {
         "site": "netflix",
         "id": "81757579",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-30T16:00:00.000Z",
+        "broadcast": "R/2025-04-30T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",

@@ -63,6 +63,10 @@
       {
         "site": "aniList",
         "id": "8675"
+      },
+      {
+        "site": "acgnx",
+        "id": "妄想學生會"
       }
     ]
   },
@@ -129,6 +133,10 @@
       {
         "site": "aniList",
         "id": "7769"
+      },
+      {
+        "site": "acgnx",
+        "id": "大神 七"
       }
     ]
   },
@@ -183,6 +191,14 @@
       {
         "site": "aniList",
         "id": "8676"
+      },
+      {
+        "site": "acgnx",
+        "id": "聖誕之吻|甜蜜吻痕"
+      },
+      {
+        "site": "dmhy",
+        "id": "聖誕之吻|甜蜜吻痕"
       }
     ]
   },
@@ -310,6 +326,10 @@
       {
         "site": "aniList",
         "id": "8086"
+      },
+      {
+        "site": "acgnx",
+        "id": "傳說 勇者"
       }
     ]
   },
@@ -385,6 +405,22 @@
         "id": "29074",
         "begin": "2026-06-25T15:00:00.000Z",
         "broadcast": "R/2026-06-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016169",
+        "begin": "2026-06-26T03:00:00.000Z",
+        "broadcast": "R/2026-06-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "397-31",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "滑頭鬼之孫"
       }
     ]
   },
@@ -448,6 +484,10 @@
       {
         "site": "aniList",
         "id": "6974"
+      },
+      {
+        "site": "acgnx",
+        "id": "世紀末"
       }
     ]
   },
@@ -508,6 +548,10 @@
       {
         "site": "aniList",
         "id": "6166"
+      },
+      {
+        "site": "acgnx",
+        "id": "玩伴貓耳娘"
       }
     ]
   },
@@ -517,6 +561,9 @@
       "zh-Hans": [
         "学园默示录",
         "学园默示录 HIGHSCHOOL OF THE DEAD"
+      ],
+      "zh-Hant": [
+        "學園默示錄"
       ]
     },
     "type": "tv",
@@ -566,6 +613,16 @@
       {
         "site": "aniList",
         "id": "8074"
+      },
+      {
+        "site": "gamer",
+        "id": "34772",
+        "begin": "2026-09-01T02:00:00.000Z",
+        "broadcast": "R/2026-09-01T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "學園默示錄"
       }
     ]
   },
@@ -631,6 +688,10 @@
       {
         "site": "aniList",
         "id": "6634"
+      },
+      {
+        "site": "acgnx",
+        "id": "BASARA"
       }
     ]
   },
@@ -695,6 +756,10 @@
       {
         "site": "aniList",
         "id": "7627"
+      },
+      {
+        "site": "acgnx",
+        "id": "超元氣"
       }
     ]
   },
@@ -759,6 +824,10 @@
       {
         "site": "aniList",
         "id": "6979"
+      },
+      {
+        "site": "acgnx",
+        "id": "祝福 鐘"
       }
     ]
   },
@@ -804,12 +873,6 @@
         "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-13",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "34623",
         "begin": "2020-12-02T08:00:00.000Z",
@@ -846,6 +909,10 @@
       {
         "site": "aniList",
         "id": "6707"
+      },
+      {
+        "site": "acgnx",
+        "id": "黑执事"
       }
     ]
   },
@@ -901,6 +968,10 @@
       {
         "site": "aniList",
         "id": "6381"
+      },
+      {
+        "site": "acgnx",
+        "id": "強襲魔女"
       }
     ]
   },
@@ -952,6 +1023,10 @@
       {
         "site": "aniList",
         "id": "7724"
+      },
+      {
+        "site": "acgnx",
+        "id": "屍鬼"
       }
     ]
   },
@@ -1016,6 +1091,10 @@
       {
         "site": "aniList",
         "id": "8624"
+      },
+      {
+        "site": "acgnx",
+        "id": "數碼 戰爭"
       }
     ]
   },
@@ -1157,6 +1236,12 @@
         "id": "26002",
         "begin": "2025-12-19T15:00:00.000Z",
         "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "746-13",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1461,6 +1546,14 @@
         "id": "171-28",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "8532"
+      },
+      {
+        "site": "aniList",
+        "id": "8532"
       }
     ]
   },
@@ -1765,8 +1858,8 @@
       {
         "site": "netflix",
         "id": "81719808",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-09-17T16:00:00.000Z",
+        "broadcast": "R/2025-09-17T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1828,6 +1921,39 @@
       {
         "site": "aniList",
         "id": "8101"
+      }
+    ]
+  },
+  {
+    "title": "赤毛のアン グリーンゲーブルズへの道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红发少女安妮 通往绿山墙之路"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ghibli-museum.jp/anne/",
+    "begin": "2010-07-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2010-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "115768"
+      },
+      {
+        "site": "mal",
+        "id": "8950"
+      },
+      {
+        "site": "anidb",
+        "id": "7526"
+      },
+      {
+        "site": "aniList",
+        "id": "8950"
       }
     ]
   }

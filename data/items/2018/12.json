@@ -94,6 +94,14 @@
       {
         "site": "aniList",
         "id": "97919"
+      },
+      {
+        "site": "acgnx",
+        "id": "少女翔|Saintia"
+      },
+      {
+        "site": "dmhy",
+        "id": "少女翔|Saintia"
       }
     ]
   },
@@ -154,6 +162,14 @@
       {
         "site": "aniList",
         "id": "104580"
+      },
+      {
+        "site": "acgnx",
+        "id": "齊木"
+      },
+      {
+        "site": "dmhy",
+        "id": "齊木"
       }
     ]
   },
@@ -248,6 +264,10 @@
       {
         "site": "anidb",
         "id": "14135"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/51492/season/0/episode/6"
       }
     ]
   },
@@ -507,7 +527,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/96117"
+        "id": "tv/96117/season/1/episode/9"
       },
       {
         "site": "mal",
@@ -516,6 +536,10 @@
       {
         "site": "aniList",
         "id": "132694"
+      },
+      {
+        "site": "anidb",
+        "id": "15084"
       }
     ]
   },
@@ -546,6 +570,57 @@
         "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
         "begin": "2018-12-30T16:00:00.000Z",
         "broadcast": "R/2018-12-30T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アグレッシブ烈子: We Wish You A Metal Christmas",
+    "titleTranslate": {
+      "zh-Hans": [
+        "职场小烈：重金属圣诞快乐",
+        "职场小烈 圣诞特辑",
+        "冲吧烈子：金属圣诞"
+      ],
+      "zh-Hant": [
+        "衝吧烈子：We Wish You a Metal Christmas"
+      ],
+      "en": [
+        "Aggretsuko: We Wish You a Metal Christmas"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "336357"
+      },
+      {
+        "site": "netflix",
+        "id": "81008536",
+        "begin": "2018-12-20T00:00:00.000Z",
+        "broadcast": "R/2018-12-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "38815"
+      },
+      {
+        "site": "aniList",
+        "id": "106494"
+      },
+      {
+        "site": "anidb",
+        "id": "14531"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/78941/season/0"
       }
     ]
   }

@@ -263,16 +263,16 @@
         "id": "1565"
       },
       {
-        "site": "abema",
-        "id": "2-27",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "28703",
         "begin": "2026-04-30T15:00:00.000Z",
         "broadcast": "R/2026-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-27",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -352,6 +352,18 @@
       {
         "site": "tmdb",
         "id": "tv/12501/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "1501"
+      },
+      {
+        "site": "anidb",
+        "id": "3120"
+      },
+      {
+        "site": "aniList",
+        "id": "1501"
       }
     ]
   },

@@ -94,6 +94,14 @@
       {
         "site": "anidb",
         "id": "1453"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼太郎"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼太郎"
       }
     ]
   },
@@ -268,6 +276,39 @@
       {
         "site": "tmdb",
         "id": "movie/529667"
+      }
+    ]
+  },
+  {
+    "title": "妖精フローレンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精芙罗伦丝"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-10-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "307259"
+      },
+      {
+        "site": "mal",
+        "id": "4943"
+      },
+      {
+        "site": "anidb",
+        "id": "5479"
+      },
+      {
+        "site": "aniList",
+        "id": "4943"
       }
     ]
   }

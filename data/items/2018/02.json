@@ -63,6 +63,14 @@
       {
         "site": "aniList",
         "id": "100661"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -298,15 +306,16 @@
         "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "OQ3OkN24meQu",
-        "url": "https://www.disneyplus.com/movies/code-geass-lelouch-of-the-rebellion-ii-transgression/OQ3OkN24meQu",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/477777"
+      },
+      {
+        "site": "mal",
+        "id": "34439"
+      },
+      {
+        "site": "aniList",
+        "id": "101812"
       }
     ]
   },
@@ -403,13 +412,6 @@
         "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "e7WHRFTU9pwz",
-        "url": "https://www.disneyplus.com/movies/macross-delta-passionate-walkure/e7WHRFTU9pwz",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "1661"
       },
@@ -428,6 +430,55 @@
       {
         "site": "aniList",
         "id": "101126"
+      }
+    ]
+  },
+  {
+    "title": "アイドリッシュセブン Vibrato",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IDOLiSH7 Vibrato"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://idolish7.com/aninana/",
+    "begin": "2018-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-03-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238027"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aninana_vibrato",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0308925",
+        "begin": "2026-07-28T15:00:00.000Z",
+        "broadcast": "R/2026-07-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "36963"
+      },
+      {
+        "site": "aniList",
+        "id": "101169"
+      },
+      {
+        "site": "anidb",
+        "id": "14543"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/117534"
       }
     ]
   }

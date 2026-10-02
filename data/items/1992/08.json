@@ -273,5 +273,122 @@
         "id": "6070"
       }
     ]
+  },
+  {
+    "title": "楽しいムーミン一家 ムーミン谷の彗星",
+    "titleTranslate": {
+      "zh-Hans": [
+        "姆明一族 姆明谷的彗星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-08-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-08-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "171034"
+      },
+      {
+        "site": "mal",
+        "id": "2313"
+      },
+      {
+        "site": "anidb",
+        "id": "3570"
+      },
+      {
+        "site": "aniList",
+        "id": "2313"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/70089"
+      }
+    ]
+  },
+  {
+    "title": "トトイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "托托伊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-08-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "114309"
+      },
+      {
+        "site": "mal",
+        "id": "5535"
+      },
+      {
+        "site": "anidb",
+        "id": "5436"
+      },
+      {
+        "site": "aniList",
+        "id": "5535"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/345380"
+      }
+    ]
+  },
+  {
+    "title": "カメレオン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "变色龙"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-03-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161771"
+      },
+      {
+        "site": "danime",
+        "id": "29199",
+        "begin": "2026-08-31T15:00:00.000Z",
+        "broadcast": "R/2026-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "5353"
+      },
+      {
+        "site": "aniList",
+        "id": "5353"
+      },
+      {
+        "site": "anidb",
+        "id": "2779"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/202646"
+      }
+    ]
   }
 ]

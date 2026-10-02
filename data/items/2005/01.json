@@ -62,6 +62,12 @@
       {
         "site": "aniList",
         "id": "157"
+      },
+      {
+        "site": "abema",
+        "id": "115-134",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -697,6 +703,12 @@
       {
         "site": "aniList",
         "id": "485"
+      },
+      {
+        "site": "unext",
+        "id": "SID0311772",
+        "begin": "2026-09-01T15:00:00.000Z",
+        "broadcast": "R/2026-09-01T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1039,6 +1051,18 @@
       {
         "site": "tmdb",
         "id": "movie/408973"
+      },
+      {
+        "site": "mal",
+        "id": "814"
+      },
+      {
+        "site": "anidb",
+        "id": "8344"
+      },
+      {
+        "site": "aniList",
+        "id": "814"
       }
     ]
   },
@@ -1072,6 +1096,39 @@
       {
         "site": "tmdb",
         "id": "tv/45492"
+      }
+    ]
+  },
+  {
+    "title": "ハードル",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-01-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-01-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220046"
+      },
+      {
+        "site": "mal",
+        "id": "16776"
+      },
+      {
+        "site": "anidb",
+        "id": "3307"
+      },
+      {
+        "site": "aniList",
+        "id": "16776"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1366381"
       }
     ]
   }

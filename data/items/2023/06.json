@@ -76,8 +76,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqYGkaq7fR0DpB6osiuNlYu",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-02-03T11:00:06.000Z",
+        "broadcast": "R/2025-02-03T11:00:06.000Z/P7D"
       },
       {
         "site": "prime",
@@ -100,6 +100,16 @@
       {
         "site": "aniList",
         "id": "163571"
+      },
+      {
+        "site": "abema",
+        "id": "244-6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "MyGO"
       }
     ]
   },
@@ -195,6 +205,10 @@
       {
         "site": "aniList",
         "id": "151513"
+      },
+      {
+        "site": "acgnx",
+        "id": "幻日 夜羽"
       }
     ]
   },
@@ -346,6 +360,18 @@
       {
         "site": "tmdb",
         "id": "movie/1155647"
+      },
+      {
+        "site": "mal",
+        "id": "39905"
+      },
+      {
+        "site": "anidb",
+        "id": "14938"
+      },
+      {
+        "site": "aniList",
+        "id": "109821"
       }
     ]
   },
@@ -485,8 +511,8 @@
       {
         "site": "netflix",
         "id": "81765074",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-24T16:00:00.000Z",
+        "broadcast": "R/2024-07-24T16:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -505,13 +531,6 @@
         "id": "28051",
         "begin": "2025-06-19T15:00:00.000Z",
         "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "NuDRSHJePOK8",
-        "url": "https://www.disneyplus.com/movies/rascal-does-not-dream-of-a-sister-venturing-out/NuDRSHJePOK8",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -614,6 +633,12 @@
       {
         "site": "aniList",
         "id": "162993"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099225",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -704,6 +729,18 @@
       {
         "site": "tmdb",
         "id": "movie/1142115"
+      },
+      {
+        "site": "mal",
+        "id": "54135"
+      },
+      {
+        "site": "anidb",
+        "id": "17810"
+      },
+      {
+        "site": "aniList",
+        "id": "175152"
       }
     ]
   },
@@ -743,6 +780,18 @@
       {
         "site": "tmdb",
         "id": "movie/968868"
+      },
+      {
+        "site": "mal",
+        "id": "51716"
+      },
+      {
+        "site": "anidb",
+        "id": "17343"
+      },
+      {
+        "site": "aniList",
+        "id": "148149"
       }
     ]
   },
@@ -782,6 +831,18 @@
       {
         "site": "tmdb",
         "id": "movie/968870"
+      },
+      {
+        "site": "mal",
+        "id": "51716"
+      },
+      {
+        "site": "anidb",
+        "id": "17343"
+      },
+      {
+        "site": "aniList",
+        "id": "148149"
       }
     ]
   }

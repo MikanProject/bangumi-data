@@ -900,6 +900,12 @@
       {
         "site": "aniList",
         "id": "1526"
+      },
+      {
+        "site": "abema",
+        "id": "746-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -936,6 +942,18 @@
       {
         "site": "tmdb",
         "id": "movie/665578"
+      },
+      {
+        "site": "mal",
+        "id": "5844"
+      },
+      {
+        "site": "anidb",
+        "id": "4553"
+      },
+      {
+        "site": "aniList",
+        "id": "5844"
       }
     ]
   },
@@ -1094,8 +1112,8 @@
       {
         "site": "netflix",
         "id": "81719798",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-09-17T16:00:00.000Z",
+        "broadcast": "R/2025-09-17T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

@@ -185,6 +185,18 @@
       {
         "site": "aniList",
         "id": "1441"
+      },
+      {
+        "site": "danime",
+        "id": "29200",
+        "begin": "2026-09-03T15:00:00.000Z",
+        "broadcast": "R/2026-09-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0315397",
+        "begin": "2026-09-03T15:00:00.000Z",
+        "broadcast": "R/2026-09-03T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -325,6 +337,12 @@
       {
         "site": "aniList",
         "id": "2268"
+      },
+      {
+        "site": "abema",
+        "id": "118-2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -364,6 +382,47 @@
       {
         "site": "anidb",
         "id": "9847"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1300685"
+      }
+    ]
+  },
+  {
+    "title": "キャプテン翼 ヨーロッパ大決戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "足球小将:欧洲大决战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-07-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312253"
+      },
+      {
+        "site": "mal",
+        "id": "2118"
+      },
+      {
+        "site": "anidb",
+        "id": "2337"
+      },
+      {
+        "site": "aniList",
+        "id": "2118"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25707/season/0"
       }
     ]
   }

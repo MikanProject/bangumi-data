@@ -159,12 +159,6 @@
         "broadcast": "R/2019-07-15T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-11",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "1131"
       },
@@ -456,13 +450,6 @@
         "broadcast": ""
       },
       {
-        "site": "disneyplus",
-        "id": "4ev2b2lIvNUI",
-        "url": "https://www.disneyplus.com/movies/your-name/4ev2b2lIvNUI",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/372058"
       },
@@ -665,6 +652,43 @@
       {
         "site": "aniList",
         "id": "98092"
+      }
+    ]
+  },
+  {
+    "title": "ルドルフとイッパイアッテナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑猫鲁道夫"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://rudolf-ippaiattena.com/",
+    "begin": "2016-08-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "142263"
+      },
+      {
+        "site": "mal",
+        "id": "31373"
+      },
+      {
+        "site": "anidb",
+        "id": "11467"
+      },
+      {
+        "site": "aniList",
+        "id": "102058"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/429005"
       }
     ]
   }

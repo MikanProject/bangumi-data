@@ -88,7 +88,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/57706"
+        "id": "tv/57706/season/1/episode/19"
       },
       {
         "site": "anidb",
@@ -97,6 +97,10 @@
       {
         "site": "aniList",
         "id": "149939"
+      },
+      {
+        "site": "mal",
+        "id": "418"
       }
     ]
   },
@@ -714,6 +718,43 @@
       {
         "site": "aniList",
         "id": "2569"
+      }
+    ]
+  },
+  {
+    "title": "ギャラガ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "惑星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-10-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-10-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89688"
+      },
+      {
+        "site": "mal",
+        "id": "1833"
+      },
+      {
+        "site": "anidb",
+        "id": "2457"
+      },
+      {
+        "site": "aniList",
+        "id": "1833"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/411063"
       }
     ]
   }

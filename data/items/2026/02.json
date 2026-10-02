@@ -13,8 +13,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
-    "begin": "2026-01-31T16:00:00.000Z",
-    "broadcast": "R/2026-01-31T16:00:00.000Z/P7D",
+    "begin": "2026-01-31T23:30:00.000Z",
+    "broadcast": "R/2026-01-31T23:30:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
@@ -71,6 +71,18 @@
       {
         "site": "mikan",
         "id": "3883"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "anibt",
+        "id": "611077"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -154,6 +166,10 @@
       {
         "site": "tmdb",
         "id": "tv/255492/season/0"
+      },
+      {
+        "site": "anibt",
+        "id": "524128"
       }
     ]
   },
@@ -205,6 +221,10 @@
       {
         "site": "anidb",
         "id": "19884"
+      },
+      {
+        "site": "anibt",
+        "id": "540453"
       }
     ]
   },
@@ -248,6 +268,22 @@
       {
         "site": "anidb",
         "id": "18579"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/300054"
+      },
+      {
+        "site": "acgnx",
+        "id": "刃牙道"
+      },
+      {
+        "site": "anibt",
+        "id": "487716"
+      },
+      {
+        "site": "dmhy",
+        "id": "刃牙道"
       }
     ]
   },
@@ -275,6 +311,14 @@
         "id": "SID0301475",
         "begin": "2026-05-25T15:00:00.000Z",
         "broadcast": "R/2026-05-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1638697"
+      },
+      {
+        "site": "anibt",
+        "id": "473415"
       }
     ]
   },
@@ -320,6 +364,14 @@
       {
         "site": "anidb",
         "id": "19807"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1598785"
+      },
+      {
+        "site": "anibt",
+        "id": "586102"
       }
     ]
   },
@@ -328,6 +380,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 关于我转生变成史莱姆这档事 苍海之泪篇"
+      ],
+      "zh-Hant": [
+        "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"
       ]
     },
     "type": "movie",
@@ -347,6 +402,182 @@
         "id": "SID0307489",
         "begin": "2026-06-25T15:00:00.000Z",
         "broadcast": "R/2026-06-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "143537",
+        "begin": "2026-06-30T16:00:00.000Z",
+        "broadcast": "R/2026-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "59971"
+      },
+      {
+        "site": "aniList",
+        "id": "182206"
+      },
+      {
+        "site": "anidb",
+        "id": "18885"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363974"
+      },
+      {
+        "site": "mikan",
+        "id": "3973"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143537",
+        "begin": "2026-07-21T16:00:00.000Z",
+        "broadcast": "R/2026-07-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura_movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "515595"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 僕の心のヤバイやつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我心里危险的东西"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bokuyaba-anime-movie.com/",
+    "begin": "2026-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515869"
+      },
+      {
+        "site": "mikan",
+        "id": "4051"
+      },
+      {
+        "site": "mal",
+        "id": "59985"
+      },
+      {
+        "site": "aniList",
+        "id": "182317"
+      },
+      {
+        "site": "anidb",
+        "id": "18890"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363979"
+      },
+      {
+        "site": "anibt",
+        "id": "515869"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦:新・大雄的海底鬼岩城"
+      ],
+      "en": [
+        "Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2026/",
+    "begin": "2026-02-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "583519"
+      },
+      {
+        "site": "mal",
+        "id": "62508"
+      },
+      {
+        "site": "aniList",
+        "id": "198368"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1542261"
+      },
+      {
+        "site": "mikan",
+        "id": "4053"
+      },
+      {
+        "site": "anibt",
+        "id": "583519"
+      }
+    ]
+  },
+  {
+    "title": "新劇場版 銀魂 -吉原大炎上-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新剧场版 银魂 -吉原大炎上-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://wwws.warnerbros.co.jp/shingintamamovie/",
+    "begin": "2026-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-12T18:04:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "578766"
+      },
+      {
+        "site": "mikan",
+        "id": "4054"
+      },
+      {
+        "site": "mal",
+        "id": "62277"
+      },
+      {
+        "site": "aniList",
+        "id": "197474"
+      },
+      {
+        "site": "anidb",
+        "id": "19528"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1530941"
+      },
+      {
+        "site": "anibt",
+        "id": "578766"
       }
     ]
   }

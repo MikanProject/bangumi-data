@@ -164,8 +164,8 @@
       {
         "site": "netflix",
         "id": "80150793",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-13T16:00:00.000Z",
+        "broadcast": "R/2025-07-13T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -520,6 +520,18 @@
       {
         "site": "tmdb",
         "id": "movie/37433"
+      },
+      {
+        "site": "mal",
+        "id": "1951"
+      },
+      {
+        "site": "anidb",
+        "id": "713"
+      },
+      {
+        "site": "aniList",
+        "id": "1951"
       }
     ]
   },
@@ -744,6 +756,39 @@
       {
         "site": "aniList",
         "id": "2754"
+      }
+    ]
+  },
+  {
+    "title": "変幻退魔夜行 カルラ舞う! 奈良怨霊絵巻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "变幻退魔夜行 奈良怨灵绘卷"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-04-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78059"
+      },
+      {
+        "site": "mal",
+        "id": "3178"
+      },
+      {
+        "site": "anidb",
+        "id": "4316"
+      },
+      {
+        "site": "aniList",
+        "id": "3178"
       }
     ]
   }

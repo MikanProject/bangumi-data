@@ -21,6 +21,18 @@
       {
         "site": "tmdb",
         "id": "tv/42858/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "653"
+      },
+      {
+        "site": "anidb",
+        "id": "260"
+      },
+      {
+        "site": "aniList",
+        "id": "653"
       }
     ]
   },
@@ -275,6 +287,22 @@
         "id": "15-12",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY9PJ5KWR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0GVLFPWVH",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "火影忍者"
       }
     ]
   },
@@ -867,10 +895,26 @@
         "id": "118797"
       },
       {
+        "site": "tmdb",
+        "id": "tv/224094"
+      },
+      {
         "site": "unext",
         "id": "SID0043569",
         "begin": "2019-10-07T03:00:00.000Z",
         "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3516"
+      },
+      {
+        "site": "anidb",
+        "id": "5067"
+      },
+      {
+        "site": "aniList",
+        "id": "3516"
       }
     ]
   },
